@@ -12,6 +12,7 @@ Articles per month:
 ### 2026
 
 #### January (15 articles)
+- [Synthesis 2026-01](synthesis/2026-01.md)
 - [Hello, Computer.](src/2026-01/hello-computer.md)
 - [18 Predictions for 2026](src/2026-01/18-predictions-for-2026.md)
 - [China's Zhipu Rolls Out AI Model Trained on Huawei Chips](src/2026-01/chinas-zhipu-rolls-ai-model-trained-huawei-chips.md)
