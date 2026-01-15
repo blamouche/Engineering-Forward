@@ -5,13 +5,16 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████ 17
+2026-01 | ██████████████████ 18
 
 ## Articles
 
 ### 2026
 
-#### January (17 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (20 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Agent Design Patterns](src/2026-01/agent-design-patterns.md)
+- [Agent-Native Architectures: How to Build Apps After the End of Code](src/2026-01/agent-native-architectures-how-to-build-apps-after-the-end-of-code.md)
+- [Demystifying Evals for AI Agents](src/2026-01/demystifying-evals-for-ai-agents.md)
 - [Vibe Check: Claude Cowork Is Claude Code for the Rest of Us](src/2026-01/vibe-check-claude-cowork-is-claude-code-for-the-rest-of-us.md)
 - [How Simple Semantics Increased Our AI Citations by 642%](src/2026-01/how-simple-semantics-increased-our-ai-citations-by-642.md)
 - [Hello, Computer.](src/2026-01/hello-computer.md)
