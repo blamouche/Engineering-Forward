@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████ 12
+2026-01 | █████████████ 13
 
 ## Articles
 
 ### 2026
 
-#### January (12 articles)
+#### January (13 articles)
+- [China's Zhipu Rolls Out AI Model Trained on Huawei Chips](src/2026-01/chinas-zhipu-rolls-ai-model-trained-huawei-chips.md)
 - [The Danger of Borrowed AI Certainty](src/2026-01/the-danger-of-borrowed-ai-certainty.md)
 - [Engram: How DeepSeek Added a Second Brain to LLM](src/2026-01/engram-how-deepseek-added-second-brain-to-llm.md)
 - [Vibe Coding Without System Design is a Trap](src/2026-01/vibe-coding-without-system-design-is-a-trap.md)
