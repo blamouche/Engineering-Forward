@@ -110,6 +110,7 @@ When the user provides a month `YYYY-MM`:
    - Stay factual and editorial
    - Write in English
    - Focus on engineering, technical implications and futur of work
+   - Avoid superlatives and demonstrative words (amazing, incredible, groundbreaking, revolutionary, game-changing, etc.) - keep the tone neutral, factual, and straight to the point
 
 ## Notes
 
