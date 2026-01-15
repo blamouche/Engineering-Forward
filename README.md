@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████ 26
+2026-01 | ███████████████████████████ 27
 
 ## Articles
 
 ### 2026
 
-#### January (26 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (27 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Recursive Language Models](src/2026-01/recursive-language-models.md)
 - [I Asked Claude the Question I Could Never Ask My Boss](src/2026-01/i-asked-claude-the-question-i-could-never-ask-my-boss.md)
 - [When AI Writes Almost All Code, What Happens to Software Engineering?](src/2026-01/when-ai-writes-almost-all-code-what-happens-to-software-engineering.md)
 - [Comment l'IA réinvente le rôle des jeunes développeurs](src/2026-01/comment-lia-reinvente-le-role-des-jeunes-developpeurs.md)
