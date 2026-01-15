@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+
+# temporary / logs
+*.tmp
+*.log
+
+# exports / build artifacts
+*.pdf
+*.html
+*.docx
+*.odt
+build/
+dist/
+newsletter/
