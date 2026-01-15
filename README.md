@@ -5,14 +5,15 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████ 15
+2026-01 | █████████████████ 17
 
 ## Articles
 
 ### 2026
 
-#### January (15 articles)
-- [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (17 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Vibe Check: Claude Cowork Is Claude Code for the Rest of Us](src/2026-01/vibe-check-claude-cowork-is-claude-code-for-the-rest-of-us.md)
+- [How Simple Semantics Increased Our AI Citations by 642%](src/2026-01/how-simple-semantics-increased-our-ai-citations-by-642.md)
 - [Hello, Computer.](src/2026-01/hello-computer.md)
 - [18 Predictions for 2026](src/2026-01/18-predictions-for-2026.md)
 - [China's Zhipu Rolls Out AI Model Trained on Huawei Chips](src/2026-01/chinas-zhipu-rolls-ai-model-trained-huawei-chips.md)
