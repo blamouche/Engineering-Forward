@@ -1,8 +1,13 @@
 # Cowork: Claude Code for the rest of your work
 
+**Source**: https://claude.com/blog/cowork-research-preview
 **Date**: January 12, 2026
 **Author**: Anthropic
 **Keywords**: Cowork, Claude Code, AI agents, file management, document creation, macOS, Claude Max, automation, research preview
+
+## Elevator pitch
+
+Anthropic launches Cowork, extending Claude Code's autonomous file management capabilities to non-developers through a research preview that lets users delegate organizational tasks like sorting files and creating documents.
 
 ## Takeaways
 

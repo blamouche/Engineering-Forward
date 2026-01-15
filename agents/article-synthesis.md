@@ -30,9 +30,14 @@ When the user provides a URL:
 ```markdown
 # [Article Title]
 
+**Source**: [URL of the original article]
 **Date**: [Publication date of the article]
 **Author**: [Author name]
 **Keywords**: [Comma-separated keywords]
+
+## Elevator pitch
+
+[One sentence summary capturing the essence of the article]
 
 ## Takeaways
 
@@ -47,11 +52,35 @@ When the user provides a URL:
 [A 500-word synthesis of the article covering the main arguments, key insights, and conclusions]
 ```
 
+5. **Update the README.md** at the root of the project:
+   - Add a link to the newly created file
+   - Organize links by year and month in descending order (most recent first)
+   - Use this format:
+
+```markdown
+## Articles
+
+### 2026
+
+#### January
+- [Article Title](src/2026-01/article-slug.md)
+
+#### February
+- [Another Article](src/2026-02/another-article.md)
+
+### 2025
+
+#### December
+- [Old Article](src/2025-12/old-article.md)
+```
+
 ## Example
 
 Input: `/article-synthesis https://example.com/article-about-ai`
 
-Output: Creates file `src/2026-01/article-about-ai.md` with the synthesis content.
+Output:
+1. Creates file `src/2026-01/article-about-ai.md` with the synthesis content
+2. Updates `README.md` with a link to the new file under the appropriate year/month section
 
 ## Notes
 
@@ -59,3 +88,5 @@ Output: Creates file `src/2026-01/article-about-ai.md` with the synthesis conten
 - Keywords should be inferred from the content if not explicitly provided
 - The synthesis should be objective and capture the essence of the article
 - Create the `src/YYYY-MM/` directory if it doesn't exist
+- Create the README.md if it doesn't exist
+- When adding to README, maintain chronological order (newest first)
