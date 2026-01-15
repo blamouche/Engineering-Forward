@@ -1,6 +1,9 @@
 # Newsletter Agent
 
-This agent generates a monthly newsletter file containing the 10 most recent articles and a summary of the current month's content.
+This agent generates a monthly newsletter file containing three sections:
+1. The 10 most recent articles from lamouche.fr/notebook
+2. A synthesis of all technical watch articles from the current month
+3. A "We're Watching" selection of 5 highlighted articles
 
 ## Usage
 
@@ -12,67 +15,107 @@ This agent generates a monthly newsletter file containing the 10 most recent art
 
 When the user provides a month `YYYY-MM`:
 
-1. **Read the README.md** to get the list of articles:
-   - Extract all article entries from the README
-   - Take the first 10 articles from the list (most recent)
+### Section 1: Latest Articles from lamouche.fr/notebook
 
-2. **For each of the 10 articles**:
-   - Read the corresponding Markdown file in `src/YYYY-MM/`
+1. **Fetch the website** https://lamouche.fr/notebook/:
+   - Use WebFetch to retrieve the page content
+   - Extract the 10 most recent articles with their titles and URLs
+   - These are blog posts from the notebook, not the technical watch articles
+
+2. **For each article from the website**:
+   - Extract the article title
+   - Extract the article URL (full URL from lamouche.fr/notebook/posts/...)
+   - Note the publication date if available
+
+### Section 2: Technical Watch Synthesis
+
+3. **Read ALL articles from the current month** (`YYYY-MM`):
+   - List all Markdown files in `src/YYYY-MM/`
+   - If the folder does not exist or is empty, report it and stop
+
+4. **For each article in `src/YYYY-MM/`**:
+   - Read the corresponding Markdown file
    - Extract:
      - Title (line `# ...`)
      - Source link (line `**Source**: ...`)
      - Elevator pitch (section `## Elevator pitch`)
+     - Key takeaways (section `## Takeaways`)
 
-3. **Read all articles from the current month** (`YYYY-MM`):
-   - List all Markdown files in `src/YYYY-MM/`
-   - If the folder does not exist or is empty, report it and stop
-   - Extract key information from each article:
-     - Title
-     - Elevator pitch
-     - Takeaways
-     - Main synthesis points
+5. **Write a synthesis** (2-3 paragraphs) based on ALL articles from the month:
+   - Identify the main themes and trends
+   - Highlight important developments
+   - Focus on practical implications for engineers
 
-4. **Create the newsletter file**:
+### Section 3: We're Watching
+
+6. **Select 5 articles** from the current month's technical watch:
+   - Choose the most impactful or interesting articles
+   - For each article, use the elevator pitch as the description
+
+### Newsletter Generation
+
+7. **Create the newsletter file**:
    - Path: `newsletter/YYYY-MM.md`
    - Create the `newsletter/` folder if needed
 
-5. **Write the newsletter** with this exact structure:
+8. **Write the newsletter** with this exact structure:
 
 ```markdown
 # Newsletter YYYY-MM
 
-## Latest Articles
+## My latest articles from the notebook
 
-*The 10 most recent articles published on lamouche.fr/notebook:*
 
-1. **[Article Title](Source URL)**
-   Description from elevator pitch
+1. **[Article Title](https://lamouche.fr/notebook/posts/...)**
+   Brief description or publication date
 
-2. **[Article Title](Source URL)**
-   Description from elevator pitch
+2. **[Article Title](https://lamouche.fr/notebook/posts/...)**
+   Brief description or publication date
 
 [...continue for all 10 articles...]
 
-## Worth Knowing
+## What's hot today ?
 
-[2-3 paragraphs in English summarizing the key themes, trends, and insights from this month's articles. Focus on:
-- Main topics covered this month (AI agents, new tools, architectural patterns, etc.)
+[2-3 paragraphs in English synthesizing the key themes, trends, and insights from ALL articles of the current month. Focus on:
+- Main topics covered (AI agents, new tools, architectural patterns, etc.)
 - Important developments or announcements
 - Practical implications for engineers and developers
 - Emerging trends or shifts in the industry]
+
+## Worth watching
+
+
+1. Elevator pitch text describing the article.
+   [Link](Source URL)
+
+2. Elevator pitch text describing the article.
+   [Link](Source URL)
+
+3. Elevator pitch text describing the article.
+   [Link](Source URL)
+
+4. Elevator pitch text describing the article.
+   [Link](Source URL)
+
+5. Elevator pitch text describing the article.
+   [Link](Source URL)
 ```
 
-6. **Content guidelines**:
-   - Use article's **Source** URLs (not internal markdown paths)
-   - Elevator pitch provides the description
-   - "Worth Knowing" section should be concise (2-3 paragraphs)
+9. **Content guidelines**:
+   - Section 1 uses URLs from lamouche.fr/notebook (fetched via WebFetch)
+   - Section 2 synthesis is based on ALL articles from `src/YYYY-MM/`
+   - Section 3 uses **Source** URLs from the markdown files (external URLs, not internal paths)
+   - Elevator pitch provides the description for "We're Watching" articles
+   - Synthesis should be concise (2-3 paragraphs)
    - Stay factual and editorial
    - Write in English
-   - Focus on engineering and technical implications
+   - Focus on engineering, technical implications and futur of work
 
 ## Notes
 
-- If unable to read an article, skip it and note the error
-- Ensure all URLs are external source URLs, not internal paths
-- Keep descriptions concise (1-2 sentences from elevator pitch)
-- The "Worth Knowing" section should provide strategic insights about the month's content
+- If WebFetch fails, report the error and ask the user to retry
+- If unable to read a technical watch article, skip it and note the error
+- Ensure all URLs are correct: lamouche.fr URLs for Section 1, external source URLs for Sections 2 and 3
+- Keep descriptions concise
+- The synthesis should provide strategic insights based on ALL articles of the month
+- Select the 5 most impactful articles for the "We're Watching" section
