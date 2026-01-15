@@ -48,17 +48,17 @@ When the user provides a month `YYYY-MM`:
 
 6. **Update the README**:
    - Add a link to `synthesis/YYYY-MM.md` in the matching month section
-   - Keep chronological order (most recent first)
+   - Place the link near the month's name
    - Suggested format:
 
 ```markdown
-#### January (15 articles)
-- [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (15 articles) [Synthesis 2026-01](synthesis/2026-01.md)
 - [Article Title](src/2026-01/article.md)
 ```
 
 ## Notes
 
 - Stay factual and concise
+- Editorial style
 - Maximum 4 paragraphs for the summary
 - Prefer ASCII for file names
