@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████ 11
+2026-01 | ████████████ 12
 
 ## Articles
 
 ### 2026
 
-#### January (11 articles)
+#### January (12 articles)
+- [The Danger of Borrowed AI Certainty](src/2026-01/the-danger-of-borrowed-ai-certainty.md)
 - [Engram: How DeepSeek Added a Second Brain to LLM](src/2026-01/engram-how-deepseek-added-second-brain-to-llm.md)
 - [Vibe Coding Without System Design is a Trap](src/2026-01/vibe-coding-without-system-design-is-a-trap.md)
 - [The All-Star Chinese AI Conversation of 2026](src/2026-01/the-all-star-chinese-ai-conversation-of-2026.md)
