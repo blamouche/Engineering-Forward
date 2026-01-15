@@ -3,7 +3,7 @@
 This agent generates a monthly newsletter file containing three sections:
 1. The 10 most recent articles from lamouche.fr/notebook
 2. A synthesis of all technical watch articles from the current month
-3. A "We're Watching" selection of 5 highlighted articles
+3. A "We're Watching" selection of 10 highlighted articles
 
 ## Usage
 
@@ -46,9 +46,9 @@ When the user provides a month `YYYY-MM`:
    - Highlight important developments
    - Focus on practical implications for engineers
 
-### Section 3: We're Watching
+### Section 3: Worth watching
 
-6. **Select 5 articles** from the current month's technical watch:
+6. **Select 10 articles** from the current month's technical watch:
    - Choose the most impactful or interesting articles
    - For each article, use the elevator pitch as the description
 
@@ -63,16 +63,21 @@ When the user provides a month `YYYY-MM`:
 ```markdown
 # Newsletter YYYY-MM
 
+==intro text==
+
 ## My latest articles from the notebook
 
 
-1. **[Article Title](https://lamouche.fr/notebook/posts/...)**
-   Brief description or publication date
+**[Article Title](https://lamouche.fr/notebook/posts/...)**
+Brief description or publication date
 
-2. **[Article Title](https://lamouche.fr/notebook/posts/...)**
-   Brief description or publication date
+
+**[Article Title](https://lamouche.fr/notebook/posts/...)**
+Brief description or publication date
 
 [...continue for all 10 articles...]
+
+---
 
 ## What's hot today ?
 
@@ -82,23 +87,41 @@ When the user provides a month `YYYY-MM`:
 - Practical implications for engineers and developers
 - Emerging trends or shifts in the industry]
 
+---
+
 ## Worth watching
 
 
-1. Elevator pitch text describing the article.
-   [Link](Source URL)
+Elevator pitch text describing the article.
+[Link](Source URL)
 
-2. Elevator pitch text describing the article.
-   [Link](Source URL)
 
-3. Elevator pitch text describing the article.
-   [Link](Source URL)
+Elevator pitch text describing the article.
+[Link](Source URL)
 
-4. Elevator pitch text describing the article.
-   [Link](Source URL)
 
-5. Elevator pitch text describing the article.
-   [Link](Source URL)
+Elevator pitch text describing the article.
+[Link](Source URL)
+
+
+Elevator pitch text describing the article.
+[Link](Source URL)
+
+
+Elevator pitch text describing the article.
+[Link](Source URL)
+
+---
+
+## Cartography for noobs
+
+**🧭 Want to understand how maps really work?**
+
+This newsletter explains, step by step, the foundations of modern cartography: data, projections, use cases, and key challenges — simply, with no prior knowledge required.
+
+[Subscribe](https://subscribepage.io/ylAON7)
+
+
 ```
 
 9. **Content guidelines**:
