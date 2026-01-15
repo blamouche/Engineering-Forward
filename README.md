@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████ 10
+2026-01 | ███████████ 11
 
 ## Articles
 
 ### 2026
 
-#### January (10 articles)
+#### January (11 articles)
+- [Engram: How DeepSeek Added a Second Brain to LLM](src/2026-01/engram-how-deepseek-added-second-brain-to-llm.md)
 - [Vibe Coding Without System Design is a Trap](src/2026-01/vibe-coding-without-system-design-is-a-trap.md)
 - [The All-Star Chinese AI Conversation of 2026](src/2026-01/the-all-star-chinese-ai-conversation-of-2026.md)
 - [Qwen3-VL-Embedding](src/2026-01/qwen3-vl-embedding.md)
