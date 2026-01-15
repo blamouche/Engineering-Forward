@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████ 8
+2026-01 | █████████ 9
 
 ## Articles
 
 ### 2026
 
-#### January (8 articles)
+#### January (9 articles)
+- [The All-Star Chinese AI Conversation of 2026](src/2026-01/the-all-star-chinese-ai-conversation-of-2026.md)
 - [Qwen3-VL-Embedding](src/2026-01/qwen3-vl-embedding.md)
 - [Google Tests Gemini Auto Browse Tool for Chrome Users](src/2026-01/google-tests-gemini-auto-browse-tool-for-chrome-users.md)
 - [Gmail Is Entering the Gemini Era](src/2026-01/gmail-is-entering-the-gemini-era.md)
