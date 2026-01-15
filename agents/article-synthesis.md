@@ -77,7 +77,12 @@ When the user provides a URL:
 - [Old Article](src/2025-12/old-article.md)
 ```
 
-6. **Commit and push changes**:
+6. **Update statistics**:
+   - Call the `/stats` agent to update the statistics in the README.md
+   - This will add/update the statistics chart and article counts per month
+   - Wait for the stats agent to complete before proceeding to the next step
+
+7. **Commit and push changes**:
    - First, check if the local branch is up to date with the remote:
      - Run `git fetch origin` to get the latest remote state
      - Check if there are upstream changes with `git status`
@@ -93,7 +98,8 @@ Input: `/article-synthesis https://example.com/article-about-ai`
 Output:
 1. Creates file `src/2026-01/article-about-ai.md` with the synthesis content
 2. Updates `README.md` with a link to the new file under the appropriate year/month section
-3. Commits and pushes with message: `Add synthesis: Article About AI`
+3. Runs `/stats` to update the statistics chart and article counts
+4. Commits and pushes with message: `Add synthesis: Article About AI`
 
 ## Notes
 
