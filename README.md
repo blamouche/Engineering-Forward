@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████ 18
+2026-01 | █████████████████████ 21
 
 ## Articles
 
 ### 2026
 
-#### January (20 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (21 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [The AI Revolution Is Here. Will the Economy Notice?](src/2026-01/the-ai-revolution-is-here-will-the-economy-notice.md)
 - [Agent Design Patterns](src/2026-01/agent-design-patterns.md)
 - [Agent-Native Architectures: How to Build Apps After the End of Code](src/2026-01/agent-native-architectures-how-to-build-apps-after-the-end-of-code.md)
 - [Demystifying Evals for AI Agents](src/2026-01/demystifying-evals-for-ai-agents.md)
