@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████ 9
+2026-01 | ██████████ 10
 
 ## Articles
 
 ### 2026
 
-#### January (9 articles)
+#### January (10 articles)
+- [Vibe Coding Without System Design is a Trap](src/2026-01/vibe-coding-without-system-design-is-a-trap.md)
 - [The All-Star Chinese AI Conversation of 2026](src/2026-01/the-all-star-chinese-ai-conversation-of-2026.md)
 - [Qwen3-VL-Embedding](src/2026-01/qwen3-vl-embedding.md)
 - [Google Tests Gemini Auto Browse Tool for Chrome Users](src/2026-01/google-tests-gemini-auto-browse-tool-for-chrome-users.md)
