@@ -77,6 +77,11 @@ When the user provides a URL:
 - [Old Article](src/2025-12/old-article.md)
 ```
 
+6. **Commit and push changes**:
+   - Stage all changes (the new synthesis file and the updated README.md)
+   - Commit with a message following this format: `Add synthesis: [Article Title]`
+   - Push to the remote repository
+
 ## Example
 
 Input: `/article-synthesis https://example.com/article-about-ai`
@@ -84,6 +89,7 @@ Input: `/article-synthesis https://example.com/article-about-ai`
 Output:
 1. Creates file `src/2026-01/article-about-ai.md` with the synthesis content
 2. Updates `README.md` with a link to the new file under the appropriate year/month section
+3. Commits and pushes with message: `Add synthesis: Article About AI`
 
 ## Notes
 
