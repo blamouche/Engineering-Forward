@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████ 28
+2026-01 | █████████████████████████████ 29
 
 ## Articles
 
 ### 2026
 
-#### January (28 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (29 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Gemini Introduces Personal Intelligence](src/2026-01/gemini-introduces-personal-intelligence.md)
 - [5 métiers que l'intelligence artificielle va créer](src/2026-01/5-metiers-que-lintelligence-artificielle-va-creer.md)
 - [Recursive Language Models](src/2026-01/recursive-language-models.md)
 - [I Asked Claude the Question I Could Never Ask My Boss](src/2026-01/i-asked-claude-the-question-i-could-never-ask-my-boss.md)
