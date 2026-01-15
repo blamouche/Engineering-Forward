@@ -31,8 +31,11 @@ When the user provides a URL:
 # [Article Title]
 
 **Source**: [URL of the original article]
+
 **Date**: [Publication date of the article]
+
 **Author**: [Author name]
+
 **Keywords**: [Comma-separated keywords]
 
 ## Elevator pitch
