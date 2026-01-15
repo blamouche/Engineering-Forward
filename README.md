@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████ 22
+2026-01 | ███████████████████████ 23
 
 ## Articles
 
 ### 2026
 
-#### January (22 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (23 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [2026 sera l'année des plateformes agentiques](src/2026-01/2026-sera-lannee-des-plateformes-agentiques.md)
 - [Pour OpenAI, 2026 est l'année de tous les dangers](src/2026-01/pour-openai-2026-est-lannee-de-tous-les-dangers.md)
 - [The AI Revolution Is Here. Will the Economy Notice?](src/2026-01/the-ai-revolution-is-here-will-the-economy-notice.md)
 - [Agent Design Patterns](src/2026-01/agent-design-patterns.md)
