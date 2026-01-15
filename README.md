@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████ 29
+2026-01 | ██████████████████████████████ 30
 
 ## Articles
 
 ### 2026
 
-#### January (29 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (30 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Building MCP servers in the real world](src/2026-01/building-mcp-servers-in-the-real-world.md)
 - [Gemini Introduces Personal Intelligence](src/2026-01/gemini-introduces-personal-intelligence.md)
 - [5 métiers que l'intelligence artificielle va créer](src/2026-01/5-metiers-que-lintelligence-artificielle-va-creer.md)
 - [Recursive Language Models](src/2026-01/recursive-language-models.md)
