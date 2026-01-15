@@ -5,7 +5,7 @@ This agent calculates and displays statistics about articles in the README.
 ## Usage
 
 ```
-/stats
+/stats-agent
 ```
 
 ## Instructions
@@ -53,11 +53,11 @@ Articles per month:
    - Stage the updated README.md
    - Commit with message: `Update statistics`
    - Push to the remote repository
-   - **Note**: When called from `/article-synthesis`, skip this step as the parent agent will handle the commit
+   - **Note**: When called from `/article-synthesis-agent`, skip this step as the parent agent will handle the commit
 
 ## Example
 
-Before running `/stats`:
+Before running `/stats-agent-agent`:
 
 ```markdown
 # Engineering-Forward
@@ -73,7 +73,7 @@ Technical watch for engineering
 - [Article 3](src/2026-01/article-3.md)
 ```
 
-After running `/stats`:
+After running `/stats-agent-agent`:
 
 ```markdown
 # Engineering-Forward

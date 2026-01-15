@@ -5,7 +5,7 @@ This agent takes a URL as input and creates a synthesis note in a new markdown f
 ## Usage
 
 ```
-/article-synthesis <url>
+/article-synthesis-agent <url>
 ```
 
 ## Instructions
@@ -78,7 +78,7 @@ When the user provides a URL:
 ```
 
 6. **Update statistics**:
-   - Call the `/stats` agent to update the statistics in the README.md
+   - Call the `/stats-agent` agent to update the statistics in the README.md
    - This will add/update the statistics chart and article counts per month
    - Wait for the stats agent to complete before proceeding to the next step
 
@@ -93,12 +93,12 @@ When the user provides a URL:
 
 ## Example
 
-Input: `/article-synthesis https://example.com/article-about-ai`
+Input: `/article-synthesis-agent https://example.com/article-about-ai`
 
 Output:
 1. Creates file `src/2026-01/article-about-ai.md` with the synthesis content
 2. Updates `README.md` with a link to the new file under the appropriate year/month section
-3. Runs `/stats` to update the statistics chart and article counts
+3. Runs `/stats-agent` to update the statistics chart and article counts
 4. Commits and pushes with message: `Add synthesis: Article About AI`
 
 ## Notes
