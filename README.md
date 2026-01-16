@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████ 32
+2026-01 | █████████████████████████████████ 33
 
 ## Articles
 
 ### 2026
 
-#### January (32 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (33 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [AI Can Build Anything. Social Dandelions Decide What Spreads.](src/2026-01/ai-can-build-anything-social-dandelions-decide-what-spreads.md)
 - [How to write a great agents.md: Lessons from over 2,500 repositories](src/2026-01/how-to-write-a-great-agents-md.md)
 - [The Hater's Guide To NVIDIA](src/2026-01/the-haters-guide-to-nvidia.md)
 - [Building MCP servers in the real world](src/2026-01/building-mcp-servers-in-the-real-world.md)
