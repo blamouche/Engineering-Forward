@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████████████████████████ 35
+2026-01 | ████████████████████████████████████ 36
 
 ## Articles
 
 ### 2026
 
-#### January (35 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (36 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Why Senior Engineers Let Bad Projects Fail](src/2026-01/why-senior-engineers-let-bad-projects-fail.md)
 - [Using AI as a Design Engineer](src/2026-01/using-ai-as-a-design-engineer.md)
 - [Morphing Icons with Claude](src/2026-01/morphing-icons-with-claude.md)
 - [AI Can Build Anything. Social Dandelions Decide What Spreads.](src/2026-01/ai-can-build-anything-social-dandelions-decide-what-spreads.md)
