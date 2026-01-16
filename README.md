@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████ 37
+2026-01 | ██████████████████████████████████████ 38
 
 ## Articles
 
 ### 2026
 
-#### January (37 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (38 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Beyond Senior: Consider the staff path!](src/2026-01/beyond-senior-consider-the-staff-path.md)
 - [The SaaS Selloff: AI and Interest Rates](src/2026-01/the-saas-selloff-ai-and-interest-rates.md)
 - [Why Senior Engineers Let Bad Projects Fail](src/2026-01/why-senior-engineers-let-bad-projects-fail.md)
 - [Using AI as a Design Engineer](src/2026-01/using-ai-as-a-design-engineer.md)
