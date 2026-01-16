@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████ 34
+2026-01 | ███████████████████████████████████ 35
 
 ## Articles
 
 ### 2026
 
-#### January (34 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (35 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Using AI as a Design Engineer](src/2026-01/using-ai-as-a-design-engineer.md)
 - [Morphing Icons with Claude](src/2026-01/morphing-icons-with-claude.md)
 - [AI Can Build Anything. Social Dandelions Decide What Spreads.](src/2026-01/ai-can-build-anything-social-dandelions-decide-what-spreads.md)
 - [How to write a great agents.md: Lessons from over 2,500 repositories](src/2026-01/how-to-write-a-great-agents-md.md)
