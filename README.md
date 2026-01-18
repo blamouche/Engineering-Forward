@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████████ 41
+2026-01 | ██████████████████████████████████████████ 42
 
 ## Articles
 
 ### 2026
 
-#### January (41 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (42 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Anthropic Economic Index: January 2026 Report](src/2026-01/anthropic-economic-index-january-2026-report.md)
 - [Context is the New Moat](src/2026-01/context-is-the-new-moat.md)
 - [OpenAI Invests in Sam Altman's Brain Computer Interface Startup Merge Labs](src/2026-01/openai-invests-in-merge-labs-brain-computer-interface.md)
 - [Open Responses: Open-Source LLM Interface Specification](src/2026-01/open-responses-open-source-llm-interface-specification.md)
