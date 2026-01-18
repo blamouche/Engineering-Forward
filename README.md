@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████████████ 45
+2026-01 | ██████████████████████████████████████████████ 46
 
 ## Articles
 
 ### 2026
 
-#### January (45 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (46 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [AI and the Age of Individual Empowerment](src/2026-01/ai-and-the-age-of-individual-empowerment.md)
 - [OpenAI Has Some Catching Up to Do](src/2026-01/openai-has-some-catching-up-to-do.md)
 - [Claude Code Takes Pole Position](src/2026-01/claude-code-takes-pole-position.md)
 - [AI May Be Everywhere, But It's Nowhere in Recent Productivity Statistics](src/2026-01/ai-may-be-everywhere-but-nowhere-in-productivity-statistics.md)
