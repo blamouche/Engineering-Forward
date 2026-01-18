@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████████████ 44
+2026-01 | █████████████████████████████████████████████ 45
 
 ## Articles
 
 ### 2026
 
-#### January (44 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (45 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [OpenAI Has Some Catching Up to Do](src/2026-01/openai-has-some-catching-up-to-do.md)
 - [Claude Code Takes Pole Position](src/2026-01/claude-code-takes-pole-position.md)
 - [AI May Be Everywhere, But It's Nowhere in Recent Productivity Statistics](src/2026-01/ai-may-be-everywhere-but-nowhere-in-productivity-statistics.md)
 - [Anthropic Economic Index: January 2026 Report](src/2026-01/anthropic-economic-index-january-2026-report.md)
