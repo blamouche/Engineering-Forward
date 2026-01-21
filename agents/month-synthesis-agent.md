@@ -39,10 +39,17 @@ When the user provides a month `YYYY-MM`:
 - [Article title](Source URL)
 - [Article title](Source URL)
 - [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
+- [Article title](Source URL)
 ```
 
 5. **Select the links**:
-   - Pick 3 to 6 links from the month's articles
+   - Pick 10 links from the month's articles
    - Prioritize articles about working with AI, enterprise usage, organization, and skills to develop
    - Use the `**Source**` URLs from each article
 
