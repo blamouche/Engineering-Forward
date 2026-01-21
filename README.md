@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████ 52
+2026-01 | ███████████████████████████ 53
 
 ## Articles
 
 ### 2026
 
-#### January (52 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (53 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Anthropic Works on Knowledge Bases for Claude Cowork](src/2026-01/anthropic-works-on-knowledge-bases-for-claude-cowork.md)
 - [What AI Is Teaching Us About Management](src/2026-01/what-ai-is-teaching-us-about-management.md)
 - [The Product-Minded Engineer](src/2026-01/the-product-minded-engineer.md)
 - [Agentic AI and The Mythical Agent-Month](src/2026-01/agentic-ai-and-the-mythical-agent-month.md)
