@@ -24,16 +24,17 @@ When invoked, this agent updates the README.md with statistics:
    - Use this format:
 
 ```
-## 📊 Statistics
+## Statistics
 
 Articles per month:
 
-2026-01 | ████████████████ 5
+2026-01 | ████████ 46
 ```
 
-   - Each `█` represents one article
+   - Each `█` represents 2 articles (round up for odd numbers)
    - Show months in chronological order (oldest to newest)
    - Only show months that have articles
+   - Display the actual article count as a number at the end of each bar
 
 4. **Update month headers with counts**:
    - Add the article count next to each month name
@@ -79,11 +80,11 @@ After running `/stats-agent-agent`:
 # Engineering-Forward
 Technical watch for engineering
 
-## 📊 Statistics
+## Statistics
 
 Articles per month:
 
-2026-01 | ███ 3
+2026-01 | ██ 3
 
 ## Articles
 
@@ -97,7 +98,9 @@ Articles per month:
 
 ## Notes
 
-- The chart uses Unicode block characters (█) for visual representation
+- The chart uses Unicode block characters (█) for visual representation, with each block representing 2 articles
+- Round up when calculating blocks (e.g., 5 articles = 3 blocks)
+- Always display the actual article count as a number at the end of each bar
 - Months with 0 articles are not displayed in the chart
 - The Statistics section is always placed after the project title/description and before the Articles section
 - If a Statistics section already exists, update it rather than creating a duplicate
