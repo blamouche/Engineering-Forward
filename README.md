@@ -5,13 +5,15 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████ 48
+2026-01 | █████████████████████████ 50
 
 ## Articles
 
 ### 2026
 
-#### January (48 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (50 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Agentic AI and The Mythical Agent-Month](src/2026-01/agentic-ai-and-the-mythical-agent-month.md)
+- [The Agent Skills Directory](src/2026-01/the-agent-skills-directory.md)
 - [MCP, Skills, and Agents](src/2026-01/mcp-skills-and-agents.md)
 - [Building a Better Bugbot](src/2026-01/building-a-better-bugbot.md)
 - [AI and the Age of Individual Empowerment](src/2026-01/ai-and-the-age-of-individual-empowerment.md)
