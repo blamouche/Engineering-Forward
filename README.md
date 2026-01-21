@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████ 47
+2026-01 | ████████████████████████ 48
 
 ## Articles
 
 ### 2026
 
-#### January (47 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (48 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [MCP, Skills, and Agents](src/2026-01/mcp-skills-and-agents.md)
 - [Building a Better Bugbot](src/2026-01/building-a-better-bugbot.md)
 - [AI and the Age of Individual Empowerment](src/2026-01/ai-and-the-age-of-individual-empowerment.md)
 - [OpenAI Has Some Catching Up to Do](src/2026-01/openai-has-some-catching-up-to-do.md)
