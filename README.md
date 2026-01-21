@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████ 50
+2026-01 | ██████████████████████████ 51
 
 ## Articles
 
 ### 2026
 
-#### January (50 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (51 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [The Product-Minded Engineer](src/2026-01/the-product-minded-engineer.md)
 - [Agentic AI and The Mythical Agent-Month](src/2026-01/agentic-ai-and-the-mythical-agent-month.md)
 - [The Agent Skills Directory](src/2026-01/the-agent-skills-directory.md)
 - [MCP, Skills, and Agents](src/2026-01/mcp-skills-and-agents.md)
