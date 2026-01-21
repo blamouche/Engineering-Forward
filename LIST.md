@@ -1,1 +1,14 @@
-http://google.com
+https://cursor.com/blog/building-bugbot?utm_source=tldrai
+https://cra.mr/mcp-skills-and-agents/?utm_source=tldrnewsletter
+https://skills.sh/?utm_source=tldrnewsletter
+https://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html?utm_source=tldrnewsletter
+https://newsletter.pragmaticengineer.com/p/the-product-minded-engineer?publication_id=458709&post_id=185203050&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://every.to/also-true-for-humans/what-ai-is-teaching-us-about-management?metered_paywall=4&ph_email=b.lamouche%40gmail.com
+https://www.testingcatalog.com/anthropic-works-on-knowledge-bases-for-claude-cowork/?utm_source=tldrai
+https://www.anthropic.com/research/assistant-axis?utm_source=tldrai
+https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/?utm_source=tldrai
+https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html?utm_source=tldrai
+lennysnewsletter.com/p/chatgpt-apps-are-about-to-be-the?publication_id=10845&post_id=183079155&isFreemail=true&token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTgzMDc5MTU1LCJpYXQiOjE3Njg5MTY4ODAsImV4cCI6MTc3MTUwODg4MCwiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.aszpkDXNAqUbJQbzXoTckOTJmPop3Wmo5CS92C9yVgw&r=fhb7r&triedRedirect=true
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code?publication_id=10845&post_id=184588387&isFreemail=true&r=fhb7r&triedRedirect=true
+https://claude.com/blog/skills-explained
+https://code.claude.com/docs/en/sub-agents
