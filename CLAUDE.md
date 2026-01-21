@@ -38,14 +38,15 @@ Articles are processed through specialized agents that follow a specific workflo
 
 3. **Statistics update**: `/stats-agent`
    - Counts articles per month from README.md
-   - Generates ASCII bar chart
+   - Generates compact ASCII bar chart (each █ = 2 articles, rounded up)
    - Updates month headers with article counts
+   - Format: `2026-01 | ███████████████████████ 46`
    - When called directly (not from article-synthesis-agent), commits and pushes changes
 
 4. **Monthly synthesis**: `/month-synthesis-agent <YYYY-MM>`
    - Reads all articles from `src/YYYY-MM/`
    - Writes 2-4 paragraph trend analysis to `synthesis/YYYY-MM.md`
-   - Selects 3-6 key articles focused on working with AI
+   - Selects 10 key articles focused on working with AI
    - Updates README.md with synthesis link
 
 5. **Newsletter generation**: `/newsletter-agent <YYYY-MM>`
@@ -114,6 +115,8 @@ Every article synthesis follows this exact format:
 - Maintain chronological order in README.md (newest first)
 - LIST.md processes URLs top-to-bottom, removing each after completion
 - Stats agent is called automatically by article-synthesis-agent (no separate commit)
+- Statistics use compact rendering: each █ represents 2 articles (round up for odd numbers)
+- Monthly synthesis requires exactly 10 selected links
 - Newsletter folder is in .gitignore (not tracked)
 - Use WebFetch tool for retrieving article content
 - External source URLs (not internal file paths) are used in syntheses and newsletters
