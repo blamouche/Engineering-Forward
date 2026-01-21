@@ -1,4 +1,3 @@
-https://cursor.com/blog/building-bugbot?utm_source=tldrai
 https://cra.mr/mcp-skills-and-agents/?utm_source=tldrnewsletter
 https://skills.sh/?utm_source=tldrnewsletter
 https://muratbuffalo.blogspot.com/2026/01/agentic-ai-and-mythical-agent-month.html?utm_source=tldrnewsletter
