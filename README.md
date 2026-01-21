@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████████████████ 54
+2026-01 | ████████████████████████████ 55
 
 ## Articles
 
 ### 2026
 
-#### January (54 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (55 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning](src/2026-01/how-to-train-an-ai-agent-for-command-line-tasks.md)
 - [The Assistant Axis: Situating and Stabilizing LLM Character](src/2026-01/the-assistant-axis-situating-and-stabilizing-llm-character.md)
 - [Anthropic Works on Knowledge Bases for Claude Cowork](src/2026-01/anthropic-works-on-knowledge-bases-for-claude-cowork.md)
 - [What AI Is Teaching Us About Management](src/2026-01/what-ai-is-teaching-us-about-management.md)
