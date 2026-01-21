@@ -14,3 +14,6 @@ https://claude.com/blog/skills-explained
 https://code.claude.com/docs/en/sub-agents
 https://www.wsj.com/tech/ai/the-messy-human-drama-that-dealt-a-blow-to-one-of-ais-hottest-startups-b86d736a?st=DYdh8z&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrai
 https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying?utm_source=tldrai
+https://importai.substack.com/p/import-ai-441-my-agents-are-working?utm_source=tldrai
+https://weightythoughts.com/p/ai-gains-starting-to-show-in-the?utm_source=tldrai
+https://openai.com/index/our-approach-to-age-prediction/?utm_source=tldrai
