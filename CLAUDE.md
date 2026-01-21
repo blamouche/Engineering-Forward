@@ -31,25 +31,31 @@ Articles are processed through specialized agents that follow a specific workflo
    - Calls `/stats-agent` to update statistics
    - Commits and pushes with message: `Add synthesis: [Article Title]`
 
-2. **Batch processing**: `/list-agent`
+2. **Add URLs to queue**: `/list-add-agent <url1> [url2] [url3] ...`
+   - Syncs with remote repository (fetch, pull if needed)
+   - Adds one or more URLs to the end of LIST.md
+   - Each URL added on a new line
+   - Commits and pushes with message: `Add URL(s) to processing queue`
+
+3. **Batch processing**: `/list-agent`
    - Processes URLs from LIST.md sequentially (top to bottom)
    - Removes each URL from LIST.md after successful processing
    - LIST.md should be empty when complete
 
-3. **Statistics update**: `/stats-agent`
+4. **Statistics update**: `/stats-agent`
    - Counts articles per month from README.md
    - Generates compact ASCII bar chart (each █ = 2 articles, rounded up)
    - Updates month headers with article counts
    - Format: `2026-01 | ███████████████████████ 46`
    - When called directly (not from article-synthesis-agent), commits and pushes changes
 
-4. **Monthly synthesis**: `/month-synthesis-agent <YYYY-MM>`
+5. **Monthly synthesis**: `/month-synthesis-agent <YYYY-MM>`
    - Reads all articles from `src/YYYY-MM/`
    - Writes 2-4 paragraph trend analysis to `synthesis/YYYY-MM.md`
    - Selects 10 key articles focused on working with AI
    - Updates README.md with synthesis link
 
-5. **Newsletter generation**: `/newsletter-agent <YYYY-MM>`
+6. **Newsletter generation**: `/newsletter-agent <YYYY-MM>`
    - Section 1: Fetches 10 latest articles from lamouche.fr/notebook
    - Section 2: Synthesizes all technical watch articles from the month
    - Section 3: Highlights 10 impactful articles with elevator pitches
