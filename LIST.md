@@ -12,3 +12,4 @@ lennysnewsletter.com/p/chatgpt-apps-are-about-to-be-the?publication_id=10845&pos
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code?publication_id=10845&post_id=184588387&isFreemail=true&r=fhb7r&triedRedirect=true
 https://claude.com/blog/skills-explained
 https://code.claude.com/docs/en/sub-agents
+https://www.wsj.com/tech/ai/the-messy-human-drama-that-dealt-a-blow-to-one-of-ais-hottest-startups-b86d736a?st=DYdh8z&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrai
