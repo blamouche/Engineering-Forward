@@ -5,7 +5,7 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████████████████ 46
+2026-01 | ███████████████████████ 46
 
 ## Articles
 
