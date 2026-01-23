@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████ 57
+2026-01 | █████████████████████████████ 58
 
 ## Articles
 
 ### 2026
 
-#### January (57 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (58 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Claude Code for Product Managers](src/2026-01/claude-code-for-product-managers.md)
 - [ChatGPT Apps Are About to Be the Next Big Distribution Channel](src/2026-01/chatgpt-apps-are-about-to-be-the-next-big-distribution-channel.md)
 - [LLMs and Your Career](src/2026-01/llms-and-your-career.md)
 - [How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning](src/2026-01/how-to-train-an-ai-agent-for-command-line-tasks.md)
