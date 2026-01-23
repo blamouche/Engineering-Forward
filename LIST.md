@@ -7,3 +7,9 @@ https://importai.substack.com/p/import-ai-441-my-agents-are-working?utm_source=t
 https://weightythoughts.com/p/ai-gains-starting-to-show-in-the?utm_source=tldrai
 https://openai.com/index/our-approach-to-age-prediction/?utm_source=tldrai
 https://www.perplexity.ai/page/anthropic-ceo-warns-coding-cou-BZOQekokQciJa_0_czO3GQ
+https://github.com/github/copilot-sdk?utm_source=email-cli-sdk-repo-cta&utm_medium=email&utm_campaign=cli-sdk-jan-2026
+https://hbr.org/2026/01/why-people-create-ai-workslop-and-how-to-stop-it?utm_medium=email&utm_source=newsletter_various&utm_campaign=specialrec_&deliveryName=NL_HBRRecommends_20260122
+https://every.to/source-code/what-the-team-behind-cursor-knows-about-the-future-of-code?ph_email=b.lamouche%40gmail.com
+https://www.anthropic.com/news/claude-new-constitution?utm_source=tldrai
+https://thezvi.substack.com/p/claude-codes-3?utm_source=tldrai
+https://www.philschmid.de/mcp-best-practices?utm_source=tldrai
