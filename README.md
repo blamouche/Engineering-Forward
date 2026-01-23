@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████ 59
+2026-01 | ██████████████████████████████ 60
 
 ## Articles
 
 ### 2026
 
-#### January (59 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (60 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Create Custom Subagents in Claude Code](src/2026-01/create-custom-subagents-in-claude-code.md)
 - [Skills Explained: How Skills Compares to Prompts, Projects, MCP, and Subagents](src/2026-01/skills-explained-how-skills-compares-to-prompts-projects-mcp-and-subagents.md)
 - [Claude Code for Product Managers](src/2026-01/claude-code-for-product-managers.md)
 - [ChatGPT Apps Are About to Be the Next Big Distribution Channel](src/2026-01/chatgpt-apps-are-about-to-be-the-next-big-distribution-channel.md)
