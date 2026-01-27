@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████████ 78
+2026-01 | ████████████████████████████████████████ 79
 
 ## Articles
 
 ### 2026
 
-#### January (78 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (79 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [OpenAI to Add Shopping Cart and Merchant Tools to ChatGPT](src/2026-01/openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt.md)
 - [The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI](src/2026-01/the-adolescence-of-technology.md)
 - [A Reflection on SEO, GEO & AI Search in 2025](src/2026-01/a-reflection-on-seo-geo-and-ai-search-in-2025.md)
 - [Scaling Long-Running Autonomous Coding](src/2026-01/scaling-long-running-autonomous-coding.md)
