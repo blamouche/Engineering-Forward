@@ -1,4 +1,3 @@
-https://hbr.org/2026/01/why-people-create-ai-workslop-and-how-to-stop-it?utm_medium=email&utm_source=newsletter_various&utm_campaign=specialrec_&deliveryName=NL_HBRRecommends_20260122
 https://every.to/source-code/what-the-team-behind-cursor-knows-about-the-future-of-code?ph_email=b.lamouche%40gmail.com
 https://www.anthropic.com/news/claude-new-constitution?utm_source=tldrai
 https://thezvi.substack.com/p/claude-codes-3?utm_source=tldrai
