@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████ 68
+2026-01 | ███████████████████████████████████ 69
 
 ## Articles
 
 ### 2026
 
-#### January (68 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (69 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [GitHub Copilot SDK](src/2026-01/github-copilot-sdk.md)
 - [Advanced Claude Code and Cursor Techniques for Power Users](src/2026-01/advanced-claude-code-and-cursor-techniques-for-power-users.md)
 - [The Vibe Coders' Guide to What's Next](src/2026-01/the-vibe-coders-guide-to-whats-next.md)
 - [How I Use Claude Code to Ship Like a Team of Five](src/2026-01/how-i-use-claude-code-to-ship-like-a-team-of-five.md)
