@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████ 71
+2026-01 | ████████████████████████████████████ 72
 
 ## Articles
 
 ### 2026
 
-#### January (71 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (72 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Claude's New Constitution](src/2026-01/claudes-new-constitution.md)
 - [What the Team Behind Cursor Knows About the Future of Code](src/2026-01/what-the-team-behind-cursor-knows-about-the-future-of-code.md)
 - [Why People Create AI Workslop—and How to Stop It](src/2026-01/why-people-create-ai-workslop-and-how-to-stop-it.md)
 - [GitHub Copilot SDK](src/2026-01/github-copilot-sdk.md)
