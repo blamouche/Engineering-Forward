@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████ 73
+2026-01 | █████████████████████████████████████ 74
 
 ## Articles
 
 ### 2026
 
-#### January (73 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (74 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers](src/2026-01/mcp-server-best-practices.md)
 - [Claude Codes #3](src/2026-01/claude-codes-3.md)
 - [Claude's New Constitution](src/2026-01/claudes-new-constitution.md)
 - [What the Team Behind Cursor Knows About the Future of Code](src/2026-01/what-the-team-behind-cursor-knows-about-the-future-of-code.md)
