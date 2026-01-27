@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████ 74
+2026-01 | ██████████████████████████████████████ 75
 
 ## Articles
 
 ### 2026
 
-#### January (74 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (75 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [My AI Had Already Fixed the Code Before I Saw It](src/2026-01/my-ai-had-already-fixed-the-code-before-i-saw-it.md)
 - [MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers](src/2026-01/mcp-server-best-practices.md)
 - [Claude Codes #3](src/2026-01/claude-codes-3.md)
 - [Claude's New Constitution](src/2026-01/claudes-new-constitution.md)
