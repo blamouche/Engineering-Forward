@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████████ 76
+2026-01 | ███████████████████████████████████████ 77
 
 ## Articles
 
 ### 2026
 
-#### January (76 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (77 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [A Reflection on SEO, GEO & AI Search in 2025](src/2026-01/a-reflection-on-seo-geo-and-ai-search-in-2025.md)
 - [Scaling Long-Running Autonomous Coding](src/2026-01/scaling-long-running-autonomous-coding.md)
 - [My AI Had Already Fixed the Code Before I Saw It](src/2026-01/my-ai-had-already-fixed-the-code-before-i-saw-it.md)
 - [MCP is Not the Problem, It's your Server: Best Practices for Building MCP Servers](src/2026-01/mcp-server-best-practices.md)
