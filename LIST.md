@@ -1,4 +1,3 @@
-https://every.to/context-window/the-vibe-coders-guide-to-what-s-next?ph_email=b.lamouche%40gmail.com
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude?publication_id=10845&post_id=185350276&isFreemail=true&r=fhb7r&triedRedirect=true
 https://www.perplexity.ai/page/anthropic-ceo-warns-coding-cou-BZOQekokQciJa_0_czO3GQ
 https://github.com/github/copilot-sdk?utm_source=email-cli-sdk-repo-cta&utm_medium=email&utm_campaign=cli-sdk-jan-2026
@@ -7,3 +6,6 @@ https://every.to/source-code/what-the-team-behind-cursor-knows-about-the-future-
 https://www.anthropic.com/news/claude-new-constitution?utm_source=tldrai
 https://thezvi.substack.com/p/claude-codes-3?utm_source=tldrai
 https://www.philschmid.de/mcp-best-practices?utm_source=tldrai
+https://every.to/source-code/my-ai-had-already-fixed-the-code-before-i-saw-it-f4a29a07-ea95-409f-bcb2-487a970bed4a?metered_paywall=4&ph_email=b.lamouche%40gmail.com
+https://cursor.com/blog/scaling-agents
+https://lilyraynyc.substack.com/p/a-reflection-on-seo-and-ai-search
