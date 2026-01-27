@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent?publication_id=817132&post_id=185516568&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five-6f23f136-52ab-455f-a997-101c071613aa?ph_email=b.lamouche%40gmail.com
 https://every.to/context-window/the-vibe-coders-guide-to-what-s-next?ph_email=b.lamouche%40gmail.com
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude?publication_id=10845&post_id=185350276&isFreemail=true&r=fhb7r&triedRedirect=true
