@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████ 67
+2026-01 | ██████████████████████████████████ 68
 
 ## Articles
 
 ### 2026
 
-#### January (67 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (68 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Advanced Claude Code and Cursor Techniques for Power Users](src/2026-01/advanced-claude-code-and-cursor-techniques-for-power-users.md)
 - [The Vibe Coders' Guide to What's Next](src/2026-01/the-vibe-coders-guide-to-whats-next.md)
 - [How I Use Claude Code to Ship Like a Team of Five](src/2026-01/how-i-use-claude-code-to-ship-like-a-team-of-five.md)
 - [How Cursor Shipped its Coding Agent to Production](src/2026-01/how-cursor-shipped-its-coding-agent-to-production.md)

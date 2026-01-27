@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude?publication_id=10845&post_id=185350276&isFreemail=true&r=fhb7r&triedRedirect=true
 https://www.perplexity.ai/page/anthropic-ceo-warns-coding-cou-BZOQekokQciJa_0_czO3GQ
 https://github.com/github/copilot-sdk?utm_source=email-cli-sdk-repo-cta&utm_medium=email&utm_campaign=cli-sdk-jan-2026
 https://hbr.org/2026/01/why-people-create-ai-workslop-and-how-to-stop-it?utm_medium=email&utm_source=newsletter_various&utm_campaign=specialrec_&deliveryName=NL_HBRRecommends_20260122
