@@ -1,4 +1,3 @@
-https://weightythoughts.com/p/ai-gains-starting-to-show-in-the?utm_source=tldrai
 https://openai.com/index/our-approach-to-age-prediction/?utm_source=tldrai
 https://www.journaldunet.com/intelligence-artificielle/1547465-ia-le-risque-silencieux-de-la-pensee-standardisee/#utm_source=MagNews&utm_medium=email&utm_campaign=Quotidienne_27/01/2026&een=7b4eb59e01ef96e64a735ed9739c6705&seen=2&gbmlus=de564bcb14849a513e376b04f23a62cb87def6011333bb8c346b52e5ac8d76f3
 https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent?publication_id=817132&post_id=185516568&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email

@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████████████████████ 62
+2026-01 | ████████████████████████████████ 63
 
 ## Articles
 
 ### 2026
 
-#### January (62 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (63 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [AI Gains Starting to Show in the Real Economy](src/2026-01/ai-gains-starting-to-show-in-the-real-economy.md)
 - [Import AI 441: My agents are working. Are yours?](src/2026-01/import-ai-441-my-agents-are-working.md)
 - [Without Benchmarking LLMs, You're Likely Overpaying 5-10x](src/2026-01/without-benchmarking-llms-youre-overpaying.md)
 - [Create Custom Subagents in Claude Code](src/2026-01/create-custom-subagents-in-claude-code.md)
