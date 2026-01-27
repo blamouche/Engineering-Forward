@@ -1,11 +1,11 @@
-https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-code?publication_id=10845&post_id=184588387&isFreemail=true&r=fhb7r&triedRedirect=true
-https://claude.com/blog/skills-explained
-https://code.claude.com/docs/en/sub-agents
-https://www.wsj.com/tech/ai/the-messy-human-drama-that-dealt-a-blow-to-one-of-ais-hottest-startups-b86d736a?st=DYdh8z&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrai
-https://karllorey.com/posts/without-benchmarking-llms-youre-overpaying?utm_source=tldrai
 https://importai.substack.com/p/import-ai-441-my-agents-are-working?utm_source=tldrai
 https://weightythoughts.com/p/ai-gains-starting-to-show-in-the?utm_source=tldrai
 https://openai.com/index/our-approach-to-age-prediction/?utm_source=tldrai
+https://www.journaldunet.com/intelligence-artificielle/1547465-ia-le-risque-silencieux-de-la-pensee-standardisee/#utm_source=MagNews&utm_medium=email&utm_campaign=Quotidienne_27/01/2026&een=7b4eb59e01ef96e64a735ed9739c6705&seen=2&gbmlus=de564bcb14849a513e376b04f23a62cb87def6011333bb8c346b52e5ac8d76f3
+https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent?publication_id=817132&post_id=185516568&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five-6f23f136-52ab-455f-a997-101c071613aa?ph_email=b.lamouche%40gmail.com
+https://every.to/context-window/the-vibe-coders-guide-to-what-s-next?ph_email=b.lamouche%40gmail.com
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-advanced-claude?publication_id=10845&post_id=185350276&isFreemail=true&r=fhb7r&triedRedirect=true
 https://www.perplexity.ai/page/anthropic-ceo-warns-coding-cou-BZOQekokQciJa_0_czO3GQ
 https://github.com/github/copilot-sdk?utm_source=email-cli-sdk-repo-cta&utm_medium=email&utm_campaign=cli-sdk-jan-2026
 https://hbr.org/2026/01/why-people-create-ai-workslop-and-how-to-stop-it?utm_medium=email&utm_source=newsletter_various&utm_campaign=specialrec_&deliveryName=NL_HBRRecommends_20260122

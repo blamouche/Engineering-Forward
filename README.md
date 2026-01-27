@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████ 60
+2026-01 | ███████████████████████████████ 61
 
 ## Articles
 
 ### 2026
 
-#### January (60 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (61 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Without Benchmarking LLMs, You're Likely Overpaying 5-10x](src/2026-01/without-benchmarking-llms-youre-overpaying.md)
 - [Create Custom Subagents in Claude Code](src/2026-01/create-custom-subagents-in-claude-code.md)
 - [Skills Explained: How Skills Compares to Prompts, Projects, MCP, and Subagents](src/2026-01/skills-explained-how-skills-compares-to-prompts-projects-mcp-and-subagents.md)
 - [Claude Code for Product Managers](src/2026-01/claude-code-for-product-managers.md)
