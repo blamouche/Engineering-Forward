@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████ 65
+2026-01 | █████████████████████████████████ 66
 
 ## Articles
 
 ### 2026
 
-#### January (65 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (66 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [How I Use Claude Code to Ship Like a Team of Five](src/2026-01/how-i-use-claude-code-to-ship-like-a-team-of-five.md)
 - [How Cursor Shipped its Coding Agent to Production](src/2026-01/how-cursor-shipped-its-coding-agent-to-production.md)
 - [IA: le risque silencieux de la pensee standardisee](src/2026-01/ia-le-risque-silencieux-de-la-pensee-standardisee.md)
 - [AI Gains Starting to Show in the Real Economy](src/2026-01/ai-gains-starting-to-show-in-the-real-economy.md)
