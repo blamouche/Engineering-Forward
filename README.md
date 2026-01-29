@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████████████ 90
+2026-01 | ██████████████████████████████████████████████ 91
 
 ## Articles
 
 ### 2026
 
-#### January (90 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (91 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [I Gave Clawdbot Full Access to My Computer. It Broke My Family Calendar and Joined My Podcast.](src/2026-01/i-gave-clawdbot-full-access-to-my-computer.md)
 - [The Creator of Clawd: "I Ship Code I Don't Read"](src/2026-01/the-creator-of-clawd-i-ship-code-i-dont-read.md)
 - [Google DeepMind CEO Demis Hassabis on AI's Next Breakthroughs, What Counts As AGI, And Google's AI Glasses Bet](src/2026-01/demis-hassabis-on-ais-next-breakthroughs-and-agi.md)
 - [AI Just Killed the User Interface](src/2026-01/ai-just-killed-the-user-interface.md)
