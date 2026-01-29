@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████████ 80
+2026-01 | █████████████████████████████████████████ 81
 
 ## Articles
 
 ### 2026
 
-#### January (80 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (81 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Kimi K2.5: Visual Agentic Intelligence](src/2026-01/kimi-k2-5-visual-agentic-intelligence.md)
 - [I Stopped Reading Code. My Code Reviews Got Better.](src/2026-01/i-stopped-reading-code-my-code-reviews-got-better.md)
 - [OpenAI to Add Shopping Cart and Merchant Tools to ChatGPT](src/2026-01/openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt.md)
 - [The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI](src/2026-01/the-adolescence-of-technology.md)
