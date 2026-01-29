@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████████████████████████████████ 85
+2026-01 | ███████████████████████████████████████████ 86
 
 ## Articles
 
 ### 2026
 
-#### January (85 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (86 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [On-Device LLMs: State of the Union, 2026](src/2026-01/on-device-llms-state-of-the-union-2026.md)
 - [Google Begins Rolling Out Chrome's Auto Browse AI Agent](src/2026-01/google-begins-rolling-out-chromes-auto-browse-ai-agent.md)
 - [Teach Your AI to Think Like a Senior Engineer](src/2026-01/teach-your-ai-to-think-like-a-senior-engineer.md)
 - [Stop Coding and Start Planning](src/2026-01/stop-coding-and-start-planning.md)
