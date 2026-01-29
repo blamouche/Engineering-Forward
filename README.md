@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████████████ 88
+2026-01 | █████████████████████████████████████████████ 89
 
 ## Articles
 
 ### 2026
 
-#### January (88 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (89 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Google DeepMind CEO Demis Hassabis on AI's Next Breakthroughs, What Counts As AGI, And Google's AI Glasses Bet](src/2026-01/demis-hassabis-on-ais-next-breakthroughs-and-agi.md)
 - [AI Just Killed the User Interface](src/2026-01/ai-just-killed-the-user-interface.md)
 - [Marc Andreessen: The Real AI Boom Hasn't Even Started Yet](src/2026-01/marc-andreessen-the-real-ai-boom-hasnt-even-started.md)
 - [On-Device LLMs: State of the Union, 2026](src/2026-01/on-device-llms-state-of-the-union-2026.md)
