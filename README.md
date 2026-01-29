@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | █████████████████████████████████████████ 82
+2026-01 | ██████████████████████████████████████████ 83
 
 ## Articles
 
 ### 2026
 
-#### January (82 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (83 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Stop Coding and Start Planning](src/2026-01/stop-coding-and-start-planning.md)
 - [Yahoo is Adding Generative AI to Its Search Engine](src/2026-01/yahoo-is-adding-generative-ai-to-its-search-engine.md)
 - [Kimi K2.5: Visual Agentic Intelligence](src/2026-01/kimi-k2-5-visual-agentic-intelligence.md)
 - [I Stopped Reading Code. My Code Reviews Got Better.](src/2026-01/i-stopped-reading-code-my-code-reviews-got-better.md)
