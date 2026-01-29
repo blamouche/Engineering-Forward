@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████████████ 87
+2026-01 | ████████████████████████████████████████████ 88
 
 ## Articles
 
 ### 2026
 
-#### January (87 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (88 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [AI Just Killed the User Interface](src/2026-01/ai-just-killed-the-user-interface.md)
 - [Marc Andreessen: The Real AI Boom Hasn't Even Started Yet](src/2026-01/marc-andreessen-the-real-ai-boom-hasnt-even-started.md)
 - [On-Device LLMs: State of the Union, 2026](src/2026-01/on-device-llms-state-of-the-union-2026.md)
 - [Google Begins Rolling Out Chrome's Auto Browse AI Agent](src/2026-01/google-begins-rolling-out-chromes-auto-browse-ai-agent.md)
