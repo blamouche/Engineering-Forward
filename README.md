@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████████████████ 92
+2026-01 | ██████████████████████████████████████████████ 93
 
 ## Articles
 
 ### 2026
 
-#### January (92 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (93 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [The Future of 10x Engineering](src/2026-01/the-future-of-10x-engineering.md)
 - [Grok Imagine API](src/2026-01/grok-imagine-api.md)
 - [I Gave Clawdbot Full Access to My Computer. It Broke My Family Calendar and Joined My Podcast.](src/2026-01/i-gave-clawdbot-full-access-to-my-computer.md)
 - [The Creator of Clawd: "I Ship Code I Don't Read"](src/2026-01/the-creator-of-clawd-i-ship-code-i-dont-read.md)
