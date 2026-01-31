@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████████████████ 93
+2026-01 | ███████████████████████████████████████████████ 94
 
 ## Articles
 
 ### 2026
 
-#### January (93 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (94 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
 - [The Future of 10x Engineering](src/2026-01/the-future-of-10x-engineering.md)
 - [Grok Imagine API](src/2026-01/grok-imagine-api.md)
 - [I Gave Clawdbot Full Access to My Computer. It Broke My Family Calendar and Joined My Podcast.](src/2026-01/i-gave-clawdbot-full-access-to-my-computer.md)
