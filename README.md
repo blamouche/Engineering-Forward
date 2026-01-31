@@ -5,13 +5,14 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ███████████████████████████████████████████████ 94
+2026-01 | ████████████████████████████████████████████████ 95
 
 ## Articles
 
 ### 2026
 
-#### January (94 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (95 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Compound Engineering: How Every Codes With Agents](src/2026-01/compound-engineering-how-every-codes-with-agents.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
 - [The Future of 10x Engineering](src/2026-01/the-future-of-10x-engineering.md)
 - [Grok Imagine API](src/2026-01/grok-imagine-api.md)
