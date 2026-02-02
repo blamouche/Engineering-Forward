@@ -32,7 +32,7 @@ When the user provides a month `YYYY-MM`:
 
 ## Summary
 
-[Up to 4 paragraphs in English about monthly trends related to working with AI and the adaptations required]
+[Up to 10 paragraphs in English about monthly trends related to working with AI and the adaptations required]
 
 ## Selected links
 
@@ -49,7 +49,7 @@ When the user provides a month `YYYY-MM`:
 ```
 
 5. **Select the links**:
-   - Pick 10 links from the month's articles
+   - Pick 15 links from the month's articles
    - Prioritize articles about working with AI, enterprise usage, organization, and skills to develop
    - Use the `**Source**` URLs from each article
 
