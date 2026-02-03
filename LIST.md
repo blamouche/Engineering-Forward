@@ -13,3 +13,4 @@ https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-
 https://every.to/playtesting/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent-299b5938-09dd-4881-803f-aea21f0d461f?metered_paywall=4&ph_email=b.lamouche%40gmail.com
 https://test-simple.com
 https://www.bigtechnology.com/p/new-data-openais-lead-is-contracting?publication_id=46510&post_id=186762667&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://test-simple-response.com
