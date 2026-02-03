@@ -6,11 +6,6 @@ https://www.turingpost.com/p/olive?utm_source=tldrai
 https://deadneurons.substack.com/p/chat-is-going-to-eat-the-world?utm_source=tldrai
 https://www.seangoedecke.com/how-does-ai-impact-skill-formation/?utm_source=tldrai
 https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-bowl-week/?utm_source=tldrnewsletter
-https://example.com/test-clo
-https://test-push-auto.com
 https://openai.com/fr-FR/codex/?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=openai-codex-app-feels-like-clawdbot-lite&_bhlid=b94ecaab72d88ae38d47fd6e8ef2a3490695cd6a
-https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-bowl-week/?utm_source=tldrai
 https://every.to/playtesting/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent-299b5938-09dd-4881-803f-aea21f0d461f?metered_paywall=4&ph_email=b.lamouche%40gmail.com
-https://test-simple.com
 https://www.bigtechnology.com/p/new-data-openais-lead-is-contracting?publication_id=46510&post_id=186762667&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
-https://test-simple-response.com
