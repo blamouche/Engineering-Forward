@@ -6,3 +6,4 @@ https://www.turingpost.com/p/olive?utm_source=tldrai
 https://deadneurons.substack.com/p/chat-is-going-to-eat-the-world?utm_source=tldrai
 https://www.seangoedecke.com/how-does-ai-impact-skill-formation/?utm_source=tldrai
 https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-bowl-week/?utm_source=tldrnewsletter
+https://example.com/test-clo
