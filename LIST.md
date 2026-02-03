@@ -1,8 +1,3 @@
-https://nadh.in/blog/code-is-cheap/?utm_source=tldrnewsletter
-https://simonwillison.net/2026/Jan/30/moltbook/?utm_source=tldrnewsletter
-https://www.moltbook.com/
-https://deepmind.google/models/genie/
-https://mistral.ai/fr/news/mistral-vibe-2-0
 https://mistral.ai/fr/news/devstral-2-vibe-cli
 https://every.to/vibe-check/codex-vibe-check?ph_email=b.lamouche%40gmail.com
 https://every.to/vibe-check/vibe-check-openai-s-codex-app-gains-ground-on-claude-code?ph_email=b.lamouche%40gmail.com

@@ -5,11 +5,19 @@ Technical watch for engineering
 
 Articles per month:
 
-2026-01 | ████████████████████████████████████████████████ 95
+2026-01 | ████████████████████████████████████████████████ 95<br>
+2026-02 | ███ 5
 
 ## Articles
 
 ### 2026
+
+#### February (5 articles)
+- [Code is Cheap. Show Me the Talk.](src/2026-02/code-is-cheap-show-me-the-talk.md)
+- [Moltbook is the Most Interesting Place on the Internet Right Now](src/2026-02/moltbook-most-interesting-place-on-the-internet.md)
+- [Moltbook - A Social Network for AI Agents](src/2026-02/moltbook-social-network-for-ai-agents.md)
+- [Genie 3](src/2026-02/genie-3-world-model.md)
+- [Mistral Vibe 2.0](src/2026-02/mistral-vibe-2-0.md)
 
 #### January (95 articles) [Synthesis 2026-01](synthesis/2026-01.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/compound-engineering-how-every-codes-with-agents.md)
