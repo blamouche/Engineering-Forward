@@ -9,3 +9,4 @@ https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-
 https://example.com/test-clo
 https://test-push-auto.com
 https://openai.com/fr-FR/codex/?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=openai-codex-app-feels-like-clawdbot-lite&_bhlid=b94ecaab72d88ae38d47fd6e8ef2a3490695cd6a
+https://www.testingcatalog.com/anthropic-is-about-to-drop-sonnet-5-during-super-bowl-week/?utm_source=tldrai
