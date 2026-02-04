@@ -6,13 +6,24 @@ Technical watch for engineering
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███ 5
+2026-02 | ████████ 16
 
 ## Articles
 
 ### 2026
 
-#### February (5 articles)
+#### February (16 articles)
+- [New Data: OpenAI's Lead Is Contracting as AI Competition Intensifies](src/2026-02/openais-lead-is-contracting-as-ai-competition-intensifies.md)
+- [We Trained an AI on a Board Game. It Became a Better Customer Support Agent.](src/2026-02/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent.md)
+- [OpenAI Codex: AI Coding Partner](src/2026-02/openai-codex-ai-coding-partner.md)
+- [Anthropic Is About to Drop Sonnet 5 During Super Bowl Week](src/2026-02/anthropic-is-about-to-drop-sonnet-5-during-super-bowl-week.md)
+- [How Does AI Impact Skill Formation?](src/2026-02/how-does-ai-impact-skill-formation.md)
+- [Chat is Going to Eat the World](src/2026-02/chat-is-going-to-eat-the-world.md)
+- [Inside a Chinese AI Lab: How MiniMax Builds Open Models](src/2026-02/inside-a-chinese-ai-lab-how-minimax-builds-open-models.md)
+- [Thoughts on the Job Market in the Age of LLMs](src/2026-02/thoughts-on-the-job-market-in-the-age-of-llms.md)
+- [Vibe Check: OpenAI's Codex App Gains Ground on Claude Code](src/2026-02/vibe-check-openais-codex-app-gains-ground-on-claude-code.md)
+- [Vibe Check: We Tested OpenAI's New Codex App](src/2026-02/vibe-check-we-tested-openais-new-codex-app.md)
+- [Devstral 2 and Mistral Vibe CLI](src/2026-02/devstral-2-and-mistral-vibe-cli.md)
 - [Code is Cheap. Show Me the Talk.](src/2026-02/code-is-cheap-show-me-the-talk.md)
 - [Moltbook is the Most Interesting Place on the Internet Right Now](src/2026-02/moltbook-most-interesting-place-on-the-internet.md)
 - [Moltbook - A Social Network for AI Agents](src/2026-02/moltbook-social-network-for-ai-agents.md)
