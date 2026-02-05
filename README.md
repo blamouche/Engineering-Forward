@@ -8,7 +8,10 @@
 
 ### 2026
 
-#### February (20 articles)
+#### February (23 articles)
+- [Expensively Quadratic: the LLM Agent Cost Curve](src/2026-02/expensively-quadratic-the-llm-agent-cost-curve.md)
+- [The AI That Called Its Human](src/2026-02/the-ai-that-called-its-human.md)
+- [NanoClaw: a small, container-isolated Claude assistant](src/2026-02/nanoclaw-a-small-container-isolated-claude-assistant.md)
 - [Deep Dive: How Claude Code's /insights Command Works](src/2026-02/deep-dive-how-claude-codes-insights-command-works.md)
 - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](src/2026-02/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-plus.md)
 - [Apple’s Xcode now supports the Claude Agent SDK](src/2026-02/apples-xcode-now-supports-the-claude-agent-sdk.md)
