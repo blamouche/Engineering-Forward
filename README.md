@@ -8,7 +8,8 @@
 
 ### 2026
 
-#### February (19 articles)
+#### February (20 articles)
+- [Deep Dive: How Claude Code's /insights Command Works](src/2026-02/deep-dive-how-claude-codes-insights-command-works.md)
 - [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](src/2026-02/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-plus.md)
 - [Apple’s Xcode now supports the Claude Agent SDK](src/2026-02/apples-xcode-now-supports-the-claude-agent-sdk.md)
 - [AI at work: beyond algorithmic transparency](src/2026-02/ai-at-work-beyond-algorithmic-transparency.md)
