@@ -1,9 +1,5 @@
-# Engineering-Forward
-Technical watch for engineering
-
-## Statistics
-
-Articles per month:
+2026-01 | ████████████████████████████████████████████████ 95<br>
+2026-02 | █████████ 17
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
 2026-02 | ████████ 16
@@ -12,7 +8,8 @@ Articles per month:
 
 ### 2026
 
-#### February (16 articles)
+#### February (17 articles)
+- [AI at work: beyond algorithmic transparency](src/2026-02/ai-at-work-beyond-algorithmic-transparency.md)
 - [New Data: OpenAI's Lead Is Contracting as AI Competition Intensifies](src/2026-02/openais-lead-is-contracting-as-ai-competition-intensifies.md)
 - [We Trained an AI on a Board Game. It Became a Better Customer Support Agent.](src/2026-02/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent.md)
 - [OpenAI Codex: AI Coding Partner](src/2026-02/openai-codex-ai-coding-partner.md)

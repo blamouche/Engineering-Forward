@@ -1,4 +1,3 @@
-https://patricecochin.substack.com/p/ai-at-work-beyond-algorithmic-transparency?publication_id=4666503&post_id=186850631&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://www.anthropic.com/news/apple-xcode-claude-agent-sdk?utm_source=tldrai
 https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3?utm_source=tldrai
 https://www.zolkos.com/2026/02/04/deep-dive-how-claude-codes-insights-command-works.html?utm_source=tldrai
