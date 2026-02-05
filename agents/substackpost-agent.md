@@ -17,7 +17,7 @@ Generates a journalistic article from the 15 most recent technical watch article
 
 4. **Craft subtitle**: One compelling sentence under 150 chars, italic format
 
-5. **Write article** (1500-2000 words):
+5. **Write article** (1500-2000 words) in **English** (unless the user explicitly requests another language):
    - **Opening hook** (1-2 para): Compelling observation/question
    - **Big picture** (2-3 para): Broader context and significance
    - **Deep dive** (4-6 para): Key developments, weaving multiple articles
