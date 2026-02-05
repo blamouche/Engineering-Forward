@@ -13,7 +13,7 @@ Generates a journalistic article from the 15 most recent technical watch article
 
 2. **Analyze corpus**: Identify themes, patterns, connections, and central insight
 
-3. **Craft title**: Specific, provocative, engaging (e.g., "The IDE Is Dead, Long Live the Agent")
+3. **Craft title**: Specific, provocative, engaging, in **sentence case** (only the first letter capitalized; e.g., "The IDE is dead, long live the agent")
 
 4. **Craft subtitle**: One compelling sentence under 150 chars, italic format
 
