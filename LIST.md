@@ -1,1 +1,1 @@
-
+https://patricecochin.substack.com/p/ai-at-work-beyond-algorithmic-transparency?publication_id=4666503&post_id=186850631&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
