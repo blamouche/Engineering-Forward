@@ -8,7 +8,11 @@
 
 ### 2026
 
-#### February (23 articles)
+#### February (27 articles)
+- [Agentic Engineering](src/2026-02/agentic-engineering.md)
+- [Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding](src/2026-02/qwen3-coder-next-pushing-small-hybrid-models-on-agentic-coding.md)
+- [Anthropic Performance Team Take-Home for Dummies](src/2026-02/anthropic-performance-team-take-home-for-dummies.md)
+- [AI Won’t Kill the Software Business, Just Its Growth Story](src/2026-02/ai-wont-kill-the-software-business-just-its-growth-story.md)
 - [Expensively Quadratic: the LLM Agent Cost Curve](src/2026-02/expensively-quadratic-the-llm-agent-cost-curve.md)
 - [The AI That Called Its Human](src/2026-02/the-ai-that-called-its-human.md)
 - [NanoClaw: a small, container-isolated Claude assistant](src/2026-02/nanoclaw-a-small-container-isolated-claude-assistant.md)
