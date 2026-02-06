@@ -3,15 +3,16 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████ 29
+2026-02 | ███████████████ 30
 
 ## Articles
 
 ### 2026
 
-#### February (29 articles)
+#### February (30 articles)
 - [Claude Opus 4.6](src/2026-02/claude-opus-4-6.md)
 - [How I Built My Personal AI Assistant (Claude Code Tutorial)](src/2026-02/how-i-built-my-personal-ai-assistant-claude-code-tutorial.md)
+- [Unlocking the Codex harness: how we built the App Server](src/2026-02/unlocking-the-codex-harness-how-we-built-the-app-server.md)
 - [Agentic Engineering](src/2026-02/agentic-engineering.md)
 - [Qwen3-Coder-Next: Pushing Small Hybrid Models on Agentic Coding](src/2026-02/qwen3-coder-next-pushing-small-hybrid-models-on-agentic-coding.md)
 - [Anthropic Performance Team Take-Home for Dummies](src/2026-02/anthropic-performance-team-take-home-for-dummies.md)
