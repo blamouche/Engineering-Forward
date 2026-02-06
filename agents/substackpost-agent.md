@@ -41,7 +41,9 @@ Generates a journalistic article from the 15 most recent technical watch article
 
 7. **Save** to `substack/YYYYMMDD-post-<slug>.md`
 
-8. **Commit and push**: `git fetch/pull` if behind, commit: `Add substack post: [TITLE]`
+8. **Copy to latest.md**: Create a copy of the file as `substack/latest.md` (replace if it already exists)
+
+9. **Commit and push**: `git fetch/pull` if behind, commit: `Add substack post: [TITLE]`
 
 ## Style Guidelines
 - Confident editorial voice, write for intelligent non-technical readers
