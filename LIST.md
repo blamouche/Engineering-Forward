@@ -13,3 +13,10 @@ https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software?publication_
 https://bigtechnology.com/p/moltbook-is-a-warning?publication_id=46510&post_id=187083731&isFreemail=true&token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTg3MDgzNzMxLCJpYXQiOjE3NzAzOTU1MzksImV4cCI6MTc3Mjk4NzUzOSwiaXNzIjoicHViLTQ2NTEwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.oOMWrviTkROqaFxSn31GdcEhw3o9U-tRh8PdFShOKv0&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://openai.com/fr-FR/index/introducing-gpt-5-3-codex/?utm_source=tldrai
 https://openspec.dev/
+https://www.heavybit.com/library/article/write-only-code?utm_source=tldrnewsletter
+https://www.interconnects.ai/p/opus-46-vs-codex-53?utm_source=tldrnewsletter
+https://www.wsj.com/tech/ai/anthropic-amanda-askell-philosopher-ai-3c031883?st=FLDBmk&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrnewsletter
+https://understandingai.org/p/the-many-masks-that-llms-wear?utm_source=tldrai
+https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html?utm_source=tldrai
+https://www.lennysnewsletter.com/p/building-ai-product-sense-part-2?publication_id=10845&post_id=186661807&isFreemail=true&r=fhb7r&triedRedirect=true
+https://www.reuters.com/business/media-telecom/global-software-stocks-hit-by-anthropic-wake-up-call-ai-disruption-2026-02-04/
