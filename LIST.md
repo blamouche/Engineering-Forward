@@ -9,3 +9,7 @@ https://www.turingpost.com/p/nathanlambert?utm_source=tldrai
 https://joeljang.github.io/world-models-for-robotics?utm_source=tldrai
 https://hy.tencent.com/research/100025?langVersion=en&utm_source=tldrai
 https://linas.substack.com/p/thinkwithclaude?publication_id=81819&post_id=187367623&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software?publication_id=817132&post_id=187148454&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://bigtechnology.com/p/moltbook-is-a-warning?publication_id=46510&post_id=187083731&isFreemail=true&token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTg3MDgzNzMxLCJpYXQiOjE3NzAzOTU1MzksImV4cCI6MTc3Mjk4NzUzOSwiaXNzIjoicHViLTQ2NTEwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.oOMWrviTkROqaFxSn31GdcEhw3o9U-tRh8PdFShOKv0&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://openai.com/fr-FR/index/introducing-gpt-5-3-codex/?utm_source=tldrai
+https://openspec.dev/
