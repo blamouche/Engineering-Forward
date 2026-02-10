@@ -1,2 +1,11 @@
 https://yourstory.com/ai-story/big-tech-ai-infra-capex-google-meta-amazon-microsoft?pnespid=q7Waj9RP7a3A_qeyqBGpvuYIuhEJ_yl3hFNyAUArokqVVPGqhTff0xa4vJ8oAHT.nXZ3x7sGKg
 https://www.agno.com/
+https://every.to/source-code/compound-engineering-the-definitive-guide?ph_email=b.lamouche%40gmail.com
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-to-build?publication_id=10845&post_id=187026884&isFreemail=true&r=fhb7r&triedRedirect=true
+https://threadreaderapp.com/thread/2020207322124132504.html?utm_source=tldrai
+https://www.testingcatalog.com/meta-ai-redies-avacado-manus-agent-and-openclaw-integration/?utm_source=tldrai
+https://cursor.com/blog/self-driving-codebases?utm_source=tldrai
+https://www.turingpost.com/p/nathanlambert?utm_source=tldrai
+https://joeljang.github.io/world-models-for-robotics?utm_source=tldrai
+https://hy.tencent.com/research/100025?langVersion=en&utm_source=tldrai
+https://linas.substack.com/p/thinkwithclaude?publication_id=81819&post_id=187367623&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
