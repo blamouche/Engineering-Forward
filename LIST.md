@@ -1,0 +1,15 @@
+https://every.to/p/how-claude-code-is-transforming-finance-without-turning-you-into-a-coder
+https://simonwillison.net/2026/Feb/11/glm-5/
+https://www.testingcatalog.com/openai-works-on-chatgpt-skills-upgrades-deep-research/
+https://openai.com/index/harness-engineering/
+https://developers.openai.com/cookbook/examples/skills_in_api/
+https://github.com/google-deepmind/superhuman/blob/main/aletheia/Aletheia.pdf
+https://secondthoughts.ai/p/clawdbot-and-moltbook
+https://substack.com/app-link/post
+https://press.asimov.com/articles/scent
+https://jhellerstein.github.io/blog/codegen-reality/
+https://boristane.com/blog/how-i-use-claude-code/
+https://shumer.dev/something-big-is-happening
+https://www.journaldunet.com/adtech/1547927-le-trafic-issu-des-ia-explose-l-organique-diminue/
+https://www.journaldunet.com/intelligence-artificielle/1547929-intelligence-artificielle-la-face-sombre-des-folles-depenses-des-big-tech/
+https://github.com/entireio/cli
