@@ -25,13 +25,18 @@ Processes all URLs in LIST.md using the article synthesis agent.
 ```markdown
 # Batch Recap - YYYY-MM-DD HH:mm:ss
 
-Article Title 1 Elevator pitch. URL to the synthesys https://url1
-Article Title 2 Elevator pitch. URL to the synthesys https://url2
+Article Title 1
+Elevator pitch.
+Synthèse: https://url1
+
+Article Title 2
+Elevator pitch.
+Synthèse: https://url2
 ```
    Notes:
-   - Une ligne par article.
+   - Un bloc par article, séparé par une ligne vide.
    - `https://urlX` doit être le **lien GitHub vers la synthèse** (blob/main/src/...).
-   - Ne pas inclure de paramètres de tracking dans les URLs (pas de `?utm_...`).
+   - URL nettoyée: ne pas inclure de paramètres de tracking (pas de `?utm_...`).
 
    - Commit: `Add batch recap: YYYY-MM-DD HHmmss`
 
