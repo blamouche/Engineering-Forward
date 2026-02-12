@@ -5,7 +5,6 @@ https://openai.com/index/harness-engineering/
 https://developers.openai.com/cookbook/examples/skills_in_api/
 https://github.com/google-deepmind/superhuman/blob/main/aletheia/Aletheia.pdf
 https://secondthoughts.ai/p/clawdbot-and-moltbook
-https://substack.com/app-link/post
 https://press.asimov.com/articles/scent
 https://jhellerstein.github.io/blog/codegen-reality/
 https://boristane.com/blog/how-i-use-claude-code/
