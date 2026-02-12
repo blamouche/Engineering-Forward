@@ -13,7 +13,7 @@ Creates a synthesis note from a URL.
 
 2. **Extract metadata**: Title, Date, Author, Keywords
 
-3. **Create file** at `src/YYYY-MM/<title-slug>.md`:
+3. **Create file** at `src/YYYY-MM/YYYYMMDD-<title-slug>.md` (YYYYMMDD = date de publication si dispo, sinon date du jour):
 ```markdown
 # [Title]
 **Source**: [URL]
