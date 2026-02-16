@@ -2,3 +2,7 @@ https://every.to/chain-of-thought/the-two-slice-team
 https://steipete.me/posts/2026/openclaw
 https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture?utm_source=tldrai
 https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/?utm_source=tldrai
+https://every.to/context-window/ai-as-fast-as-your-train-of-thought
+https://open.substack.com/pub/bytebytego/p/ep202-mcp-vs-rag-vs-ai-agents
+https://openai.com/fr-FR/index/introducing-gpt-5-3-codex-spark/
+https://open.substack.com/pub/bigtechnology/p/grok-is-gaining-on-chatgpt-and-gemini
