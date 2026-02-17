@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████ 62
+2026-02 | ████████████████████████████████ 63
 ## Articles
 
 ### 2026
 
-#### February (62 articles)
+#### February (63 articles)
+- [OpenClaw, OpenAI and the future](src/2026-02/20260217-20260217-openclaw-openai-and-the-future.md)
 - [The Two-slice Team](src/2026-02/20260217-20260217-the-two-slice-team.md)
 - [How Claude Code Is Transforming Finance—Without Turning You Into a Coder](src/2026-02/20260213-20260213-how-claude-code-is-transforming-finance-without-turning-you-into-a-coder.md)
 - [Harness engineering: leveraging Codex in an agent-first world](src/2026-02/20260213-20260213-harness-engineering-leveraging-codex-in-an-agent-first-world.md)
