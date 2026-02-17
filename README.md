@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████ 69
+2026-02 | ███████████████████████████████████ 70
 ## Articles
 
 ### 2026
 
-#### February (69 articles)
+#### February (70 articles)
+- [Gemini 3 Deep Think: Advancing science, research and engineering](src/2026-02/20260217-20260212-gemini-3-deep-think-advancing-science-research-and-engineering.md)
 - [Grok Is Gaining on ChatGPT and Gemini. How It Got There Isn’t Pretty.](src/2026-02/20260217-20260217-grok-is-gaining-on-chatgpt-and-gemini.md)
 - [Présentation de GPT‑5.3‑Codex‑Spark](src/2026-02/20260217-20260217-presentation-de-gpt-5-3-codex-spark.md)
 - [EP202: MCP vs RAG vs AI Agents](src/2026-02/20260217-20260217-ep202-mcp-vs-rag-vs-ai-agents.md)
