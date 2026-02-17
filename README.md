@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████ 63
+2026-02 | ████████████████████████████████ 64
 ## Articles
 
 ### 2026
 
-#### February (63 articles)
+#### February (64 articles)
+- [the problem isn’t OpenClaw. it’s the architecture.](src/2026-02/20260217-20260217-the-problem-isnt-openclaw-its-the-architecture.md)
 - [OpenClaw, OpenAI and the future](src/2026-02/20260217-20260217-openclaw-openai-and-the-future.md)
 - [The Two-slice Team](src/2026-02/20260217-20260217-the-two-slice-team.md)
 - [How Claude Code Is Transforming Finance—Without Turning You Into a Coder](src/2026-02/20260213-20260213-how-claude-code-is-transforming-finance-without-turning-you-into-a-coder.md)
