@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████ 64
+2026-02 | █████████████████████████████████ 65
 ## Articles
 
 ### 2026
 
-#### February (64 articles)
+#### February (65 articles)
+- [Reverse-Engineering the OpenAI’s GPT-5 Tokenizer: What 200,000 Tokens Reveal About AEO/GEO](src/2026-02/20260217-20260213-reverse-engineering-openais-gpt-5-tokenizer.md)
 - [the problem isn’t OpenClaw. it’s the architecture.](src/2026-02/20260217-20260217-the-problem-isnt-openclaw-its-the-architecture.md)
 - [OpenClaw, OpenAI and the future](src/2026-02/20260217-20260217-openclaw-openai-and-the-future.md)
 - [The Two-slice Team](src/2026-02/20260217-20260217-the-two-slice-team.md)
