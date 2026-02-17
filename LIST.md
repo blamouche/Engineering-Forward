@@ -1,4 +1,3 @@
-https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture?utm_source=tldrai
 https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/?utm_source=tldrai
 https://every.to/context-window/ai-as-fast-as-your-train-of-thought
 https://open.substack.com/pub/bytebytego/p/ep202-mcp-vs-rag-vs-ai-agents
