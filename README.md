@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████ 67
+2026-02 | ██████████████████████████████████ 68
 ## Articles
 
 ### 2026
 
-#### February (67 articles)
+#### February (68 articles)
+- [Présentation de GPT‑5.3‑Codex‑Spark](src/2026-02/20260217-20260217-presentation-de-gpt-5-3-codex-spark.md)
 - [EP202: MCP vs RAG vs AI Agents](src/2026-02/20260217-20260217-ep202-mcp-vs-rag-vs-ai-agents.md)
 - [AI as Fast as Your Train of Thought](src/2026-02/20260217-20260217-ai-as-fast-as-your-train-of-thought.md)
 - [Reverse-Engineering the OpenAI’s GPT-5 Tokenizer: What 200,000 Tokens Reveal About AEO/GEO](src/2026-02/20260217-20260213-reverse-engineering-openais-gpt-5-tokenizer.md)
