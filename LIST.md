@@ -19,3 +19,17 @@ https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture?utm
 https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x?utm_source=tldrnewsletter
 https://sidu.in/essays/after-ai-there-is-no-product.html?utm_source=tldrnewsletter
 https://tomtunguz.com/9-observations-using-ai-agents/?utm_source=tldrnewsletter
+https://every.to/source-code/how-to-build-agent-native-lessons-from-four-apps
+https://www.anthropic.com/news/claude-sonnet-4-6?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=claude-sonnet-4-6-with-opus-level-coding&_bhlid=9e2269a68be3a7b61e3bd176a0607b52a8dd382a
+https://newsletter.pragmaticengineer.com/p/how-codex-is-built?publication_id=458709&post_id=188285137&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://qwen.ai/blog?id=qwen3.5&utm_source=tldrai
+https://manus.im/fr/blog/manus-agents-telegram?utm_source=tldrai
+https://www.testingcatalog.com/microsoft-tests-researcher-and-analyst-agents-in-copilot-tasks/?utm_source=tldrai
+https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually?publication_id=10845&post_id=187779404&isFreemail=true&r=fhb7r&triedRedirect=true
+https://every.to/podcast/how-openai-s-codex-team-uses-their-coding-agent
+https://every.to/vibe-check/vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that
+https://www.anthropic.com/news/claude-sonnet-4-6?utm_source=tldrai
+https://x.com/notebooklm/status/2023851190102986970?s=12&utm_source=tldrai
+https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/?utm_source=tldrai
+https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the?utm_source=tldrai
+https://linas.substack.com/p/fintechpulse1045?publication_id=81819&post_id=188312748&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
