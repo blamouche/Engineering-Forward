@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████████████ 91
+2026-02 | ██████████████████████████████████████████████ 92
 ## Articles
 
 ### 2026
 
-#### February (91 articles)
+#### February (92 articles)
+- [How to Build Agent-native: Lessons From Four Apps](src/2026-02/20260217-how-to-build-agent-native-lessons-from-four-apps.md)
 - [9 Observations from Building with AI Agents](src/2026-02/20260219-9-observations-from-building-with-ai-agents.md)
 - [There Is No Product](src/2026-02/20260219-there-is-no-product.md)
 - [How will OpenAI compete?](src/2026-02/20260219-how-will-openai-compete.md)

@@ -1,4 +1,3 @@
-https://every.to/source-code/how-to-build-agent-native-lessons-from-four-apps
 https://www.anthropic.com/news/claude-sonnet-4-6?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=claude-sonnet-4-6-with-opus-level-coding&_bhlid=9e2269a68be3a7b61e3bd176a0607b52a8dd382a
 https://newsletter.pragmaticengineer.com/p/how-codex-is-built?publication_id=458709&post_id=188285137&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://qwen.ai/blog?id=qwen3.5&utm_source=tldrai
