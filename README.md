@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████████████ 84
+2026-02 | ███████████████████████████████████████████████ 85
 ## Articles
 
 ### 2026
 
-#### February (84 articles)
+#### February (85 articles)
+- [Software Is Dead — Long Live Software](src/2026-02/20260218-software-is-dead-long-live-software.md)
 - [🦞 CRACKING THE CLAW](src/2026-02/20260218-cracking-the-claw.md)
 - [Automate repository tasks with GitHub Agentic Workflows](src/2026-02/20260213-automate-repository-tasks-with-github-agentic-workflows.md)
 - [Meta to challenge Apple with its first smartwatch — and it's reportedly launching this year](src/2026-02/20260218-meta-to-challenge-apple-with-its-first-smartwatch.md)
