@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████████████ 90
+2026-02 | ██████████████████████████████████████████████ 91
 ## Articles
 
 ### 2026
 
-#### February (90 articles)
+#### February (91 articles)
+- [9 Observations from Building with AI Agents](src/2026-02/20260219-9-observations-from-building-with-ai-agents.md)
 - [There Is No Product](src/2026-02/20260219-there-is-no-product.md)
 - [How will OpenAI compete?](src/2026-02/20260219-how-will-openai-compete.md)
 - [Building An Elite AI Engineering Culture In 2026](src/2026-02/20260218-building-an-elite-ai-engineering-culture-in-2026.md)
