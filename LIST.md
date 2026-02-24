@@ -1,4 +1,3 @@
-https://github.com/obra/superpowers?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=openclaw-that-runs-on-10-hardware&_bhlid=65b92fb99406f6177152dbcb8f582fdf2c110164
 https://www.anthropic.com/news/claude-code-security?utm_source=tldrai
 https://blog.bytebytego.com/p/how-large-language-models-learn?publication_id=817132&post_id=188649002&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://linas.substack.com/p/claudeinfinance?publication_id=81819&post_id=188589735&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
