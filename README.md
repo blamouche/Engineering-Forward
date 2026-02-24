@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████████ 78
+2026-02 | ██████████████████████████████████████████ 79
 ## Articles
 
 ### 2026
 
-#### February (78 articles)
+#### February (79 articles)
+- [Use Lyria 3 to create music tracks in the Gemini app](src/2026-02/20260218-use-lyria-3-to-create-music-tracks-in-the-gemini-app.md)
 - [Turn Claude Sonnet 4.6 Into Financial Analyst That Never Sleeps 📊](src/2026-02/20260220-turn-claude-sonnet-4-6-into-financial-analyst-that-never-sleeps.md)
 - [How Large Language Models Learn](src/2026-02/20260223-how-large-language-models-learn.md)
 - [Making frontier cybersecurity capabilities available to defenders](src/2026-02/20260220-making-frontier-cybersecurity-capabilities-available-to-defenders.md)
