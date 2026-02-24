@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████████████ 102
+2026-02 | ████████████████████████████████████████████████████ 103
 ## Articles
 
 ### 2026
 
-#### February (102 articles)
+#### February (103 articles)
+- [The Android of Commerce - How Google Is Building the Interface Between AI & Money 🤖💸](src/2026-02/20260218-the-android-of-commerce-how-google-is-building-the-interface-between-ai-and-money.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260217-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
 - [Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](src/2026-02/20260217-mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions.md)
 - [NotebookLM adds prompt-based revisions and PPTX export](src/2026-02/20260217-notebooklm-adds-prompt-based-revisions-and-pptx-export.md)
