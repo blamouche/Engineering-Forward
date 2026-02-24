@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████████ 93
+2026-02 | ███████████████████████████████████████████████ 94
 ## Articles
 
 ### 2026
 
-#### February (93 articles)
+#### February (94 articles)
+- [How Codex is built](src/2026-02/20260217-how-codex-is-built.md)
 - [Introducing Claude Sonnet 4.6](src/2026-02/20260217-introducing-claude-sonnet-4-6.md)
 - [How to Build Agent-native: Lessons From Four Apps](src/2026-02/20260217-how-to-build-agent-native-lessons-from-four-apps.md)
 - [9 Observations from Building with AI Agents](src/2026-02/20260219-9-observations-from-building-with-ai-agents.md)
