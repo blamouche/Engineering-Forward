@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████████████████ 98
+2026-02 | ██████████████████████████████████████████████████ 99
 ## Articles
 
 ### 2026
 
-#### February (98 articles)
+#### February (99 articles)
+- [Vibe Check: Anthropic Just Made Opus Cheaper Without Calling It That](src/2026-02/20260218-vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that.md)
 - [🎧 How OpenAI’s Codex Team Uses Their Coding Agent](src/2026-02/20260218-how-openais-codex-team-uses-their-coding-agent.md)
 - [How to do AI analysis you can actually trust](src/2026-02/20260217-how-to-do-ai-analysis-you-can-actually-trust.md)
 - [Microsoft tests Researcher and Analyst agents in Copilot](src/2026-02/20260216-microsoft-tests-researcher-and-analyst-agents-in-copilot.md)
