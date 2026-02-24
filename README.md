@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████████████ 101
+2026-02 | ███████████████████████████████████████████████████ 102
 ## Articles
 
 ### 2026
 
-#### February (101 articles)
+#### February (102 articles)
+- [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260217-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
 - [Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](src/2026-02/20260217-mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions.md)
 - [NotebookLM adds prompt-based revisions and PPTX export](src/2026-02/20260217-notebooklm-adds-prompt-based-revisions-and-pptx-export.md)
 - [Vibe Check: Anthropic Just Made Opus Cheaper Without Calling It That](src/2026-02/20260218-vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that.md)
