@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-large-language-models-learn?publication_id=817132&post_id=188649002&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://linas.substack.com/p/claudeinfinance?publication_id=81819&post_id=188589735&isFreemail=true&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
 https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/?utm_source=tldrai
 https://developers.openai.com/cookbook/examples/prompt_caching_201?utm_source=tldrai
