@@ -1,5 +1,3 @@
-https://qwen.ai/blog?id=qwen3.5&utm_source=tldrai
-https://manus.im/fr/blog/manus-agents-telegram?utm_source=tldrai
 https://www.testingcatalog.com/microsoft-tests-researcher-and-analyst-agents-in-copilot-tasks/?utm_source=tldrai
 https://www.lennysnewsletter.com/p/how-to-do-ai-analysis-you-can-actually?publication_id=10845&post_id=187779404&isFreemail=true&r=fhb7r&triedRedirect=true
 https://every.to/podcast/how-openai-s-codex-team-uses-their-coding-agent

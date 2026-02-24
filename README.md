@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████████ 94
+2026-02 | ████████████████████████████████████████████████ 95
 ## Articles
 
 ### 2026
 
-#### February (94 articles)
+#### February (95 articles)
+- [Présentation de Manus dans votre chat : votre agent personnel, où que vous soyez](src/2026-02/20260216-presentation-de-manus-dans-votre-chat-votre-agent-personnel-ou-que-vous-soyez.md)
 - [How Codex is built](src/2026-02/20260217-how-codex-is-built.md)
 - [Introducing Claude Sonnet 4.6](src/2026-02/20260217-introducing-claude-sonnet-4-6.md)
 - [How to Build Agent-native: Lessons From Four Apps](src/2026-02/20260217-how-to-build-agent-native-lessons-from-four-apps.md)
