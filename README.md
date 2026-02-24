@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████████████ 95
+2026-02 | ████████████████████████████████████████████████ 96
 ## Articles
 
 ### 2026
 
-#### February (95 articles)
+#### February (96 articles)
+- [Microsoft tests Researcher and Analyst agents in Copilot](src/2026-02/20260216-microsoft-tests-researcher-and-analyst-agents-in-copilot.md)
 - [Présentation de Manus dans votre chat : votre agent personnel, où que vous soyez](src/2026-02/20260216-presentation-de-manus-dans-votre-chat-votre-agent-personnel-ou-que-vous-soyez.md)
 - [How Codex is built](src/2026-02/20260217-how-codex-is-built.md)
 - [Introducing Claude Sonnet 4.6](src/2026-02/20260217-introducing-claude-sonnet-4-6.md)
