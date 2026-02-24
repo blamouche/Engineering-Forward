@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████ 80
+2026-02 | ████████████████████████████████████████████ 81
 ## Articles
 
 ### 2026
 
-#### February (80 articles)
+#### February (81 articles)
+- [Head of Claude Code: What happens after coding is solved | Boris Cherny](src/2026-02/20260219-head-of-claude-code-what-happens-after-coding-is-solved-boris-cherny.md)
 - [Prompt Caching 201](src/2026-02/20260224-prompt-caching-201.md)
 - [Use Lyria 3 to create music tracks in the Gemini app](src/2026-02/20260218-use-lyria-3-to-create-music-tracks-in-the-gemini-app.md)
 - [Turn Claude Sonnet 4.6 Into Financial Analyst That Never Sleeps 📊](src/2026-02/20260220-turn-claude-sonnet-4-6-into-financial-analyst-that-never-sleeps.md)
