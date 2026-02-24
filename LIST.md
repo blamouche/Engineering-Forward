@@ -1,4 +1,3 @@
-https://developers.openai.com/cookbook/examples/prompt_caching_201?utm_source=tldrai
 https://x.com/Vtrivedy10/status/2023805578561060992?utm_source=tldrai
 https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens?publication_id=10845&post_id=188147394&isFreemail=true&r=fhb7r&triedRedirect=true
 https://www.tomsguide.com/wellness/smartwatches/meta-to-challenge-apple-with-its-first-smartwatch-and-its-reportedly-launching-this-year?utm_source=tldrnewsletter
