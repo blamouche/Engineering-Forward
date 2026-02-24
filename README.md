@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████████ 81
+2026-02 | █████████████████████████████████████████████ 82
 ## Articles
 
 ### 2026
 
-#### February (81 articles)
+#### February (82 articles)
+- [Meta to challenge Apple with its first smartwatch — and it's reportedly launching this year](src/2026-02/20260218-meta-to-challenge-apple-with-its-first-smartwatch.md)
 - [Head of Claude Code: What happens after coding is solved | Boris Cherny](src/2026-02/20260219-head-of-claude-code-what-happens-after-coding-is-solved-boris-cherny.md)
 - [Prompt Caching 201](src/2026-02/20260224-prompt-caching-201.md)
 - [Use Lyria 3 to create music tracks in the Gemini app](src/2026-02/20260218-use-lyria-3-to-create-music-tracks-in-the-gemini-app.md)
