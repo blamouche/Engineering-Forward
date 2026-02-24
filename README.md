@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████████████ 83
+2026-02 | ██████████████████████████████████████████████ 84
 ## Articles
 
 ### 2026
 
-#### February (83 articles)
+#### February (84 articles)
+- [🦞 CRACKING THE CLAW](src/2026-02/20260218-cracking-the-claw.md)
 - [Automate repository tasks with GitHub Agentic Workflows](src/2026-02/20260213-automate-repository-tasks-with-github-agentic-workflows.md)
 - [Meta to challenge Apple with its first smartwatch — and it's reportedly launching this year](src/2026-02/20260218-meta-to-challenge-apple-with-its-first-smartwatch.md)
 - [Head of Claude Code: What happens after coding is solved | Boris Cherny](src/2026-02/20260219-head-of-claude-code-what-happens-after-coding-is-solved-boris-cherny.md)

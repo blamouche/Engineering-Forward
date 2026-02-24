@@ -1,4 +1,3 @@
-https://ctolunchnyc.substack.com/p/cracking-the-claw?utm_source=tldrnewsletter
 https://insights.euclid.vc/p/software-is-dead-long-live-software?utm_source=tldrnewsletter&hide_intro_popup=true
 https://www.secondbest.ca/p/empiricists-vs-extrapolators?utm_source=tldrnewsletter&hide_intro_popup=true
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/?utm_source=tldrai
