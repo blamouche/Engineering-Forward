@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████ 72
+2026-02 | █████████████████████████████████████ 73
 ## Articles
 
 ### 2026
 
-#### February (72 articles)
+#### February (73 articles)
+- [How OpenAI's Codex Team Works and Leverages AI](src/2026-02/20260224-how-openais-codex-team-works-and-leverages-ai.md)
 - [GitHub Agentic Workflows](src/2026-02/20260224-github-agentic-workflows.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260221-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
 - [Gemini 3 Deep Think: Advancing science, research and engineering](src/2026-02/20260217-20260212-gemini-3-deep-think-advancing-science-research-and-engineering.md)

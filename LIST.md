@@ -1,4 +1,3 @@
-https://newsletter.eng-leadership.com/p/how-openais-codex-team-works-and?utm_source=tldrnewsletter&hide_intro_popup=true
 https://github.com/sipeed/picoclaw?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=openclaw-that-runs-on-10-hardware&_bhlid=f8a8e6ea7a650676c61621478990b997f76bd1ca
 https://github.com/obra/superpowers?utm_source=www.theunwindai.com&utm_medium=newsletter&utm_campaign=openclaw-that-runs-on-10-hardware&_bhlid=65b92fb99406f6177152dbcb8f582fdf2c110164
 https://www.anthropic.com/news/claude-code-security?utm_source=tldrai
