@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████ 75
+2026-02 | ███████████████████████████████████████ 76
 ## Articles
 
 ### 2026
 
-#### February (75 articles)
+#### February (76 articles)
+- [Making frontier cybersecurity capabilities available to defenders](src/2026-02/20260220-making-frontier-cybersecurity-capabilities-available-to-defenders.md)
 - [Superpowers](src/2026-02/20260224-superpowers.md)
 - [PicoClaw](src/2026-02/20260209-picoclaw.md)
 - [How OpenAI's Codex Team Works and Leverages AI](src/2026-02/20260224-how-openais-codex-team-works-and-leverages-ai.md)
