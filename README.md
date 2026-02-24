@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████████████ 86
+2026-02 | █████████████████████████████████████████████████ 87
 ## Articles
 
 ### 2026
 
-#### February (86 articles)
+#### February (87 articles)
+- [Gemini 3.1 Pro: Announcing our latest Gemini AI model](src/2026-02/20260219-gemini-3-1-pro-announcing-our-latest-gemini-ai-model.md)
 - [Empiricists vs. Extrapolators](src/2026-02/20260218-empiricists-vs-extrapolators.md)
 - [Software Is Dead — Long Live Software](src/2026-02/20260218-software-is-dead-long-live-software.md)
 - [🦞 CRACKING THE CLAW](src/2026-02/20260218-cracking-the-claw.md)
