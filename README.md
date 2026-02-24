@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████████ 88
+2026-02 | █████████████████████████████████████████████ 89
 ## Articles
 
 ### 2026
 
-#### February (88 articles)
+#### February (89 articles)
+- [How will OpenAI compete?](src/2026-02/20260219-how-will-openai-compete.md)
 - [Building An Elite AI Engineering Culture In 2026](src/2026-02/20260218-building-an-elite-ai-engineering-culture-in-2026.md)
 - [Gemini 3.1 Pro: Announcing our latest Gemini AI model](src/2026-02/20260219-gemini-3-1-pro-announcing-our-latest-gemini-ai-model.md)
 - [Empiricists vs. Extrapolators](src/2026-02/20260218-empiricists-vs-extrapolators.md)

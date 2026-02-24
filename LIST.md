@@ -1,4 +1,3 @@
-https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x?utm_source=tldrnewsletter
 https://sidu.in/essays/after-ai-there-is-no-product.html?utm_source=tldrnewsletter
 https://tomtunguz.com/9-observations-using-ai-agents/?utm_source=tldrnewsletter
 https://every.to/source-code/how-to-build-agent-native-lessons-from-four-apps
