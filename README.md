@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████ 71
+2026-02 | ████████████████████████████████████ 72
 ## Articles
 
 ### 2026
 
-#### February (71 articles)
+#### February (72 articles)
+- [GitHub Agentic Workflows](src/2026-02/20260224-github-agentic-workflows.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260221-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
 - [Gemini 3 Deep Think: Advancing science, research and engineering](src/2026-02/20260217-20260212-gemini-3-deep-think-advancing-science-research-and-engineering.md)
 - [Grok Is Gaining on ChatGPT and Gemini. How It Got There Isn’t Pretty.](src/2026-02/20260217-20260217-grok-is-gaining-on-chatgpt-and-gemini.md)
