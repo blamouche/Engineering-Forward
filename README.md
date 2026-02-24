@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████████████████ 100
+2026-02 | ███████████████████████████████████████████████████ 101
 ## Articles
 
 ### 2026
 
-#### February (100 articles)
+#### February (101 articles)
+- [Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](src/2026-02/20260217-mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions.md)
 - [NotebookLM adds prompt-based revisions and PPTX export](src/2026-02/20260217-notebooklm-adds-prompt-based-revisions-and-pptx-export.md)
 - [Vibe Check: Anthropic Just Made Opus Cheaper Without Calling It That](src/2026-02/20260218-vibe-check-anthropic-just-made-opus-cheaper-without-calling-it-that.md)
 - [🎧 How OpenAI’s Codex Team Uses Their Coding Agent](src/2026-02/20260218-how-openais-codex-team-uses-their-coding-agent.md)
