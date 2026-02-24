@@ -3,12 +3,13 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████ 73
+2026-02 | █████████████████████████████████████ 74
 ## Articles
 
 ### 2026
 
-#### February (73 articles)
+#### February (74 articles)
+- [PicoClaw](src/2026-02/20260209-picoclaw.md)
 - [How OpenAI's Codex Team Works and Leverages AI](src/2026-02/20260224-how-openais-codex-team-works-and-leverages-ai.md)
 - [GitHub Agentic Workflows](src/2026-02/20260224-github-agentic-workflows.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260221-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
