@@ -1,4 +1,3 @@
-https://www.secondbest.ca/p/empiricists-vs-extrapolators?utm_source=tldrnewsletter&hide_intro_popup=true
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/?utm_source=tldrai
 https://www.cjroth.com/blog/2026-02-18-building-an-elite-engineering-culture?utm_source=tldrnewsletter
 https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x?utm_source=tldrnewsletter
