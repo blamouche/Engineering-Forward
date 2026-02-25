@@ -2,3 +2,8 @@ https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-u
 https://brids.bearblog.dev/ai-and-my-crisis-of-meaning/?utm_source=tldrnewsletter
 https://www.chinatalk.media/p/what-are-chinese-people-vibecoding?utm_source=tldrnewsletter
 https://www.wsj.com/tech/ai/pentagon-gives-anthropic-ultimatum-and-deadline-in-ai-use-standoff-40915a8a?st=5SCfby&reflink=desktopwebshare_permalink&mod=tldr&utm_source=tldrnewsletter
+https://newsletter.pragmaticengineer.com/p/the-future-of-software-engineering-with-ai?publication_id=458709&post_id=189035949&isFreemail=true&token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTg5MDM1OTQ5LCJpYXQiOjE3NzE5NTIxNzYsImV4cCI6MTc3NDU0NDE3NiwiaXNzIjoicHViLTQ1ODcwOSIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.hskvzbaL6WxO2s_jJeynXxuyBmG1grEPJksRkkOKFsg&r=fhb7r&triedRedirect=true&utm_source=substack&utm_medium=email
+https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks?utm_source=tldrai
+https://developers.openai.com/cookbook/examples/codex/long_horizon_tasks?utm_source=tldrai
+https://github.com/mandarwagh9/MachineAuth?utm_source=tldrai
+https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview?publication_id=10845&post_id=188743435&isFreemail=true&r=fhb7r&triedRedirect=true
