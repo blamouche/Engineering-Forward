@@ -121,7 +121,7 @@ Every article synthesis follows this exact format:
 - Maintain chronological order in README.md (newest first)
 - LIST.md processes URLs top-to-bottom, removing each after completion
 - Stats agent is called automatically by article-synthesis-agent (no separate commit)
-- Statistics use compact rendering: each █ represents 2 articles (round up for odd numbers)
+- Statistics use compact rendering: each █ represents 3 articles (round up)
 - Monthly synthesis requires exactly 10 selected links
 - Newsletter folder is in .gitignore (not tracked)
 - Use WebFetch tool for retrieving article content
