@@ -3,12 +3,16 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████████████████ 103
+2026-02 | ██████████████████████████████████████████████████████ 107
 ## Articles
 
 ### 2026
 
-#### February (103 articles)
+#### February (107 articles)
+- [The engineeringification of everything](src/2026-02/20260225-the-engineeringification-of-everything.md)
+- [Writing code is cheap now - Agentic Engineering Patterns](src/2026-02/20260225-writing-code-is-cheap-now.md)
+- [Red/green TDD - Agentic Engineering Patterns](src/2026-02/20260225-red-green-tdd.md)
+- [Microsoft execs worry AI will eat entry level coding jobs](src/2026-02/20260223-microsoft-execs-worry-ai-will-eat-entry-level-coding-jobs.md)
 - [The Android of Commerce - How Google Is Building the Interface Between AI & Money 🤖💸](src/2026-02/20260218-the-android-of-commerce-how-google-is-building-the-interface-between-ai-and-money.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260217-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
 - [Mistral AI buys Koyeb in first acquisition to back its cloud ambitions](src/2026-02/20260217-mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions.md)
