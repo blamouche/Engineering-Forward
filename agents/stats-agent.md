@@ -20,7 +20,7 @@ Articles per month:
 2026-01 | ████████ 46<br>
 2026-02 | ██ 3
 ```
-   - Each `█` = 2 articles (round up)
+   - Each `█` = 3 articles (round up)
    - Chronological order (oldest first)
    - `<br>` after each line except last
    - Only months with articles

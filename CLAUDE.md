@@ -44,7 +44,7 @@ Articles are processed through specialized agents that follow a specific workflo
 
 4. **Statistics update**: `/stats-agent`
    - Counts articles per month from README.md
-   - Generates compact ASCII bar chart (each █ = 2 articles, rounded up)
+   - Generates compact ASCII bar chart (each █ = 3 articles, rounded up)
    - Updates month headers with article counts
    - Format: `2026-01 | ███████████████████████ 46`
    - When called directly (not from article-synthesis-agent), commits and pushes changes
