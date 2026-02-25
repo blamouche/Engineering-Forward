@@ -1,14 +1,4 @@
-```
-          #####
-         #  _  #
-         # |_| #
-         #  _  #
-         # |_| #
-          ### #
-         #  #  #
-         #  #  #
-         #######
-```
+![Engineering Forward](engineering-forward.svg)
 
 ## Statistics
 
