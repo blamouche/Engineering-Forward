@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████ 117
+2026-02 | ████████████████████████████████████████ 118
 
 ## Articles
 
 ### 2026
 
-#### February (117 articles)
+#### February (118 articles)
+- [Google Maps might let you restyle Street View with Nano Banana, for some reason](src/2026-02/20260225-google-maps-might-let-you-restyle-street-view-with-nano-banana.md)
 - [Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost](src/2026-02/20260224-anthropic-updates-claude-cowork.md)
 - [Kilo launches KiloClaw, allowing anyone to deploy OpenClaw agents in production in 60 seconds](src/2026-02/20260226-kilo-launches-kiloclaw.md)
 - [Agents are not thinking, they are searching](src/2026-02/20260222-agents-are-not-thinking-they-are-searching.md)
