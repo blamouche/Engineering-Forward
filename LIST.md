@@ -1,4 +1,3 @@
-https://developers.openai.com/cookbook/examples/codex/long_horizon_tasks?utm_source=tldrai
 https://github.com/mandarwagh9/MachineAuth?utm_source=tldrai
 https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview?publication_id=10845&post_id=188743435&isFreemail=true&r=fhb7r&triedRedirect=true
 https://technoyoda.github.io/agent-search.html?utm_source=tldrai

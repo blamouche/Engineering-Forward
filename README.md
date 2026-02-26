@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████ 111
+2026-02 | ██████████████████████████████████████ 112
 
 ## Articles
 
 ### 2026
 
-#### February (111 articles)
+#### February (112 articles)
+- [Long horizon tasks with Codex](src/2026-02/20260226-long-horizon-tasks-with-codex.md)
 - [Detecting and preventing distillation attacks](src/2026-02/20260226-detecting-and-preventing-distillation-attacks.md)
 - [The Future of Software Engineering with AI: Six Predictions](src/2026-02/20260226-the-future-of-software-engineering-with-ai-six-predictions.md)
 - [What Are Chinese People Vibecoding?](src/2026-02/20260226-what-are-chinese-people-vibecoding.md)
