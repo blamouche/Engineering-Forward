@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████ 108
+2026-02 | █████████████████████████████████████ 109
 
 ## Articles
 
 ### 2026
 
-#### February (108 articles)
+#### February (109 articles)
+- [What Are Chinese People Vibecoding?](src/2026-02/20260226-what-are-chinese-people-vibecoding.md)
 - [AI and My Crisis of Meaning](src/2026-02/20260224-ai-and-my-crisis-of-meaning.md)
 - [The engineeringification of everything](src/2026-02/20260225-the-engineeringification-of-everything.md)
 - [Writing code is cheap now - Agentic Engineering Patterns](src/2026-02/20260225-writing-code-is-cheap-now.md)
