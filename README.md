@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████ 116
+2026-02 | ███████████████████████████████████████ 117
 
 ## Articles
 
 ### 2026
 
-#### February (116 articles)
+#### February (117 articles)
+- [Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost](src/2026-02/20260224-anthropic-updates-claude-cowork.md)
 - [Kilo launches KiloClaw, allowing anyone to deploy OpenClaw agents in production in 60 seconds](src/2026-02/20260226-kilo-launches-kiloclaw.md)
 - [Agents are not thinking, they are searching](src/2026-02/20260222-agents-are-not-thinking-they-are-searching.md)
 - [How to use AI for your next job interview](src/2026-02/20260226-how-to-use-ai-for-your-next-job-interview.md)
