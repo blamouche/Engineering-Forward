@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████ 114
+2026-02 | ███████████████████████████████████████ 115
 
 ## Articles
 
 ### 2026
 
-#### February (114 articles)
+#### February (115 articles)
+- [Agents are not thinking, they are searching](src/2026-02/20260222-agents-are-not-thinking-they-are-searching.md)
 - [How to use AI for your next job interview](src/2026-02/20260226-how-to-use-ai-for-your-next-job-interview.md)
 - [MachineAuth](src/2026-02/20260226-machineauth.md)
 - [Long horizon tasks with Codex](src/2026-02/20260226-long-horizon-tasks-with-codex.md)
