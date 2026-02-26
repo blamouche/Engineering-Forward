@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████ 113
+2026-02 | ██████████████████████████████████████ 114
 
 ## Articles
 
 ### 2026
 
-#### February (113 articles)
+#### February (114 articles)
+- [How to use AI for your next job interview](src/2026-02/20260226-how-to-use-ai-for-your-next-job-interview.md)
 - [MachineAuth](src/2026-02/20260226-machineauth.md)
 - [Long horizon tasks with Codex](src/2026-02/20260226-long-horizon-tasks-with-codex.md)
 - [Detecting and preventing distillation attacks](src/2026-02/20260226-detecting-and-preventing-distillation-attacks.md)

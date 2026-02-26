@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/how-to-use-ai-in-your-next-job-interview?publication_id=10845&post_id=188743435&isFreemail=true&r=fhb7r&triedRedirect=true
 https://technoyoda.github.io/agent-search.html?utm_source=tldrai
 https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into?utm_source=tldrai
 https://www.wsj.com/tech/ai/anthropic-dials-back-ai-safety-commitments-38257540?st=uaYNWq&reflink=desktopwebshare_permalink&utm_source=tldrai
