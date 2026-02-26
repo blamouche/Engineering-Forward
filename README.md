@@ -6,13 +6,13 @@ Articles per month:
 
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████████ 121
+2026-02 | █████████████████████████████████████████ 122
 
 ## Articles
 
 ### 2026
 
-#### February (121 articles)
+#### February (122 articles)
 - [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
 - [🎧 Inside an AI High School, Through the Eyes of a 17-Year-Old Founder](src/2026-02/20260226-inside-an-ai-high-school-through-the-eyes-of-a-17-year-old-founder.md)
 - [Perplexity Computer のご紹介](src/2026-02/20260225-perplexity-computer-no-goshoukai.md)
@@ -30,6 +30,7 @@ Articles per month:
 - [The engineeringification of everything](src/2026-02/20260225-the-engineeringification-of-everything.md)
 - [Writing code is cheap now - Agentic Engineering Patterns](src/2026-02/20260225-writing-code-is-cheap-now.md)
 - [Red/green TDD - Agentic Engineering Patterns](src/2026-02/20260225-red-green-tdd.md)
+- [Writing about Agentic Engineering Patterns](src/2026-02/20260223-writing-about-agentic-engineering-patterns.md)
 - [Microsoft execs worry AI will eat entry level coding jobs](src/2026-02/20260223-microsoft-execs-worry-ai-will-eat-entry-level-coding-jobs.md)
 - [The Android of Commerce - How Google Is Building the Interface Between AI & Money 🤖💸](src/2026-02/20260218-the-android-of-commerce-how-google-is-building-the-interface-between-ai-and-money.md)
 - [OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era](src/2026-02/20260217-openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the-chatgpt-era.md)
