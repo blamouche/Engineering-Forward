@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████ 107
+2026-02 | ████████████████████████████████████ 108
 
 ## Articles
 
 ### 2026
 
-#### February (107 articles)
+#### February (108 articles)
+- [AI and My Crisis of Meaning](src/2026-02/20260224-ai-and-my-crisis-of-meaning.md)
 - [The engineeringification of everything](src/2026-02/20260225-the-engineeringification-of-everything.md)
 - [Writing code is cheap now - Agentic Engineering Patterns](src/2026-02/20260225-writing-code-is-cheap-now.md)
 - [Red/green TDD - Agentic Engineering Patterns](src/2026-02/20260225-red-green-tdd.md)
