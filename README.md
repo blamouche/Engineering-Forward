@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ████████████████████████████████████████ 119
+2026-02 | ████████████████████████████████████████ 120
 
 ## Articles
 
 ### 2026
 
-#### February (119 articles)
+#### February (120 articles)
+- [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
 - [🎧 Inside an AI High School, Through the Eyes of a 17-Year-Old Founder](src/2026-02/20260226-inside-an-ai-high-school-through-the-eyes-of-a-17-year-old-founder.md)
 - [Google Maps might let you restyle Street View with Nano Banana, for some reason](src/2026-02/20260225-google-maps-might-let-you-restyle-street-view-with-nano-banana.md)
 - [Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost](src/2026-02/20260224-anthropic-updates-claude-cowork.md)
