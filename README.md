@@ -4,6 +4,7 @@
 
 Articles per month:
 
+2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
 2026-02 | ████████████████████████████████████████ 120
 
@@ -229,3 +230,8 @@ Articles per month:
 - [Introducing Agno](src/2026-01/20260115-introducing-agno.md)
 - [Universal Commerce Protocol (UCP)](src/2026-01/20260115-universal-commerce-protocol-ucp.md)
 - [Cowork: Claude Code for the rest of your work](src/2026-01/20260115-cowork-claude-code-for-the-rest-of-your-work.md)
+
+### 2025
+
+#### September (1 article)
+- [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
