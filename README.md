@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████ 109
+2026-02 | █████████████████████████████████████ 110
 
 ## Articles
 
 ### 2026
 
-#### February (109 articles)
+#### February (110 articles)
+- [The Future of Software Engineering with AI: Six Predictions](src/2026-02/20260226-the-future-of-software-engineering-with-ai-six-predictions.md)
 - [What Are Chinese People Vibecoding?](src/2026-02/20260226-what-are-chinese-people-vibecoding.md)
 - [AI and My Crisis of Meaning](src/2026-02/20260224-ai-and-my-crisis-of-meaning.md)
 - [The engineeringification of everything](src/2026-02/20260225-the-engineeringification-of-everything.md)
