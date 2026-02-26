@@ -5,13 +5,14 @@
 Articles per month:
 
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████ 110
+2026-02 | █████████████████████████████████████ 111
 
 ## Articles
 
 ### 2026
 
-#### February (110 articles)
+#### February (111 articles)
+- [Detecting and preventing distillation attacks](src/2026-02/20260226-detecting-and-preventing-distillation-attacks.md)
 - [The Future of Software Engineering with AI: Six Predictions](src/2026-02/20260226-the-future-of-software-engineering-with-ai-six-predictions.md)
 - [What Are Chinese People Vibecoding?](src/2026-02/20260226-what-are-chinese-people-vibecoding.md)
 - [AI and My Crisis of Meaning](src/2026-02/20260224-ai-and-my-crisis-of-meaning.md)
