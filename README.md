@@ -6,13 +6,14 @@ Articles per month:
 
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | █████████████████████████████████████████ 123
+2026-02 | ██████████████████████████████████████████ 124
 
 ## Articles
 
 ### 2026
 
-#### February (123 articles)
+#### February (124 articles)
+- [Intelligent fields: How AI is powering the future of Indian agriculture](src/2026-02/20260226-intelligent-fields-how-ai-is-powering-the-future-of-indian-agriculture.md)
 - [Awesome LLM Apps](src/2026-02/20260226-awesome-llm-apps.md)
 - [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
 - [🎧 Inside an AI High School, Through the Eyes of a 17-Year-Old Founder](src/2026-02/20260226-inside-an-ai-high-school-through-the-eyes-of-a-17-year-old-founder.md)
