@@ -12,7 +12,7 @@ Articles per month:
 
 ### 2026
 
-#### February (124 articles)
+#### February (124 articles) [Synthesis 2026-02](synthesis/2026-02.md)
 - [Intelligent fields: How AI is powering the future of Indian agriculture](src/2026-02/20260226-intelligent-fields-how-ai-is-powering-the-future-of-indian-agriculture.md)
 - [Awesome LLM Apps](src/2026-02/20260226-awesome-llm-apps.md)
 - [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
