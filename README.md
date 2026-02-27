@@ -1,5 +1,8 @@
 ![Engineering Forward](engineering-forward.svg)
 
+## Weekly recap and analyses
+Get the weekly recap and deeper analyses at https://engineeringforward.substack.com.
+
 ## Statistics
 
 Articles per month:
