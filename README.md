@@ -9,13 +9,14 @@ Articles per month:
 
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ██████████████████████████████████████████ 124
+2026-02 | ██████████████████████████████████████████ 125
 
 ## Articles
 
 ### 2026
 
-#### February (124 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (125 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Open Source in the age of AI](src/2026-02/20260226-open-source-in-the-age-of-ai.md)
 - [Intelligent fields: How AI is powering the future of Indian agriculture](src/2026-02/20260226-intelligent-fields-how-ai-is-powering-the-future-of-indian-agriculture.md)
 - [Awesome LLM Apps](src/2026-02/20260226-awesome-llm-apps.md)
 - [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
