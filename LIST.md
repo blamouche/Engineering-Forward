@@ -1,0 +1,14 @@
+https://www.lennysnewsletter.com/p/the-design-process-is-dead
+https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
+https://www.lennysnewsletter.com/p/kevin-weil-open-ai
+https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+https://www.lennysnewsletter.com/p/anthropics-cpo-heres-what-comes-next
+https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase
+https://www.bigtechnology.com/p/most-ai-training-is-moving-to-reinforcement
+https://every.to/context-window/the-case-for-letting-your-ai-forget
+https://every.to/p/how-claude-code-is-transforming-finance-without-turning-you-into-a-coder
+https://every.to/p/you-should-never-go-viral-with-your-ai-app
+https://every.to/chain-of-thought/agent-native-architectures-how-to-build-apps-after-the-end-of-code
+https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents
+https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+https://finance.yahoo.com/news/openai-sora-app-struggling-stellar-164844428.html
