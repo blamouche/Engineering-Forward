@@ -9,15 +9,16 @@ Articles per month:
 
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████ 127
+2026-02 | ███████████████████████████████████████████ 128
 
 ## Articles
 
 ### 2026
 
-#### February (127 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (128 articles) [Synthesis 2026-02](synthesis/2026-02.md)
 - [AI misuse in online scams involving OpenAI models](src/2026-02/20260227-ai-misuse-in-online-scams-involving-openai-models.md)
 - [Nano Banana 2](src/2026-02/20260226-nano-banana-2.md)
+- [Statement: Department of War](src/2026-02/20260226-statement-department-of-war.md)
 - [Open Source in the age of AI](src/2026-02/20260226-open-source-in-the-age-of-ai.md)
 - [Intelligent fields: How AI is powering the future of Indian agriculture](src/2026-02/20260226-intelligent-fields-how-ai-is-powering-the-future-of-indian-agriculture.md)
 - [Awesome LLM Apps](src/2026-02/20260226-awesome-llm-apps.md)
