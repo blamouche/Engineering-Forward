@@ -9,13 +9,13 @@ Articles per month:
 
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████ 128
+2026-02 | ███████████████████████████████████████████ 129
 
 ## Articles
 
 ### 2026
 
-#### February (128 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (129 articles) [Synthesis 2026-02](synthesis/2026-02.md)
 - [AI misuse in online scams involving OpenAI models](src/2026-02/20260227-ai-misuse-in-online-scams-involving-openai-models.md)
 - [Nano Banana 2](src/2026-02/20260226-nano-banana-2.md)
 - [Statement: Department of War](src/2026-02/20260226-statement-department-of-war.md)
@@ -24,6 +24,7 @@ Articles per month:
 - [Awesome LLM Apps](src/2026-02/20260226-awesome-llm-apps.md)
 - [Mitchell Hashimoto's new way of writing code](src/2026-02/20260226-mitchell-hashimotos-new-way-of-writing-code.md)
 - [🎧 Inside an AI High School, Through the Eyes of a 17-Year-Old Founder](src/2026-02/20260226-inside-an-ai-high-school-through-the-eyes-of-a-17-year-old-founder.md)
+- [Realtime Prompting Guide](src/2026-02/20260225-realtime-prompting-guide.md)
 - [Perplexity Computer のご紹介](src/2026-02/20260225-perplexity-computer-no-goshoukai.md)
 - [Google Maps might let you restyle Street View with Nano Banana, for some reason](src/2026-02/20260225-google-maps-might-let-you-restyle-street-view-with-nano-banana.md)
 - [Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost](src/2026-02/20260224-anthropic-updates-claude-cowork.md)
