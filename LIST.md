@@ -12,3 +12,4 @@ https://every.to/chain-of-thought/agent-native-architectures-how-to-build-apps-a
 https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents
 https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
 https://finance.yahoo.com/news/openai-sora-app-struggling-stellar-164844428.html
+https://yourstory.com/ai-story/perplexity-computer-rise-of-digital-worker?pnespid=5bXAgpVE7PrB_bq8qAKovfwLvkkT.3N1hAp3GhEhqxWVsLCkh407E3J_TJtfJLRvSjZ7P6eMmw
