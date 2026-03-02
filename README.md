@@ -7,15 +7,26 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
+2025-04 | █ 1<br>
+2025-06 | █ 1<br>
 2025-09 | █ 1<br>
-2026-01 | ████████████████████████████████ 95<br>
-2026-02 | ███████████████████████████████████████████ 129
+2026-01 | ████████████████████████████████ 96<br>
+2026-02 | █████████████████████████████████████████████ 134<br>
+2026-03 | █ 1
 
 ## Articles
 
 ### 2026
 
-#### February (129 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### March (1 article)
+- [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
+
+#### February (134 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
+- [EP204: 11 Ways to Use AI to Increase Your Productivity](src/2026-02/20260228-11-ways-to-use-ai-to-increase-your-productivity.md)
+- [The Case for Letting Your AI Forget](src/2026-02/20260227-the-case-for-letting-your-ai-forget.md)
+- [Most AI Training Is Moving to Reinforcement Learning, Scale AI Says](src/2026-02/20260227-most-ai-training-is-moving-to-reinforcement-learning-scale-ai-says.md)
+- [You Should Never Go Viral With Your AI App](src/2026-02/20260227-you-should-never-go-viral-with-your-ai-app.md)
 - [AI misuse in online scams involving OpenAI models](src/2026-02/20260227-ai-misuse-in-online-scams-involving-openai-models.md)
 - [Nano Banana 2](src/2026-02/20260226-nano-banana-2.md)
 - [Statement: Department of War](src/2026-02/20260226-statement-department-of-war.md)
@@ -146,7 +157,7 @@ Articles per month:
 - [Genie 3](src/2026-02/20260203-20260203-genie-3-world-model.md)
 - [Mistral Vibe 2.0](src/2026-02/20260203-20260203-mistral-vibe-2-0.md)
 
-#### January (95 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (96 articles) [Synthesis 2026-01](synthesis/2026-01.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/20260131-compound-engineering-how-every-codes-with-agents.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/20260131-i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
 - [The Future of 10x Engineering](src/2026-01/20260131-the-future-of-10x-engineering.md)
@@ -162,6 +173,7 @@ Articles per month:
 - [Stop Coding and Start Planning](src/2026-01/20260129-stop-coding-and-start-planning.md)
 - [Yahoo is Adding Generative AI to Its Search Engine](src/2026-01/20260129-yahoo-is-adding-generative-ai-to-its-search-engine.md)
 - [Kimi K2.5: Visual Agentic Intelligence](src/2026-01/20260129-kimi-k2-5-visual-agentic-intelligence.md)
+- [OpenAI's Sora app is struggling after its stellar launch](src/2026-01/20260129-openais-sora-app-is-struggling-after-its-stellar-launch.md)
 - [I Stopped Reading Code. My Code Reviews Got Better.](src/2026-01/20260127-i-stopped-reading-code-my-code-reviews-got-better.md)
 - [OpenAI to Add Shopping Cart and Merchant Tools to ChatGPT](src/2026-01/20260127-openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt.md)
 - [The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI](src/2026-01/20260127-the-adolescence-of-technology.md)
@@ -247,3 +259,9 @@ Articles per month:
 
 #### September (1 article)
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
+
+#### June (1 article)
+- [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
+
+#### April (1 article)
+- [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
