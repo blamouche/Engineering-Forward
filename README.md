@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [The Third Era](src/2026-03/20260303-third-era.md)
 - [XML Is Fundamental to Claude](src/2026-03/20260303-xml-fundamental-to-claude.md)
 - [All lawful use, much more than you](src/2026-03/20260303-all-lawful-use-much-more-than-you.md)
 - [OpenClaw: Setting Up Your First Personal AI Agent](src/2026-03/20260303-openclaw-setting-up-your-first-personal-ai-agent.md)
