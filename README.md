@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [All lawful use, much more than you](src/2026-03/20260303-all-lawful-use-much-more-than-you.md)
 - [OpenClaw: Setting Up Your First Personal AI Agent](src/2026-03/20260303-openclaw-setting-up-your-first-personal-ai-agent.md)
 - [This Week on How I AI #5: OpenClaw](src/2026-03/20260303-this-week-on-how-i-ai-5-openclaw.md)
 - [The Architecture Behind Open Source](src/2026-03/20260303-the-architecture-behind-open-source.md)
