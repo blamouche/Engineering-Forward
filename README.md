@@ -11,14 +11,14 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
-2026-02 | █████████████████████████████████████████████ 134<br>
-2026-03 | █ 1
+2026-02 | █████████████████████████████████████████████ 135<br>
+2026-03 | █████ 15
 
 ## Articles
 
 ### 2026
 
-#### March (1 article)
+#### March (15 articles)
 - [ClaudeCowork](src/2026-03/20260303-claudecowork.md)
 - [The Two Views of Rationality](src/2026-03/20260303-the-two-views-of-rationality.md)
 - [A First Guide to Building APIs with AI](src/2026-03/20260303-a-first-guide-to-building-apis-with-ai.md)
