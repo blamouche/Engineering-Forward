@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [A First Guide to Building APIs with AI](src/2026-03/20260303-a-first-guide-to-building-apis-with-ai.md)
 - [Hybrid State Machine Agents](src/2026-03/20260303-hybrid-state-machine-agents.md)
 - [AI Clinical Trials](src/2026-03/20260303-ai-clinical-trials.md)
 - [Agents Aren't Tourists](src/2026-03/20260303-agents-arent-tourists.md)
