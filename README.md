@@ -29,6 +29,7 @@ Articles per month:
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
 #### February (134 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
 - [EP204: 11 Ways to Use AI to Increase Your Productivity](src/2026-02/20260228-11-ways-to-use-ai-to-increase-your-productivity.md)
 - [The Case for Letting Your AI Forget](src/2026-02/20260227-the-case-for-letting-your-ai-forget.md)
