@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [This Week on How I AI #5: OpenClaw](src/2026-03/20260303-this-week-on-how-i-ai-5-openclaw.md)
 - [The Architecture Behind Open Source](src/2026-03/20260303-the-architecture-behind-open-source.md)
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)

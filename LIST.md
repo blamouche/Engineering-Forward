@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-5-openclaw
 https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent
 https://www.astralcodexten.com/p/all-lawful-use-much-more-than-you
 https://glthr.com/XML-fundamental-to-Claude
