@@ -1,4 +1,3 @@
-https://philippdubach.com/posts/when-ai-labs-become-defense-contractors/
 https://a16zcrypto.substack.com/p/agents-arent-tourists
 https://press.asimov.com/articles/ai-clinical-trials
 https://tomtunguz.com/hybrid-state-machine-agents/
