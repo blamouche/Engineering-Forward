@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [Hybrid State Machine Agents](src/2026-03/20260303-hybrid-state-machine-agents.md)
 - [AI Clinical Trials](src/2026-03/20260303-ai-clinical-trials.md)
 - [Agents Aren't Tourists](src/2026-03/20260303-agents-arent-tourists.md)
 - [When AI Labs Become Defense Contractors](src/2026-03/20260303-when-ai-labs-become-defense-contractors.md)
