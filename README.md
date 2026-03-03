@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
 #### February (134 articles) [Synthesis 2026-02](synthesis/2026-02.md)

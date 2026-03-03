@@ -1,4 +1,3 @@
-https://www.bigtechnology.com/p/darios-choice-and-anthropics-future
 https://blog.bytebytego.com/p/the-architecture-behind-open-source
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-5-openclaw
 https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent
