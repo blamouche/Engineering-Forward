@@ -1,4 +1,3 @@
-https://glthr.com/XML-fundamental-to-Claude
 https://cursor.com/blog/third-era
 https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html
 https://philippdubach.com/posts/when-ai-labs-become-defense-contractors/
