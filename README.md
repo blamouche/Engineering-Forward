@@ -19,6 +19,7 @@ Articles per month:
 ### 2026
 
 #### March (1 article)
+- [Agents Aren't Tourists](src/2026-03/20260303-agents-arent-tourists.md)
 - [When AI Labs Become Defense Contractors](src/2026-03/20260303-when-ai-labs-become-defense-contractors.md)
 - [The Third Era](src/2026-03/20260303-third-era.md)
 - [XML Is Fundamental to Claude](src/2026-03/20260303-xml-fundamental-to-claude.md)
