@@ -1,0 +1,11 @@
+https://every.to/source-code/you-have-a-claw-now-what
+https://newsletter.pragmaticengineer.com/p/ai-tooling-2026
+https://blog.bytebytego.com/p/how-agoda-built-a-single-source-of
+https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/
+https://vercel.com/blog/keeping-community-human-while-scaling-with-agents
+https://apoorv03.com/p/the-state-of-consumer-ai-part-1-usage
+https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run
+https://blog.bytebytego.com/p/the-architecture-behind-open-source
+https://www.hyperdimensional.co/p/clawed
+https://stratechery.com/2026/anthropic-and-alignment/
+https://getbruin.com/blog/go-is-the-best-language-for-agents/
