@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ████████████████ 47
+2026-03 | ████████████████ 48
 
 ## Articles
 
 ### 2026
 
-#### March (47 articles)
+#### March (48 articles)
+- [Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down](src/2026-03/20260303-alibaba-qwen-s-tech-lead-junyang-lin-2-other-researchers-step-down.md)
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
 - [Claude is an Electron App because we’ve lost native](src/2026-03/20260303-claude-is-an-electron-app-because-we-ve-lost-native.md)
 - [You Need to Rewrite Your CLI for AI Agents](src/2026-03/20260304-you-need-to-rewrite-your-cli-for-ai-agents.md)
