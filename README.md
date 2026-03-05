@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████ 29
+2026-03 | ██████████ 30
 
 ## Articles
 
 ### 2026
 
-#### March (29 articles)
+#### March (30 articles)
+- [AI Safety Has 12 Months Left](src/2026-03/20260305-ai-safety-has-12-months-left.md)
 - [GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode](src/2026-03/20260304-gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasonin.md)
 - [Creative Work Is About to Look a Lot More Like Programming](src/2026-03/20260305-creative-work-is-about-to-look-a-lot-more-like-programming.md)
 - [The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source](src/2026-03/20260305-the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source.md)

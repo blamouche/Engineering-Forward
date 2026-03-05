@@ -1,4 +1,3 @@
-https://mhdempsey.substack.com/p/ai-safety-has-12-months-left
 https://tomtunguz.com/filling-the-queue-for-ai/
 https://www.a16z.news/p/emil-michaels-holy-cow-moment-with
 https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
