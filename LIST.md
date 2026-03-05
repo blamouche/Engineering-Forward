@@ -1,4 +1,3 @@
-https://www.seangoedecke.com/giving-llms-a-personality/
 https://every.to/context-window/how-claws-took-over-every
 https://every.to/chain-of-thought/agent-native-architectures-how-to-build-apps-after-the-end-of-code
 https://blog.mikegchambers.com/posts/when-the-model-is-the-machine/
