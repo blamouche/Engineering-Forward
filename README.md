@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ███████████████ 43
+2026-03 | ███████████████ 44
 
 ## Articles
 
 ### 2026
 
-#### March (43 articles)
+#### March (44 articles)
+- [Relicensing with AI-assisted rewrite](src/2026-03/20260305-relicensing-with-ai-assisted-rewrite.md)
 - [When the Model Is the Machine](src/2026-03/20260303-when-the-model-is-the-machine.md)
 - [How Claws Took Over Every](src/2026-03/20260304-how-claws-took-over-every.md)
 - [Giving LLMs a personality is just good engineering](src/2026-03/20260305-giving-llms-a-personality-is-just-good-engineering.md)

@@ -1,4 +1,3 @@
-https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/
 https://tonsky.me/blog/fall-of-native/
 https://sherwood.news/tech/openais-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating/
