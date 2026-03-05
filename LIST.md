@@ -1,4 +1,3 @@
-https://zackproser.com/blog/openai-codex-review-2026
 https://www.latent.space/p/reviews-dead
 https://www.seangoedecke.com/giving-llms-a-personality/
 https://every.to/context-window/how-claws-took-over-every

@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████████ 38
+2026-03 | █████████████ 39
 
 ## Articles
 
 ### 2026
 
-#### March (38 articles)
+#### March (39 articles)
+- [OpenAI Codex Review 2026 — Updated from Daily Use](src/2026-03/20260305-openai-codex-review-2026-updated-from-daily-use.md)
 - [LLMs can unmask pseudonymous users at scale with surprising accuracy](src/2026-03/20260303-llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy.md)
 - [The Great Transition](src/2026-03/20260305-the-great-transition.md)
 - [What’s Next in AI: Five Trends to Watch in 2026](src/2026-03/20260305-what-s-next-in-ai-five-trends-to-watch-in-2026.md)
