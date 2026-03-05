@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████ 27
+2026-03 | ██████████ 28
 
 ## Articles
 
 ### 2026
 
-#### March (27 articles)
+#### March (28 articles)
+- [Creative Work Is About to Look a Lot More Like Programming](src/2026-03/20260305-creative-work-is-about-to-look-a-lot-more-like-programming.md)
 - [The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source](src/2026-03/20260305-the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source.md)
 - [Vibe Check: GPT-5.4—OpenAI Is Back](src/2026-03/20260305-vibe-check-gpt-5-4-openai-is-back.md)
 - [You Have a Claw. Now What?](src/2026-03/20260305-you-have-a-claw-now-what.md)
