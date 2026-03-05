@@ -1,4 +1,3 @@
-https://blog.mikegchambers.com/posts/when-the-model-is-the-machine/
 https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/
 https://tonsky.me/blog/fall-of-native/
