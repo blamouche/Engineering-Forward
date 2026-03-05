@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████████ 39
+2026-03 | ██████████████ 40
 
 ## Articles
 
 ### 2026
 
-#### March (39 articles)
+#### March (40 articles)
+- [How to Kill the Code Review](src/2026-03/20260305-how-to-kill-the-code-review.md)
 - [OpenAI Codex Review 2026 — Updated from Daily Use](src/2026-03/20260305-openai-codex-review-2026-updated-from-daily-use.md)
 - [LLMs can unmask pseudonymous users at scale with surprising accuracy](src/2026-03/20260303-llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy.md)
 - [The Great Transition](src/2026-03/20260305-the-great-transition.md)
