@@ -1,4 +1,3 @@
-https://www.a16z.news/p/emil-michaels-holy-cow-moment-with
 https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
 https://creatoreconomy.so/p/your-new-job-is-to-onboard-ai-agents
 https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny

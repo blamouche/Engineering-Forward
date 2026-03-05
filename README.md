@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ███████████ 31
+2026-03 | ███████████ 32
 
 ## Articles
 
 ### 2026
 
-#### March (31 articles)
+#### March (32 articles)
+- [Emil Michael's "Holy Cow" moment with AI vendors](src/2026-03/20260305-emil-michael-s-holy-cow-moment-with-ai-vendors.md)
 - [Not Prompts, Blueprints](src/2026-03/20260304-not-prompts-blueprints.md)
 - [AI Safety Has 12 Months Left](src/2026-03/20260305-ai-safety-has-12-months-left.md)
 - [GPT-5.4 reportedly brings a million-token context window and an extreme reasoning mode](src/2026-03/20260304-gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasonin.md)
