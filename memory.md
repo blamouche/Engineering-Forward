@@ -27,3 +27,24 @@
 - files_changed_or_commands: `git pull --rebase`; ensured `LIST.md`; appended normalized URLs; removed blanks; deduplicated exact matches; verified each URL with `grep -Fqx`; committed `Add URL(s) to processing queue`; pushed to `origin/main`; verified `HEAD:LIST.md` contains each URL.
 - outcome: success
 - next_step: None.
+
+## 2026-03-05 22:09:33 
+- actor: agent
+- action: Started scan-list run: loaded LIST.md and initiated sequential URL processing.
+- files_changed_or_commands: `LIST.md`; URL normalization; fetch/extract/create/update loop.
+- outcome: success
+- next_step: Process each URL in order and commit per item.
+
+## 2026-03-05 22:09:47 
+- actor: agent
+- action: Completed scan-list run for 26 URL(s): updated syntheses, README/statistics, LIST.md, and created batch recap.
+- files_changed_or_commands: `src/*`; `README.md`; `LIST.md`; `synthesis/*batch recap.md`; per-item `git commit`; final recap commit.
+- outcome: success
+- next_step: Optional: push commits to remote.
+
+## 2026-03-05 22:10:18 +0100
+- actor: agent
+- action: Corrected malformed absolute-path link in the latest batch recap and finalized memory log update for scan-list run.
+- files_changed_or_commands: \'synthesis/2026-03-05 - 220947 - batch recap.md\'; \'memory.md\'.
+- outcome: success
+- next_step: Push local commits to remote if desired.
