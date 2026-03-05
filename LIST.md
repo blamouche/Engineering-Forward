@@ -1,4 +1,3 @@
-https://every.to/vibe-check/gpt-5-4-openai-is-back?meteredPaywall=1
 https://newsletter.pragmaticengineer.com/p/the-pulse-cloudflare-rewrites-nextjs
 https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming
 https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/

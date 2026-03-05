@@ -11,14 +11,15 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
-2026-02 | █████████████████████████████████████████████ 134<br>
-2026-03 | █████████ 25
+2026-02 | █████████████████████████████████████████████ 135<br>
+2026-03 | █████████ 26
 
 ## Articles
 
 ### 2026
 
-#### March (25 articles)
+#### March (26 articles)
+- [Vibe Check: GPT-5.4—OpenAI Is Back](src/2026-03/20260305-vibe-check-gpt-5-4-openai-is-back.md)
 - [You Have a Claw. Now What?](src/2026-03/20260305-you-have-a-claw-now-what.md)
 - [AI Tooling in 2026: Current Landscape and Lessons Learned](src/2026-03/20260305-ai-tooling-2026.md)
 - [How Agoda Built a Single Source of Truth for AI Evaluation](src/2026-03/20260305-how-agoda-built-a-single-source-of-truth-for-ai-evaluation.md)
@@ -45,7 +46,7 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (134 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (135 articles) [Synthesis 2026-02](synthesis/2026-02.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
 - [EP204: 11 Ways to Use AI to Increase Your Productivity](src/2026-02/20260228-11-ways-to-use-ai-to-increase-your-productivity.md)
