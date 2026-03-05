@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████████ 37
+2026-03 | █████████████ 38
 
 ## Articles
 
 ### 2026
 
-#### March (37 articles)
+#### March (38 articles)
+- [LLMs can unmask pseudonymous users at scale with surprising accuracy](src/2026-03/20260303-llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy.md)
 - [The Great Transition](src/2026-03/20260305-the-great-transition.md)
 - [What’s Next in AI: Five Trends to Watch in 2026](src/2026-03/20260305-what-s-next-in-ai-five-trends-to-watch-in-2026.md)
 - [Building Claude Code with Boris Cherny](src/2026-03/20260305-building-claude-code-with-boris-cherny.md)
