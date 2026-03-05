@@ -1,4 +1,3 @@
-https://the-decoder.com/gpt-5-4-reportedly-brings-a-million-token-context-window-and-an-extreme-reasoning-mode/
 https://mhdempsey.substack.com/p/ai-safety-has-12-months-left
 https://tomtunguz.com/filling-the-queue-for-ai/
 https://www.a16z.news/p/emil-michaels-holy-cow-moment-with
