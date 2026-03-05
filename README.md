@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████████ 41
+2026-03 | ██████████████ 42
 
 ## Articles
 
 ### 2026
 
-#### March (41 articles)
+#### March (42 articles)
+- [How Claws Took Over Every](src/2026-03/20260304-how-claws-took-over-every.md)
 - [Giving LLMs a personality is just good engineering](src/2026-03/20260305-giving-llms-a-personality-is-just-good-engineering.md)
 - [How to Kill the Code Review](src/2026-03/20260305-how-to-kill-the-code-review.md)
 - [OpenAI Codex Review 2026 — Updated from Daily Use](src/2026-03/20260305-openai-codex-review-2026-updated-from-daily-use.md)
