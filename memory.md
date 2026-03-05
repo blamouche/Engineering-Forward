@@ -13,3 +13,17 @@
 - files_changed_or_commands: `git status --short`; `git diff --stat`; `rg --files .prompt-hub`; `wc -l agents.md`.
 - outcome: success
 - next_step: Commit existing migration changes to satisfy add-url clean-tree precondition.
+
+## 2026-03-05 11:27:40 +0100
+- actor: agent
+- action: Committed existing repository changes to restore clean state before add-url.
+- files_changed_or_commands: `git add -A`; `git commit -m "Migrate agent instructions into prompt hub"`.
+- outcome: success
+- next_step: Execute add-url workflow (pull, append URLs, verify, commit, push).
+
+## 2026-03-05 11:28:15 +0100
+- actor: agent
+- action: Executed add-url workflow with 26 provided URLs.
+- files_changed_or_commands: `git pull --rebase`; ensured `LIST.md`; appended normalized URLs; removed blanks; deduplicated exact matches; verified each URL with `grep -Fqx`; committed `Add URL(s) to processing queue`; pushed to `origin/main`; verified `HEAD:LIST.md` contains each URL.
+- outcome: success
+- next_step: None.
