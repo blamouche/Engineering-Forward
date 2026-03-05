@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ████████████████ 48
+2026-03 | █████████████████ 49
 
 ## Articles
 
 ### 2026
 
-#### March (48 articles)
+#### March (49 articles)
+- [I Had Claude Read Every AI Safety Paper Since 2020, Here's the DB — LessWrong](src/2026-03/20260305-i-had-claude-read-every-ai-safety-paper-since-2020-here-s-the-db-lesswrong.md)
 - [Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down](src/2026-03/20260303-alibaba-qwen-s-tech-lead-junyang-lin-2-other-researchers-step-down.md)
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
 - [Claude is an Electron App because we’ve lost native](src/2026-03/20260303-claude-is-an-electron-app-because-we-ve-lost-native.md)
