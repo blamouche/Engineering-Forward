@@ -1,4 +1,3 @@
-https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/
 https://tonsky.me/blog/fall-of-native/
 https://sherwood.news/tech/openais-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating/
 https://officechai.com/ai/alibaba-qwens-tech-lead-junyang-lin-steps-down/
