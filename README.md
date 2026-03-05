@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████████████ 49
+2026-03 | █████████████████ 50
 
 ## Articles
 
 ### 2026
 
-#### March (49 articles)
+#### March (50 articles)
+- [Three Job Searches, Three AI Roles: What Actually Worked](src/2026-03/20260305-three-job-searches-three-ai-roles-what-actually-worked.md)
 - [I Had Claude Read Every AI Safety Paper Since 2020, Here's the DB — LessWrong](src/2026-03/20260305-i-had-claude-read-every-ai-safety-paper-since-2020-here-s-the-db-lesswrong.md)
 - [Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down](src/2026-03/20260303-alibaba-qwen-s-tech-lead-junyang-lin-2-other-researchers-step-down.md)
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
