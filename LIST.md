@@ -1,4 +1,3 @@
-https://danielmiessler.com/blog/the-great-transition
 https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/
 https://zackproser.com/blog/openai-codex-review-2026
 https://www.latent.space/p/reviews-dead
