@@ -1,4 +1,3 @@
-https://every.to/chain-of-thought/agent-native-architectures-how-to-build-apps-after-the-end-of-code
 https://blog.mikegchambers.com/posts/when-the-model-is-the-machine/
 https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/
 https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/
