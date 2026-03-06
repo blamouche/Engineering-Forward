@@ -48,3 +48,10 @@
 - files_changed_or_commands: \'synthesis/2026-03-05 - 220947 - batch recap.md\'; \'memory.md\'.
 - outcome: success
 - next_step: Push local commits to remote if desired.
+
+## 2026-03-06 08:02:53 +0100
+- actor: agent
+- action: Executed substack-post-recents workflow from latest 15 articles; drafted and published new long-form post file and synced latest pointer.
+- files_changed_or_commands: \'README.md\' parsing for 15 latest article links; created \'substack/20260306-post-the-real-ai-moat-is-operational-clarity.md\'; copied to \'substack/latest.md\'.
+- outcome: success
+- next_step: Commit and push changes to `main`.
