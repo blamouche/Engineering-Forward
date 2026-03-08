@@ -1,4 +1,3 @@
-https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion
 https://simonwillison.net/2026/Mar/5/chardet/
 https://huggingface.co/blog/modular-diffusers
 https://simonwillison.net/2026/Mar/5/introducing-gpt54/
