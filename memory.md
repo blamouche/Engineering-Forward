@@ -101,3 +101,10 @@
 - outcome: success
 - next_step: Continue scan-list queue.
 - 2026-03-08 13:21:47 CET | actor: assistant | action: restored previously processed URLs back into LIST.md per user request | files: LIST.md | commands: git commit, git push | outcome: success | next: none
+
+## 2026-03-08 13:39:30 +0100
+- actor: agent
+- action: Processed scan-list item "A Million Dollars a Slide 💸" using existing synthesis, cleaned LIST.md, and created batch recap.
+- files_changed_or_commands: `src/2026-03/20260308-a-million-dollars-a-slide.md`; `README.md`; `LIST.md`; `synthesis/2026-03-08 - 133900 - batch recap.md`; `git add`; `git commit` (Process article + recap).
+- outcome: success
+- next_step: Push commits to remote.
