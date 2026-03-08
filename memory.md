@@ -64,3 +64,11 @@
 - next_step: None.
 - 2026-03-08 10:59:08 CET | actor: assistant | action: extracted article URLs from Gmail label 0---veille-ia, cleaned/normalized list, added to LIST.md via add-url workflow | files: LIST.md | commands: gog gmail messages search, gog gmail get, git pull --rebase, git add, git commit, git push | outcome: success | next: none
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
+- 2026-03-08 11:19:40 CET | actor: assistant | action: attempted scan-list run via /scan-list command; command not found in shell (no such file). No list processing performed. | files: none | commands: /scan-list | outcome: failed | next: clarify how to run scan-list automation in this repo
+
+## 2026-03-08 11:55:00 +0100
+- actor: agent
+- action: Processed scan-list item EP205: CPU vs GPU vs TPU (synthesis, README/stat update, list update).
+- files_changed_or_commands: `src/2026-03/20260308-ep205-cpu-vs-gpu-vs-tpu.md`; `README.md`; `LIST.md`.
+- outcome: success
+- next_step: Continue scan-list queue.
