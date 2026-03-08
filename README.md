@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ███████████████████████ 64
+2026-03 | ███████████████████████ 65
 
 ## Articles
 
 ### 2026
 
-#### March (64 articles)
+#### March (65 articles)
+- [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](src/2026-03/20260308-introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines.md)
 - [How AI Will Reshape Public Opinion](src/2026-03/20260308-how-ai-will-reshape-public-opinion.md)
 - [Build agents that run automatically](src/2026-03/20260308-build-agents-that-run-automatically.md)
 - [Ask a Techspert: How does AI understand my visual searches?](src/2026-03/20260308-ask-a-techspert-how-does-ai-understand-my-visual-searches.md)
