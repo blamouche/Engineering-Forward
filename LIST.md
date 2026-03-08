@@ -1,4 +1,3 @@
-https://cursor.com/blog/automations
 https://arxiv.org/abs/2603.04390
 https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion
 https://simonwillison.net/2026/Mar/5/chardet/
