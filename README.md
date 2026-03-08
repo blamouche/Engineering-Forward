@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████████████ 54
+2026-03 | ████████████████████ 55
 
 ## Articles
 
 ### 2026
 
-#### March (54 articles)
+#### March (55 articles)
+- [The Art of Scaling Taste](src/2026-03/20260308-the-art-of-scaling-taste.md)
 - [Creative Work Is About to Look a Lot More Like Programming](src/2026-03/20260308-creative-work-is-about-to-look-a-lot-more-like-programming.md)
 - [When An AI Tool Finally Gets You](src/2026-03/20260308-when-an-ai-tool-finally-gets-you.md)
 - [An AI Founder's Guide to Taste—Online and Off](src/2026-03/20260308-an-ai-founders-guide-to-taste-online-and-off.md)
