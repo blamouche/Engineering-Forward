@@ -12,14 +12,15 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ████████████████████████ 69
+2026-03 | █████████████████████████ 70
 
 ## Articles
 
 ### 2026
 
-#### March (69 articles)
+#### March (70 articles)
 - [A GitHub Issue Title Compromised 4,000 Developer Machines](src/2026-03/20260308-a-github-issue-title-compromised-4000-developer-machines.md)
+- [A Million Dollars a Slide 💸](src/2026-03/20260308-a-million-dollars-a-slide.md)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](src/2026-03/20260308-introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines.md)
 - [How AI Will Reshape Public Opinion](src/2026-03/20260308-how-ai-will-reshape-public-opinion.md)
 - [Build agents that run automatically](src/2026-03/20260308-build-agents-that-run-automatically.md)
