@@ -12,13 +12,13 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████████████████ 61
+2026-03 | ██████████████████████ 62
 
 ## Articles
 
 ### 2026
 
-#### March (61 articles)
+#### March (62 articles)
 - [Build agents that run automatically](src/2026-03/20260308-build-agents-that-run-automatically.md)
 - [Ask a Techspert: How does AI understand my visual searches?](src/2026-03/20260308-ask-a-techspert-how-does-ai-understand-my-visual-searches.md)
 - [Labor market impacts of AI: A new measure and early evidence](src/2026-03/20260308-labor-market-impacts-of-ai-a-new-measure-and-early-evidence.md)
@@ -36,6 +36,7 @@ Articles per month:
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
 - [Claude is an Electron App because we’ve lost native](src/2026-03/20260303-claude-is-an-electron-app-because-we-ve-lost-native.md)
 - [You Need to Rewrite Your CLI for AI Agents](src/2026-03/20260304-you-need-to-rewrite-your-cli-for-ai-agents.md)
+- [A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](src/2026-03/20260304-a-dual-helix-governance-approach-towards-reliable-agentic-ai-for-webgis-development.md)
 - [Relicensing with AI-assisted rewrite](src/2026-03/20260305-relicensing-with-ai-assisted-rewrite.md)
 - [When the Model Is the Machine](src/2026-03/20260303-when-the-model-is-the-machine.md)
 - [How Claws Took Over Every](src/2026-03/20260304-how-claws-took-over-every.md)
