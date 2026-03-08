@@ -1,4 +1,3 @@
-https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
 https://cursor.com/blog/automations
 https://arxiv.org/abs/2603.04390
 https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion

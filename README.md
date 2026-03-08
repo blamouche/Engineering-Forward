@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | █████████████████████ 59
+2026-03 | █████████████████████ 60
 
 ## Articles
 
 ### 2026
 
-#### March (59 articles)
+#### March (60 articles)
+- [Ask a Techspert: How does AI understand my visual searches?](src/2026-03/20260308-ask-a-techspert-how-does-ai-understand-my-visual-searches.md)
 - [Labor market impacts of AI: A new measure and early evidence](src/2026-03/20260308-labor-market-impacts-of-ai-a-new-measure-and-early-evidence.md)
 - [Anthropic's Compute Advantage: Why Silicon Strategy is Becoming an AI Moat](src/2026-03/20260308-anthropics-compute-advantage-why-silicon-strategy-is-becoming-an-ai-moat.md)
 - [ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy](src/2026-03/20260308-chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy.md)
