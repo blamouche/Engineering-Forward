@@ -63,3 +63,4 @@
 - outcome: success
 - next_step: None.
 - 2026-03-08 10:59:08 CET | actor: assistant | action: extracted article URLs from Gmail label 0---veille-ia, cleaned/normalized list, added to LIST.md via add-url workflow | files: LIST.md | commands: gog gmail messages search, gog gmail get, git pull --rebase, git add, git commit, git push | outcome: success | next: none
+- 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
