@@ -1,4 +1,3 @@
-https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming
 https://every.to/napkin-math/the-art-of-scaling-taste
 https://www.bigtechnology.com/p/hey-you-should-probably-check-your
 https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/
