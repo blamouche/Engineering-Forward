@@ -1,4 +1,3 @@
-https://every.to/thesis/an-ai-founder-s-guide-to-taste-online-and-off
 https://every.to/source-code/when-an-ai-tool-finally-gets-you
 https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming
 https://every.to/napkin-math/the-art-of-scaling-taste

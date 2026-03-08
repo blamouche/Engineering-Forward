@@ -72,3 +72,10 @@
 - files_changed_or_commands: `src/2026-03/20260308-ep205-cpu-vs-gpu-vs-tpu.md`; `README.md`; `LIST.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+
+## 2026-03-08 11:58:00 +0100
+- actor: agent
+- action: Processed scan-list item An AI Founder's Guide to Taste—Online and Off (synthesis, README/stat update, list update).
+- files_changed_or_commands: `src/2026-03/20260308-an-ai-founders-guide-to-taste-online-and-off.md`; `README.md`; `LIST.md`.
+- outcome: success
+- next_step: Continue scan-list queue.
