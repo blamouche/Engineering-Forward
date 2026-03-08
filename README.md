@@ -11,7 +11,7 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
-2026-02 | █████████████████████████████████████████████ 135<br>
+2026-02 | ███████████████████████████████████████████████ 136<br>
 2026-03 | ███████████████████████ 66
 
 ## Articles
@@ -86,7 +86,7 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (135 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (136 articles) [Synthesis 2026-02](synthesis/2026-02.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
 - [EP204: 11 Ways to Use AI to Increase Your Productivity](src/2026-02/20260228-11-ways-to-use-ai-to-increase-your-productivity.md)
@@ -104,6 +104,7 @@ Articles per month:
 - [Realtime Prompting Guide](src/2026-02/20260225-realtime-prompting-guide.md)
 - [Perplexity Computer のご紹介](src/2026-02/20260225-perplexity-computer-no-goshoukai.md)
 - [Google Maps might let you restyle Street View with Nano Banana, for some reason](src/2026-02/20260225-google-maps-might-let-you-restyle-street-view-with-nano-banana.md)
+- [When AI Becomes the Sales Floor](src/2026-02/20260224-when-ai-becomes-the-sales-floor.md)
 - [Anthropic updates Claude Cowork tool built to give the average office worker a productivity boost](src/2026-02/20260224-anthropic-updates-claude-cowork.md)
 - [Kilo launches KiloClaw, allowing anyone to deploy OpenClaw agents in production in 60 seconds](src/2026-02/20260226-kilo-launches-kiloclaw.md)
 - [Agents are not thinking, they are searching](src/2026-02/20260222-agents-are-not-thinking-they-are-searching.md)
