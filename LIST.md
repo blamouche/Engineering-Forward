@@ -14,13 +14,8 @@ https://www.conspicuouscognition.com/p/how-ai-will-reshape-public-opinion
 https://simonwillison.net/2026/Mar/5/chardet/
 https://huggingface.co/blog/modular-diffusers
 https://simonwillison.net/2026/Mar/5/introducing-gpt54/
-https://arstechnica.com/gaming/2026/03/ms-exec-microsofts-next-console-will-play-xbox-and-pc-games/
-https://arstechnica.com/space/2026/03/congress-steps-up-pressure-on-nasa-to-support-private-space-stations/
 https://www.glossi.io/blog/when-ai-becomes-the-sales-floor
 https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
-https://www.notboring.co/p/costless-sacrifice
 https://kellysutton.com/2026/03/04/ai-retrospective-predictions.html
-https://paulgraham.com/brandage.html
-https://sequoiacap.com/article/services-the-new-software/
 https://dlants.me/ai-se.html
 https://linas.substack.com/p/auquanpitchdeck
