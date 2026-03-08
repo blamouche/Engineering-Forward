@@ -12,13 +12,13 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████████████████ 63
+2026-03 | ███████████████████████ 64
 
 ## Articles
 
 ### 2026
 
-#### March (63 articles)
+#### March (64 articles)
 - [How AI Will Reshape Public Opinion](src/2026-03/20260308-how-ai-will-reshape-public-opinion.md)
 - [Build agents that run automatically](src/2026-03/20260308-build-agents-that-run-automatically.md)
 - [Ask a Techspert: How does AI understand my visual searches?](src/2026-03/20260308-ask-a-techspert-how-does-ai-understand-my-visual-searches.md)
@@ -32,6 +32,7 @@ Articles per month:
 - [An AI Founder's Guide to Taste—Online and Off](src/2026-03/20260308-an-ai-founders-guide-to-taste-online-and-off.md)
 - [EP205: CPU vs GPU vs TPU](src/2026-03/20260308-ep205-cpu-vs-gpu-vs-tpu.md)
 - [Three Job Searches, Three AI Roles: What Actually Worked](src/2026-03/20260305-three-job-searches-three-ai-roles-what-actually-worked.md)
+- [Can coding agents relicense open source through a “clean room” implementation of code?](src/2026-03/20260305-can-coding-agents-relicense-open-source-through-a-clean-room-implementation-of-code.md)
 - [I Had Claude Read Every AI Safety Paper Since 2020, Here's the DB — LessWrong](src/2026-03/20260305-i-had-claude-read-every-ai-safety-paper-since-2020-here-s-the-db-lesswrong.md)
 - [Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down](src/2026-03/20260303-alibaba-qwen-s-tech-lead-junyang-lin-2-other-researchers-step-down.md)
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
