@@ -12,13 +12,13 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ████████████████████████ 67
+2026-03 | ████████████████████████ 68
 
 ## Articles
 
 ### 2026
 
-#### March (67 articles)
+#### March (68 articles)
 - [A GitHub Issue Title Compromised 4,000 Developer Machines](src/2026-03/20260308-a-github-issue-title-compromised-4000-developer-machines.md)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](src/2026-03/20260308-introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines.md)
 - [How AI Will Reshape Public Opinion](src/2026-03/20260308-how-ai-will-reshape-public-opinion.md)
@@ -40,6 +40,7 @@ Articles per month:
 - [Alibaba Qwen's Tech Lead Junyang Lin, 2 Other Researchers Step Down](src/2026-03/20260303-alibaba-qwen-s-tech-lead-junyang-lin-2-other-researchers-step-down.md)
 - [OpenAI’s new GPT-5.3 Instant: Less “cringe” tone, no more “over-caveating” responses - Sherwood News](src/2026-03/20260305-openai-s-new-gpt-5-3-instant-less-cringe-tone-no-more-over-caveating-responses-s.md)
 - [Claude is an Electron App because we’ve lost native](src/2026-03/20260303-claude-is-an-electron-app-because-we-ve-lost-native.md)
+- [AI Retrospective, Predictions](src/2026-03/20260304-ai-retrospective-predictions.md)
 - [You Need to Rewrite Your CLI for AI Agents](src/2026-03/20260304-you-need-to-rewrite-your-cli-for-ai-agents.md)
 - [A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](src/2026-03/20260304-a-dual-helix-governance-approach-towards-reliable-agentic-ai-for-webgis-development.md)
 - [Relicensing with AI-assisted rewrite](src/2026-03/20260305-relicensing-with-ai-assisted-rewrite.md)
