@@ -1,4 +1,3 @@
-https://www.datagravity.dev/p/anthropics-compute-advantage-why
 https://www.anthropic.com/research/labor-market-impacts
 https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/
 https://cursor.com/blog/automations

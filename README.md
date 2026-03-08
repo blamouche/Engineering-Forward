@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ████████████████████ 57
+2026-03 | █████████████████████ 58
 
 ## Articles
 
 ### 2026
 
-#### March (57 articles)
+#### March (58 articles)
+- [Anthropic's Compute Advantage: Why Silicon Strategy is Becoming an AI Moat](src/2026-03/20260308-anthropics-compute-advantage-why-silicon-strategy-is-becoming-an-ai-moat.md)
 - [ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy](src/2026-03/20260308-chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy.md)
 - [Hey, You Should Probably Check Your Chatbot’s Privacy Settings](src/2026-03/20260308-hey-you-should-probably-check-your-chatbots-privacy-settings.md)
 - [The Art of Scaling Taste](src/2026-03/20260308-the-art-of-scaling-taste.md)
