@@ -62,3 +62,4 @@
 - files_changed_or_commands: `LIST.md` validation (`wc -l`, content check); no article synthesis executed.
 - outcome: success
 - next_step: None.
+- 2026-03-08 10:59:08 CET | actor: assistant | action: extracted article URLs from Gmail label 0---veille-ia, cleaned/normalized list, added to LIST.md via add-url workflow | files: LIST.md | commands: gog gmail messages search, gog gmail get, git pull --rebase, git add, git commit, git push | outcome: success | next: none
