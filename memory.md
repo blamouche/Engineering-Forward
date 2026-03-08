@@ -100,3 +100,4 @@
 - files_changed_or_commands: `src/2026-03/20260308-the-art-of-scaling-taste.md`; `README.md`; `LIST.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+- 2026-03-08 13:21:47 CET | actor: assistant | action: restored previously processed URLs back into LIST.md per user request | files: LIST.md | commands: git commit, git push | outcome: success | next: none
