@@ -1,3 +1,7 @@
+https://every.to/napkin-math/the-art-of-scaling-taste
+https://every.to/source-code/when-an-ai-tool-finally-gets-you
+https://every.to/thesis/an-ai-founder-s-guide-to-taste-online-and-off
+https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu
 https://www.glossi.io/blog/when-ai-becomes-the-sales-floor
 https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another
 https://kellysutton.com/2026/03/04/ai-retrospective-predictions.html
