@@ -1,4 +1,3 @@
-https://www.bigtechnology.com/p/hey-you-should-probably-check-your
 https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/
 https://www.datagravity.dev/p/anthropics-compute-advantage-why
 https://www.anthropic.com/research/labor-market-impacts
