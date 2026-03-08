@@ -12,13 +12,13 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ████████████████████████ 68
+2026-03 | ████████████████████████ 69
 
 ## Articles
 
 ### 2026
 
-#### March (68 articles)
+#### March (69 articles)
 - [A GitHub Issue Title Compromised 4,000 Developer Machines](src/2026-03/20260308-a-github-issue-title-compromised-4000-developer-machines.md)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](src/2026-03/20260308-introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines.md)
 - [How AI Will Reshape Public Opinion](src/2026-03/20260308-how-ai-will-reshape-public-opinion.md)
@@ -69,6 +69,7 @@ Articles per month:
 - [The State of Consumer AI (Part 1): Usage](src/2026-03/20260305-the-state-of-consumer-ai-part-1-usage.md)
 - [Clawed](src/2026-03/20260305-clawed.md)
 - [Go is the best language for agents](src/2026-03/20260305-go-is-the-best-language-for-agents.md)
+- [How does AI change Software Engineering?](src/2026-03/20260303-how-does-ai-change-software-engineering.md)
 - [Anthropic and Alignment](src/2026-03/20260303-anthropic-and-alignment.md)
 - [Alibaba's small open-source Qwen3.5-9B beats OpenAI's GPT-OSS-120B and can run on a desktop](src/2026-03/20260303-qwen3-5-9b-beats-gpt-oss-120b.md)
 - [Anthropic's Claude reports widespread outage](src/2026-03/20260302-anthropics-claude-reports-widespread-outage.md)
