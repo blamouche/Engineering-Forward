@@ -1,4 +1,3 @@
-https://every.to/source-code/when-an-ai-tool-finally-gets-you
 https://every.to/thesis/creative-work-is-about-to-look-a-lot-more-like-programming
 https://every.to/napkin-math/the-art-of-scaling-taste
 https://www.bigtechnology.com/p/hey-you-should-probably-check-your

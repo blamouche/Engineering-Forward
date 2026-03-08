@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | █████████████████████████████████████████████ 135<br>
-2026-03 | ██████████████████ 52
+2026-03 | ██████████████████ 53
 
 ## Articles
 
 ### 2026
 
-#### March (52 articles)
+#### March (53 articles)
+- [When An AI Tool Finally Gets You](src/2026-03/20260308-when-an-ai-tool-finally-gets-you.md)
 - [An AI Founder's Guide to Taste—Online and Off](src/2026-03/20260308-an-ai-founders-guide-to-taste-online-and-off.md)
 - [EP205: CPU vs GPU vs TPU](src/2026-03/20260308-ep205-cpu-vs-gpu-vs-tpu.md)
 - [Three Job Searches, Three AI Roles: What Actually Worked](src/2026-03/20260305-three-job-searches-three-ai-roles-what-actually-worked.md)
