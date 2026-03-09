@@ -17,6 +17,7 @@ Point d'entree unique contenant toutes les consignes des agents.
 - `update-stats`
 - `substack-post-recents`
 - `weekly-recap`
+- `newsletter-maps-agent`
 
 ## Routage Market Watch
 1. Verifier que `<agent>` existe dans le registre.
@@ -370,3 +371,53 @@ Articles per month:
 - Original summaries only.
 - Skip unparseable dates with warning.
 - Report if no matching articles.
+
+## Agent: newsletter-maps-agent
+### Usage
+```bash
+/newsletter-maps-agent <YYYY-MM>
+```
+
+### Consignes
+1. Read all files in `src/YYYY-MM/` (stop if folder empty/missing).
+2. Focus on cartography, GIS, mapping tools, spatial data articles.
+3. Extract from each: Title, Source URL, key insights.
+4. Read previous newsletters in `newsletter/maps/` to identify already-covered topics.
+5. Craft title: format `Hot on maps : [TITLE]` (sentence case, no clichés or clickbait).
+6. Write 4-paragraph summary:
+   - Paragraph 1: Main trends and developments in mapping/GIS
+   - Paragraph 2: Notable tools, technologies, or methodologies
+   - Paragraph 3: Industry applications and use cases
+   - Paragraph 4: Forward-looking observations or emerging patterns
+7. Select up to 15 most relevant articles; for each, write one summary sentence ending with `[link](Source URL)` (no titles, just the sentence).
+8. Ensure new content builds on previous editions without repetition; reference past themes when relevant.
+9. Create `newsletter/maps/YYYY-MM-DD - newsletter maps.md` (use last day of month):
+```markdown
+# Hot on maps : [TITLE]
+
+[Paragraph 1]
+
+[Paragraph 2]
+
+[Paragraph 3]
+
+[Paragraph 4]
+
+---
+
+## Selected links
+
+Summary sentence about the article. [link](Source URL)
+
+[repeat up to 15x]
+```
+10. Commit and push:
+    - fetch/pull if behind
+    - commit message: `Add maps newsletter for YYYY-MM`
+
+### Notes
+- English only, factual editorial tone.
+- FORBIDDEN words: amazing, groundbreaking, revolutionary, game changer, game-changing, pivotal, cutting-edge, unprecedented, transformative, disruptive, next-generation, state-of-the-art, breakthrough, paradigm shift.
+- Focus on practical insights and industry relevance.
+- Prioritize articles with concrete applications over hype.
+- Build on previous newsletters: reference past coverage, avoid repeating same insights.

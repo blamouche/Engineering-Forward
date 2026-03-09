@@ -115,3 +115,11 @@
 - files_changed_or_commands: `LIST.md` (empty check).
 - outcome: success
 - next_step: None.
+
+## 2026-03-09 07:00 (Europe/Paris)
+- Actor: openclaw main agent
+- Action: Daily veille IA cron — attempted to extract URLs from Gmail label 0---veille-ia and update LIST.md.
+- Commands: gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body; git status --porcelain; curl -Ls ... (resolved three piano links).
+- Files: no changes applied to LIST.md (blocked by dirty git status).
+- Outcome: failed (repo not clean: .prompt-hub changes/untracked).
+- Next: clean working tree, then rerun add-url sequence and trash processed emails.
