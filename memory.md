@@ -137,3 +137,10 @@
 - files_changed_or_commands: `LIST.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body`; `git pull --rebase`; `git add LIST.md`; `git commit`; `git push`.
 - outcome: success
 - next_step: Optionally trash processed Gmail messages (if desired).
+
+## 2026-03-09 09:16:38 +0100
+- actor: agent
+- action: Executed list-agent automation run (fallback to scan-list workflow because \'agents/list-agent.md\' is absent); validated queue state.
+- files_changed_or_commands: checked \'agents/list-agent.md\' presence (missing); inspected \'LIST.md\' (empty); no article processing required.
+- outcome: success
+- next_step: None.
