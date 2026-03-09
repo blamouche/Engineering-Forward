@@ -123,3 +123,17 @@
 - Files: no changes applied to LIST.md (blocked by dirty git status).
 - Outcome: failed (repo not clean: .prompt-hub changes/untracked).
 - Next: clean working tree, then rerun add-url sequence and trash processed emails.
+
+## 2026-03-09 07:20:11 CET
+- actor: assistant
+- action: Committed and pushed .prompt-hub updates/untracked domain files to restore clean working tree.
+- files_changed_or_commands: `.prompt-hub/` (added app + domain files), `.prompt-hub/domain/market-watch.md`, `memory.md`; `git add -A`; `git commit`; `git push`.
+- outcome: success
+- next_step: Extract veille IA URLs and run add-url workflow.
+
+## 2026-03-09 07:20:11 CET
+- actor: assistant
+- action: Extracted URLs from Gmail label 0---veille-ia, filtered to 17 relevant links, appended to LIST.md via add-url workflow, and pushed.
+- files_changed_or_commands: `LIST.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body`; `git pull --rebase`; `git add LIST.md`; `git commit`; `git push`.
+- outcome: success
+- next_step: Optionally trash processed Gmail messages (if desired).
