@@ -1,0 +1,17 @@
+https://linas.substack.com/p/weeklyfintechpulse389
+https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of
+https://qy.co/books
+https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
+https://www.cnet.com/tech/tech-industry/what-steve-jobs-really-meant-when-he-said-good-artists-copy-great-artists-steal
+https://www.neil.blog/articles/7-quotes-power-reading-charlie-munger
+https://press.stripe.com/maintenance-part-one
+https://github.com/googleworkspace/cli
+https://github.com/vercel-labs/json-render
+https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
+https://github.com/Shubhamsaboo/awesome-llm-apps
+https://cursor.com/automations
+https://openai.com/index/introducing-gpt-5-4/
+https://claude.com/platform/marketplace
+https://github.com/es617/claude-replay
+https://github.com/aidenybai/react-grab
+https://www.theunwindai.com/p/turn-claude-code-into-a-senior-engineer
