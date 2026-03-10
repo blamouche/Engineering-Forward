@@ -144,3 +144,10 @@
 - files_changed_or_commands: checked \'agents/list-agent.md\' presence (missing); inspected \'LIST.md\' (empty); no article processing required.
 - outcome: success
 - next_step: None.
+
+## 2026-03-10 07:05:17 +0100
+- actor: agent
+- action: Extracted veille IA URLs from Gmail label 0---veille-ia, filtered to AI/app-dev links, updated LIST.md via add-url workflow, and pushed.
+- files_changed_or_commands: `gog gmail messages search`; `gog gmail get`; `LIST.md` updated (dedupe + filter + append); `git add LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`.
+- outcome: success
+- next_step: Trash processed Gmail messages; continue daily queue processing.
