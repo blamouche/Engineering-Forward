@@ -152,3 +152,11 @@
 - outcome: success
 - next_step: Trash processed Gmail messages; continue daily queue processing.
 - 2026-03-11 07:04 | agent: openclaw | action: daily veille IA add URLs to LIST.md (dedupe, filter) | files: LIST.md | outcome: success | next: none
+
+## 2026-03-12 07:03:56 +0100
+- actor: agent
+- action: Daily veille IA add-url run: extracted AI/dev article URLs from Gmail label 0---veille-ia, appended to LIST.md with dedupe, committed and pushed.
+- files_changed_or_commands: `gog gmail messages search`; `gog gmail get`; `git pull --rebase`; updated `LIST.md`; `git add LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`.
+- outcome: success
+- next_step: None.
+
