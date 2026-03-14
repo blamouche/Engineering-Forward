@@ -165,3 +165,10 @@
 - files_changed_or_commands: `gog gmail messages search` (include-body); `LIST.md` updated; `git add LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`.
 - outcome: success
 - next_step: Trash processed Gmail messages.
+
+## 2026-03-14 07:04:23 +0100
+- actor: agent
+- action: Added AI/dev URLs from Gmail veille IA to LIST.md and synced changes.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --no-input`; `gog gmail get <id> --format=raw`; parsed and filtered URLs; `git pull --rebase`; updated `LIST.md`; `git add LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`.
+- outcome: success
+- next_step: None.
