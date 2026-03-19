@@ -1,6 +1,3 @@
-https://github.com/tencent-ailab/Penguin-VL
-https://claude.com/blog/code-review
-https://github.com/paperclipai/paperclip
 https://github.com/vercel-labs/agent-browser
 https://www.terminaluse.com/
 https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban

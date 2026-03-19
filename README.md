@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | █████████████████████████████ 104
+2026-03 | █████████████████████████████ 107
 
 ## Articles
 
 ### 2026
 
-#### March (104 articles)
+#### March (107 articles)
+- [Paperclip – Open-source orchestration for zero-human companies](src/2026-03/20260318-paperclip-ai-orchestration.md)
+- [Bringing Code Review to Claude Code](src/2026-03/20260309-bringing-code-review-to-claude-code.md)
+- [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](src/2026-03/20260309-penguin-vl-efficient-vision-language-models.md)
 - [No, it doesn't cost Anthropic $5k per Claude Code user](src/2026-03/20260309-no-it-doesnt-cost-anthropic-5k-per-claude-code-user.md)
 - [AI assistants now equal 56% of global search engine volume: Study](src/2026-03/20260309-ai-assistants-global-search-engine-volume.md)
 - [Teaching LLMs to Reason Like Bayesians](src/2026-03/20260304-teaching-llms-to-reason-like-bayesians.md)
