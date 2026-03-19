@@ -1,6 +1,3 @@
-https://www.promptfoo.dev/blog/promptfoo-joining-openai/
-https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/
-https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/
 https://a16z.com/100-gen-ai-apps-6/
 https://blog.sentry.io/seer-debug-with-ai-at-every-stage-of-development/
 https://code.claude.com/docs/en/code-review

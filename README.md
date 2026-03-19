@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 97<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ███████████████████████████ 96
+2026-03 | ████████████████████████████ 99
 
 ## Articles
 
 ### 2026
 
-#### March (96 articles)
+#### March (99 articles)
+- [Copilot Cowork: A New Way of Getting Work Done](src/2026-03/20260309-copilot-cowork.md)
+- [Anthropic sues Defense Department over supply-chain risk designation](src/2026-03/20260309-anthropic-sues-dod-supply-chain-risk.md)
+- [Promptfoo is Joining OpenAI](src/2026-03/20260309-promptfoo-joining-openai.md)
 - [How Main Street Companies Are Using AI](src/2026-03/20260310-ai-for-boring-businesses.md)
 - [How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days](src/2026-03/20260310-how-airbnb-rolled-out-20-local-payment-methods.md)
 - [How Uber uses AI for development: inside look](src/2026-03/20260310-how-uber-uses-ai-for-development.md)
