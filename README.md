@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ████████████████████████████ 101
+2026-03 | █████████████████████████████ 104
 
 ## Articles
 
 ### 2026
 
-#### March (101 articles)
+#### March (104 articles)
+- [No, it doesn't cost Anthropic $5k per Claude Code user](src/2026-03/20260309-no-it-doesnt-cost-anthropic-5k-per-claude-code-user.md)
+- [AI assistants now equal 56% of global search engine volume: Study](src/2026-03/20260309-ai-assistants-global-search-engine-volume.md)
+- [Teaching LLMs to Reason Like Bayesians](src/2026-03/20260304-teaching-llms-to-reason-like-bayesians.md)
 - [Claude Code: Code Review](src/2026-03/20260319-claude-code-code-review.md)
 - [The Top 100 Gen AI Consumer Apps — 6th Edition](src/2026-03/20260309-top-100-gen-ai-consumer-apps-6th-edition.md)
 - [Copilot Cowork: A New Way of Getting Work Done](src/2026-03/20260309-copilot-cowork.md)

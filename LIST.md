@@ -1,7 +1,4 @@
-https://research.google/blog/teaching-llms-to-reason-like-bayesians/
 https://github.com/tencent-ailab/Penguin-VL
-https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118
-https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/
 https://claude.com/blog/code-review
 https://github.com/paperclipai/paperclip
 https://github.com/vercel-labs/agent-browser
