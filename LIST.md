@@ -1,14 +1,3 @@
-https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
-https://www.bigtechnology.com/p/andrew-ross-sorkin-on-the-risk-if
-https://www.genesys.com/resources/genesys-cloud-agentic-virtual-agent-demo
-https://claude.com/blog/claude-builds-visuals
-https://michaellivs.com/blog/reverse-engineering-claude-generative-ui
-https://robonomics.substack.com/p/agentic-commerce-202603
-https://www.a16z.news/p/institutional-ai-vs-individual-ai
-https://cursor.com/blog/cursorbench
-https://github.com/Gen-Verse/OpenClaw-RL
-https://www.oneusefulthing.org/p/the-shape-of-the-thing
-https://clerk.com/blog/2026-03-03-clerk-for-the-ai-era
 https://www.lesswrong.com/posts/WS3JBPsBGtJvFDEjy/high-grow-market-equilibrium-after-the-singularity
 https://www.anthropic.com/news/claude-partner-network
 https://itcanthink.substack.com/p/building-a-home-robot-with-zero-robot
