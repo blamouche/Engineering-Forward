@@ -1,6 +1,3 @@
-https://www.theunwindai.com/p/turn-claude-code-into-a-senior-engineer
-https://www.bigtechnology.com/p/sxsw-ai-preview-oracles-cuts-foreshadow
-https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney
 https://www.chatprd.ai/how-i-ai/consistent-brand-imagery-in-midjourney
 https://www.chatprd.ai/how-i-ai/workflows/how-to-generate-realistic-ai-self-portraits-for-content

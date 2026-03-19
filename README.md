@@ -12,13 +12,16 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 80
+2026-03 | ██████████████████████████ 83
 
 ## Articles
 
 ### 2026
 
-#### March (80 articles)
+#### March (83 articles)
+- [Top AI GitHub Repositories in 2026](src/2026-03/20260309-top-ai-github-repositories-in-2026.md)
+- [SXSW AI Preview, Oracle's Cuts Foreshadow Others?, AI Consciousness Debate](src/2026-03/20260309-sxsw-ai-preview-oracles-cuts.md)
+- [Turn Claude Code into a Senior Engineer](src/2026-03/20260308-turn-claude-code-into-a-senior-engineer.md)
 - [React Grab: Select context for coding agents directly from your website](src/2026-03/20260319-react-grab.md)
 - [claude-replay: Interactive HTML replays for AI coding sessions](src/2026-03/20260319-claude-replay.md)
 - [Claude Marketplace | Claude by Anthropic](src/2026-03/20260319-claude-marketplace.md)
