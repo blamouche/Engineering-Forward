@@ -1,15 +1,3 @@
-https://www.sonarsource.com/sem/solutions/ai-code-quality/?s_category=Paid&s_source=Paid+Other&s_origin=tldr
-https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html
-https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/
-https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance
-https://www.anthropic.com/features/81k-interviews
-https://www.interconnects.ai/p/gpt-54-is-a-big-step-for-codex
-https://ramp.com/velocity/ai-index-march-2026
-https://miro.com/resources/gartner-how-ai-workhubs-disrupt/?src=-newsletter_glb
-https://github.com/microsoft/apm
-https://github.com/baidubce/Qianfan-VL
-https://a16z.com/the-internet-ruined-customer-service-ai-could-save-it/
-https://commoncog.com/how-to-make-sense-of-ai/
 https://sequoiacap.com/podcast/greetings-earthlings-philip-johnston-of-starcloud-on-data-centers-in-space/
 https://www.atlassian.com/webinars/enterprise-cloud/inside-reddits-it-playbook
 https://stardrift.ai/blog/why-is-starlink-so-good
