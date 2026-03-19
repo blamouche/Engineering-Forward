@@ -1,6 +1,3 @@
-https://www.slash.com/platform/agents
-https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve
-https://blog.bytebytego.com/p/how-vimeo-implemented-ai-powered
 https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/
 https://www.testingcatalog.com/google-launches-new-multimodal-gemini-embedding-2-model/
 https://www.workshoplabs.ai/blog/open-weights-open-training

@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 137<br>
-2026-03 | █████████████████████████████ 112
+2026-03 | █████████████████████████████ 115
 
 ## Articles
 
 ### 2026
 
-#### March (112 articles)
+#### March (115 articles)
+- [How Vimeo Implemented AI-Powered Subtitles](src/2026-03/20260311-how-vimeo-implemented-ai-powered-subtitles.md)
+- [From IDEs to AI Agents with Steve Yegge](src/2026-03/20260311-from-ides-to-ai-agents-steve-yegge.md)
+- [Slash for Agents — Agentic Commerce via MCP](src/2026-03/20260319-slash-agentic-commerce-mcp.md)
 - [Writing my first evals](src/2026-03/20260304-writing-my-first-evals.md)
 - [VS Code Agent Kanban](src/2026-03/20260308-vscode-agent-kanban.md)
 - [Karpathy Open-Sourced a 24/7 AI Research Lab](src/2026-03/20260310-karpathy-open-sourced-ai-research-lab.md)
