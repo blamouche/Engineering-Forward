@@ -1,5 +1,3 @@
-https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
-https://press.stripe.com/maintenance-part-one
 https://github.com/googleworkspace/cli
 https://github.com/vercel-labs/json-render
 https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
