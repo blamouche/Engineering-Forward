@@ -10,15 +10,18 @@ Articles per month:
 2025-04 | █ 1<br>
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
+2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 86
+2026-03 | ██████████████████████████ 88
 
 ## Articles
 
 ### 2026
 
-#### March (86 articles)
+#### March (88 articles)
+- [Early look: Meta silently launches Vibes AI editor to challenge rivals](src/2026-03/20260308-meta-vibes-ai-editor.md)
+- [The Emerging Role of SRAM-Centric Chips in AI Inference](src/2026-03/20260305-sram-centric-chips-ai-inference.md)
 - [Reimagining Product Development with AI](src/2026-03/20260319-reimagining-product-development-with-ai.md)
 - [How I AI: Jamey Gannon's Workflow for Consistent Brand Imagery in Midjourney](src/2026-03/20260308-consistent-brand-imagery-in-midjourney.md)
 - [Mastering Midjourney: How to create consistent, beautiful brand imagery without complex prompts](src/2026-03/20260309-mastering-midjourney-brand-imagery.md)
@@ -343,6 +346,9 @@ Articles per month:
 - [Cowork: Claude Code for the rest of your work](src/2026-01/20260115-cowork-claude-code-for-the-rest-of-your-work.md)
 
 ### 2025
+
+#### October (1 article)
+- [Reasoning boosts search relevance 15-30%](src/2025-10/20251006-reasoning-boosts-search-relevance.md)
 
 #### September (1 article)
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)

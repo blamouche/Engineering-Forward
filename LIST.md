@@ -1,6 +1,3 @@
-https://www.testingcatalog.com/early-look-meta-silently-launches-vibes-ai-editor-to-challenge-rivals/
-https://gimletlabs.ai/blog/sram-centric-chips
-https://softwaredoug.com/blog/2025/10/06/how-much-does-reasoning-improve-search-quality
 https://www.cdata.com/lp/ai-accuracy-whitepaper/
 https://github.com/karpathy/autoresearch
 https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for
