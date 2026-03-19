@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 137<br>
-2026-03 | █████████████████████████████ 115
+2026-03 | ██████████████████████████████████████ 118
 
 ## Articles
 
 ### 2026
 
-#### March (115 articles)
+#### March (118 articles)
+- [Open Weights Isn't Open Training](src/2026-03/20260309-open-weights-open-training.md)
+- [Google launches new multimodal Gemini Embedding 2 model](src/2026-03/20260310-google-gemini-embedding-2.md)
+- [Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](src/2026-03/20260310-meta-acquired-moltbook.md)
 - [How Vimeo Implemented AI-Powered Subtitles](src/2026-03/20260311-how-vimeo-implemented-ai-powered-subtitles.md)
 - [From IDEs to AI Agents with Steve Yegge](src/2026-03/20260311-from-ides-to-ai-agents-steve-yegge.md)
 - [Slash for Agents — Agentic Commerce via MCP](src/2026-03/20260319-slash-agentic-commerce-mcp.md)

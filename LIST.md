@@ -1,6 +1,3 @@
-https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/
-https://www.testingcatalog.com/google-launches-new-multimodal-gemini-embedding-2-model/
-https://www.workshoplabs.ai/blog/open-weights-open-training
 https://ngrok.com/blog/ai-benchmarks
 https://www.anthropic.com/engineering/infrastructure-noise
 https://github.com/RunanywhereAI/rcli
