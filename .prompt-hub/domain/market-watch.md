@@ -33,6 +33,8 @@ Point d'entree unique contenant toutes les consignes des agents.
 
 ### Consignes
 1. Fetch article via WebFetch.
+   - If WebFetch fails (network error, timeout, 4xx/5xx), stop immediately and return error: `FETCH_ERROR: <url> — <reason>`.
+   - Do not create any file.
 2. Extract metadata: Title, Date, Author, Keywords.
 3. Create file at `src/YYYY-MM/YYYYMMDD-<title-slug>.md` (YYYYMMDD = date de publication si dispo, sinon date du jour):
 ```markdown
@@ -101,7 +103,11 @@ Point d'entree unique contenant toutes les consignes des agents.
 2. For each URL (top to bottom, ignore empty lines):
    - Nettoyer l'URL (retirer `utm_*`, `ref`, `fbclid`, `gclid`, `mc_cid`, `mc_eid`, etc.)
    - Run `/article-synthesis <url-nettoyee>`
-   - Extract title and elevator pitch from created file
+   - If article-synthesis returns `FETCH_ERROR`:
+     - Remove URL from `LIST.md` anyway
+     - Record the failure for batch recap (see step 3)
+     - Continue to next URL — do not stop
+   - Otherwise: extract title and elevator pitch from created file
    - Remove processed URL from `LIST.md`
    - Commit: `Process article: [Title]`
 3. Create batch recap at `synthesis/YYYY-MM-DD - HHmmss - batch recap.md`:
@@ -115,11 +121,16 @@ Synthese: https://url1
 Article Title 2
 Elevator pitch.
 Synthese: https://url2
+
+## Errors
+
+- FETCH_ERROR: https://failed-url — <reason>
 ```
 4. In recap:
    - Un bloc par article, separe par une ligne vide
    - `https://urlX` = lien GitHub vers la synthese (`blob/main/src/...`)
    - Ne pas inclure de tracking params
+   - Section `## Errors` uniquement si au moins une erreur; lister une erreur par ligne avec l'URL et la raison
 5. Commit recap: `Add batch recap: YYYY-MM-DD HHmmss`
 
 ### Notes

@@ -8,6 +8,33 @@ Use this prompt as the default operating policy for AI agents across all tasks a
 - Prefer practical execution over theoretical discussion.
 - Keep behavior consistent, traceable, and easy to review.
 
+## Core Principles
+
+- Simplicity first: make every change as simple as possible.
+- No laziness: find root causes — no temporary fixes.
+- Minimal impact: only touch what is necessary.
+
+## Task Management
+
+**Mandatory pre-work — do these steps before anything else, in order:**
+
+1. Read `.prompt-hub/lessons.md` — apply all rules to the current task.
+2. Read `.prompt-hub/memory.md` — restore context from previous sessions.
+3. Read `.prompt-hub/releases.md` — know the current version before any change.
+4. Create the task file at `.prompt-hub/todo/todo-<timestamp>-<slug>.md` — then start work.
+
+Skipping any of these steps is a failure.
+
+- Plan first: create a task file at `.prompt-hub/todo/todo-<timestamp>-<slug>.md` where `<timestamp>` is the current date-time in `YYYYMMDD-HHmmss` format and `<slug>` is a short kebab-case identifier for the task (e.g. `todo-20260313-143000-add-auth.md`).
+- Each task gets its own file; never reuse or overwrite an existing todo file for a different task.
+- For non-trivial tasks (3+ steps or architectural decisions): use plan mode.
+- Verify plan: check in before starting implementation.
+- If something goes sideways, stop and re-plan immediately — do not keep pushing.
+- Track progress: mark items complete as you go.
+- Explain changes: provide a high-level summary at each step.
+- Document results: add a review section to the task's todo file when done.
+- Capture lessons: update `.prompt-hub/lessons.md` after corrections.
+
 ## Operating Rules
 
 - Clarify the objective, constraints, and expected output before acting.
@@ -25,10 +52,24 @@ Use this prompt as the default operating policy for AI agents across all tasks a
 - Surface risks, tradeoffs, and known limitations explicitly.
 - Keep communication concise, direct, and actionable.
 
+## Subagent Strategy
+
+- Use subagents liberally to keep the main context window clean.
+- Offload research, exploration, and parallel analysis to subagents.
+- For complex problems, throw more compute at it via subagents.
+- One task per subagent for focused execution.
+
+## Safety and Governance
+
+- Respect security, privacy, and least-privilege principles.
+- Never expose secrets, credentials, or sensitive user data.
+- Flag potentially destructive operations before execution when possible.
+- Follow applicable policy and legal constraints for the task context.
+
 ## Memory and Traceability
 
-- Maintain a `memory.md` file.
-- If `memory.md` does not exist, create it before logging any action.
+- Maintain a `.prompt-hub/memory.md` file.
+- If `.prompt-hub/memory.md` does not exist, create the `.prompt-hub/` directory and the file before logging any action.
 - Log every meaningful AI-agent action with:
   - date and time,
   - actor (agent or tool),
@@ -38,12 +79,12 @@ Use this prompt as the default operating policy for AI agents across all tasks a
   - next relevant step (if any).
 - Never delete historical entries; append new records in chronological order.
 
-## Safety and Governance
+## Self-Improvement Loop
 
-- Respect security, privacy, and least-privilege principles.
-- Never expose secrets, credentials, or sensitive user data.
-- Flag potentially destructive operations before execution when possible.
-- Follow applicable policy and legal constraints for the task context.
+- After any correction from the user: update `.prompt-hub/lessons.md` with the pattern; if it does not exist, create the `.prompt-hub/` directory and the file first.
+- Write rules that prevent the same mistake from recurring.
+- Ruthlessly iterate on these lessons until mistake rate drops.
+- Review lessons at session start for relevant context.
 
 ## Output Contract
 
