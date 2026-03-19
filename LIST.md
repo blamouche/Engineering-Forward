@@ -1,14 +1,3 @@
-https://www.lesswrong.com/posts/QfM6SHyBPveDtHAma/selectively-reducing-eval-awareness-and-murder-in-gemma-3
-https://danielmiessler.com/blog/sota-models-over-custom-ones
-https://simonwillison.net/guides/agentic-engineering-patterns/better-code/
-https://ankursethi.com/blog/programming-language-claude-code/
-https://sourcegraph.com/blog/the-death-of-the-junior-developer
-https://every.to/on-every/introducing-proof
-https://every.to/p/this-is-how-the-every-editorial-team-uses-ai
-https://every.to/podcast/transcript-how-we-use-proof-a-collaborative-editor-for-humans-and-ai
-https://newsletter.pragmaticengineer.com/p/steve-yegge-on-ai-agents-and-the
-https://newsletter.pragmaticengineer.com/p/building-claude-code-with-boris-cherny
-https://blog.bytebytego.com/p/stateless-architecture-benefits-and
 https://every.to/p/the-science-of-why-ai-still-can-t-write-like-you
 https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/
 https://github.com/RightNow-AI/openfang

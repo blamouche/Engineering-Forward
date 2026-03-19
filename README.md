@@ -7,20 +7,29 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
+2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | ████████████████████████████████████████████████ 138<br>
-2026-03 | █████████████████████████████████████████ 124
+2026-02 | █████████████████████████████████████████████████ 140<br>
+2026-03 | ███████████████████████████████████████████████ 131
 
 ## Articles
 
 ### 2026
 
-#### March (124 articles)
+#### March (131 articles)
+- [Transcript: How We Use Proof, a Collaborative Editor for Humans and AI](src/2026-03/20260311-how-we-use-proof-collaborative-editor.md)
+- [Introducing Proof](src/2026-03/20260311-introducing-proof-ai-document-editor.md)
+- [Stateless Architecture: Benefits and Tradeoffs](src/2026-03/20260312-stateless-architecture-benefits-and-tradeoffs.md)
+- [Building Claude Code with Boris Cherny](src/2026-03/20260304-building-claude-code-with-boris-cherny.md)
+- [I built a programming language using Claude Code](src/2026-03/20260310-i-built-a-programming-language-with-claude-code.md)
+- [AI should help us produce better code](src/2026-03/20260310-ai-should-help-produce-better-code.md)
+- [Why I Believe in SOTA Models Over Custom Ones](src/2026-03/20260310-sota-models-over-custom-ones.md)
+- [Selectively Reducing Eval Awareness and Murder in Gemma 3](src/2026-03/20260308-selectively-reducing-eval-awareness-gemma-3.md)
 - [How NVIDIA Builds Open Data for AI](src/2026-03/20260310-nvidia-open-data-for-ai.md)
 - [claude-ground: Modular Rules & Skills System for Claude Code](src/2026-03/20260306-claude-ground-modular-rules-skills.md)
 - [RCLI: On-Device Voice AI Assistant for macOS](src/2026-03/20260315-rcli-on-device-voice-ai-macos.md)
@@ -146,7 +155,9 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (138 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (140 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Steve Yegge on AI Agents and the Future of Software Engineering](src/2026-02/20260210-steve-yegge-ai-agents-future-of-software-engineering.md)
+- [This Is How the Every Editorial Team Uses AI](src/2026-02/20260223-how-the-every-editorial-team-uses-ai.md)
 - [Quantifying Infrastructure Noise in Agentic Coding Evals](src/2026-02/20260203-quantifying-infrastructure-noise-agentic-coding-evals.md)
 - [Video Conferencing with Postgres](src/2026-02/20260227-video-conferencing-with-postgres.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
@@ -402,6 +413,9 @@ Articles per month:
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
 
 ### 2024
+
+#### June (1 article)
+- [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 
 #### December (1 article)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
