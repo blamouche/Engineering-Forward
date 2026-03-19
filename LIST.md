@@ -1,6 +1,3 @@
-https://github.com/googleworkspace/cli
-https://github.com/vercel-labs/json-render
-https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://cursor.com/automations
 https://openai.com/index/introducing-gpt-5-4/
