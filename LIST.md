@@ -1,11 +1,3 @@
-https://www.lesswrong.com/posts/WS3JBPsBGtJvFDEjy/high-grow-market-equilibrium-after-the-singularity
-https://www.anthropic.com/news/claude-partner-network
-https://itcanthink.substack.com/p/building-a-home-robot-with-zero-robot
-https://www.crusoe.ai/cloud/managed-inference
-https://simonwillison.net/2026/Mar/13/liquid/
-https://ngrislain.github.io/projects/2026-3-12-dont-vibe--prove/
-https://www.theguardian.com/technology/ng-interactive/2026/mar/11/amazon-artificial-intelligence
-https://vite.dev/blog/announcing-vite8
 https://every.to/source-code/compound-engineering-camp-every-step-from-scratch
 https://every.to/source-code/compound-engineering-the-definitive-guide
 https://github.com/EveryInc/compound-engineering-plugin

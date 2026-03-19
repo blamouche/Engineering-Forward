@@ -15,13 +15,20 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ███████████████████████████████████████████████████ 143<br>
-2026-03 | █████████████████████████████████████████████████████ 155
+2026-03 | ██████████████████████████████████████████████████████ 162
 
 ## Articles
 
 ### 2026
 
-#### March (155 articles)
+#### March (162 articles)
+- [Vite 8.0 is out!](src/2026-03/20260312-vite-8-rolldown-unified-bundler.md)
+- [Don't Vibe — Prove](src/2026-03/20260312-dont-vibe-prove-dependent-types.md)
+- [Shopify/liquid: 53% faster parse+render, 61% fewer allocations](src/2026-03/20260313-shopify-liquid-53-percent-faster.md)
+- [Crusoe Managed Inference: Low latency and breakthrough speed](src/2026-03/20260313-crusoe-managed-inference.md)
+- [Building a Home Robot With Zero Robot Data](src/2026-03/20260312-building-home-robot-zero-robot-data.md)
+- [Anthropic Invests $100 Million into the Claude Partner Network](src/2026-03/20260312-anthropic-claude-partner-network.md)
+- [High Grow Market Equilibrium After the Singularity](src/2026-03/20260312-high-grow-market-equilibrium-after-singularity.md)
 - [Clerk for the AI era](src/2026-03/20260303-clerk-for-the-ai-era.md)
 - [The Shape of the Thing](src/2026-03/20260312-the-shape-of-the-thing.md)
 - [How we compare model quality in Cursor](src/2026-03/20260311-cursorbench-model-quality-evaluation.md)
