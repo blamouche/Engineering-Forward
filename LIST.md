@@ -1,6 +1,3 @@
-https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney
-https://www.chatprd.ai/how-i-ai/consistent-brand-imagery-in-midjourney
-https://www.chatprd.ai/how-i-ai/workflows/how-to-generate-realistic-ai-self-portraits-for-content
 https://www.chatprd.ai/how-i-ai/workflows/how-to-fix-and-refine-ai-generated-images
 https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-consistent-brand-aesthetic-in-midjourney
 https://miro.com/resources/reimagining-product-development-with-ai/?src=-tldr_glb
