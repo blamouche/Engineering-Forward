@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/the-most-successful-ai-company-youve-never-heard-of
 https://www.lennysnewsletter.com/p/marc-andreessen-the-real-ai-boom
 https://press.stripe.com/maintenance-part-one
 https://github.com/googleworkspace/cli
