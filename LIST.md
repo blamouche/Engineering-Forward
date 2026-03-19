@@ -1,10 +1,3 @@
-https://every.to/source-code/compound-engineering-camp-every-step-from-scratch
-https://every.to/source-code/compound-engineering-the-definitive-guide
-https://github.com/EveryInc/compound-engineering-plugin
-https://every.to/vibe-check/vibe-check-claude-haiku-4-5-anthropic-cooked
-https://every.to/vibe-check/vibe-check-gemini-2-5-pro-and-gemini-2-5-flash
-https://every.to/vibe-check/opus-4-6
-https://every.to/vibe-check/vibe-check-codex-openai-s-new-coding-agent
 https://www.sonarsource.com/sem/solutions/ai-code-quality/?s_category=Paid&s_source=Paid+Other&s_origin=tldr
 https://www.cnbc.com/2026/03/18/china-openclaw-baidu-tencent-ai.html
 https://www.testingcatalog.com/minimax-launches-m2-7-model-on-minimax-agent-and-apis/

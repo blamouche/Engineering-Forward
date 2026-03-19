@@ -10,18 +10,21 @@ Articles per month:
 2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
+2025-05 | █ 2<br>
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
-2025-10 | █ 1<br>
+2025-10 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | ███████████████████████████████████████████████████ 143<br>
-2026-03 | ██████████████████████████████████████████████████████ 162
+2026-02 | ████████████████████████████████████████████████ 145<br>
+2026-03 | ██████████████████████████████████████████████████████ 164
 
 ## Articles
 
 ### 2026
 
-#### March (162 articles)
+#### March (164 articles)
+- [Compound Engineering Plugin](src/2026-03/20260319-compound-engineering-plugin.md)
+- [Compound Engineering Camp: Every Step, From Scratch](src/2026-03/20260313-compound-engineering-camp-every-step.md)
 - [Vite 8.0 is out!](src/2026-03/20260312-vite-8-rolldown-unified-bundler.md)
 - [Don't Vibe — Prove](src/2026-03/20260312-dont-vibe-prove-dependent-types.md)
 - [Shopify/liquid: 53% faster parse+render, 61% fewer allocations](src/2026-03/20260313-shopify-liquid-53-percent-faster.md)
@@ -186,7 +189,9 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (143 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (145 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Compound Engineering: The Definitive Guide](src/2026-02/20260209-compound-engineering-definitive-guide.md)
+- [Vibe Check: Opus 4.6—The Best Coding Model We've Tested](src/2026-02/20260205-vibe-check-opus-4-6-best-coding-model.md)
 - [OpenClaw-RL: Train Any Agent Simply by Talking](src/2026-02/20260226-openclaw-rl-train-agents-by-talking.md)
 - [Head of Claude Code: What happens after coding is solved](src/2026-02/20260219-head-of-claude-code-what-happens-after-coding-is-solved.md)
 - [DeerFlow: ByteDance's Open-Source Super Agent Harness](src/2026-02/20260228-deerflow-bytedance-super-agent.md)
@@ -434,7 +439,8 @@ Articles per month:
 
 ### 2025
 
-#### October (1 article)
+#### October (2 articles)
+- [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)
 - [Reasoning boosts search relevance 15-30%](src/2025-10/20251006-reasoning-boosts-search-relevance.md)
 
 #### September (1 article)
@@ -442,6 +448,10 @@ Articles per month:
 
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
+
+#### May (2 articles)
+- [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
+- [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
 #### April (1 article)
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
