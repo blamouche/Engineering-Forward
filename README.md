@@ -12,15 +12,21 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 1<br>
-2026-01 | ████████████████████████████████ 98<br>
-2026-02 | ███████████████████████████████████████████████ 137<br>
-2026-03 | ██████████████████████████████████████ 118
+2026-01 | █████████████████████████████████ 99<br>
+2026-02 | ████████████████████████████████████████████████ 138<br>
+2026-03 | █████████████████████████████████████████ 124
 
 ## Articles
 
 ### 2026
 
-#### March (118 articles)
+#### March (124 articles)
+- [How NVIDIA Builds Open Data for AI](src/2026-03/20260310-nvidia-open-data-for-ai.md)
+- [claude-ground: Modular Rules & Skills System for Claude Code](src/2026-03/20260306-claude-ground-modular-rules-skills.md)
+- [RCLI: On-Device Voice AI Assistant for macOS](src/2026-03/20260315-rcli-on-device-voice-ai-macos.md)
+- [The era of "AI as text" is over. Execution is the new interface.](src/2026-03/20260310-era-of-ai-as-text-is-over.md)
+- [Your Data Agents Need Context](src/2026-03/20260310-your-data-agents-need-context.md)
+- [The Anatomy of an Agent Harness](src/2026-03/20260310-the-anatomy-of-an-agent-harness.md)
 - [Open Weights Isn't Open Training](src/2026-03/20260309-open-weights-open-training.md)
 - [Google launches new multimodal Gemini Embedding 2 model](src/2026-03/20260310-google-gemini-embedding-2.md)
 - [Meta acquired Moltbook, the AI agent social network that went viral because of fake posts](src/2026-03/20260310-meta-acquired-moltbook.md)
@@ -140,7 +146,8 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (137 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (138 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Quantifying Infrastructure Noise in Agentic Coding Evals](src/2026-02/20260203-quantifying-infrastructure-noise-agentic-coding-evals.md)
 - [Video Conferencing with Postgres](src/2026-02/20260227-video-conferencing-with-postgres.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
@@ -279,7 +286,8 @@ Articles per month:
 - [Genie 3](src/2026-02/20260203-20260203-genie-3-world-model.md)
 - [Mistral Vibe 2.0](src/2026-02/20260203-20260203-mistral-vibe-2-0.md)
 
-#### January (98 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (99 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [What those AI benchmark numbers mean](src/2026-01/20260129-what-ai-benchmark-numbers-mean.md)
 - [Teach Your AI to Think Like a Senior Engineer](src/2026-01/20260129-teach-your-ai-to-think-like-a-senior-engineer-compound.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/20260131-compound-engineering-how-every-codes-with-agents.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/20260131-i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)

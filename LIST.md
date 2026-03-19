@@ -1,12 +1,3 @@
-https://ngrok.com/blog/ai-benchmarks
-https://www.anthropic.com/engineering/infrastructure-noise
-https://github.com/RunanywhereAI/rcli
-https://blog.langchain.com/the-anatomy-of-an-agent-harness/
-https://huggingface.co/blog/nvidia/open-data-for-ai
-https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html
-https://a16z.com/your-data-agents-need-context/
-https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/
-https://github.com/akinalpfdn/claude-ground
 https://www.lesswrong.com/posts/QfM6SHyBPveDtHAma/selectively-reducing-eval-awareness-and-murder-in-gemma-3
 https://danielmiessler.com/blog/sota-models-over-custom-ones
 https://simonwillison.net/guides/agentic-engineering-patterns/better-code/
