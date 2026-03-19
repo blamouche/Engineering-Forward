@@ -1,6 +1,3 @@
-https://github.com/Shubhamsaboo/awesome-llm-apps
-https://cursor.com/automations
-https://openai.com/index/introducing-gpt-5-4/
 https://claude.com/platform/marketplace
 https://github.com/es617/claude-replay
 https://github.com/aidenybai/react-grab

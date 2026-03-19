@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | █████████████████████████ 76
+2026-03 | █████████████████████████ 77
 
 ## Articles
 
 ### 2026
 
-#### March (76 articles)
+#### March (77 articles)
+- [Awesome LLM Apps - Collection of LLM applications with AI Agents and RAG](src/2026-03/20260319-awesome-llm-apps.md)
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-03/20260212-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)
 - [json-render: The Generative UI Framework](src/2026-03/20260319-json-render-generative-ui-framework.md)
 - [Google Workspace CLI (gws)](src/2026-03/20260319-google-workspace-cli.md)
