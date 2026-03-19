@@ -13,13 +13,14 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 88
+2026-03 | ██████████████████████████ 89
 
 ## Articles
 
 ### 2026
 
-#### March (88 articles)
+#### March (89 articles)
+- [autoresearch: AI agents running research on single-GPU nanochat training automatically](src/2026-03/20260306-autoresearch-karpathy.md)
 - [Early look: Meta silently launches Vibes AI editor to challenge rivals](src/2026-03/20260308-meta-vibes-ai-editor.md)
 - [The Emerging Role of SRAM-Centric Chips in AI Inference](src/2026-03/20260305-sram-centric-chips-ai-inference.md)
 - [Reimagining Product Development with AI](src/2026-03/20260319-reimagining-product-development-with-ai.md)

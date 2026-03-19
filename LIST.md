@@ -1,6 +1,3 @@
-https://www.cdata.com/lp/ai-accuracy-whitepaper/
-https://github.com/karpathy/autoresearch
-https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for
 https://www.anthropic.com/news/mozilla-firefox-security
 https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/
 https://linas.substack.com/p/claudeinexcel
