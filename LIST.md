@@ -1,6 +1,3 @@
-https://every.to/thesis/ai-for-boring-businesses
-https://every.to/thesis/how-to-build-a-truly-useful-ai-product
-https://every.to/source-code/teach-your-ai-to-think-like-a-senior-engineer-789ba7ca-ca7c-45a1-91fa-4178f59f226f
 https://www.promptfoo.dev/blog/promptfoo-joining-openai/
 https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/
 https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/

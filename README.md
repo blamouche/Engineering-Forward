@@ -7,19 +7,21 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
+2024-12 | █ 1<br>
 2025-04 | █ 1<br>
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 1<br>
-2026-01 | ████████████████████████████████ 96<br>
+2026-01 | ████████████████████████████████ 97<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ███████████████████████████ 95
+2026-03 | ███████████████████████████ 96
 
 ## Articles
 
 ### 2026
 
-#### March (95 articles)
+#### March (96 articles)
+- [How Main Street Companies Are Using AI](src/2026-03/20260310-ai-for-boring-businesses.md)
 - [How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days](src/2026-03/20260310-how-airbnb-rolled-out-20-local-payment-methods.md)
 - [How Uber uses AI for development: inside look](src/2026-03/20260310-how-uber-uses-ai-for-development.md)
 - [Do AI-enabled companies need fewer people?](src/2026-03/20260308-do-ai-enabled-companies-need-fewer-people.md)
@@ -254,7 +256,8 @@ Articles per month:
 - [Genie 3](src/2026-02/20260203-20260203-genie-3-world-model.md)
 - [Mistral Vibe 2.0](src/2026-02/20260203-20260203-mistral-vibe-2-0.md)
 
-#### January (96 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (97 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+- [Teach Your AI to Think Like a Senior Engineer](src/2026-01/20260129-teach-your-ai-to-think-like-a-senior-engineer-compound.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/20260131-compound-engineering-how-every-codes-with-agents.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/20260131-i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
 - [The Future of 10x Engineering](src/2026-01/20260131-the-future-of-10x-engineering.md)
@@ -365,3 +368,8 @@ Articles per month:
 
 #### April (1 article)
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
+
+### 2024
+
+#### December (1 article)
+- [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
