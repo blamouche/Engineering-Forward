@@ -172,3 +172,4 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --no-input`; `gog gmail get <id> --format=raw`; parsed and filtered URLs; `git pull --rebase`; updated `LIST.md`; `git add LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`.
 - outcome: success
 - next_step: None.
+2026-03-19 15:09:54 CET — openclaw — Daily veille IA: extracted URLs from Gmail label 0---veille-ia, normalized/deduped, updated LIST.md, filtered out non‑AI/app-dev links, verified additions. Files: LIST.md. Outcome: success. Next: none.
