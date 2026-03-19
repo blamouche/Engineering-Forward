@@ -12,13 +12,14 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 85
+2026-03 | ██████████████████████████ 86
 
 ## Articles
 
 ### 2026
 
-#### March (85 articles)
+#### March (86 articles)
+- [Reimagining Product Development with AI](src/2026-03/20260319-reimagining-product-development-with-ai.md)
 - [How I AI: Jamey Gannon's Workflow for Consistent Brand Imagery in Midjourney](src/2026-03/20260308-consistent-brand-imagery-in-midjourney.md)
 - [Mastering Midjourney: How to create consistent, beautiful brand imagery without complex prompts](src/2026-03/20260309-mastering-midjourney-brand-imagery.md)
 - [Top AI GitHub Repositories in 2026](src/2026-03/20260309-top-ai-github-repositories-in-2026.md)

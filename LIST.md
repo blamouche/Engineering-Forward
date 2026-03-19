@@ -1,6 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/how-to-fix-and-refine-ai-generated-images
-https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-consistent-brand-aesthetic-in-midjourney
-https://miro.com/resources/reimagining-product-development-with-ai/?src=-tldr_glb
 https://www.testingcatalog.com/early-look-meta-silently-launches-vibes-ai-editor-to-challenge-rivals/
 https://gimletlabs.ai/blog/sram-centric-chips
 https://softwaredoug.com/blog/2025/10/06/how-much-does-reasoning-improve-search-quality
