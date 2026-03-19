@@ -1,6 +1,3 @@
-https://claude.com/platform/marketplace
-https://github.com/es617/claude-replay
-https://github.com/aidenybai/react-grab
 https://www.theunwindai.com/p/turn-claude-code-into-a-senior-engineer
 https://www.bigtechnology.com/p/sxsw-ai-preview-oracles-cuts-foreshadow
 https://blog.bytebytego.com/p/top-ai-github-repositories-in-2026

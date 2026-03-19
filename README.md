@@ -12,13 +12,16 @@ Articles per month:
 2025-09 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | █████████████████████████ 77
+2026-03 | ██████████████████████████ 80
 
 ## Articles
 
 ### 2026
 
-#### March (77 articles)
+#### March (80 articles)
+- [React Grab: Select context for coding agents directly from your website](src/2026-03/20260319-react-grab.md)
+- [claude-replay: Interactive HTML replays for AI coding sessions](src/2026-03/20260319-claude-replay.md)
+- [Claude Marketplace | Claude by Anthropic](src/2026-03/20260319-claude-marketplace.md)
 - [Awesome LLM Apps - Collection of LLM applications with AI Agents and RAG](src/2026-03/20260319-awesome-llm-apps.md)
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-03/20260212-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)
 - [json-render: The Generative UI Framework](src/2026-03/20260319-json-render-generative-ui-framework.md)
