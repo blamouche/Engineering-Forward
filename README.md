@@ -13,13 +13,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 92
+2026-03 | ███████████████████████████ 95
 
 ## Articles
 
 ### 2026
 
-#### March (92 articles)
+#### March (95 articles)
+- [How Airbnb Rolled Out 20+ Local Payment Methods in 360 Days](src/2026-03/20260310-how-airbnb-rolled-out-20-local-payment-methods.md)
+- [How Uber uses AI for development: inside look](src/2026-03/20260310-how-uber-uses-ai-for-development.md)
+- [Do AI-enabled companies need fewer people?](src/2026-03/20260308-do-ai-enabled-companies-need-fewer-people.md)
 - [Turn Claude in Excel Into Your Senior Financial Analyst](src/2026-03/20260309-claude-in-excel-financial-analyst.md)
 - [OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal](src/2026-03/20260307-openai-robotics-lead-quits-pentagon-deal.md)
 - [Partnering with Mozilla to improve Firefox's security](src/2026-03/20260306-anthropic-mozilla-firefox-security.md)

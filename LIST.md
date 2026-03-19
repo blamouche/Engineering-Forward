@@ -1,6 +1,3 @@
-https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/
-https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development
-https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment
 https://every.to/thesis/ai-for-boring-businesses
 https://every.to/thesis/how-to-build-a-truly-useful-ai-product
 https://every.to/source-code/teach-your-ai-to-think-like-a-senior-engineer-789ba7ca-ca7c-45a1-91fa-4178f59f226f
