@@ -1,7 +1,4 @@
-https://github.com/vercel-labs/agent-browser
-https://www.terminaluse.com/
 https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban
-https://www.theunwindai.com/p/karpathy-open-sourced-a-24-7-ai-research-lab
 https://planetscale.com/blog/video-conferencing-with-postgres
 https://workos.com/blog/writing-my-first-evals
 https://www.slash.com/platform/agents

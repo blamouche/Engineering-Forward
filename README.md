@@ -14,13 +14,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | █████████████████████████████ 107
+2026-03 | █████████████████████████████ 110
 
 ## Articles
 
 ### 2026
 
-#### March (107 articles)
+#### March (110 articles)
+- [Karpathy Open-Sourced a 24/7 AI Research Lab](src/2026-03/20260310-karpathy-open-sourced-ai-research-lab.md)
+- [Terminal Use - Infra for Background Agents](src/2026-03/20260319-terminal-use-infra-background-agents.md)
+- [agent-browser: Fast native Rust CLI for AI agent browser automation](src/2026-03/20260319-agent-browser-vercel.md)
 - [Paperclip – Open-source orchestration for zero-human companies](src/2026-03/20260318-paperclip-ai-orchestration.md)
 - [Bringing Code Review to Claude Code](src/2026-03/20260309-bringing-code-review-to-claude-code.md)
 - [Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](src/2026-03/20260309-penguin-vl-efficient-vision-language-models.md)
