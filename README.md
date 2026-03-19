@@ -12,15 +12,17 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 1<br>
-2026-01 | ████████████████████████████████ 97<br>
+2026-01 | ████████████████████████████████ 98<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ████████████████████████████ 99
+2026-03 | ████████████████████████████ 101
 
 ## Articles
 
 ### 2026
 
-#### March (99 articles)
+#### March (101 articles)
+- [Claude Code: Code Review](src/2026-03/20260319-claude-code-code-review.md)
+- [The Top 100 Gen AI Consumer Apps — 6th Edition](src/2026-03/20260309-top-100-gen-ai-consumer-apps-6th-edition.md)
 - [Copilot Cowork: A New Way of Getting Work Done](src/2026-03/20260309-copilot-cowork.md)
 - [Anthropic sues Defense Department over supply-chain risk designation](src/2026-03/20260309-anthropic-sues-dod-supply-chain-risk.md)
 - [Promptfoo is Joining OpenAI](src/2026-03/20260309-promptfoo-joining-openai.md)
@@ -259,7 +261,7 @@ Articles per month:
 - [Genie 3](src/2026-02/20260203-20260203-genie-3-world-model.md)
 - [Mistral Vibe 2.0](src/2026-02/20260203-20260203-mistral-vibe-2-0.md)
 
-#### January (97 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (98 articles) [Synthesis 2026-01](synthesis/2026-01.md)
 - [Teach Your AI to Think Like a Senior Engineer](src/2026-01/20260129-teach-your-ai-to-think-like-a-senior-engineer-compound.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/20260131-compound-engineering-how-every-codes-with-agents.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/20260131-i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
@@ -277,6 +279,7 @@ Articles per month:
 - [Yahoo is Adding Generative AI to Its Search Engine](src/2026-01/20260129-yahoo-is-adding-generative-ai-to-its-search-engine.md)
 - [Kimi K2.5: Visual Agentic Intelligence](src/2026-01/20260129-kimi-k2-5-visual-agentic-intelligence.md)
 - [OpenAI's Sora app is struggling after its stellar launch](src/2026-01/20260129-openais-sora-app-is-struggling-after-its-stellar-launch.md)
+- [Seer: debug with AI at every stage of development](src/2026-01/20260127-seer-debug-with-ai.md)
 - [I Stopped Reading Code. My Code Reviews Got Better.](src/2026-01/20260127-i-stopped-reading-code-my-code-reviews-got-better.md)
 - [OpenAI to Add Shopping Cart and Merchant Tools to ChatGPT](src/2026-01/20260127-openai-to-add-shopping-cart-and-merchant-tools-to-chatgpt.md)
 - [The Adolescence of Technology: Confronting and Overcoming the Risks of Powerful AI](src/2026-01/20260127-the-adolescence-of-technology.md)

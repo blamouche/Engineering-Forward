@@ -1,6 +1,3 @@
-https://a16z.com/100-gen-ai-apps-6/
-https://blog.sentry.io/seer-debug-with-ai-at-every-stage-of-development/
-https://code.claude.com/docs/en/code-review
 https://research.google/blog/teaching-llms-to-reason-like-bayesians/
 https://github.com/tencent-ailab/Penguin-VL
 https://searchengineland.com/ai-assistants-global-search-engine-volume-study-471118
