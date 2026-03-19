@@ -1,6 +1,3 @@
-https://www.anthropic.com/news/mozilla-firefox-security
-https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/
-https://linas.substack.com/p/claudeinexcel
 https://seldo.com/posts/do-ai-enabled-companies-need-fewer-people/
 https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development
 https://blog.bytebytego.com/p/how-airbnb-rolled-out-20-local-payment

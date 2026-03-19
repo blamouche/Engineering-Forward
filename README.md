@@ -13,13 +13,16 @@ Articles per month:
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 96<br>
 2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | ██████████████████████████ 89
+2026-03 | ██████████████████████████ 92
 
 ## Articles
 
 ### 2026
 
-#### March (89 articles)
+#### March (92 articles)
+- [Turn Claude in Excel Into Your Senior Financial Analyst](src/2026-03/20260309-claude-in-excel-financial-analyst.md)
+- [OpenAI hardware exec Caitlin Kalinowski quits in response to Pentagon deal](src/2026-03/20260307-openai-robotics-lead-quits-pentagon-deal.md)
+- [Partnering with Mozilla to improve Firefox's security](src/2026-03/20260306-anthropic-mozilla-firefox-security.md)
 - [autoresearch: AI agents running research on single-GPU nanochat training automatically](src/2026-03/20260306-autoresearch-karpathy.md)
 - [Early look: Meta silently launches Vibes AI editor to challenge rivals](src/2026-03/20260308-meta-vibes-ai-editor.md)
 - [The Emerging Role of SRAM-Centric Chips in AI Inference](src/2026-03/20260305-sram-centric-chips-ai-inference.md)
