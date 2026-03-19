@@ -13,14 +13,16 @@ Articles per month:
 2025-09 | █ 1<br>
 2025-10 | █ 1<br>
 2026-01 | ████████████████████████████████ 98<br>
-2026-02 | ███████████████████████████████████████████████ 136<br>
-2026-03 | █████████████████████████████ 110
+2026-02 | ███████████████████████████████████████████████ 137<br>
+2026-03 | █████████████████████████████ 112
 
 ## Articles
 
 ### 2026
 
-#### March (110 articles)
+#### March (112 articles)
+- [Writing my first evals](src/2026-03/20260304-writing-my-first-evals.md)
+- [VS Code Agent Kanban](src/2026-03/20260308-vscode-agent-kanban.md)
 - [Karpathy Open-Sourced a 24/7 AI Research Lab](src/2026-03/20260310-karpathy-open-sourced-ai-research-lab.md)
 - [Terminal Use - Infra for Background Agents](src/2026-03/20260319-terminal-use-infra-background-agents.md)
 - [agent-browser: Fast native Rust CLI for AI agent browser automation](src/2026-03/20260319-agent-browser-vercel.md)
@@ -132,7 +134,8 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (136 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (137 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Video Conferencing with Postgres](src/2026-02/20260227-video-conferencing-with-postgres.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
 - [EP204: 11 Ways to Use AI to Increase Your Productivity](src/2026-02/20260228-11-ways-to-use-ai-to-increase-your-productivity.md)

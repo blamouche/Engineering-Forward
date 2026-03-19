@@ -1,6 +1,3 @@
-https://marketplace.visualstudio.com/items?itemName=AppSoftwareLtd.vscode-agent-kanban
-https://planetscale.com/blog/video-conferencing-with-postgres
-https://workos.com/blog/writing-my-first-evals
 https://www.slash.com/platform/agents
 https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve
 https://blog.bytebytego.com/p/how-vimeo-implemented-ai-powered
