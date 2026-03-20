@@ -87,3 +87,5 @@ https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-o
 https://linas.substack.com/p/claudeskills
 https://claude.com/product/cowork
 https://gemini.google.com/app
+https://every.to/guides/ai-style-guide
+https://blog.bytebytego.com/p/event-sourcing-explained-benefits
