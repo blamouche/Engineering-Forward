@@ -173,3 +173,10 @@
 - outcome: success
 - next_step: None.
 2026-03-19 15:09:54 CET — openclaw — Daily veille IA: extracted URLs from Gmail label 0---veille-ia, normalized/deduped, updated LIST.md, filtered out non‑AI/app-dev links, verified additions. Files: LIST.md. Outcome: success. Next: none.
+
+## 2026-03-20 09:05:00 CET
+- actor: agent (2 subagents)
+- action: Full scan-list run on 228 URLs accumulated since last scan. Processed in two batches (rate limit hit mid-run). Created synthesis files, updated README.md + statistics, cleared LIST.md, created batch recap.
+- files_changed_or_commands: `src/2026-03/` (175→229 articles), `src/2026-02/` (+1), `src/2022-12/` (+2), `src/2025-08/` (+1), `src/2025-11/` (+1), `src/2025-12/` (+1); `README.md`; `LIST.md` (emptied); `synthesis/2026-03-20 - 090500 - batch recap.md`; multiple `git commit`; `git push`.
+- outcome: success (25 FETCH_ERRORs: CNBC CSS-only, chatprd.ai 500, blocked sites, non-article pages)
+- next_step: None. LIST.md is empty.
