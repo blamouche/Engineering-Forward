@@ -7,22 +7,79 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
+2022-12 | █ 2<br>
 2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
 2025-05 | █ 2<br>
 2025-06 | █ 1<br>
+2025-08 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 2<br>
+2025-11 | █ 1<br>
+2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | ████████████████████████████████████████████████ 145<br>
-2026-03 | █████████████████████████████████████████████████████████ 175
+2026-02 | █████████████████████████████████████████████████ 146<br>
+2026-03 | ████████████████████████████████████████████████████████████████████████████ 229
 
 ## Articles
 
 ### 2026
 
-#### March (175 articles)
+#### March (229 articles)
+- [OpenReview: Open-Source AI Code Review Bot by Vercel](src/2026-03/20260320-vercel-openreview-ai-code-review.md)
+- [CodeSpeak: Next-Generation Programming Language Powered by LLMs](src/2026-03/20260320-codespeak-specification-language.md)
+- [Claude Cowork: Agentic AI for Knowledge Work](src/2026-03/20260320-claude-cowork-product.md)
+- [OpenShell: Safe, Private Runtime for Autonomous AI Agents](src/2026-03/20260319-nvidia-openShell-agent-sandbox.md)
+- [Lossless Claw: LCM Plugin for OpenClaw](src/2026-03/20260320-lossless-claw-context-management.md)
+- [GitNexus: The Zero-Server Code Intelligence Engine](src/2026-03/20260320-gitnexus-code-intelligence.md)
+- [Lightpanda: The Headless Browser Built for AI Agents](src/2026-03/20260320-lightpanda-headless-browser.md)
+- [The Agency: 150+ AI Specialist Agents](src/2026-03/20260320-agency-agents-150-specialists.md)
+- [claudetop: htop for Your Claude Code Sessions](src/2026-03/20260314-claudetop-claude-code-monitor.md)
+- [IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse](src/2026-03/20260320-indexcache-sparse-attention.md)
+- [GLM-5-Turbo: Agent-Optimized Foundation Model](src/2026-03/20260320-glm5-turbo-agent-model.md)
+- [OpenOats: A Meeting Note-Taker That Talks Back](src/2026-03/20260320-openoats-meeting-note-taker.md)
+- [NVIDIA NemoClaw: Safer AI Agents with OpenClaw](src/2026-03/20260320-nvidia-nemoclaw.md)
+- [Teleport Agentic Identity Framework](src/2026-03/20260320-teleport-agentic-identity-framework.md)
+- [Alibaba OpenSandbox: General-Purpose Sandbox for AI](src/2026-03/20260320-alibaba-opensandbox.md)
+- [GET SHIT DONE: Meta-Prompting System for AI Development](src/2026-03/20260320-get-shit-done-meta-prompting.md)
+- [A Visual Introduction to Machine Learning](src/2026-03/20260320-visual-intro-to-machine-learning.md)
+- [Event Sourcing Explained: Benefits and Use Cases](src/2026-03/20260319-event-sourcing-explained.md)
+- [AI Style Guides: How to Help AI Write Like You](src/2026-03/20260317-ai-style-guide.md)
+- [The Ultimate Guide to Claude Skills](src/2026-03/20260316-claude-skills-guide.md)
+- [Neo Symbolic Capitalism](src/2026-03/20260313-symbolic-capitalism.md)
+- [OpenAI Courts Private Equity for Enterprise AI Venture](src/2026-03/20260316-openai-courts-private-equity.md)
+- [How Every Builds a Writing Team in the Age of AI](src/2026-03/20260318-how-every-builds-writing-team-ai.md)
+- [Spatial-TTT: Streaming Visual Spatial Intelligence](src/2026-03/20260313-spatial-ttt-streaming-spatial-intelligence.md)
+- [MoDA: Mixture-of-Depths Attention](src/2026-03/20260316-moda-mixture-of-depths-attention.md)
+- [Git Clone an Entire AI Agency with 120+ Agents](src/2026-03/20260316-git-clone-ai-agency-120-agents.md)
+- [Claude Code Auto Mode Research Preview](src/2026-03/20260309-claude-code-auto-mode.md)
+- [LLM Architecture Gallery](src/2026-03/20260317-llm-architecture-gallery.md)
+- [Cerebras Is Coming to AWS](src/2026-03/20260313-cerebras-coming-to-aws.md)
+- [Can LLMs Be Computers?](src/2026-03/20260311-can-llms-be-computers.md)
+- [1M Context Now Generally Available for Claude](src/2026-03/20260313-claude-1m-context-ga.md)
+- [What Do AI-Based Layoffs Say About TAM?](src/2026-03/20260316-ai-layoffs-tam-analysis.md)
+- [The Future of Software Engineering with Anthropic](src/2026-03/20260316-future-of-software-engineering-anthropic.md)
+- [Physical AI for Healthcare Robotics: First Dataset and Models](src/2026-03/20260316-nvidia-physical-ai-healthcare-robotics.md)
+- [How NVIDIA Dynamo 1.0 Powers Multi-Node Inference](src/2026-03/20260316-nvidia-dynamo-1-production.md)
+- [Are AI Agents Actually Slowing Us Down?](src/2026-03/20260317-are-ai-agents-slowing-us-down.md)
+- [Leanstral: Open-Source Foundation for Trustworthy Vibe-Coding](src/2026-03/20260316-leanstral-lean4-coding-agent.md)
+- [Use Subagents and Custom Agents in Codex](src/2026-03/20260316-codex-subagents.md)
+- [Introducing Mistral Small 4](src/2026-03/20260316-mistral-small-4.md)
+- [Will AI Kill Spreadsheets?](src/2026-03/20260317-will-ai-kill-spreadsheets.md)
+- [Fair Source Software in the AI Age](src/2026-03/20260317-fair-source-software-ai-age.md)
+- [OpenAI Has New Focus (on the IPO)](src/2026-03/20260317-openai-ipo-focus.md)
+- [Open SWE: An Open-Source Framework for Internal Coding Agents](src/2026-03/20260317-open-swe-coding-agents-framework.md)
+- [OpenAI Launches GPT-5.4 Mini and Nano on APIs](src/2026-03/20260318-openai-gpt54-mini-nano.md)
+- [Everyone's Building OpenClaw - From Nvidia to Manus AI](src/2026-03/20260318-everyone-building-openclaw.md)
+- [OpenAI Expands Government Footprint with AWS Deal](src/2026-03/20260317-openai-expands-government-aws-deal.md)
+- [This Week on How I AI: From Figma to Claude Code](src/2026-03/20260316-this-week-how-i-ai-figma-linkedin.md)
+- [Measuring Progress Toward AGI: A Cognitive Framework](src/2026-03/20260317-measuring-agi-cognitive-framework.md)
+- [Introducing Forge by Mistral AI](src/2026-03/20260317-mistral-forge.md)
+- [The Robotic Tortoise & the Robotic Hare: Local vs Cloud AI Speed](src/2026-03/20260318-local-vs-cloud-speed.md)
+- [Building WhatsApp with Jean Lee](src/2026-03/20260318-building-whatsapp-with-jean-lee.md)
+- [Why is Starlink on Planes So Good?](src/2026-03/20260318-why-is-starlink-so-good.md)
+- [Greetings, Earthlings: Starcloud on Data Centers in Space](src/2026-03/20260318-starcloud-data-centers-in-space.md)
 - [Qianfan-VL: Domain-Enhanced Vision-Language Models](src/2026-03/20260318-qianfan-vl-enterprise-vision-language.md)
 - [APM – Agent Package Manager](src/2026-03/20260319-microsoft-apm-agent-package-manager.md)
 - [Google Engineers Launch "Sashiko" For Agentic AI Code Review Of The Linux Kernel](src/2026-03/20260318-sashiko-linux-ai-code-review.md)
@@ -200,7 +257,8 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (145 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (146 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [CoderPad State of Tech Hiring 2026](src/2026-02/20260211-coderpad-state-of-tech-hiring-2026.md)
 - [Compound Engineering: The Definitive Guide](src/2026-02/20260209-compound-engineering-definitive-guide.md)
 - [Vibe Check: Opus 4.6—The Best Coding Model We've Tested](src/2026-02/20260205-vibe-check-opus-4-6-best-coding-model.md)
 - [OpenClaw-RL: Train Any Agent Simply by Talking](src/2026-02/20260226-openclaw-rl-train-agents-by-talking.md)
@@ -450,12 +508,21 @@ Articles per month:
 
 ### 2025
 
+#### December (1 article)
+- [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
+
+#### November (1 article)
+- [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
+
 #### October (2 articles)
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)
 - [Reasoning boosts search relevance 15-30%](src/2025-10/20251006-reasoning-boosts-search-relevance.md)
 
 #### September (1 article)
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
+
+#### August (1 article)
+- [The 6 Hidden Productivity Killers: A Guide for Engineering Leaders](src/2025-08/20250814-gitkraken-6-hidden-productivity-killers.md)
 
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
@@ -474,3 +541,9 @@ Articles per month:
 
 #### December (1 article)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
+
+### 2022
+
+#### December (2 articles)
+- [Performance Calibrations at Tech Companies: Part 2](src/2022-12/20221213-performance-calibrations-part-2.md)
+- [Performance Calibrations at Tech Companies: Part 1](src/2022-12/20221206-performance-calibrations-part-1.md)
