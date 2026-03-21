@@ -174,6 +174,20 @@
 - next_step: None.
 2026-03-19 15:09:54 CET — openclaw — Daily veille IA: extracted URLs from Gmail label 0---veille-ia, normalized/deduped, updated LIST.md, filtered out non‑AI/app-dev links, verified additions. Files: LIST.md. Outcome: success. Next: none.
 
+## 2026-03-21 07:05:00 CET
+- actor: agent
+- action: Initialized prompt-hub tracking files and versioning artifacts; committed and rebased before push.
+- files_changed_or_commands: `.prompt-hub/.last-update-check`; `.prompt-hub/lessons.md`; `.prompt-hub/releases.md`; `.prompt-hub/version.md`; `.prompt-hub/todo/todo-20260321-070000-veille-ia.md`; `git add -A`; `git commit -m "Initialize prompt-hub tracking files"`; `git pull --rebase`; `git push`.
+- outcome: success
+- next_step: Extract Gmail veille IA URLs and update LIST.md.
+
+## 2026-03-21 07:10:00 CET
+- actor: agent
+- action: Extracted Gmail veille IA URLs, filtered to AI/app-dev, updated LIST.md, and prepared for commit.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`; `LIST.md` updated; URL normalization/dedupe.
+- outcome: success
+- next_step: Commit/push LIST.md update, then trash processed Gmail messages.
+
 ## 2026-03-20 09:05:00 CET
 - actor: agent (2 subagents)
 - action: Full scan-list run on 228 URLs accumulated since last scan. Processed in two batches (rate limit hit mid-run). Created synthesis files, updated README.md + statistics, cleared LIST.md, created batch recap.
