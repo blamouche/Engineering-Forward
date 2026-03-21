@@ -188,6 +188,13 @@
 - outcome: success
 - next_step: Commit/push LIST.md update, then trash processed Gmail messages.
 
+## 2026-03-21 07:15:00 CET
+- actor: agent
+- action: Trashed processed Gmail messages for veille IA run.
+- files_changed_or_commands: `gog gmail batch modify <4 message IDs> --add TRASH --no-input --force`.
+- outcome: success
+- next_step: Finalize task summary.
+
 ## 2026-03-20 09:05:00 CET
 - actor: agent (2 subagents)
 - action: Full scan-list run on 228 URLs accumulated since last scan. Processed in two batches (rate limit hit mid-run). Created synthesis files, updated README.md + statistics, cleared LIST.md, created batch recap.

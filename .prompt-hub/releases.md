@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.3 - 2026-03-21
+- Log Gmail trash step and finalize veille IA task notes.
+
 ## 0.0.2 - 2026-03-21
 - Add daily veille IA URLs to LIST.md and clean non-AI/app-dev links.
 
