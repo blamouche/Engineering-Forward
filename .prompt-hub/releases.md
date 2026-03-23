@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.4 - 2026-03-23
+- Process scan-list queue; add syntheses + batch recap; update README stats and LIST cleanup.
+
 ## 0.0.3 - 2026-03-21
 - Log Gmail trash step and finalize veille IA task notes.
 

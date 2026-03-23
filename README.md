@@ -8,6 +8,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2022-12 | █ 2<br>
+2024-05 | █ 1<br>
 2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
@@ -19,14 +20,48 @@ Articles per month:
 2025-11 | █ 1<br>
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | █████████████████████████████████████████████████ 146<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████ 229
+2026-02 | ██████████████████████████████████████████████████ 148<br>
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████ 258
 
 ## Articles
 
 ### 2026
 
-#### March (229 articles)
+#### March (263 articles)
+- [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
+- [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
+- [The Displacement of Cognitive Labor and What Comes After](src/2026-03/20260323-the-displacement-of-cognitive-labor.md)
+- [OpenAI Plans Launch of Desktop “Superapp”](src/2026-03/20260319-openai-desktop-superapp-plan.md)
+- [Turn Claude Cowork Into Your Personal COO](src/2026-03/20260323-turn-claude-cowork-into-your-personal-coo.md)
+- [Read Less, Steer More](src/2026-03/20260318-read-less-steer-more.md)
+- [Thoughts on OpenAI Acquiring Astral and uv/ruff/ty](src/2026-03/20260319-thoughts-on-openai-acquiring-astral.md)
+- [AI Code: Semantic vs Pragmatic Functions](src/2026-03/20260323-ai-code-semantic-pragmatic-functions.md)
+- [We Need to Talk about Agents](src/2026-03/20260323-we-need-to-talk-about-agents.md)
+- [NVIDIA Nemotron Model Reasoning Challenge](src/2026-03/20260323-nvidia-nemotron-model-reasoning-challenge.md)
+- [Turn Claude in Excel Into Your Senior Financial Analyst](src/2026-03/20260323-turn-claude-in-excel-into-your-senior-financial-analyst.md)
+- [The Ultimate Guide to Claude Skills](src/2026-03/20260323-the-ultimate-guide-to-claude-skills.md)
+- [The One-Person Unicorn](src/2026-03/20260323-the-one-person-unicorn.md)
+- [Andrej Karpathy’s Method to 10X Your Claude Skills](src/2026-03/20260323-andrej-karpathys-method-to-10x-your-claude-skills.md)
+- [Google Is Reportedly Testing a Gemini App for Mac](src/2026-03/20260319-google-testing-gemini-app-for-mac.md)
+- [Introducing Imagine Gallery](src/2026-03/20260323-introducing-imagine-gallery.md)
+- [Jensen Huang Doesn’t Need a New Chip. He Needs a New Moat.](src/2026-03/20260319-jensen-huang-needs-a-new-moat.md)
+- [Rethinking Open Source Mentorship in the AI Era](src/2026-03/20260319-rethinking-open-source-mentorship-in-the-ai-era.md)
+- [Broad Timelines](src/2026-03/20260319-broad-timelines.md)
+- [Efficient Exploration at Scale](src/2026-03/20260318-efficient-exploration-at-scale.md)
+- [Hocuspocus Collaboration Overview](src/2026-03/20260323-hocuspocus-collaboration-overview.md)
+- [Scaling Karpathy’s Autoresearch](src/2026-03/20260323-scaling-karpathys-autoresearch.md)
+- [World Models: Computing the Uncomputable](src/2026-03/20260323-world-models-computing-the-uncomputable.md)
+- [Agent Auth Protocol](src/2026-03/20260323-agent-auth-protocol.md)
+- [MolmoPoint: Better Pointing Architecture for Vision-Language Models](src/2026-03/20260318-molmopoint-better-pointing-architecture.md)
+- [Perplexity Launches Perplexity Health Agent in US](src/2026-03/20260323-perplexity-health-agent-launch.md)
+- [How We Monitor Internal Coding Agents for Misalignment](src/2026-03/20260323-how-openai-monitors-internal-coding-agents-for-misalignment.md)
+- [Introducing Composer 2](src/2026-03/20260323-introducing-composer-2.md)
+- [Proof — The Agent-First Document Editor](src/2026-03/20260323-proof-agent-first-document-editor.md)
+- [Yjs: Build Collaborative Applications](src/2026-03/20260323-yjs-build-collaborative-applications.md)
+- [Compound Engineering](src/2026-03/20260323-compound-engineering.md)
+- [Agent-native Architectures](src/2026-03/20260323-agent-native-architectures.md)
+- [Subagents – Codex](src/2026-03/20260323-subagents-codex.md)
+- [When Your Vibe Coded App Goes Viral—And Then Goes Down](src/2026-03/20260320-when-your-vibe-coded-app-goes-viral-and-then-goes-down.md)
 - [OpenReview: Open-Source AI Code Review Bot by Vercel](src/2026-03/20260320-vercel-openreview-ai-code-review.md)
 - [CodeSpeak: Next-Generation Programming Language Powered by LLMs](src/2026-03/20260320-codespeak-specification-language.md)
 - [Claude Cowork: Agentic AI for Knowledge Work](src/2026-03/20260320-claude-cowork-product.md)
@@ -257,7 +292,9 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (146 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (148 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+- [Vibe Check: Opus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits)](src/2026-02/20260205-vibe-check-opus-4-6-the-best-coding-model-weve-tested-with-some-maddening-habits.md)
+- [OpenAI's New Codex App Is Gold for Senior Engineers](src/2026-02/20260202-openais-new-codex-app-is-gold-for-senior-engineers.md)
 - [CoderPad State of Tech Hiring 2026](src/2026-02/20260211-coderpad-state-of-tech-hiring-2026.md)
 - [Compound Engineering: The Definitive Guide](src/2026-02/20260209-compound-engineering-definitive-guide.md)
 - [Vibe Check: Opus 4.6—The Best Coding Model We've Tested](src/2026-02/20260205-vibe-check-opus-4-6-best-coding-model.md)
@@ -535,6 +572,9 @@ Articles per month:
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
 
 ### 2024
+
+#### May (1 article)
+- [The Next Big Programming Language Is English](src/2024-05/20240502-the-next-big-programming-language-is-english.md)
 
 #### June (1 article)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)

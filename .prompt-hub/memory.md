@@ -1,5 +1,76 @@
 # Memory Log
 
+## 2026-03-23 14:43:00 +0100
+- actor: agent
+- action: Initialized scan-list task file and loaded prompt-hub context (lessons, memory, releases, last-update-check).
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260323-144300-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `.prompt-hub/.last-update-check`.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
+## 2026-03-23 14:44:00 +0100
+- actor: agent
+- action: Updated prompt-hub update-check timestamp; auto-update fetch step blocked by no-shell constraint.
+- files_changed_or_commands: `.prompt-hub/.last-update-check` updated to 2026-03-23 (no curl executed).
+- outcome: partial
+- next_step: Run auto-update check via shell when permitted.
+
+## 2026-03-23 14:55:00 +0100
+- actor: agent
+- action: Completed scan-list batch 1/4 (10 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `src/2026-02/*`, `src/2024-05/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Process remaining URLs, then create batch recap and handle version/releases.
+
+## 2026-03-23 14:58:00 +0100
+- actor: agent
+- action: Completed scan-list batch 2/4 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md; one fetch error (openai-to-acquire-astral, DNS).
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: partial
+- next_step: Continue processing remaining URLs and record error in final batch recap.
+
+## 2026-03-23 15:02:00 +0100
+- actor: agent
+- action: Completed scan-list batch 3/4 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Process remaining URLs and finalize batch recap + version/release updates.
+
+## 2026-03-23 15:07:00 +0100
+- actor: agent
+- action: Completed scan-list batch 4/4 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Continue processing remaining URLs and then create batch recap + version/release updates.
+
+## 2026-03-23 15:12:00 +0100
+- actor: agent
+- action: Completed scan-list batch 5 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Process remaining URLs and finalize batch recap + version/release updates.
+
+## 2026-03-23 15:59:00 +0100
+- actor: agent
+- action: Completed scan-list batch 6 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Process remaining URLs and finalize batch recap + version/release updates.
+
+## 2026-03-23 16:02:00 +0100
+- actor: agent
+- action: Completed scan-list batch 7 (5 URLs) without shell; created syntheses, updated README stats/sections, removed URLs from LIST.md.
+- files_changed_or_commands: `src/2026-03/*`, `README.md`, `LIST.md`.
+- outcome: success
+- next_step: Finalize batch recap + version/release updates; ensure LIST.md empty.
+
+## 2026-03-23 16:06:00 +0100
+- actor: agent
+- action: Finalized scan-list: created batch recap, emptied LIST.md, updated prompt-hub version/releases, logged fetch error for openai-to-acquire-astral.
+- files_changed_or_commands: `synthesis/2026-03-23 - 144300 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push changes when allowed.
+
+
 ## 2026-03-05 11:24:00 +0100
 - actor: agent
 - action: Validated add-url preconditions (`git status --porcelain`, branch check, memory file check).
