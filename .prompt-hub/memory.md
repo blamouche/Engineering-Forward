@@ -469,6 +469,13 @@
 - outcome: success
 - next_step: Commit and continue with next URL.
 
+## 2026-03-25 23:40:00 +0100
+- actor: agent
+- action: FETCH_ERROR for chatprd.ai micro-agent workflows (ENOTFOUND); removed URL from LIST.md.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: partial
+- next_step: Commit error removal and continue with next URL.
+
 ## 2026-03-25 17:08:30 +0100
 - actor: agent
 - action: Initialized scan-list task; loaded lessons/memory/releases and created todo file.

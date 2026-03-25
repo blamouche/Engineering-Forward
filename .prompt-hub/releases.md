@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.35 - 2026-03-25
+- Process article: How Microsoft’s AI VP automates everything with 5 micro-agent workflows (FETCH_ERROR).
+
 ## 0.0.34 - 2026-03-25
 - Process article: This week on How I AI: How Microsoft’s AI VP automates everything with Warp.
 

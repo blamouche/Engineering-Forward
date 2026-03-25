@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/microsofts-ai-vp-automates-everything-with-5-micro-agent-workflows
 https://www.chatprd.ai/how-i-ai/workflows/how-to-create-an-automated-meeting-scheduler-with-microsoft-365-copilot
 https://www.chatprd.ai/how-i-ai/workflows/how-to-scan-and-merge-two-sided-documents-into-a-single-pdf-with-ai
 https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-azure-user-role-management-with-ai-in-the-terminal
