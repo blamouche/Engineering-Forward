@@ -1,4 +1,3 @@
-https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html
 https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
 https://www.anthropic.com/research/vibe-physics
 https://www.blackduck.com/signal-ai-appsec.html

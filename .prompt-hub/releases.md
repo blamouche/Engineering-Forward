@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.15 - 2026-03-25
+- Process article: Claude Code and Cowork can now use your computer.
+
 ## 0.0.14 - 2026-03-25
 - Process article: When Your Vibe Coded App Goes Viral—And Then Goes Down.
 

@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████ 264
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████ 265
 
 ## Articles
 
 ### 2026
 
-#### March (264 articles)
+#### March (265 articles)
+- [Claude Code and Cowork can now use your computer](src/2026-03/20260325-claude-code-and-cowork-can-now-use-your-computer.md)
 - [“How to be a 10x engineer” – interview with a standout dev](src/2026-03/20260325-how-to-be-a-10x-engineer-interview.md)
 - [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
 - [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
