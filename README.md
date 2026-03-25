@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████ 258
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████ 264
 
 ## Articles
 
 ### 2026
 
-#### March (263 articles)
+#### March (264 articles)
+- [“How to be a 10x engineer” – interview with a standout dev](src/2026-03/20260325-how-to-be-a-10x-engineer-interview.md)
 - [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
 - [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
 - [The Displacement of Cognitive Labor and What Comes After](src/2026-03/20260323-the-displacement-of-cognitive-labor.md)

@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/how-to-be-a-10x-engineer-interview
 https://every.to/chain-of-thought/when-your-vibe-coded-app-goes-viral-and-then-goes-down
 https://www.engadget.com/ai/claude-code-and-cowork-can-now-use-your-computer-210000126.html
 https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs

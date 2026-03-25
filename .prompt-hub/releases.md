@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.13 - 2026-03-25
+- Process article: “How to be a 10x engineer” – interview with a standout dev.
+
 ## 0.0.12 - 2026-03-25
 - Allow git commit/push even with no-shell constraint (lesson update).
 
