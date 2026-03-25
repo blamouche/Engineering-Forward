@@ -335,3 +335,10 @@
 - files_changed_or_commands: .prompt-hub/lessons.md; .prompt-hub/todo/todo-20260325-142515-allow-exec.md
 - outcome: success
 - next_step: Commit prompt-hub tracking updates.
+
+## 2026-03-25 14:28:05 +0100
+- actor: assistant
+- action: Updated rules to allow git commit/push even under no-shell/no-command constraint unless explicitly prohibited.
+- files_changed_or_commands: .prompt-hub/lessons.md; .prompt-hub/todo/todo-20260325-142740-allow-commit-push.md
+- outcome: success
+- next_step: Commit prompt-hub tracking updates.

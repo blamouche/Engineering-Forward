@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.12 - 2026-03-25
+- Allow git commit/push even with no-shell constraint (lesson update).
+
 ## 0.0.11 - 2026-03-25
 - Allow exec by default unless explicitly restricted (lesson update).
 
