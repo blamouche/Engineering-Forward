@@ -1,5 +1,10 @@
 # Releases
 
+## 0.0.8 - 2026-03-25
+- Initialized veille IA task log and memory entry.
+
+# Releases
+
 ## 0.0.7 - 2026-03-25
 - Repo sync check (git pull --rebase), pulled latest changes.
 
