@@ -1,4 +1,3 @@
-https://blog.mozilla.ai/cq-stack-overflow-for-agents/
 https://www.bitsxpages.com/p/the-broken-economics-of-databases
 https://www.bigtechnology.com/p/anthropic-takes-the-pentagon-to-court
 https://blog.bytebytego.com/p/how-agentic-rag-works

@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.30 - 2026-03-25
+- Process article: cq: Stack Overflow for Agents.
+
 ## 0.0.29 - 2026-03-25
 - Process article: Designing AI for Disruptive Science.
 
