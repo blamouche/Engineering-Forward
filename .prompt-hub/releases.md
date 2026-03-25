@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.6 - 2026-03-25
+- Repo sync check (git pull --rebase), no changes.
+
 ## 0.0.5 - 2026-03-25
 - Daily veille IA: extracted URLs, cleaned LIST.md, trashed Gmail messages; updated task logs.
 

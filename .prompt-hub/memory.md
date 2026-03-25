@@ -293,3 +293,10 @@
 - files_changed_or_commands: `gog gmail batch modify --add TRASH`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push version/release updates.
+
+## 2026-03-25 13:28:30 +0100
+- actor: assistant
+- action: Updated repo (git pull --rebase) and created task file for repo update.
+- files_changed_or_commands: git pull --rebase; .prompt-hub/todo/todo-20260325-132808-update-repo.md
+- outcome: success
+- next_step: Commit todo file.
