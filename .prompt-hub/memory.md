@@ -594,3 +594,10 @@
 - files_changed_or_commands: `src/2026-03/20260323-more-magic-math-from-openai.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit changes and continue processing LIST.md.
+
+## 2026-03-25 23:26:40 +0100
+- actor: assistant
+- action: Created missing batch recap for 2026-03-25 scan-list run and updated lessons.
+- files_changed_or_commands: synthesis/2026-03-25 - 232640 - batch recap.md; .prompt-hub/lessons.md; .prompt-hub/todo/todo-20260325-232612-batch-recap.md
+- outcome: success
+- next_step: Update prompt-hub version/releases, mark todo complete, commit + push.
