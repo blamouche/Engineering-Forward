@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.23 - 2026-03-25
+- Process article: If DSPy is So Great, Why Isn't Anyone Using It?.
+
 ## 0.0.22 - 2026-03-25
 - Process article: There are only two paths left for software.
 

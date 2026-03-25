@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████ 271
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████ 272
 
 ## Articles
 
 ### 2026
 
-#### March (271 articles)
+#### March (272 articles)
+- [If DSPy is So Great, Why Isn't Anyone Using It?](src/2026-03/20260325-if-dspy-is-so-great-why-isnt-anyone-using-it.md)
 - [There are only two paths left for software](src/2026-03/20260325-there-are-only-two-paths-left-for-software.md)
 - [Build a Domain-Specific Embedding Model in Under a Day](src/2026-03/20260325-build-a-domain-specific-embedding-model.md)
 - [Reduce AI software risk with Black Duck Signal Agentic Application Security](src/2026-03/20260325-reduce-ai-software-risk-with-black-duck-signal.md)
