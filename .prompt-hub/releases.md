@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.17 - 2026-03-25
+- Process article: Vibe physics: The AI grad student.
+
 ## 0.0.16 - 2026-03-25
 - Process article: A Ramsey-style Problem on Hypergraphs.
 

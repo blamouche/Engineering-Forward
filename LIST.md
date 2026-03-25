@@ -1,4 +1,3 @@
-https://www.anthropic.com/research/vibe-physics
 https://www.blackduck.com/signal-ai-appsec.html
 https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
 https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html

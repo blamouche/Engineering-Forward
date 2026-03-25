@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████ 266
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████ 267
 
 ## Articles
 
 ### 2026
 
-#### March (266 articles)
+#### March (267 articles)
+- [Vibe physics: The AI grad student](src/2026-03/20260325-vibe-physics-the-ai-grad-student.md)
 - [A Ramsey-style Problem on Hypergraphs](src/2026-03/20260325-ramsey-style-problem-on-hypergraphs.md)
 - [Claude Code and Cowork can now use your computer](src/2026-03/20260325-claude-code-and-cowork-can-now-use-your-computer.md)
 - [“How to be a 10x engineer” – interview with a standout dev](src/2026-03/20260325-how-to-be-a-10x-engineer-interview.md)
