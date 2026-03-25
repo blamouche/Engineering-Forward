@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.22 - 2026-03-25
+- Process article: There are only two paths left for software.
+
 ## 0.0.21 - 2026-03-25
 - Process article: 2026 B2C ecommerce AI trends (FETCH_ERROR).
 

@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 270
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████ 271
 
 ## Articles
 
 ### 2026
 
-#### March (270 articles)
+#### March (271 articles)
+- [There are only two paths left for software](src/2026-03/20260325-there-are-only-two-paths-left-for-software.md)
 - [Build a Domain-Specific Embedding Model in Under a Day](src/2026-03/20260325-build-a-domain-specific-embedding-model.md)
 - [Reduce AI software risk with Black Duck Signal Agentic Application Security](src/2026-03/20260325-reduce-ai-software-risk-with-black-duck-signal.md)
 - [Vibe physics: The AI grad student](src/2026-03/20260325-vibe-physics-the-ai-grad-student.md)
