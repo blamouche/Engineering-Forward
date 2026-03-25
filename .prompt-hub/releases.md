@@ -1,5 +1,10 @@
 # Releases
 
+## 0.0.9 - 2026-03-25
+- Added veille IA URLs to LIST.md.
+
+# Releases
+
 ## 0.0.8 - 2026-03-25
 - Initialized veille IA task log and memory entry.
 
