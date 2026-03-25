@@ -321,3 +321,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`; `LIST.md` updated; resolved TLDR shortlinks.
 - outcome: success
 - next_step: Commit/push LIST.md update and trash processed Gmail messages.
+
+## 2026-03-25 14:01:00 +0100
+- actor: agent
+- action: Trashed processed Gmail messages and finalized veille IA task file.
+- files_changed_or_commands: `gog gmail batch modify 19d24853c293f6ed 19d247bf6373932f --add TRASH`; `.prompt-hub/todo/todo-20260325-140100-veille-ia.md` updated.
+- outcome: success
+- next_step: Commit task completion + version/release updates.

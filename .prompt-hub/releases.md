@@ -1,5 +1,10 @@
 # Releases
 
+## 0.0.10 - 2026-03-25
+- Trashed processed Gmail messages; finalized veille IA task log.
+
+# Releases
+
 ## 0.0.9 - 2026-03-25
 - Added veille IA URLs to LIST.md.
 
