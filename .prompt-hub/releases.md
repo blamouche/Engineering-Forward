@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.31 - 2026-03-25
+- Process article: The Broken Economics of Databases.
+
 ## 0.0.30 - 2026-03-25
 - Process article: cq: Stack Overflow for Agents.
 
