@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.25 - 2026-03-25
+- Process article: The 4-Layer Production Stack Every AI Agent Needs.
+
 ## 0.0.24 - 2026-03-25
 - Process article: Walmart: ChatGPT checkout converted 3x worse than website.
 

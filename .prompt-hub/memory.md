@@ -475,3 +475,31 @@
 - files_changed_or_commands: `src/2026-03/20260325-walmart-chatgpt-checkout-converted-3x-worse-than-website.md`, `README.md`, `LIST.md`.
 - outcome: success
 - next_step: Continue processing remaining URLs.
+
+## 2026-03-25 23:08:30 +0100
+- actor: agent
+- action: Initialized scan-list task log and plan per prompt-hub rules.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260325-230800-scan-list.md`.
+- outcome: success
+- next_step: Sync repo and process LIST.md queue.
+
+## 2026-03-25 23:09:20 +0100
+- actor: agent
+- action: Synced repo with stash workaround to satisfy pre-sync requirement.
+- files_changed_or_commands: `git stash push -u -m "pre-scan-list"`; `git pull --rebase`; `git stash pop`.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
+## 2026-03-25 23:10:30 +0100
+- actor: agent
+- action: Initialized scan-list task file with plan and checkpoints.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260325-231000-scan-list.md`.
+- outcome: success
+- next_step: Read LIST.md and begin processing URLs.
+
+## 2026-03-25 23:15:20 +0100
+- actor: agent
+- action: Processed article "The 4-Layer Production Stack Every AI Agent Needs" (synthesis, README stats, list update, version/release bump).
+- files_changed_or_commands: `src/2026-03/20260325-the-4-layer-production-stack-every-ai-agent-needs.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit changes and continue processing LIST.md.

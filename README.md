@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████ 273
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████ 274
 
 ## Articles
 
 ### 2026
 
-#### March (273 articles)
+#### March (521 articles)
+- [The 4-Layer Production Stack Every AI Agent Needs](src/2026-03/20260325-the-4-layer-production-stack-every-ai-agent-needs.md)
 - [Walmart: ChatGPT checkout converted 3x worse than website](src/2026-03/20260325-walmart-chatgpt-checkout-converted-3x-worse-than-website.md)
 - [If DSPy is So Great, Why Isn't Anyone Using It?](src/2026-03/20260325-if-dspy-is-so-great-why-isnt-anyone-using-it.md)
 - [There are only two paths left for software](src/2026-03/20260325-there-are-only-two-paths-left-for-software.md)

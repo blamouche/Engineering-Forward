@@ -1,4 +1,3 @@
-https://orkes.io/webinars/the-4-layer-production-stack-every-ai-agent-needs
 https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/
 https://om.co/2026/03/23/more-magic-math-from-openai/
 https://www.asimov.press/p/ai-science
