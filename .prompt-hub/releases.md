@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.37 - 2026-03-25
+- Process article: How to Scan and Merge Two-Sided Documents into a Single PDF with AI (FETCH_ERROR).
+
 ## 0.0.36 - 2026-03-25
 - Process article: How to Create an Automated Meeting Scheduler with Microsoft 365 Copilot (FETCH_ERROR).
 

@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/how-to-scan-and-merge-two-sided-documents-into-a-single-pdf-with-ai
 https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-azure-user-role-management-with-ai-in-the-terminal
 https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
 https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/
