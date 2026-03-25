@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.28 - 2026-03-25
+- Update scan-list task tracking and lessons after user correction.
+
 ## 0.0.27 - 2026-03-25
 - Process article: More Magic Math from OpenAI?.
 

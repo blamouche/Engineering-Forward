@@ -420,6 +420,13 @@
 - outcome: success
 - next_step: Confirm plan, then process current LIST.md queue.
 
+## 2026-03-25 23:18:00 +0100
+- actor: agent
+- action: Prepared prompt-hub tracking updates before continuing scan-list (version/release bump and task cleanup).
+- files_changed_or_commands: .prompt-hub/version.md; .prompt-hub/releases.md; .prompt-hub/lessons.md; .prompt-hub/todo/*scan-list.md.
+- outcome: success
+- next_step: Commit prompt-hub updates, then resume LIST.md processing.
+
 ## 2026-03-25 17:08:30 +0100
 - actor: agent
 - action: Initialized scan-list task; loaded lessons/memory/releases and created todo file.
