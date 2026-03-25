@@ -279,3 +279,17 @@
 - files_changed_or_commands: `.prompt-hub/.last-update-check`; `.prompt-hub/todo/todo-20260325-070000-veille-ia.md`.
 - outcome: success
 - next_step: Extract Gmail URLs and update LIST.md.
+
+## 2026-03-25 07:00:00 +0100
+- actor: agent
+- action: Extracted URLs from Gmail veille IA, normalized/deduped, filtered non-AI/app-dev, updated LIST.md.
+- files_changed_or_commands: `gog gmail messages search`; `gog gmail get --format=raw`; `LIST.md` updated and cleaned; `.prompt-hub/todo/todo-20260325-070000-veille-ia.md` progress updated.
+- outcome: success
+- next_step: Commit/push LIST.md and trash processed Gmail messages.
+
+## 2026-03-25 07:00:00 +0100
+- actor: agent
+- action: Trashed processed Gmail messages and updated prompt-hub version/release notes.
+- files_changed_or_commands: `gog gmail batch modify --add TRASH`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push version/release updates.
