@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.24 - 2026-03-25
+- Process article: Walmart: ChatGPT checkout converted 3x worse than website.
+
 ## 0.0.23 - 2026-03-25
 - Process article: If DSPy is So Great, Why Isn't Anyone Using It?.
 
