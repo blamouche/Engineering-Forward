@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 268
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 269
 
 ## Articles
 
 ### 2026
 
-#### March (268 articles)
+#### March (269 articles)
+- [Build a Domain-Specific Embedding Model in Under a Day](src/2026-03/20260325-build-a-domain-specific-embedding-model.md)
 - [Reduce AI software risk with Black Duck Signal Agentic Application Security](src/2026-03/20260325-reduce-ai-software-risk-with-black-duck-signal.md)
 - [Vibe physics: The AI grad student](src/2026-03/20260325-vibe-physics-the-ai-grad-student.md)
 - [A Ramsey-style Problem on Hypergraphs](src/2026-03/20260325-ramsey-style-problem-on-hypergraphs.md)

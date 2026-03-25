@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.19 - 2026-03-25
+- Process article: Build a Domain-Specific Embedding Model in Under a Day.
+
 ## 0.0.18 - 2026-03-25
 - Process article: Reduce AI software risk with Black Duck Signal Agentic Application Security.
 

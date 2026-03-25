@@ -398,3 +398,10 @@
 - files_changed_or_commands: src/2026-03/20260325-reduce-ai-software-risk-with-black-duck-signal.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue scan-list queue.
+
+## 2026-03-25 16:58:20 +0100
+- actor: agent
+- action: Processed NVIDIA/HF domain-specific embedding fine-tune guide; updated README stats, removed URL, and bumped version/releases.
+- files_changed_or_commands: src/2026-03/20260325-build-a-domain-specific-embedding-model.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue scan-list queue.

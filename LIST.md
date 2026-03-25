@@ -1,4 +1,3 @@
-https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
 https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html
 https://www.algolia.com/resources/asset/ebook-2026-b2c-ecommerce-ai-trends
 https://a16z.com/there-are-only-two-paths-left-for-software/
