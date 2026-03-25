@@ -1,4 +1,3 @@
-https://www.cnet.com/tech/services-and-software/claude-control-your-computer-to-perform-tasks/
 https://om.co/2026/03/23/more-magic-math-from-openai/
 https://www.asimov.press/p/ai-science
 https://blog.mozilla.ai/cq-stack-overflow-for-agents/

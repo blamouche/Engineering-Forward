@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.26 - 2026-03-25
+- Process article: Anthropic's Claude Can Now Control Your Computer.
+
 ## 0.0.25 - 2026-03-25
 - Process article: The 4-Layer Production Stack Every AI Agent Needs.
 

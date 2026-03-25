@@ -503,3 +503,10 @@
 - files_changed_or_commands: `src/2026-03/20260325-the-4-layer-production-stack-every-ai-agent-needs.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit changes and continue processing LIST.md.
+
+## 2026-03-25 23:19:40 +0100
+- actor: agent
+- action: Processed article "Anthropic's Claude Can Now Control Your Computer" (synthesis, README stats, list update, version/release bump).
+- files_changed_or_commands: `src/2026-03/20260325-anthropics-claude-can-now-control-your-computer.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit changes and continue processing LIST.md.
