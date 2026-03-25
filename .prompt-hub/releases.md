@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.34 - 2026-03-25
+- Process article: This week on How I AI: How Microsoft’s AI VP automates everything with Warp.
+
 ## 0.0.33 - 2026-03-25
 - Process article: How Agentic RAG Works?.
 
