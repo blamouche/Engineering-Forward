@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.27 - 2026-03-25
+- Process article: More Magic Math from OpenAI?.
+
 ## 0.0.26 - 2026-03-25
 - Process article: Anthropic's Claude Can Now Control Your Computer.
 

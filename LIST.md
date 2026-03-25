@@ -1,4 +1,3 @@
-https://om.co/2026/03/23/more-magic-math-from-openai/
 https://www.asimov.press/p/ai-science
 https://blog.mozilla.ai/cq-stack-overflow-for-agents/
 https://www.bitsxpages.com/p/the-broken-economics-of-databases

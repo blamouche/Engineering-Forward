@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████ 275
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████ 276
 
 ## Articles
 
 ### 2026
 
-#### March (522 articles)
+#### March (523 articles)
+- [More Magic Math from OpenAI?](src/2026-03/20260323-more-magic-math-from-openai.md)
 - [Anthropic's Claude Can Now Control Your Computer](src/2026-03/20260325-anthropics-claude-can-now-control-your-computer.md)
 - [The 4-Layer Production Stack Every AI Agent Needs](src/2026-03/20260325-the-4-layer-production-stack-every-ai-agent-needs.md)
 - [Walmart: ChatGPT checkout converted 3x worse than website](src/2026-03/20260325-walmart-chatgpt-checkout-converted-3x-worse-than-website.md)
