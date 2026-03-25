@@ -384,3 +384,17 @@
 - files_changed_or_commands: src/2026-03/20260325-vibe-physics-the-ai-grad-student.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue scan-list queue.
+
+## 2026-03-25 16:51:42 +0100
+- actor: agent
+- action: Initialized scan-list continuation task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-165142-scan-list.md; read lessons/memory/releases.
+- outcome: success
+- next_step: Process remaining LIST.md URLs per scan-list instructions.
+
+## 2026-03-25 16:55:30 +0100
+- actor: agent
+- action: Processed Black Duck Signal agentic AppSec page; created synthesis, updated README stats, removed URL, and bumped version/releases.
+- files_changed_or_commands: src/2026-03/20260325-reduce-ai-software-risk-with-black-duck-signal.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue scan-list queue.
