@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.36 - 2026-03-25
+- Process article: How to Create an Automated Meeting Scheduler with Microsoft 365 Copilot (FETCH_ERROR).
+
 ## 0.0.35 - 2026-03-25
 - Process article: How Microsoft’s AI VP automates everything with 5 micro-agent workflows (FETCH_ERROR).
 
