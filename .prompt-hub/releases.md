@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.20 - 2026-03-25
+- Process article: OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO.
+
 ## 0.0.19 - 2026-03-25
 - Process article: Build a Domain-Specific Embedding Model in Under a Day.
 

@@ -405,3 +405,45 @@
 - files_changed_or_commands: src/2026-03/20260325-build-a-domain-specific-embedding-model.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue scan-list queue.
+
+## 2026-03-25 17:02:10 +0100
+- actor: agent
+- action: Updated scan-list todo progress to note partial completion.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-165142-scan-list.md.
+- outcome: success
+- next_step: Continue processing remaining URLs.
+
+## 2026-03-25 17:06:30 +0100
+- actor: agent
+- action: Created new scan-list task file and updated lessons after user correction.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-170600-scan-list.md; .prompt-hub/lessons.md.
+- outcome: success
+- next_step: Confirm plan, then process current LIST.md queue.
+
+## 2026-03-25 17:08:30 +0100
+- actor: agent
+- action: Initialized scan-list task; loaded lessons/memory/releases and created todo file.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-170800-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Await plan confirmation, then process LIST.md queue.
+
+## 2026-03-25 21:42:30 +0100
+- actor: agent
+- action: Initialized scan-list task file and loaded prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-214200-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
+## 2026-03-25 22:50:00 +0100
+- actor: agent
+- action: Initialized scan-list run; created todo file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260325-225000-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
+## 2026-03-25 22:55:00 +0100
+- actor: agent
+- action: Processed CNBC OpenAI risk factors article; created synthesis, updated README stats/list, removed URL from LIST.md.
+- files_changed_or_commands: `src/2026-03/20260323-openai-calls-out-microsoft-reliance-as-risk-in-investor-document-ahead-of-expected-ipo.md`, `README.md`, `LIST.md`, `.prompt-hub/todo/todo-20260325-225000-scan-list.md`.
+- outcome: success
+- next_step: Continue processing remaining URLs.
