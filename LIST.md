@@ -1,4 +1,3 @@
-https://www.bigtechnology.com/p/anthropic-takes-the-pentagon-to-court
 https://blog.bytebytego.com/p/how-agentic-rag-works
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-microsofts
 https://www.chatprd.ai/how-i-ai/microsofts-ai-vp-automates-everything-with-5-micro-agent-workflows

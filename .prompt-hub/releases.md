@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.32 - 2026-03-25
+- Process article: Anthropic Takes The Pentagon To Court This Week. Here’s What Could Happen.
+
 ## 0.0.31 - 2026-03-25
 - Process article: The Broken Economics of Databases.
 
