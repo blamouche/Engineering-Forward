@@ -21,13 +21,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████ 280
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████ 281
 
 ## Articles
 
 ### 2026
 
-#### March (527 articles)
+#### March (528 articles)
+- [How Agentic RAG Works?](src/2026-03/20260325-how-agentic-rag-works.md)
 - [Anthropic Takes The Pentagon To Court This Week. Here’s What Could Happen.](src/2026-03/20260325-anthropic-takes-the-pentagon-to-court.md)
 - [The Broken Economics of Databases](src/2026-03/20260325-the-broken-economics-of-databases.md)
 - [cq: Stack Overflow for Agents](src/2026-03/20260325-cq-stack-overflow-for-agents.md)

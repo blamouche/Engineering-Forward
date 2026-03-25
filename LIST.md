@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-agentic-rag-works
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-microsofts
 https://www.chatprd.ai/how-i-ai/microsofts-ai-vp-automates-everything-with-5-micro-agent-workflows
 https://www.chatprd.ai/how-i-ai/workflows/how-to-create-an-automated-meeting-scheduler-with-microsoft-365-copilot

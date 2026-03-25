@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.33 - 2026-03-25
+- Process article: How Agentic RAG Works?.
+
 ## 0.0.32 - 2026-03-25
 - Process article: Anthropic Takes The Pentagon To Court This Week. Here’s What Could Happen.
 
