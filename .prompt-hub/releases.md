@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.38 - 2026-03-25
+- Process article: How to Automate Azure User Role Management with AI in the Terminal (FETCH_ERROR).
+
 ## 0.0.37 - 2026-03-25
 - Process article: How to Scan and Merge Two-Sided Documents into a Single PDF with AI (FETCH_ERROR).
 
