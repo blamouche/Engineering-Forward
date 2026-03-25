@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.11 - 2026-03-25
+- Allow exec by default unless explicitly restricted (lesson update).
+
 ## 0.0.10 - 2026-03-25
 - Trashed processed Gmail messages; finalized veille IA task log.
 

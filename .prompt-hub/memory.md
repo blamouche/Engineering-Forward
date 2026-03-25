@@ -328,3 +328,10 @@
 - files_changed_or_commands: `gog gmail batch modify 19d24853c293f6ed 19d247bf6373932f --add TRASH`; `.prompt-hub/todo/todo-20260325-140100-veille-ia.md` updated.
 - outcome: success
 - next_step: Commit task completion + version/release updates.
+
+## 2026-03-25 14:26:30 +0100
+- actor: assistant
+- action: Updated repo rule to allow exec by default unless explicitly forbidden.
+- files_changed_or_commands: .prompt-hub/lessons.md; .prompt-hub/todo/todo-20260325-142515-allow-exec.md
+- outcome: success
+- next_step: Commit prompt-hub tracking updates.
