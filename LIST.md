@@ -1,4 +1,3 @@
-https://www.algolia.com/resources/asset/ebook-2026-b2c-ecommerce-ai-trends
 https://a16z.com/there-are-only-two-paths-left-for-software/
 https://skylarbpayne.com/posts/dspy-engineering-patterns/
 https://searchengineland.com/walmart-chatgpt-checkout-converted-worse-472071

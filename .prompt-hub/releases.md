@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.21 - 2026-03-25
+- Process article: 2026 B2C ecommerce AI trends (FETCH_ERROR).
+
 ## 0.0.20 - 2026-03-25
 - Process article: OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO.
 

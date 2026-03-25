@@ -447,3 +447,10 @@
 - files_changed_or_commands: `src/2026-03/20260323-openai-calls-out-microsoft-reliance-as-risk-in-investor-document-ahead-of-expected-ipo.md`, `README.md`, `LIST.md`, `.prompt-hub/todo/todo-20260325-225000-scan-list.md`.
 - outcome: success
 - next_step: Continue processing remaining URLs.
+
+## 2026-03-25 22:57:00 +0100
+- actor: agent
+- action: WebFetch returned non-article content for Algolia ebook URL; removed URL from LIST.md and recorded FETCH_ERROR for batch recap.
+- files_changed_or_commands: `LIST.md`.
+- outcome: partial
+- next_step: Continue processing remaining URLs; include FETCH_ERROR in batch recap.
