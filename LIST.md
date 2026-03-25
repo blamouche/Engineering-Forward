@@ -1,4 +1,3 @@
-https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs
 https://www.anthropic.com/research/vibe-physics
 https://www.blackduck.com/signal-ai-appsec.html
 https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune

@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.16 - 2026-03-25
+- Process article: A Ramsey-style Problem on Hypergraphs.
+
 ## 0.0.15 - 2026-03-25
 - Process article: Claude Code and Cowork can now use your computer.
 
