@@ -1,4 +1,3 @@
-https://blog.kilo.ai/p/we-tested-minimax-m27-against-claude
 https://alexop.dev/posts/the-software-factory/
 https://github.com/MiniMax-AI/skills
 https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html

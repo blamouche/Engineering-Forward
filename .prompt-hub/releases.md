@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.46 - 2026-03-26
+- Process article: We Tested MiniMax M2.7 Against Claude Opus 4.6.
+
 ## 0.0.45 - 2026-03-26
 - Process article: OpenAI reportedly plans to double its workforce to 8,000 employees.
 
