@@ -1,7 +1,6 @@
 https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/
 https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/
 https://www.engadget.com/ai/openai-reportedly-plans-to-double-its-workforce-to-8000-employees-161028377.html
-https://www.engadget.com/science/elon-musk-announces-terafab-project-he-claims-will-be-the-largest-chip-manufacturing-facility-ever-171718545.html
 https://blog.kilo.ai/p/we-tested-minimax-m27-against-claude
 https://alexop.dev/posts/the-software-factory/
 https://github.com/MiniMax-AI/skills
@@ -14,7 +13,6 @@ https://linas.substack.com/p/claudearchitect
 https://workos.com/blog/agent-experience
 https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/
 https://newsletter.eng-leadership.com/p/how-to-do-ai-assisted-engineering
-https://threadreaderapp.com/thread/2035197183230709874.html
 https://www.cdata.com/resources/architect-once-or-rebuild-twice-ai-teams-scaling-production/
 https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
 https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work
@@ -37,3 +35,17 @@ https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovati
 https://www.natemeyvis.com/the-case-for-worrying-about-ai-specific-cognitive-debt/
 https://ossature.dev/blog/introducing-ossature/
 https://github.com/thoughtfulllc/gridland
+https://blog.bytebytego.com/p/how-anthropics-claude-thinks
+https://claude.com/blog/auto-mode
+https://openai.com/index/powering-product-discovery-in-chatgpt/
+https://www.anthropic.com/engineering/harness-design-long-running-apps
+https://robonomics.substack.com/p/app-store-age-of-agent
+https://www.anyscale.com/blog/ray-data-llm-2x-throughput-vs-vllm
+https://qwen-pilot.notion.site/rlvr-direction
+https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
+https://machinelearning.apple.com/research/trained-on-tokens
+https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html
+https://www.wsj.com/tech/ai/u-s-governments-ban-on-anthropic-looks-like-punishment-attempt-judge-says-2ff98fe3
+https://www.databricks.com/company/newsroom/press-releases/databricks-enters-security-market-launch-lakewatch-new-open-agentic
+https://www.anthropic.com/research/economic-index-march-2026-report
+https://huggingface.co/blog/ServiceNow-AI/eva

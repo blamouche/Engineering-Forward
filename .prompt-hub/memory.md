@@ -608,3 +608,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260326-070000-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Extract Gmail URLs and update LIST.md, then trash processed emails.
+
+## 2026-03-26 07:05:00 +0100
+- actor: agent
+- action: Extracted veille IA URLs from Gmail, filtered to AI/app-dev, updated LIST.md with dedupe; removed non-AI links; trashed processed emails.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia"; gog gmail batch modify (5 ids) --add TRASH; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md; .prompt-hub/todo/todo-20260326-070000-veille-ia.md.
+- outcome: success
+- next_step: Commit and push LIST.md + prompt-hub updates.

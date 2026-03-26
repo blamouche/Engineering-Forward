@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.41 - 2026-03-26
+- Daily veille IA: add filtered URLs to LIST.md and clean non-AI links.
+
 ## 0.0.40 - 2026-03-26
 - Initialize veille IA task log for daily cron run.
 
