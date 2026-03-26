@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.49 - 2026-03-26
+- Process article: OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO.
+
 ## 0.0.48 - 2026-03-26
 - Process article: GitHub - MiniMax-AI/skills.
 

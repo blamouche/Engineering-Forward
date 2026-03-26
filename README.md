@@ -20,13 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████ 288
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████ 289
 
 ## Articles
 
 ### 2026
 
-#### March (288 articles)
+#### March (289 articles)
 - [GitHub - MiniMax-AI/skills](src/2026-03/20260326-minimax-ai-skills-repository.md)
 - [The Software Factory: Why Your Team Will Never Work the Same Again](src/2026-03/20260326-the-software-factory-why-your-team-will-never-work-the-same-again.md)
 - [We Tested MiniMax M2.7 Against Claude Opus 4.6](src/2026-03/20260326-we-tested-minimax-m27-against-claude-opus-46.md)
@@ -53,6 +53,7 @@ Articles per month:
 - [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
 - [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
 - [The Displacement of Cognitive Labor and What Comes After](src/2026-03/20260323-the-displacement-of-cognitive-labor.md)
+- [OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO](src/2026-03/20260322-openai-data-center-pivot-underscores-wall-street-ipo-concerns.md)
 - [Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](src/2026-03/20260322-cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi.md)
 - [OpenAI is throwing everything into building a fully automated researcher](src/2026-03/20260320-openai-is-throwing-everything-into-building-a-fully-automated-researcher.md)
 - [OpenAI Plans Launch of Desktop “Superapp”](src/2026-03/20260319-openai-desktop-superapp-plan.md)
