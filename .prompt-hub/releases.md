@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.54 - 2026-03-26
+- Process article: Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide).
+
 ## 0.0.53 - 2026-03-26
 - Process article: Claude Code Scheduled Tasks (Thread).
 
