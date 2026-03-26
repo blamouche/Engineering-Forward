@@ -20,7 +20,7 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 283
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 284
 
 2022-12 | █ 2<br>
 2024-05 | █ 1<br>
@@ -42,7 +42,7 @@ Articles per month:
 
 ### 2026
 
-#### March (283 articles)
+#### March (284 articles)
 - [This week on How I AI: How Microsoft’s AI VP automates everything with Warp](src/2026-03/20260325-this-week-on-how-i-ai-microsofts-ai-vp-automates-everything.md)
 - [How Agentic RAG Works?](src/2026-03/20260325-how-agentic-rag-works.md)
 - [Anthropic Takes The Pentagon To Court This Week. Here’s What Could Happen.](src/2026-03/20260325-anthropic-takes-the-pentagon-to-court.md)
@@ -65,6 +65,7 @@ Articles per month:
 - [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
 - [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
 - [The Displacement of Cognitive Labor and What Comes After](src/2026-03/20260323-the-displacement-of-cognitive-labor.md)
+- [Cursor admits its new coding model was built on top of Moonshot AI’s Kimi](src/2026-03/20260322-cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi.md)
 - [OpenAI is throwing everything into building a fully automated researcher](src/2026-03/20260320-openai-is-throwing-everything-into-building-a-fully-automated-researcher.md)
 - [OpenAI Plans Launch of Desktop “Superapp”](src/2026-03/20260319-openai-desktop-superapp-plan.md)
 - [Turn Claude Cowork Into Your Personal COO](src/2026-03/20260323-turn-claude-cowork-into-your-personal-coo.md)

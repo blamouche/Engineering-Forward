@@ -1,5 +1,9 @@
 # Releases
 
+## 0.0.44 - 2026-03-26
+- Process article: Cursor admits its new coding model was built on top of Moonshot AI’s Kimi.
+
+
 ## 0.0.43 - 2026-03-26
 - Process article: OpenAI is throwing everything into building a fully automated researcher.
 

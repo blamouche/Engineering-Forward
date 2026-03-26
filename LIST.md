@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/
 https://www.engadget.com/ai/openai-reportedly-plans-to-double-its-workforce-to-8000-employees-161028377.html
 https://blog.kilo.ai/p/we-tested-minimax-m27-against-claude
 https://alexop.dev/posts/the-software-factory/
