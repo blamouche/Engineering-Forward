@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.42 - 2026-03-26
+- Finalize veille IA task log completion status.
+
 ## 0.0.41 - 2026-03-26
 - Daily veille IA: add filtered URLs to LIST.md and clean non-AI links.
 
