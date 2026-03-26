@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████ 286
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████ 287
 
 ## Articles
 
 ### 2026
 
-#### March (286 articles)
+#### March (287 articles)
+- [The Software Factory: Why Your Team Will Never Work the Same Again](src/2026-03/20260326-the-software-factory-why-your-team-will-never-work-the-same-again.md)
 - [We Tested MiniMax M2.7 Against Claude Opus 4.6](src/2026-03/20260326-we-tested-minimax-m27-against-claude-opus-46.md)
 - [OpenAI reportedly plans to double its workforce to 8,000 employees](src/2026-03/20260326-openai-reportedly-plans-to-double-its-workforce-to-8000-employees.md)
 - [This week on How I AI: How Microsoft’s AI VP automates everything with Warp](src/2026-03/20260325-this-week-on-how-i-ai-microsofts-ai-vp-automates-everything.md)

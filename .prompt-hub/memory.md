@@ -671,3 +671,10 @@
 - files_changed_or_commands: src/2026-03/20260326-we-tested-minimax-m27-against-claude-opus-46.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue processing LIST.md queue.
+
+## 2026-03-26 16:16:00 +0100
+- actor: agent
+- action: Processed “The Software Factory” article; created synthesis, updated README stats, removed URL, bumped version/releases.
+- files_changed_or_commands: src/2026-03/20260326-the-software-factory-why-your-team-will-never-work-the-same-again.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue processing LIST.md queue.

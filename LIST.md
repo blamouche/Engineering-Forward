@@ -1,4 +1,3 @@
-https://alexop.dev/posts/the-software-factory/
 https://github.com/MiniMax-AI/skills
 https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html
 https://www.testingcatalog.com/perplexity-tests-market-research-agent-for-perplexity-computer/
