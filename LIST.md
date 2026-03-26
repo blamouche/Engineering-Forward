@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/03/20/ai-startups-are-eating-the-venture-industry-and-the-returns-so-far-are-good/
 https://www.strangeloopcanon.com/p/the-future-of-work-is-world-models
 https://threadreaderapp.com/thread/2035122989533163971.html
 https://linas.substack.com/p/claudearchitect
