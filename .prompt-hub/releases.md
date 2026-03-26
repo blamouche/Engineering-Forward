@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.45 - 2026-03-26
+- Process article: OpenAI reportedly plans to double its workforce to 8,000 employees.
+
 ## 0.0.44 - 2026-03-26
 - Process article: Cursor admits its new coding model was built on top of Moonshot AI’s Kimi.
 
