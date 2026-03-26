@@ -6,6 +6,21 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 ## Statistics
 
 Articles per month:
+2022-12 | █ 2<br>
+2024-05 | █ 1<br>
+2024-06 | █ 1<br>
+2024-12 | █ 1<br>
+2025-04 | █ 1<br>
+2025-05 | █ 2<br>
+2025-06 | █ 1<br>
+2025-08 | █ 1<br>
+2025-09 | █ 1<br>
+2025-10 | █ 2<br>
+2025-11 | █ 1<br>
+2025-12 | █ 1<br>
+2026-01 | █████████████████████████████████ 99<br>
+2026-02 | ██████████████████████████████████████████████████ 148<br>
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████ 283
 
 2022-12 | █ 2<br>
 2024-05 | █ 1<br>
@@ -27,7 +42,7 @@ Articles per month:
 
 ### 2026
 
-#### March (529 articles)
+#### March (283 articles)
 - [This week on How I AI: How Microsoft’s AI VP automates everything with Warp](src/2026-03/20260325-this-week-on-how-i-ai-microsofts-ai-vp-automates-everything.md)
 - [How Agentic RAG Works?](src/2026-03/20260325-how-agentic-rag-works.md)
 - [Anthropic Takes The Pentagon To Court This Week. Here’s What Could Happen.](src/2026-03/20260325-anthropic-takes-the-pentagon-to-court.md)
@@ -50,6 +65,7 @@ Articles per month:
 - [Google Cloud AI Infrastructure at NVIDIA GTC 2026](src/2026-03/20260323-google-cloud-ai-infrastructure-at-nvidia-gtc-2026.md)
 - [China Is Mobilizing Thousands of One-Person AI Startups](src/2026-03/20260323-china-is-mobilizing-thousands-of-one-person-ai-startups.md)
 - [The Displacement of Cognitive Labor and What Comes After](src/2026-03/20260323-the-displacement-of-cognitive-labor.md)
+- [OpenAI is throwing everything into building a fully automated researcher](src/2026-03/20260320-openai-is-throwing-everything-into-building-a-fully-automated-researcher.md)
 - [OpenAI Plans Launch of Desktop “Superapp”](src/2026-03/20260319-openai-desktop-superapp-plan.md)
 - [Turn Claude Cowork Into Your Personal COO](src/2026-03/20260323-turn-claude-cowork-into-your-personal-coo.md)
 - [Read Less, Steer More](src/2026-03/20260318-read-less-steer-more.md)
@@ -311,7 +327,7 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (148 articles) [Synthesis 2026-02](synthesis/2026-02.md)
+#### February (148 articles)
 - [Vibe Check: Opus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits)](src/2026-02/20260205-vibe-check-opus-4-6-the-best-coding-model-weve-tested-with-some-maddening-habits.md)
 - [OpenAI's New Codex App Is Gold for Senior Engineers](src/2026-02/20260202-openais-new-codex-app-is-gold-for-senior-engineers.md)
 - [CoderPad State of Tech Hiring 2026](src/2026-02/20260211-coderpad-state-of-tech-hiring-2026.md)
@@ -461,7 +477,7 @@ Articles per month:
 - [Genie 3](src/2026-02/20260203-20260203-genie-3-world-model.md)
 - [Mistral Vibe 2.0](src/2026-02/20260203-20260203-mistral-vibe-2-0.md)
 
-#### January (99 articles) [Synthesis 2026-01](synthesis/2026-01.md)
+#### January (99 articles)
 - [What those AI benchmark numbers mean](src/2026-01/20260129-what-ai-benchmark-numbers-mean.md)
 - [Teach Your AI to Think Like a Senior Engineer](src/2026-01/20260129-teach-your-ai-to-think-like-a-senior-engineer-compound.md)
 - [Compound Engineering: How Every Codes With Agents](src/2026-01/20260131-compound-engineering-how-every-codes-with-agents.md)

@@ -1,5 +1,9 @@
 # Releases
 
+## 0.0.43 - 2026-03-26
+- Process article: OpenAI is throwing everything into building a fully automated researcher.
+
+
 ## 0.0.42 - 2026-03-26
 - Finalize veille IA task log completion status.
 

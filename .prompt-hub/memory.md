@@ -622,3 +622,17 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260326-070000-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: None.
+
+## 2026-03-26 07:13:30 +0100
+- actor: agent
+- action: Initialized scan-list task file with plan and checkpoints after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260326-071300-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Sync repo, then process LIST.md queue.
+
+## 2026-03-26 16:00:00 +0100
+- actor: agent
+- action: Initialized scan-list task, stashed prompt-hub changes to allow repo sync, pulled latest, and restored stash.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260326-160000-scan-list.md; git stash push -u -m "pre-scan-list-20260326-160000"; git pull --rebase; git stash pop.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
