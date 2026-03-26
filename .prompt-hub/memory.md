@@ -511,6 +511,13 @@
 - outcome: success
 - next_step: Commit and continue with next URL.
 
+## 2026-03-26 16:24:00 +0100
+- actor: agent
+- action: Processed article "Claude Code Scheduled Tasks (Thread)"; updated README stats and LIST.md.
+- files_changed_or_commands: src/2026-03/20260325-claude-code-scheduled-tasks.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit and continue with next URL.
+
 ## 2026-03-25 17:08:30 +0100
 - actor: agent
 - action: Initialized scan-list task; loaded lessons/memory/releases and created todo file.

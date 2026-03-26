@@ -1,4 +1,3 @@
-https://threadreaderapp.com/thread/2035122989533163971.html
 https://linas.substack.com/p/claudearchitect
 https://workos.com/blog/agent-experience
 https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/

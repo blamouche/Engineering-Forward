@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.53 - 2026-03-26
+- Process article: Claude Code Scheduled Tasks (Thread).
+
 ## 0.0.52 - 2026-03-26
 - Process article: The future of work is world models.
 
