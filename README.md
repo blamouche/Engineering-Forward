@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 294
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 295
 
 ## Articles
 
 ### 2026
 
-#### March (294 articles)
+#### March (295 articles)
+- [Agent Experience: Build without leaving your terminal](src/2026-03/20260325-agent-experience-workos.md)
 - [Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide)](src/2026-03/20260325-claude-certified-architects-production-guide.md)
 - [Claude Code Scheduled Tasks (Thread)](src/2026-03/20260325-claude-code-scheduled-tasks.md)
 - [The future of work is world models](src/2026-03/20260325-the-future-of-work-is-world-models.md)

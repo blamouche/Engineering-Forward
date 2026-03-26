@@ -1,4 +1,3 @@
-https://workos.com/blog/agent-experience
 https://arstechnica.com/gadgets/2026/03/amazon-is-reportedly-developing-an-ai-centric-smartphone/
 https://newsletter.eng-leadership.com/p/how-to-do-ai-assisted-engineering
 https://www.cdata.com/resources/architect-once-or-rebuild-twice-ai-teams-scaling-production/

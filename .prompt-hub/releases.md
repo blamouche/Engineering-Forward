@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.55 - 2026-03-26
+- Process article: Agent Experience: Build without leaving your terminal.
+
 ## 0.0.54 - 2026-03-26
 - Process article: Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide).
 
