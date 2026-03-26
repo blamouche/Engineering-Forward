@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.40 - 2026-03-26
+- Initialize veille IA task log for daily cron run.
+
 ## 0.0.39 - 2026-03-25
 - Create missing batch recap for 2026-03-25 scan-list run.
 

@@ -601,3 +601,10 @@
 - files_changed_or_commands: synthesis/2026-03-25 - 232640 - batch recap.md; .prompt-hub/lessons.md; .prompt-hub/todo/todo-20260325-232612-batch-recap.md
 - outcome: success
 - next_step: Update prompt-hub version/releases, mark todo complete, commit + push.
+
+## 2026-03-26 07:00:00 +0100
+- actor: agent
+- action: Initialized veille IA cron task file and updated prompt-hub version/release metadata.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260326-070000-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Extract Gmail URLs and update LIST.md, then trash processed emails.
