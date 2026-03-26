@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████ 289
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████ 290
 
 ## Articles
 
 ### 2026
 
-#### March (289 articles)
+#### March (290 articles)
+- [Perplexity tests Market Research tool for Perplexity Computer](src/2026-03/20260326-perplexity-tests-market-research-tool-for-perplexity-computer.md)
 - [GitHub - MiniMax-AI/skills](src/2026-03/20260326-minimax-ai-skills-repository.md)
 - [The Software Factory: Why Your Team Will Never Work the Same Again](src/2026-03/20260326-the-software-factory-why-your-team-will-never-work-the-same-again.md)
 - [We Tested MiniMax M2.7 Against Claude Opus 4.6](src/2026-03/20260326-we-tested-minimax-m27-against-claude-opus-46.md)

@@ -692,3 +692,10 @@
 - files_changed_or_commands: src/2026-03/20260322-openai-data-center-pivot-underscores-wall-street-ipo-concerns.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue processing LIST.md queue.
+
+## 2026-03-26 16:27:00 +0100
+- actor: agent
+- action: Processed TestingCatalog report on Perplexity market research agent; created synthesis, updated README stats, removed URL, bumped version/releases.
+- files_changed_or_commands: src/2026-03/20260326-perplexity-tests-market-research-tool-for-perplexity-computer.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue processing LIST.md queue.
