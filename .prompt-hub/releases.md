@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.56 - 2026-03-26
+- Process article: Amazon is reportedly developing an AI-centric smartphone.
+
 ## 0.0.55 - 2026-03-26
 - Process article: Agent Experience: Build without leaving your terminal.
 
