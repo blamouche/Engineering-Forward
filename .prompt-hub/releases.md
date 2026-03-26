@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.48 - 2026-03-26
+- Process article: GitHub - MiniMax-AI/skills.
+
 ## 0.0.47 - 2026-03-26
 - Process article: The Software Factory: Why Your Team Will Never Work the Same Again.
 
