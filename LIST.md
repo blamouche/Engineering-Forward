@@ -1,4 +1,3 @@
-https://www.strangeloopcanon.com/p/the-future-of-work-is-world-models
 https://threadreaderapp.com/thread/2035122989533163971.html
 https://linas.substack.com/p/claudearchitect
 https://workos.com/blog/agent-experience

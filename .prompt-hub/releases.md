@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.52 - 2026-03-26
+- Process article: The future of work is world models.
+
 ## 0.0.51 - 2026-03-26
 - Process article: AI startups are eating the venture industry and the returns, so far, are good.
 

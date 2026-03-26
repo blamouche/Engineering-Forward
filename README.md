@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████ 291
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████ 292
 
 ## Articles
 
 ### 2026
 
-#### March (291 articles)
+#### March (292 articles)
+- [The future of work is world models](src/2026-03/20260325-the-future-of-work-is-world-models.md)
 - [AI startups are eating the venture industry and the returns, so far, are good](src/2026-03/20260320-ai-startups-are-eating-the-venture-industry.md)
 - [Perplexity tests Market Research tool for Perplexity Computer](src/2026-03/20260326-perplexity-tests-market-research-tool-for-perplexity-computer.md)
 - [GitHub - MiniMax-AI/skills](src/2026-03/20260326-minimax-ai-skills-repository.md)
