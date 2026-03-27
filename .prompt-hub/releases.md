@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.73 - 2026-03-27
+- Process article: EP207: Top 12 GitHub AI Repositories.
+
 ## 0.0.72 - 2026-03-27
 - Add synthesis: EP207: Top 12 GitHub AI Repositories.
 

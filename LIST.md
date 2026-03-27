@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories
 https://github.com/langchain-ai/open-swe
 https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
 https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
