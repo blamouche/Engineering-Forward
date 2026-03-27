@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.164 - 2026-03-27
+- Add synthesis: Lyria 3 Pro: Create longer tracks in more Google products.
+
 ## 0.0.163 - 2026-03-27
 - Process article: Gemini 3.1 Flash Live: Making audio AI more natural and reliable.
 
