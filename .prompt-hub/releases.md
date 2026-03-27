@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.148 - 2026-03-27
+- Add synthesis: RCLI: On-device voice AI for macOS.
+
 ## 0.0.147 - 2026-03-27
 - Process article: gitagent | your repository becomes your agent.
 
