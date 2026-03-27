@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.97 - 2026-03-27
+- Process article: Choose Boring Technology and Innovative Practices.
+
 ## 0.0.96 - 2026-03-27
 - Add synthesis: Choose Boring Technology and Innovative Practices.
 

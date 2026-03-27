@@ -1,4 +1,3 @@
-https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/
 https://www.natemeyvis.com/the-case-for-worrying-about-ai-specific-cognitive-debt/
 https://ossature.dev/blog/introducing-ossature/
 https://github.com/thoughtfulllc/gridland
