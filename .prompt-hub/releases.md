@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.155 - 2026-03-27
+- Process article: Improving Composer through real-time RL.
+
 ## 0.0.154 - 2026-03-27
 - Add synthesis: Improving Composer through real-time RL.
 
