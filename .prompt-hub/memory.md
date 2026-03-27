@@ -2,10 +2,10 @@
 
 ## 2026-03-27 18:05:00 +0100
 - actor: agent
-- action: Completed scan-list continuation: processed remaining URLs, created syntheses, updated README/stats, cleared LIST.md, and drafted batch recap (1 fetch error).
+- action: Completed scan-list continuation: processed queued URLs, created syntheses, updated README/stats, and drafted batch recap (1 fetch error). Additional URLs remain in LIST.md for the next batch.
 - files_changed_or_commands: `src/2026-03/*`; `README.md`; `LIST.md`; `synthesis/2026-03-27 - 174200 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success (with one fetch error for qwen-pilot.notion.site/rlvr-direction)
-- next_step: Commit recap/memory/todo updates and push.
+- next_step: Commit recap/memory/todo updates; decide whether to continue processing remaining LIST.md URLs.
 
 ## 2026-03-23 14:43:00 +0100
 - actor: agent

@@ -6,6 +6,9 @@
 
 # Releases
 
+## 0.0.131 - 2026-03-27
+- Update scan-list logs after noting remaining LIST.md URLs.
+
 ## 0.0.130 - 2026-03-27
 - Add batch recap for scan-list continuation and update scan-list logs.
 
