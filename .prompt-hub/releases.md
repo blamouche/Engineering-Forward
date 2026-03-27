@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.179 - 2026-03-27
+- Process article: Agents, Meet the Figma Canvas.
+
 ## 0.0.178 - 2026-03-27
 - Add synthesis: Agents, Meet the Figma Canvas.
 

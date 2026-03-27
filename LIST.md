@@ -1,4 +1,3 @@
-https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
 https://www.figma.com/blog/figmas-next-generation-data-caching-platform/
 https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/
 https://newsletter.pragmaticengineer.com/p/is-the-fde-role-becoming-less-desirable
