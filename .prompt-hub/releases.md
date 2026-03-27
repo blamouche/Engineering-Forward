@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.65 - 2026-03-27
+- Process article: Exactly Why and How AI Will Replace Knowledge Work.
+
 ## 0.0.64 - 2026-03-27
 - Add synthesis: Exactly Why and How AI Will Replace Knowledge Work.
 

@@ -1,4 +1,3 @@
-https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work
 https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-2ca
 https://www.lennysnewsletter.com/p/the-10-traits-of-great-pms-how-ai
 https://www.lennysnewsletter.com/p/how-webflows-cpo-built-an-ai-chief
