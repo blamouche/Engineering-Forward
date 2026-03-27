@@ -1,3 +1,6 @@
+## 0.0.205 - 2026-03-27
+- Log substack-post-recents completion in prompt-hub memory.
+
 ## 0.0.204 - 2026-03-27
 - Add Substack recents post: The operational squeeze behind the AI boom.
 

@@ -1064,3 +1064,10 @@
 - files_changed_or_commands: substack/20260327-post-the-operational-squeeze-behind-the-ai-boom.md; substack/latest.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, push, and finalize task log.
+
+## 2026-03-27 23:15:30 +0100
+- actor: agent
+- action: Committed and pushed substack-post-recents updates.
+- files_changed_or_commands: git commit -m "Add substack post: The operational squeeze behind the AI boom"; git push.
+- outcome: success
+- next_step: Send summary with title and file path.
