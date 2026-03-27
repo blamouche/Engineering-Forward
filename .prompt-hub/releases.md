@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.91 - 2026-03-27
+- Process article: Auto mode for Claude Code.
+
 ## 0.0.90 - 2026-03-27
 - Add synthesis: Auto mode for Claude Code.
 
