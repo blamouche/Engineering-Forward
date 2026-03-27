@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.196 - 2026-03-27
+- Process article: Warner, Rounds Unveil Bipartisan Plan to Prepare American Workers for AI-Driven Workforce Changes.
+
 ## 0.0.195 - 2026-03-27
 - Process article: Senator Mark Warner on AI's Risks: “I Want To Be More Optimistic, But I Am Terrified.”
 

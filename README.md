@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 361
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 362
 ## Articles
 
 ### 2026
 
-#### March (361 articles)
+#### March (362 articles)
+- [Warner, Rounds Unveil Bipartisan Plan to Prepare American Workers for AI-Driven Workforce Changes](src/2026-03/20260327-warner-rounds-unveil-bipartisan-plan-to-prepare-american-workers-for-ai-driven-workforce-changes.md)
 - [Senator Mark Warner on AI's Risks: “I Want To Be More Optimistic, But I Am Terrified.”](src/2026-03/20260327-senator-mark-warner-on-ais-risks.md)
 - [Unlocking New Creative Possibilities with Dreamina Seedance 2.0](src/2026-03/20260325-unlocking-new-creative-possibilities-with-dreamina-seedance-2-0.md)
 - [Harvey Raises at $11 Billion Valuation to Scale Agents Across Law Firms and Enterprises](src/2026-03/20260327-harvey-raises-at-11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises.md)
