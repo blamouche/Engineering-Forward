@@ -755,3 +755,81 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260327-070000-veille-ia.md.
 - outcome: failed
 - next_step: Re-auth gog Gmail, then rerun extraction.
+
+## 2026-03-27 16:00:00 +0100
+- actor: agent
+- action: Initialized scan-list cron run; loaded prompt-hub context and created task file.
+- files_changed_or_commands: read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md; created .prompt-hub/todo/todo-20260327-160000-scan-list.md.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
+## 2026-03-27 16:05:00 +0100
+- actor: agent
+- action: Added synthesis for "How to Do AI-Assisted Engineering", updated README statistics and month count.
+- files_changed_or_commands: src/2026-03/20260327-how-to-do-ai-assisted-engineering.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit synthesis and continue scan-list queue.
+
+## 2026-03-27 16:07:00 +0100
+- actor: agent
+- action: Removed processed URL from LIST.md and bumped prompt-hub version/releases.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit process-article change and continue scan-list queue.
+
+## 2026-03-27 16:09:00 +0100
+- actor: agent
+- action: FETCH_ERROR on CData AI teams scaling production page (403). Removed URL and bumped version/releases.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: partial
+- next_step: Commit removal and continue scan-list queue.
+
+## 2026-03-27 16:12:00 +0100
+- actor: agent
+- action: Added synthesis for Trainium lab tour; updated README statistics and month count.
+- files_changed_or_commands: src/2026-03/20260322-an-exclusive-tour-of-amazons-trainium-lab.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit synthesis and continue scan-list queue.
+
+## 2026-03-27 16:14:00 +0100
+- actor: agent
+- action: Removed Trainium lab URL from LIST.md and bumped prompt-hub version/releases.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit process-article change and continue scan-list queue.
+
+## 2026-03-27 16:06:00 +0100
+- actor: agent
+- action: Initialized scan-list continuation task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-160600-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Process remaining LIST.md URLs per scan-list instructions.
+
+## 2026-03-27 16:12:00 +0100
+- actor: agent
+- action: Processed four scan-list URLs (Miessler AI knowledge work, ByteByteGo AI engineer cohort promo, Lenny’s PM traits podcast, Lenny’s Webflow AI chief-of-staff). Added syntheses, updated README/statistics, removed URLs, and committed per item.
+- files_changed_or_commands: src/2026-03/20260327-exactly-why-and-how-ai-will-replace-knowledge-work.md; src/2026-03/20260327-last-chance-to-enroll-become-an-ai-engineer-cohort-based-course.md; src/2026-03/20260327-the-10-traits-of-great-pms-and-slacks-product-development-process.md; src/2026-03/20260327-how-webflows-cpo-built-an-ai-chief-of-staff.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md; git commit x8.
+- outcome: success
+- next_step: Continue processing remaining LIST.md URLs and create final batch recap + push.
+
+## 2026-03-27 18:35 CET — scan-list (partial)
+- Pulled repo with stash pop. Processed multiple URLs from LIST.md with syntheses, README updates, stats refresh, and per-article commits. Pushed after each synthesis.
+- Added syntheses:
+  - EP207: Top 12 GitHub AI Repositories
+  - Open SWE: An Open-Source Asynchronous Coding Agent
+  - How I Built an Autonomous AI Agent Team That Runs 24/7
+  - Many SWE-bench-Passing PRs Would Not Be Merged into Main
+  - Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab
+  - Awesome LLM Apps: Collection of AI Agent and RAG Projects
+  - Control Claude Code from your Phone using Telegram
+  - iOS 27 Features: Apple AI Reboot With Siri App, New Interface, ‘Ask Siri’ Button
+  - OpenAI Scraps Sora Video Platform Months After Launch
+  - Auto mode for Claude Code
+  - What we wish we knew about building AI agents
+  - Meta Executive Will Spearhead Push to Get Employees Using More AI
+  - Choose Boring Technology and Innovative Practices
+  - The case for worrying about AI-specific cognitive debt
+  - Introducing Ossature: Spec-Driven Code Generation
+  - Gridland: Terminal apps that run anywhere
+- Removed those URLs from LIST.md, updated version/releases per commit.
+- Remaining URLs still in LIST.md (not yet processed).

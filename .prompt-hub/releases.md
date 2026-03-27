@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.104 - 2026-03-27
+- Log scan-list progress in memory.
+
 ## 0.0.103 - 2026-03-27
 - Process article: Gridland: Terminal apps that run anywhere.
 
