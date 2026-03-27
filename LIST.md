@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
 https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work
 https://blog.bytebytego.com/p/last-chance-to-enroll-become-an-ai-2ca
 https://www.lennysnewsletter.com/p/the-10-traits-of-great-pms-how-ai
