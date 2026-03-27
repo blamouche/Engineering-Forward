@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.88 - 2026-03-27
+- Add synthesis: OpenAI Scraps Sora Video Platform Months After Launch.
+
 ## 0.0.87 - 2026-03-27
 - Process article: iOS 27 Features: Apple AI Reboot With Siri App, New Interface, ‘Ask Siri’ Button.
 
