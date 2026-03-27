@@ -1008,3 +1008,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit/push LIST.md update and trash processed Gmail messages.
+
+## 2026-03-27 20:08:10 +0100
+- actor: agent
+- action: Trashed processed Gmail message and finalized veille IA task file.
+- files_changed_or_commands: gog gmail batch modify 19d305d0336e6ddd --add TRASH; .prompt-hub/todo/todo-20260327-200100-veille-ia.md.
+- outcome: success
+- next_step: Commit/push task log updates.

@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.188 - 2026-03-27
+- Finalize veille IA task log after trashing Gmail messages.
+
 ## 0.0.187 - 2026-03-27
 - Add veille IA URLs to LIST.md and remove non-AI links.
 
