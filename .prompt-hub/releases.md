@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.110 - 2026-03-27
+- Process article: Powering Product Discovery in ChatGPT.
+
 ## 0.0.109 - 2026-03-27
 - Add synthesis: Powering Product Discovery in ChatGPT.
 

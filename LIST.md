@@ -1,4 +1,3 @@
-https://openai.com/index/powering-product-discovery-in-chatgpt/
 https://www.anthropic.com/engineering/harness-design-long-running-apps
 https://robonomics.substack.com/p/app-store-age-of-agent
 https://www.anyscale.com/blog/ray-data-llm-2x-throughput-vs-vllm
