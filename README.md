@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 338
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 339
 ## Articles
 
 ### 2026
 
-#### March (338 articles)
+#### March (339 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Awesome LLM Apps](src/2026-03/20260327-awesome-llm-apps.md)
 - [RCLI: On‑device voice AI for macOS](src/2026-03/20260327-rcli-on-device-voice-ai.md)
 - [gitagent | your repository becomes your agent](src/2026-03/20260327-gitagent.md)
 - [Claude Subconscious](src/2026-03/20260327-claude-subconscious.md)

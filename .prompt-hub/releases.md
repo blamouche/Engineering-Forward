@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.150 - 2026-03-27
+- Add synthesis: Awesome LLM Apps.
+
 ## 0.0.149 - 2026-03-27
 - Process article: RCLI: On-device voice AI for macOS.
 
