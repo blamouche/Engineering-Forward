@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.156 - 2026-03-27
+- Add synthesis: Training a Self-Editing Search Agent (Context-1).
+
 ## 0.0.155 - 2026-03-27
 - Process article: Improving Composer through real-time RL.
 
