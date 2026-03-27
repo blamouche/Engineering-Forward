@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.140 - 2026-03-27
+- Add synthesis: How to Implement API Security.
+
 ## 0.0.139 - 2026-03-27
 - Process article: The File That Turns Claude Code Into Your Best Engineer.
 
