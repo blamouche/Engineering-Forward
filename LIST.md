@@ -1,4 +1,3 @@
-https://www.anyscale.com/blog/ray-data-llm-2x-throughput-vs-vllm
 https://qwen-pilot.notion.site/rlvr-direction
 https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 https://machinelearning.apple.com/research/trained-on-tokens
