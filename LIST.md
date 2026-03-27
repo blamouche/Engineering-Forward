@@ -1,4 +1,3 @@
-https://epochai.substack.com/p/final-training-runs-account-for-a
 https://epochai.substack.com/p/what-do-frontier-ai-companies-job
 https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
 https://cline.bot/blog/announcing-kanban
