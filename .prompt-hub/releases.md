@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.172 - 2026-03-27
+- Add synthesis: What do frontier AI companies' job postings reveal about their plans?
+
 ## 0.0.171 - 2026-03-27
 - Process article: Final training runs account for a minority of R&D compute spending.
 

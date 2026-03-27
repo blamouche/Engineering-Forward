@@ -848,6 +848,13 @@
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
 
+## 2026-03-27 18:54:00 +0100
+- actor: agent
+- action: Added synthesis for "What do frontier AI companies' job postings reveal about their plans?" and updated README statistics.
+- files_changed_or_commands: src/2026-03/20260327-what-do-frontier-ai-companies-job-postings-reveal-about-their-plans.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit add-synthesis change, then remove URL from LIST.md.
+
 ## 2026-03-27 18:52:00 +0100
 - actor: agent
 - action: Removed processed URL for "Final training runs account for a minority of R&D compute spending" from LIST.md and updated prompt-hub version/releases.
