@@ -1,4 +1,3 @@
-https://mistral.ai/news/voxtral-tts
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
 https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/
 https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/

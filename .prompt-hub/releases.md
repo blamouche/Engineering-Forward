@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.161 - 2026-03-27
+- Process article: Speaking of Voxtral: Voxtral TTS.
+
 ## 0.0.160 - 2026-03-27
 - Add synthesis: Speaking of Voxtral: Voxtral TTS.
 
