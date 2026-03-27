@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.60 - 2026-03-27
+- Process article: How to Do AI-Assisted Engineering.
+
 ## 0.0.59 - 2026-03-27
 - Add synthesis: How to Do AI-Assisted Engineering.
 

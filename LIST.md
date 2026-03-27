@@ -1,4 +1,3 @@
-https://newsletter.eng-leadership.com/p/how-to-do-ai-assisted-engineering
 https://www.cdata.com/resources/architect-once-or-rebuild-twice-ai-teams-scaling-production/
 https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/
 https://danielmiessler.com/blog/exactly-why-and-how-ai-will-replace-knowledge-work
