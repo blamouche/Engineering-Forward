@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 306
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 307
 
 ## Articles
 
 ### 2026
 
-#### March (306 articles)
+#### March (307 articles)
+- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](src/2026-03/20260317-announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab.md)
 - [Many SWE-bench-Passing PRs Would Not Be Merged into Main](src/2026-03/20260310-many-swe-bench-passing-prs-would-not-be-merged-into-main.md)
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-03/20260327-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)
 - [Open SWE: An Open-Source Asynchronous Coding Agent](src/2026-03/20260327-open-swe-open-source-asynchronous-coding-agent.md)
