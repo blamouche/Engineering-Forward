@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.71 - 2026-03-27
+- Process article: How Webflow’s CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption.
+
 ## 0.0.70 - 2026-03-27
 - Add synthesis: How Webflow’s CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption.
 

@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/how-webflows-cpo-built-an-ai-chief
 https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories
 https://github.com/langchain-ai/open-swe
 https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
