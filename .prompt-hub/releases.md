@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.197 - 2026-03-27
+- Process article: Apple plans to open up Siri to rival AI assistants beyond ChatGPT in iOS 27 (FETCH_ERROR: 403 Bloomberg bot check).
+
 ## 0.0.196 - 2026-03-27
 - Process article: Warner, Rounds Unveil Bipartisan Plan to Prepare American Workers for AI-Driven Workforce Changes.
 
