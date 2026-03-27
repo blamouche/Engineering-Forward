@@ -1,4 +1,3 @@
-https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/
 https://machinelearning.apple.com/research/trained-on-tokens
 https://www.cnbc.com/2026/03/24/openai-secures-an-extra-10-billion-in-record-funding-round-cfo-friar-says.html
 https://www.wsj.com/tech/ai/u-s-governments-ban-on-anthropic-looks-like-punishment-attempt-judge-says-2ff98fe3
