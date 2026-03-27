@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.136 - 2026-03-27
+- Add synthesis: Introducing Plus One: One-click OpenClaw Agents by Every.
+
 ## 0.0.135 - 2026-03-27
 - Process article: Build Your Own Bloomberg Terminal With AI.
 
