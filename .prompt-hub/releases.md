@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.109 - 2026-03-27
+- Add synthesis: Powering Product Discovery in ChatGPT.
+
 ## 0.0.108 - 2026-03-27
 - Process article: Auto mode for Claude Code.
 
