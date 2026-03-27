@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.176 - 2026-03-27
+- Add synthesis: Announcing Cline Kanban: a CLI-agnostic app for multi-agent orchestration.
+
 ## 0.0.175 - 2026-03-27
 - Process article: Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'.
 
