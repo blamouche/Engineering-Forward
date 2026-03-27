@@ -6,23 +6,27 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 ## Statistics
 
 Articles per month:
+2022-12 | █ 2<br>
+2024-05 | █ 1<br>
+2024-06 | █ 1<br>
+2024-12 | █ 1<br>
 2025-04 | █ 1<br>
-2025-05 | █ 1<br>
+2025-05 | █ 2<br>
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 2<br>
 2025-11 | █ 1<br>
-2025-12 | █ 2<br>
+2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████ 318
-
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████ 319
 ## Articles
 
 ### 2026
 
-#### March (318 articles)
+#### March (319 articles)
+- [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
 - [Gridland: Terminal apps that run anywhere](src/2026-03/20260327-gridland-terminal-apps-that-run-anywhere.md)
 - [Introducing Ossature: Spec-Driven Code Generation](src/2026-03/20260327-introducing-ossature-spec-driven-code-generation.md)
 - [The case for worrying about AI-specific cognitive debt](src/2026-03/20260324-the-case-for-worrying-about-ai-specific-cognitive-debt.md)
@@ -595,7 +599,7 @@ Articles per month:
 
 ### 2025
 
-#### December (2 articles)
+#### December (1 article)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
@@ -614,7 +618,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (1 article)
+#### May (2 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
@@ -629,7 +633,7 @@ Articles per month:
 #### June (1 article)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 
-#### December (2 articles)
+#### December (1 article)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
 ### 2022

@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.105 - 2026-03-27
+- Add synthesis: How Anthropic’s Claude Thinks.
+
 ## 0.0.104 - 2026-03-27
 - Log scan-list progress in memory.
 
