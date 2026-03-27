@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.201 - 2026-03-27
+- Finalize scan-list task log after push.
+
 ## 0.0.200 - 2026-03-27
 - Add batch recap: 2026-03-27 21:25:39.
 
