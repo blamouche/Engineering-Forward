@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.132 - 2026-03-27
+- Add synthesis: A New Framework for Evaluating Voice Agents (EVA).
+
 ## 0.0.131 - 2026-03-27
 - Update scan-list logs after noting remaining LIST.md URLs.
 
