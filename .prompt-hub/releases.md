@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.94 - 2026-03-27
+- Add synthesis: Meta Executive Will Spearhead Push to Get Employees Using More AI.
+
 ## 0.0.93 - 2026-03-27
 - Process article: What we wish we knew about building AI agents.
 
