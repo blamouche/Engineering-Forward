@@ -812,6 +812,13 @@
 - outcome: success
 - next_step: Continue processing remaining LIST.md URLs and create final batch recap + push.
 
+## 2026-03-27 17:42:00 +0100
+- actor: agent
+- action: Initialized scan-list continuation (created new todo file after loading prompt-hub context).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-174200-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Inspect LIST.md and continue processing remaining URLs.
+
 ## 2026-03-27 18:35 CET — scan-list (partial)
 - Pulled repo with stash pop. Processed multiple URLs from LIST.md with syntheses, README updates, stats refresh, and per-article commits. Pushed after each synthesis.
 - Added syntheses:
@@ -833,3 +840,10 @@
   - Gridland: Terminal apps that run anywhere
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
+
+## 2026-03-27 18:02:30 +0100
+- actor: agent
+- action: Initialized veille IA cron run; loaded prompt-hub context and created task file.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-180201-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Extract Gmail URLs and update LIST.md, then trash processed messages.

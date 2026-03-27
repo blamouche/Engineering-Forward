@@ -1,3 +1,6 @@
+## 0.0.128 - 2026-03-27
+- Log prompt-hub task files and memory update.
+
 # Releases
 
 ## 0.0.127 - 2026-03-27
