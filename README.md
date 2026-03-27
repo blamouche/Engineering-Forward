@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████ 319
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████ 320
 ## Articles
 
 ### 2026
 
-#### March (319 articles)
+#### March (320 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Auto mode for Claude Code](src/2026-03/20260324-auto-mode-for-claude-code-anthropic.md)
 - [Gridland: Terminal apps that run anywhere](src/2026-03/20260327-gridland-terminal-apps-that-run-anywhere.md)
 - [Introducing Ossature: Spec-Driven Code Generation](src/2026-03/20260327-introducing-ossature-spec-driven-code-generation.md)
 - [The case for worrying about AI-specific cognitive debt](src/2026-03/20260324-the-case-for-worrying-about-ai-specific-cognitive-debt.md)
