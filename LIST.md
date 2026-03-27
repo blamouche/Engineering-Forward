@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-anthropics-claude-thinks
 https://claude.com/blog/auto-mode
 https://openai.com/index/powering-product-discovery-in-chatgpt/
 https://www.anthropic.com/engineering/harness-design-long-running-apps
