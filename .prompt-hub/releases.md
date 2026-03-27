@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.118 - 2026-03-27
+- Add synthesis: TurboQuant: Redefining AI efficiency with extreme compression.
+
 ## 0.0.117 - 2026-03-27
 - Process article: rlvr-direction (FETCH_ERROR).
 
