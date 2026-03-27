@@ -1,4 +1,3 @@
-https://github.com/letta-ai/claude-subconscious
 https://github.com/open-gitagent/gitagent
 https://github.com/RunanywhereAI/rcli
 https://github.com/Shubhamsaboo/awesome-llm-apps

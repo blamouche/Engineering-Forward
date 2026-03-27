@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.145 - 2026-03-27
+- Process article: Claude Subconscious.
+
 ## 0.0.144 - 2026-03-27
 - Add synthesis: Claude Subconscious.
 
