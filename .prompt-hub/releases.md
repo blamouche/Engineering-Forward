@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.135 - 2026-03-27
+- Process article: Build Your Own Bloomberg Terminal With AI.
+
 ## 0.0.134 - 2026-03-27
 - Add synthesis: Build Your Own Bloomberg Terminal With AI.
 
