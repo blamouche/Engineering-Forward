@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.159 - 2026-03-27
+- Process article: Cohere Transcribe: state-of-the-art speech recognition.
+
 ## 0.0.158 - 2026-03-27
 - Add synthesis: Cohere Transcribe: state-of-the-art speech recognition.
 

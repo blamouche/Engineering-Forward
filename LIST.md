@@ -1,4 +1,3 @@
-https://cohere.com/blog/transcribe
 https://mistral.ai/news/voxtral-tts
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/
 https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/
