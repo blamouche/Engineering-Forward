@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 301
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 302
 
 ## Articles
 
 ### 2026
 
-#### March (301 articles)
+#### March (302 articles)
+- [How Webflow’s CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption](src/2026-03/20260327-how-webflows-cpo-built-an-ai-chief-of-staff.md)
 - [The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process](src/2026-03/20260327-the-10-traits-of-great-pms-and-slacks-product-development-process.md)
 - [Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course](src/2026-03/20260327-last-chance-to-enroll-become-an-ai-engineer-cohort-based-course.md)
 - [Exactly Why and How AI Will Replace Knowledge Work](src/2026-03/20260327-exactly-why-and-how-ai-will-replace-knowledge-work.md)
