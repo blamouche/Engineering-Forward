@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.138 - 2026-03-27
+- Add synthesis: The File That Turns Claude Code Into Your Best Engineer.
+
 ## 0.0.137 - 2026-03-27
 - Process article: Introducing Plus One: One-click OpenClaw Agents by Every.
 
