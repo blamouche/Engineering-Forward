@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.75 - 2026-03-27
+- Process article: Open SWE: An Open-Source Asynchronous Coding Agent.
+
 ## 0.0.74 - 2026-03-27
 - Add synthesis: Open SWE: An Open-Source Asynchronous Coding Agent.
 
