@@ -1,4 +1,3 @@
-https://github.com/Shubhamsaboo/awesome-llm-apps
 https://mistral.ai/products/vibe
 https://cursor.com/blog/real-time-rl-for-composer
 https://www.trychroma.com/research/context-1

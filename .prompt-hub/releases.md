@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.151 - 2026-03-27
+- Process article: Awesome LLM Apps.
+
 ## 0.0.150 - 2026-03-27
 - Add synthesis: Awesome LLM Apps.
 
