@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.127 - 2026-03-27
+- Process article: Databricks Enters Security Market with Launch of Lakewatch: New Open, Agentic SIEM.
+
 ## 0.0.126 - 2026-03-27
 - Add synthesis: Databricks Enters Security Market with Launch of Lakewatch: New Open, Agentic SIEM.
 

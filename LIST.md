@@ -1,3 +1,2 @@
-https://www.databricks.com/company/newsroom/press-releases/databricks-enters-security-market-launch-lakewatch-new-open-agentic
 https://www.anthropic.com/research/economic-index-march-2026-report
 https://huggingface.co/blog/ServiceNow-AI/eva
