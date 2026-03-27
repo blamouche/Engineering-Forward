@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.76 - 2026-03-27
+- Add synthesis: How I Built an Autonomous AI Agent Team That Runs 24/7.
+
 ## 0.0.75 - 2026-03-27
 - Process article: Open SWE: An Open-Source Asynchronous Coding Agent.
 
