@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.182 - 2026-03-27
+- Add synthesis: Software engineer interviews for the age of AI.
+
 ## 0.0.181 - 2026-03-27
 - Process article: Figma's next-generation data caching platform.
 
