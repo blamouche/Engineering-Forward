@@ -1092,3 +1092,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); .prompt-hub/todo/todo-20260328-002600-veille-ia.md.
 - outcome: success
 - next_step: Commit prompt-hub updates and report summary.
+
+## 2026-03-28 00:29:30 +0100
+- actor: agent
+- action: Initialized scan-list cron task, checked LIST.md (empty), no URL processing required.
+- files_changed_or_commands: git pull --rebase; LIST.md (empty check); .prompt-hub/todo/todo-20260328-002900-scan-list.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases, close task log, commit + push.
