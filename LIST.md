@@ -1,4 +1,3 @@
-https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
 https://cline.bot/blog/announcing-kanban
 https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
 https://www.figma.com/blog/figmas-next-generation-data-caching-platform/

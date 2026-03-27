@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.175 - 2026-03-27
+- Process article: Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'.
+
 ## 0.0.174 - 2026-03-27
 - Add synthesis: Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'.
 

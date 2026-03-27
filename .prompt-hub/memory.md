@@ -848,6 +848,13 @@
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
 
+## 2026-03-27 19:01:00 +0100
+- actor: agent
+- action: Removed processed URL for "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'" from LIST.md and updated prompt-hub version/releases.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit process-article change and continue scan-list queue.
+
 ## 2026-03-27 18:59:00 +0100
 - actor: agent
 - action: Added synthesis for "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'" and updated README statistics.
