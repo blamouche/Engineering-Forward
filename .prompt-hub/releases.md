@@ -3,6 +3,9 @@
 
 # Releases
 
+## 0.0.128 - 2026-03-27
+- Add synthesis: Anthropic Economic Index report: Learning curves.
+
 ## 0.0.127 - 2026-03-27
 - Process article: Databricks Enters Security Market with Launch of Lakewatch: New Open, Agentic SIEM.
 
