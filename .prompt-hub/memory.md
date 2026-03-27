@@ -748,3 +748,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260326-071300-scan-list.md; .prompt-hub/todo/todo-20260326-160500-scan-list.md; .prompt-hub/todo/todo-20260327-070000-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit/push to restore clean working tree.
+
+## 2026-03-27 07:02:00 +0100
+- actor: agent
+- action: Attempted Gmail veille IA extraction; gog auth failed with invalid_grant; updated task notes.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260327-070000-veille-ia.md.
+- outcome: failed
+- next_step: Re-auth gog Gmail, then rerun extraction.

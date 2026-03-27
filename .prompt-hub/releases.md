@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.58 - 2026-03-27
+- Log veille IA Gmail auth failure in task tracking.
+
 ## 0.0.57 - 2026-03-27
 - Add prompt-hub task files for veille IA and scan-list tracking.
 
