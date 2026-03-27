@@ -1,4 +1,3 @@
-https://sfstandard.com/2026/03/24/grind-sf-startup-racing-build-ai-software-engineer/
 https://tomtunguz.com/2026-03-24-saas-unbundled-ai-rebundled/
 https://www.prnewswire.com/news-releases/harvey-raises-at-11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises-302724309.html
 https://www.capcut.com/newsroom/dreamina-seedance-2
