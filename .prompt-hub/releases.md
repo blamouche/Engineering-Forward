@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.169 - 2026-03-27
+- Process article: Quantization from the ground up.
+
 ## 0.0.168 - 2026-03-27
 - Add synthesis: Quantization from the ground up.
 
