@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 336
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 337
 ## Articles
 
 ### 2026
 
-#### March (336 articles)
+#### March (337 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [gitagent | your repository becomes your agent](src/2026-03/20260327-gitagent.md)
 - [Claude Subconscious](src/2026-03/20260327-claude-subconscious.md)
 - [How to Implement API Security](src/2026-03/20260327-how-to-implement-api-security.md)
 - [The File That Turns Claude Code Into Your Best Engineer](src/2026-03/20260327-the-file-that-turns-claude-code-into-your-best-engineer.md)
