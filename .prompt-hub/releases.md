@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.143 - 2026-03-27
+- Process article: cq: Stack Overflow for agents (duplicate already processed).
+
 ## 0.0.142 - 2026-03-27
 - Process article: How Anthropic’s Claude Thinks (duplicate already processed).
 
