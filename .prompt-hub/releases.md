@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.57 - 2026-03-27
+- Add prompt-hub task files for veille IA and scan-list tracking.
+
 ## 0.0.56 - 2026-03-26
 - Process article: Amazon is reportedly developing an AI-centric smartphone.
 

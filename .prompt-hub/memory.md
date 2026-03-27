@@ -741,3 +741,10 @@
 - files_changed_or_commands: src/2026-03/20260326-perplexity-tests-market-research-tool-for-perplexity-computer.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue processing LIST.md queue.
+
+## 2026-03-27 07:00:00 +0100
+- actor: agent
+- action: Created prompt-hub todo files for veille IA and scan-list; bumped version/releases to log task tracking.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260326-071300-scan-list.md; .prompt-hub/todo/todo-20260326-160500-scan-list.md; .prompt-hub/todo/todo-20260327-070000-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit/push to restore clean working tree.
