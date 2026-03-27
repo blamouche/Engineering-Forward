@@ -20,12 +20,12 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 350
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 351
 ## Articles
 
 ### 2026
 
-#### March (350 articles)
+#### March (351 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
 - [Final training runs account for a minority of R&D compute spending](src/2026-03/20260327-final-training-runs-account-for-a-minority-of-r-and-d-compute-spending.md)
 - [What do frontier AI companies' job postings reveal about their plans?](src/2026-03/20260327-what-do-frontier-ai-companies-job-postings-reveal-about-their-plans.md)
@@ -80,6 +80,7 @@ Articles per month:
 - [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](src/2026-03/20260322-an-exclusive-tour-of-amazons-trainium-lab.md)
 - [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
 - [Amazon is reportedly developing an AI-centric smartphone](src/2026-03/20260326-amazon-ai-centric-smartphone.md)
+- [Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'](src/2026-03/20260326-anthropic-wins-preliminary-injunction-in-dod-fight-as-judge-cites-first-amendment-retaliation.md)
 - [Quantization from the ground up](src/2026-03/20260325-quantization-from-the-ground-up.md)
 - [Agent Experience: Build without leaving your terminal](src/2026-03/20260325-agent-experience-workos.md)
 - [Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide)](src/2026-03/20260325-claude-certified-architects-production-guide.md)
