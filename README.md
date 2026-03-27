@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 311
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 312
 
 ## Articles
 
 ### 2026
 
-#### March (311 articles)
+#### March (312 articles)
+- [Auto mode for Claude Code](src/2026-03/20260324-auto-mode-for-claude-code.md)
 - [OpenAI Scraps Sora Video Platform Months After Launch](src/2026-03/20260327-openai-scraps-sora-video-platform-months-after-launch.md)
 - [iOS 27 Features: Apple AI Reboot With Siri App, New Interface, ‘Ask Siri’ Button](src/2026-03/20260324-ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button.md)
 - [Control Claude Code from your Phone using Telegram](src/2026-03/20260327-control-claude-code-from-your-phone-using-telegram.md)
