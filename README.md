@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 358
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 359
 ## Articles
 
 ### 2026
 
-#### March (358 articles)
+#### March (359 articles)
+- [Harvey Raises at $11 Billion Valuation to Scale Agents Across Law Firms and Enterprises](src/2026-03/20260327-harvey-raises-at-11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises.md)
 - [AI's Bundling Moment](src/2026-03/20260324-ais-bundling-moment.md)
 - [Inside the grind: The SF startup racing to build an AI software engineer](src/2026-03/20260324-inside-the-grind-the-sf-startup-racing-to-build-an-ai-software-engineer.md)
 - [Is the FDE role becoming less desirable?](src/2026-03/20260327-is-the-fde-role-becoming-less-desirable.md)

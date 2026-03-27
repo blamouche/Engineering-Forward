@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.192 - 2026-03-27
+- Process article: Harvey Raises at $11 Billion Valuation to Scale Agents Across Law Firms and Enterprises.
+
 ## 0.0.191 - 2026-03-27
 - Process article: AI's Bundling Moment.
 

@@ -1,4 +1,3 @@
-https://www.prnewswire.com/news-releases/harvey-raises-at-11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises-302724309.html
 https://www.capcut.com/newsroom/dreamina-seedance-2
 https://threadreaderapp.com/thread/2036861192619384989.html
 https://www.bigtechnology.com/p/senator-mark-warner-on-ais-risks
