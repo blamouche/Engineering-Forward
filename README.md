@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████ 314
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████ 315
 
 ## Articles
 
 ### 2026
 
-#### March (314 articles)
+#### March (315 articles)
+- [Choose Boring Technology and Innovative Practices](src/2026-03/20260327-choose-boring-technology-and-innovative-practices.md)
 - [Meta Executive Will Spearhead Push to Get Employees Using More AI](src/2026-03/20260327-meta-executive-will-spearhead-push-to-get-employees-using-more-ai.md)
 - [What we wish we knew about building AI agents](src/2026-03/20260327-what-we-wish-we-knew-about-building-ai-agents.md)
 - [Auto mode for Claude Code](src/2026-03/20260324-auto-mode-for-claude-code.md)
