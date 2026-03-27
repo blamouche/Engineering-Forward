@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 357
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 358
 ## Articles
 
 ### 2026
 
-#### March (357 articles)
+#### March (358 articles)
+- [AI's Bundling Moment](src/2026-03/20260324-ais-bundling-moment.md)
 - [Inside the grind: The SF startup racing to build an AI software engineer](src/2026-03/20260324-inside-the-grind-the-sf-startup-racing-to-build-an-ai-software-engineer.md)
 - [Is the FDE role becoming less desirable?](src/2026-03/20260327-is-the-fde-role-becoming-less-desirable.md)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)

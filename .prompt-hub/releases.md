@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.191 - 2026-03-27
+- Process article: AI's Bundling Moment.
+
 ## 0.0.190 - 2026-03-27
 - Process article: Inside the grind: The SF startup racing to build an AI software engineer.
 
