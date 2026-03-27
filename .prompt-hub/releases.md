@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.84 - 2026-03-27
+- Add synthesis: Control Claude Code from your Phone using Telegram.
+
 ## 0.0.83 - 2026-03-27
 - Process article: Awesome LLM Apps: Collection of AI Agent and RAG Projects.
 
