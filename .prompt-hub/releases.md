@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.59 - 2026-03-27
+- Add synthesis: How to Do AI-Assisted Engineering.
+
 ## 0.0.58 - 2026-03-27
 - Log veille IA Gmail auth failure in task tracking.
 

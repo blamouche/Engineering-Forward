@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 296
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████ 297
 
 ## Articles
 
 ### 2026
 
-#### March (296 articles)
+#### March (297 articles)
+- [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
 - [Amazon is reportedly developing an AI-centric smartphone](src/2026-03/20260326-amazon-ai-centric-smartphone.md)
 - [Agent Experience: Build without leaving your terminal](src/2026-03/20260325-agent-experience-workos.md)
 - [Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide)](src/2026-03/20260325-claude-certified-architects-production-guide.md)
