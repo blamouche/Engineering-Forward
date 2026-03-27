@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.99 - 2026-03-27
+- Process article: The case for worrying about AI-specific cognitive debt.
+
 ## 0.0.98 - 2026-03-27
 - Add synthesis: The case for worrying about AI-specific cognitive debt.
 

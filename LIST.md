@@ -1,4 +1,3 @@
-https://www.natemeyvis.com/the-case-for-worrying-about-ai-specific-cognitive-debt/
 https://ossature.dev/blog/introducing-ossature/
 https://github.com/thoughtfulllc/gridland
 https://blog.bytebytego.com/p/how-anthropics-claude-thinks
