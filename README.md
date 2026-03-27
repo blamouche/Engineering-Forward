@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 344
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 345
 ## Articles
 
 ### 2026
 
-#### March (344 articles)
+#### March (345 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](src/2026-03/20260326-gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable.md)
 - [Speaking of Voxtral: Voxtral TTS](src/2026-03/20260327-voxtral-tts-speaking-of-voxtral.md)
 - [Cohere Transcribe: state-of-the-art speech recognition](src/2026-03/20260327-cohere-transcribe-state-of-the-art-asr.md)
 - [Training a Self-Editing Search Agent (Context‑1)](src/2026-03/20260327-training-a-self-editing-search-agent-context-1.md)
