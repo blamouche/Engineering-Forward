@@ -1,4 +1,3 @@
-https://linas.substack.com/p/claudemd
 https://blog.bytebytego.com/p/how-to-implement-api-security
 https://blog.bytebytego.com/p/how-anthropics-claude-thinks
 https://blog.mozilla.ai/cq-stack-overflow-for-agents/
