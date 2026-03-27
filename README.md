@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████ 325
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████ 326
 ## Articles
 
 ### 2026
 
-#### March (325 articles)
+#### March (326 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Trained on Tokens, Calibrated on Concepts: The Emergence of Semantic Calibration in LLMs](src/2026-03/20260327-trained-on-tokens-calibrated-on-concepts.md)
 - [TurboQuant: Redefining AI efficiency with extreme compression](src/2026-03/20260327-turboquant-redefining-ai-efficiency-with-extreme-compression.md)
 - [Ray Data LLM enables 2x throughput over vLLM’s synchronous LLM engine at production-scale](src/2026-03/20260327-ray-data-llm-enables-2x-throughput-over-vllm.md)
 - [App Store | Age of Agent](src/2026-03/20260327-app-store-age-of-agent.md)
