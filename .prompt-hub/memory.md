@@ -848,6 +848,13 @@
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
 
+## 2026-03-27 19:25:00 +0100
+- actor: agent
+- action: Marked scan-list task as fully pushed after final git push.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-184300-scan-list.md; git push.
+- outcome: success
+- next_step: None.
+
 ## 2026-03-27 19:23:00 +0100
 - actor: agent
 - action: Created batch recap for processed URLs and updated scan-list todo status.
