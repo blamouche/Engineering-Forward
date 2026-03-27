@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 298
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 299
 
 ## Articles
 
 ### 2026
 
-#### March (298 articles)
+#### March (299 articles)
+- [Exactly Why and How AI Will Replace Knowledge Work](src/2026-03/20260327-exactly-why-and-how-ai-will-replace-knowledge-work.md)
 - [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](src/2026-03/20260322-an-exclusive-tour-of-amazons-trainium-lab.md)
 - [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
 - [Amazon is reportedly developing an AI-centric smartphone](src/2026-03/20260326-amazon-ai-centric-smartphone.md)
