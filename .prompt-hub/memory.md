@@ -848,6 +848,13 @@
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
 
+## 2026-03-27 19:23:00 +0100
+- actor: agent
+- action: Created batch recap for processed URLs and updated scan-list todo status.
+- files_changed_or_commands: synthesis/2026-03-27 - 192200 - batch recap.md; .prompt-hub/todo/todo-20260327-184300-scan-list.md.
+- outcome: success
+- next_step: Commit recap, then push remaining changes.
+
 ## 2026-03-27 19:22:00 +0100
 - actor: agent
 - action: Removed processed URL for "Software engineer interviews for the age of AI" from LIST.md and updated prompt-hub version/releases.
