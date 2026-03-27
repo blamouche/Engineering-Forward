@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-03-24/ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3NDQxMzU1OCwiZXhwIjoxNzc1MDE4MzU4LCJhcnRpY2xlSWQiOiJUQ0RCVkVLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.s4z8hQgl4F2BYn_AOFxrUpxjp9ICnFge4njDYfZqWY4
 https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e
 https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/
 https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building
