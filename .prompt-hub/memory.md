@@ -1001,3 +1001,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260327-200100-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
 - outcome: success
 - next_step: Extract Gmail URLs, update LIST.md, commit/push, trash processed emails.
+
+## 2026-03-27 20:06:30 +0100
+- actor: agent
+- action: Extracted veille IA URLs from Gmail, filtered non-AI/app-dev links, updated LIST.md, and prepared for commit.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit/push LIST.md update and trash processed Gmail messages.

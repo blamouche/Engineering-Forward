@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.187 - 2026-03-27
+- Add veille IA URLs to LIST.md and remove non-AI links.
+
 ## 0.0.186 - 2026-03-27
 - Log veille IA task initialization (cron run).
 
