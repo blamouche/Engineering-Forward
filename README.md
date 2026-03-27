@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 346
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 347
 ## Articles
 
 ### 2026
 
-#### March (346 articles)
+#### March (347 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Google’s TurboQuant compression can reduce LLM memory usage by 6x](src/2026-03/20260327-google-turboquant-compression-can-reduce-llm-memory-usage.md)
 - [Lyria 3 Pro: Create longer tracks in more Google products](src/2026-03/20260327-lyria-3-pro-create-longer-tracks.md)
 - [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](src/2026-03/20260326-gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable.md)
 - [Speaking of Voxtral: Voxtral TTS](src/2026-03/20260327-voxtral-tts-speaking-of-voxtral.md)
