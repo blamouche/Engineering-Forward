@@ -1,4 +1,3 @@
-https://epochai.substack.com/p/what-do-frontier-ai-companies-job
 https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html
 https://cline.bot/blog/announcing-kanban
 https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
