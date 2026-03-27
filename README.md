@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 355
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 356
 ## Articles
 
 ### 2026
 
-#### March (355 articles)
+#### March (356 articles)
+- [Is the FDE role becoming less desirable?](src/2026-03/20260327-is-the-fde-role-becoming-less-desirable.md)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
 - [Figma's next-generation data caching platform](src/2026-03/20260327-figmas-next-generation-data-caching-platform.md)
 - [Agents, Meet the Figma Canvas](src/2026-03/20260327-agents-meet-the-figma-canvas.md)

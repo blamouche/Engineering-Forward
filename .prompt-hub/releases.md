@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.189 - 2026-03-27
+- Process article: Is the FDE role becoming less desirable?.
+
 ## 0.0.188 - 2026-03-27
 - Finalize veille IA task log after trashing Gmail messages.
 
