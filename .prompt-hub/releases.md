@@ -1,7 +1,13 @@
+## 0.0.131 - 2026-03-27
+- Add veille IA URLs to LIST.md.
+
 ## 0.0.128 - 2026-03-27
 - Log prompt-hub task files and memory update.
 
 # Releases
+
+## 0.0.130 - 2026-03-27
+- Add batch recap for scan-list continuation and update scan-list logs.
 
 ## 0.0.129 - 2026-03-27
 - Process article: Anthropic Economic Index report: Learning curves.

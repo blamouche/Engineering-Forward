@@ -1,5 +1,12 @@
 # Memory Log
 
+## 2026-03-27 18:05:00 +0100
+- actor: agent
+- action: Completed scan-list continuation: processed remaining URLs, created syntheses, updated README/stats, cleared LIST.md, and drafted batch recap (1 fetch error).
+- files_changed_or_commands: `src/2026-03/*`; `README.md`; `LIST.md`; `synthesis/2026-03-27 - 174200 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success (with one fetch error for qwen-pilot.notion.site/rlvr-direction)
+- next_step: Commit recap/memory/todo updates and push.
+
 ## 2026-03-23 14:43:00 +0100
 - actor: agent
 - action: Initialized scan-list task file and loaded prompt-hub context (lessons, memory, releases, last-update-check).
