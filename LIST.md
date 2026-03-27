@@ -1,4 +1,3 @@
-https://ossature.dev/blog/introducing-ossature/
 https://github.com/thoughtfulllc/gridland
 https://blog.bytebytego.com/p/how-anthropics-claude-thinks
 https://claude.com/blog/auto-mode

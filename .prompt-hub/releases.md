@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.101 - 2026-03-27
+- Process article: Introducing Ossature: Spec-Driven Code Generation.
+
 ## 0.0.100 - 2026-03-27
 - Add synthesis: Introducing Ossature: Spec-Driven Code Generation.
 
