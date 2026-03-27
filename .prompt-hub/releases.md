@@ -1,3 +1,6 @@
+## 0.0.208 - 2026-03-28
+- Log veille IA run with no Gmail messages.
+
 ## 0.0.207 - 2026-03-28
 - Log veille IA task tracking after initial commit.
 

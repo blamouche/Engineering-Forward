@@ -1085,3 +1085,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260328-002600-veille-ia.md; .prompt-hub/memory.md; .prompt-hub/version.md; .prompt-hub/releases.md; git add -A; git commit -m "Initialize veille IA task log"; git push.
 - outcome: success
 - next_step: Extract Gmail URLs and update LIST.md.
+
+## 2026-03-28 00:28:00 +0100
+- actor: agent
+- action: Ran veille IA Gmail search (0 messages) and confirmed LIST.md empty; no URL changes or trash actions needed.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); .prompt-hub/todo/todo-20260328-002600-veille-ia.md.
+- outcome: success
+- next_step: Commit prompt-hub updates and report summary.
