@@ -1,5 +1,12 @@
 # Memory Log
 
+## 2026-03-27 23:07:30 +0100
+- actor: agent
+- action: Initialized substack-post-recents task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-230700-substack-post-recents.md.
+- outcome: success
+- next_step: Confirm plan, then run substack-post-recents workflow.
+
 ## 2026-03-27 18:05:00 +0100
 - actor: agent
 - action: Completed scan-list continuation: processed queued URLs, created syntheses, updated README/stats, and drafted batch recap (1 fetch error). Additional URLs remain in LIST.md for the next batch.
@@ -1043,3 +1050,17 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260327-220100-veille-ia.md.
 - outcome: success
 - next_step: Commit/push task completion logs.
+
+## 2026-03-27 23:12:30 +0100
+- actor: agent
+- action: Initialized substack-post-recents task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-231200-substack-post-recents.md.
+- outcome: success
+- next_step: Parse README.md for latest 15 articles and draft Substack post.
+
+## 2026-03-27 23:13:30 +0100
+- actor: agent
+- action: Drafted substack post from latest 15 articles and synced latest.md.
+- files_changed_or_commands: substack/20260327-post-the-operational-squeeze-behind-the-ai-boom.md; substack/latest.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, push, and finalize task log.

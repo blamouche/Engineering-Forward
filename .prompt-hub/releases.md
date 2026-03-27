@@ -1,3 +1,6 @@
+## 0.0.204 - 2026-03-27
+- Add Substack recents post: The operational squeeze behind the AI boom.
+
 ## 0.0.203 - 2026-03-27
 - Finalize veille IA run (no emails).
 
