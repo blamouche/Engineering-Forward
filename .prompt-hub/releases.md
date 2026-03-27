@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.163 - 2026-03-27
+- Process article: Gemini 3.1 Flash Live: Making audio AI more natural and reliable.
+
 ## 0.0.162 - 2026-03-27
 - Add synthesis: Gemini 3.1 Flash Live: Making audio AI more natural and reliable.
 
