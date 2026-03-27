@@ -1,4 +1,3 @@
-https://claude.com/blog/auto-mode
 https://openai.com/index/powering-product-discovery-in-chatgpt/
 https://www.anthropic.com/engineering/harness-design-long-running-apps
 https://robonomics.substack.com/p/app-store-age-of-agent
