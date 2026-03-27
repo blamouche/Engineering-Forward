@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.198 - 2026-03-27
+- Process article: OpenAI drops plans to release an adult chatbot.
+
 ## 0.0.197 - 2026-03-27
 - Process article: Apple plans to open up Siri to rival AI assistants beyond ChatGPT in iOS 27 (FETCH_ERROR: 403 Bloomberg bot check).
 
