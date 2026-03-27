@@ -1,4 +1,3 @@
-https://arstechnica.com/ai/2026/03/google-says-new-turboquant-compression-can-lower-ai-memory-usage-without-sacrificing-quality/
 https://ngrok.com/blog/quantization
 https://epochai.substack.com/p/final-training-runs-account-for-a
 https://epochai.substack.com/p/what-do-frontier-ai-companies-job
