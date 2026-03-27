@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.124 - 2026-03-27
+- Add synthesis: U.S. Government’s Ban on Anthropic Looks Like Punishment, Judge Says.
+
 ## 0.0.123 - 2026-03-27
 - Process article: OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer.
 
