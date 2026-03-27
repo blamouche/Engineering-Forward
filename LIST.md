@@ -1,4 +1,3 @@
-https://www.wsj.com/tech/ai/meta-names-new-leader-of-companys-efforts-to-become-ai-native-8d7fe912
 https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/
 https://www.natemeyvis.com/the-case-for-worrying-about-ai-specific-cognitive-debt/
 https://ossature.dev/blog/introducing-ossature/
