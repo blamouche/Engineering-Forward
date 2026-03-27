@@ -1,3 +1,6 @@
+## 0.0.132 - 2026-03-27
+- Log veille IA task completion.
+
 ## 0.0.131 - 2026-03-27
 - Add veille IA URLs to LIST.md.
 
