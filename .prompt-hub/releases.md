@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.142 - 2026-03-27
+- Process article: How Anthropic’s Claude Thinks (duplicate already processed).
+
 ## 0.0.141 - 2026-03-27
 - Process article: How to Implement API Security.
 

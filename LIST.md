@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-anthropics-claude-thinks
 https://blog.mozilla.ai/cq-stack-overflow-for-agents/
 https://github.com/letta-ai/claude-subconscious
 https://github.com/open-gitagent/gitagent
