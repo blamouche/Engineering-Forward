@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.92 - 2026-03-27
+- Add synthesis: What we wish we knew about building AI agents.
+
 ## 0.0.91 - 2026-03-27
 - Process article: Auto mode for Claude Code.
 
