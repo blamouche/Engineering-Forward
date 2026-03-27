@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.117 - 2026-03-27
+- Process article: rlvr-direction (FETCH_ERROR).
+
 ## 0.0.116 - 2026-03-27
 - Process article: Ray Data LLM enables 2x throughput over vLLM’s synchronous LLM engine at production-scale.
 
