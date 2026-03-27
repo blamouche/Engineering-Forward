@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.152 - 2026-03-27
+- Add synthesis: Mistral Vibe: AI coding agents for enterprises.
+
 ## 0.0.151 - 2026-03-27
 - Process article: Awesome LLM Apps.
 
