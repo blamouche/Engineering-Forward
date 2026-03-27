@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.81 - 2026-03-27
+- Process article: Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab.
+
 ## 0.0.80 - 2026-03-27
 - Add synthesis: Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab.
 
