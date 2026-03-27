@@ -8,8 +8,6 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 2022-12 | █ 2<br>
 2024-05 | █ 1<br>
-2024-06 | █ 1<br>
-2024-12 | █ 1<br>
 2025-04 | █ 1<br>
 2025-05 | █ 2<br>
 2025-06 | █ 1<br>
@@ -20,13 +18,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 302
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 303
 
 ## Articles
 
 ### 2026
 
-#### March (302 articles)
+#### March (303 articles)
+- [EP207: Top 12 GitHub AI Repositories](src/2026-03/20260327-ep207-top-12-github-ai-repositories.md)
 - [How Webflow’s CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption](src/2026-03/20260327-how-webflows-cpo-built-an-ai-chief-of-staff.md)
 - [The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process](src/2026-03/20260327-the-10-traits-of-great-pms-and-slacks-product-development-process.md)
 - [Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course](src/2026-03/20260327-last-chance-to-enroll-become-an-ai-engineer-cohort-based-course.md)
@@ -583,7 +582,7 @@ Articles per month:
 
 ### 2025
 
-#### December (1 article)
+#### December (2 articles)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
@@ -602,7 +601,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (2 articles)
+#### May (1 article)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
@@ -617,7 +616,7 @@ Articles per month:
 #### June (1 article)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 
-#### December (1 article)
+#### December (2 articles)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
 ### 2022
