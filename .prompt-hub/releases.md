@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.186 - 2026-03-27
+- Log veille IA task initialization (cron run).
+
 ## 0.0.185 - 2026-03-27
 - Finalize scan-list task status.
 

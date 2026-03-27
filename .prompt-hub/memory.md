@@ -994,3 +994,10 @@
 - files_changed_or_commands: gog gmail messages search; LIST.md update; git pull --rebase; git push; gog gmail batch modify (14 ids) --add TRASH; .prompt-hub/version.md; .prompt-hub/releases.md; .prompt-hub/todo/todo-20260327-180201-veille-ia.md.
 - outcome: success
 - next_step: None.
+
+## 2026-03-27 20:01:30 +0100
+- actor: agent
+- action: Initialized veille IA cron run; created task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-200100-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Extract Gmail URLs, update LIST.md, commit/push, trash processed emails.
