@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.93 - 2026-03-27
+- Process article: What we wish we knew about building AI agents.
+
 ## 0.0.92 - 2026-03-27
 - Add synthesis: What we wish we knew about building AI agents.
 
