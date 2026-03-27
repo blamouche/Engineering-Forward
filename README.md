@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 307
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 308
 
 ## Articles
 
 ### 2026
 
-#### March (307 articles)
+#### March (308 articles)
+- [Awesome LLM Apps: Collection of AI Agent and RAG Projects](src/2026-03/20260327-awesome-llm-apps-collection.md)
 - [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](src/2026-03/20260317-announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab.md)
 - [Many SWE-bench-Passing PRs Would Not Be Merged into Main](src/2026-03/20260310-many-swe-bench-passing-prs-would-not-be-merged-into-main.md)
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-03/20260327-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)

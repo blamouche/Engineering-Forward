@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.82 - 2026-03-27
+- Add synthesis: Awesome LLM Apps: Collection of AI Agent and RAG Projects.
+
 ## 0.0.81 - 2026-03-27
 - Process article: Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab.
 
