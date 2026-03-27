@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████ 316
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████ 317
 
 ## Articles
 
 ### 2026
 
-#### March (316 articles)
+#### March (317 articles)
+- [Introducing Ossature: Spec-Driven Code Generation](src/2026-03/20260327-introducing-ossature-spec-driven-code-generation.md)
 - [The case for worrying about AI-specific cognitive debt](src/2026-03/20260324-the-case-for-worrying-about-ai-specific-cognitive-debt.md)
 - [Choose Boring Technology and Innovative Practices](src/2026-03/20260327-choose-boring-technology-and-innovative-practices.md)
 - [Meta Executive Will Spearhead Push to Get Employees Using More AI](src/2026-03/20260327-meta-executive-will-spearhead-push-to-get-employees-using-more-ai.md)

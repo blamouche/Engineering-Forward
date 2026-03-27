@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.100 - 2026-03-27
+- Add synthesis: Introducing Ossature: Spec-Driven Code Generation.
+
 ## 0.0.99 - 2026-03-27
 - Process article: The case for worrying about AI-specific cognitive debt.
 
