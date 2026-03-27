@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.199 - 2026-03-27
+- Process article: OpenAI ads pilot tops $100 million in annualized revenue in under 2 months.
+
 ## 0.0.198 - 2026-03-27
 - Process article: OpenAI drops plans to release an adult chatbot.
 

@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 363
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 364
 ## Articles
 
 ### 2026
 
-#### March (363 articles)
+#### March (364 articles)
+- [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
 - [OpenAI drops plans to release an adult chatbot](src/2026-03/20260326-openai-drops-plans-to-release-an-adult-chatbot.md)
 - [Warner, Rounds Unveil Bipartisan Plan to Prepare American Workers for AI-Driven Workforce Changes](src/2026-03/20260327-warner-rounds-unveil-bipartisan-plan-to-prepare-american-workers-for-ai-driven-workforce-changes.md)
 - [Senator Mark Warner on AI's Risks: “I Want To Be More Optimistic, But I Am Terrified.”](src/2026-03/20260327-senator-mark-warner-on-ais-risks.md)
