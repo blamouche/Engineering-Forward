@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████ 321
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████ 322
 ## Articles
 
 ### 2026
 
-#### March (321 articles)
+#### March (322 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Harness design for long-running application development](src/2026-03/20260327-harness-design-for-long-running-application-development.md)
 - [Powering Product Discovery in ChatGPT](src/2026-03/20260327-powering-product-discovery-in-chatgpt.md)
 - [Auto mode for Claude Code](src/2026-03/20260324-auto-mode-for-claude-code-anthropic.md)
 - [Gridland: Terminal apps that run anywhere](src/2026-03/20260327-gridland-terminal-apps-that-run-anywhere.md)

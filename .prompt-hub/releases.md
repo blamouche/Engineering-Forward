@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.111 - 2026-03-27
+- Add synthesis: Harness design for long-running application development.
+
 ## 0.0.110 - 2026-03-27
 - Process article: Powering Product Discovery in ChatGPT.
 
