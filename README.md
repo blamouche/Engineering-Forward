@@ -6,25 +6,24 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 ## Statistics
 
 Articles per month:
-2022-12 | █ 2<br>
-2024-05 | █ 1<br>
 2025-04 | █ 1<br>
-2025-05 | █ 2<br>
+2025-05 | █ 1<br>
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
 2025-09 | █ 1<br>
 2025-10 | █ 2<br>
 2025-11 | █ 1<br>
-2025-12 | █ 1<br>
+2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 303
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 304
 
 ## Articles
 
 ### 2026
 
-#### March (303 articles)
+#### March (304 articles)
+- [Open SWE: An Open-Source Asynchronous Coding Agent](src/2026-03/20260327-open-swe-open-source-asynchronous-coding-agent.md)
 - [EP207: Top 12 GitHub AI Repositories](src/2026-03/20260327-ep207-top-12-github-ai-repositories.md)
 - [How Webflow’s CPO built an AI chief of staff to manage her calendar, prep for meetings, and drive AI adoption](src/2026-03/20260327-how-webflows-cpo-built-an-ai-chief-of-staff.md)
 - [The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process](src/2026-03/20260327-the-10-traits-of-great-pms-and-slacks-product-development-process.md)

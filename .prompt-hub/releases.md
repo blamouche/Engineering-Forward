@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.74 - 2026-03-27
+- Add synthesis: Open SWE: An Open-Source Asynchronous Coding Agent.
+
 ## 0.0.73 - 2026-03-27
 - Process article: EP207: Top 12 GitHub AI Repositories.
 
