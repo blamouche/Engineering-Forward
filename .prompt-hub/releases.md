@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.69 - 2026-03-27
+- Process article: The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process.
+
 ## 0.0.68 - 2026-03-27
 - Add synthesis: The 10 traits of great PMs, how AI will impact your product, and Slack’s product development process.
 
