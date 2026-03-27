@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 342
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 343
 ## Articles
 
 ### 2026
 
-#### March (342 articles)
+#### March (343 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Cohere Transcribe: state-of-the-art speech recognition](src/2026-03/20260327-cohere-transcribe-state-of-the-art-asr.md)
 - [Training a Self-Editing Search Agent (Context‑1)](src/2026-03/20260327-training-a-self-editing-search-agent-context-1.md)
 - [Improving Composer through real-time RL](src/2026-03/20260327-improving-composer-through-real-time-rl.md)
 - [Mistral Vibe: AI coding agents for enterprises](src/2026-03/20260327-mistral-vibe-ai-coding-agents-for-enterprises.md)
