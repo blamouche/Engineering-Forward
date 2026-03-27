@@ -1,3 +1,6 @@
+## 0.0.203 - 2026-03-27
+- Finalize veille IA run (no emails).
+
 ## 0.0.202 - 2026-03-27
 - Initialize veille IA task log (22:01 run).
 
