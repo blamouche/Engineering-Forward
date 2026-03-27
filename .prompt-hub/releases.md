@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.78 - 2026-03-27
+- Add synthesis: Many SWE-bench-Passing PRs Would Not Be Merged into Main.
+
 ## 0.0.77 - 2026-03-27
 - Process article: How I Built an Autonomous AI Agent Team That Runs 24/7.
 
