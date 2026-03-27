@@ -1,4 +1,3 @@
-https://www.wsj.com/tech/ai/openai-set-to-discontinue-sora-video-platform-app-a82a9e4e
 https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/
 https://newsletter.posthog.com/p/what-we-wish-we-knew-before-building
 https://www.wsj.com/tech/ai/meta-names-new-leader-of-companys-efforts-to-become-ai-native-8d7fe912
