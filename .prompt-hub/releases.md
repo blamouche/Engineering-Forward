@@ -1,3 +1,6 @@
+## 0.0.202 - 2026-03-27
+- Initialize veille IA task log (22:01 run).
+
 ## 0.0.132 - 2026-03-27
 - Log veille IA task completion.
 
