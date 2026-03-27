@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.102 - 2026-03-27
+- Add synthesis: Gridland: Terminal apps that run anywhere.
+
 ## 0.0.101 - 2026-03-27
 - Process article: Introducing Ossature: Spec-Driven Code Generation.
 
