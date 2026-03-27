@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.115 - 2026-03-27
+- Add synthesis: Ray Data LLM enables 2x throughput over vLLM’s synchronous LLM engine at production-scale.
+
 ## 0.0.114 - 2026-03-27
 - Process article: App Store | Age of Agent.
 
