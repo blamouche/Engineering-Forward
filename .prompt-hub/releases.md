@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.113 - 2026-03-27
+- Add synthesis: App Store | Age of Agent.
+
 ## 0.0.112 - 2026-03-27
 - Process article: Harness design for long-running application development.
 
