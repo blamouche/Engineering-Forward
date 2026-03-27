@@ -16,13 +16,14 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████ 309
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 310
 
 ## Articles
 
 ### 2026
 
-#### March (309 articles)
+#### March (310 articles)
+- [iOS 27 Features: Apple AI Reboot With Siri App, New Interface, ‘Ask Siri’ Button](src/2026-03/20260324-ios-27-features-apple-ai-reboot-with-siri-app-new-interface-ask-siri-button.md)
 - [Control Claude Code from your Phone using Telegram](src/2026-03/20260327-control-claude-code-from-your-phone-using-telegram.md)
 - [Awesome LLM Apps: Collection of AI Agent and RAG Projects](src/2026-03/20260327-awesome-llm-apps-collection.md)
 - [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](src/2026-03/20260317-announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab.md)

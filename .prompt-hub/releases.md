@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.86 - 2026-03-27
+- Add synthesis: iOS 27 Features: Apple AI Reboot With Siri App, New Interface, ‘Ask Siri’ Button.
+
 ## 0.0.85 - 2026-03-27
 - Process article: Control Claude Code from your Phone using Telegram.
 
