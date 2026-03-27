@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.144 - 2026-03-27
+- Add synthesis: Claude Subconscious.
+
 ## 0.0.143 - 2026-03-27
 - Process article: cq: Stack Overflow for agents (duplicate already processed).
 
