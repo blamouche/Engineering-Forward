@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.114 - 2026-03-27
+- Process article: App Store | Age of Agent.
+
 ## 0.0.113 - 2026-03-27
 - Add synthesis: App Store | Age of Agent.
 
