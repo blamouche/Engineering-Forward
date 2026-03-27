@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.123 - 2026-03-27
+- Process article: OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer.
+
 ## 0.0.122 - 2026-03-27
 - Add synthesis: OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer.
 
