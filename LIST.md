@@ -1,4 +1,3 @@
-https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/
 https://developers.googleblog.com/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab/
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://www.theunwindai.com/p/control-claude-code-from-your-phone-using-telegram
