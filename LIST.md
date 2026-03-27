@@ -1,4 +1,3 @@
-https://www.capcut.com/newsroom/dreamina-seedance-2
 https://threadreaderapp.com/thread/2036861192619384989.html
 https://www.bigtechnology.com/p/senator-mark-warner-on-ais-risks
 https://www.warner.senate.gov/public/index.cfm/pressreleases?id=1D95AF09-5ED4-4D3C-BBB0-87F596C5176C

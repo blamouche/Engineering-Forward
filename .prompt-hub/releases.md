@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.193 - 2026-03-27
+- Process article: Unlocking New Creative Possibilities with Dreamina Seedance 2.0.
+
 ## 0.0.192 - 2026-03-27
 - Process article: Harvey Raises at $11 Billion Valuation to Scale Agents Across Law Firms and Enterprises.
 
