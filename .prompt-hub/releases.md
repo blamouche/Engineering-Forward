@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.137 - 2026-03-27
+- Process article: Introducing Plus One: One-click OpenClaw Agents by Every.
+
 ## 0.0.136 - 2026-03-27
 - Add synthesis: Introducing Plus One: One-click OpenClaw Agents by Every.
 
