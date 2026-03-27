@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.180 - 2026-03-27
+- Add synthesis: Figma's next-generation data caching platform.
+
 ## 0.0.179 - 2026-03-27
 - Process article: Agents, Meet the Figma Canvas.
 

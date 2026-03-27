@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 353
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 354
 ## Articles
 
 ### 2026
 
-#### March (353 articles)
+#### March (354 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Figma's next-generation data caching platform](src/2026-03/20260327-figmas-next-generation-data-caching-platform.md)
 - [Agents, Meet the Figma Canvas](src/2026-03/20260327-agents-meet-the-figma-canvas.md)
 - [Announcing Cline Kanban: a CLI-agnostic app for multi-agent orchestration](src/2026-03/20260327-announcing-cline-kanban-a-cli-agnostic-app-for-multi-agent-orchestration.md)
 - [Final training runs account for a minority of R&D compute spending](src/2026-03/20260327-final-training-runs-account-for-a-minority-of-r-and-d-compute-spending.md)
