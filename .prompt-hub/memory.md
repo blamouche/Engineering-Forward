@@ -848,6 +848,20 @@
 - Removed those URLs from LIST.md, updated version/releases per commit.
 - Remaining URLs still in LIST.md (not yet processed).
 
+## 2026-03-27 18:46:00 +0100
+- actor: agent
+- action: Added synthesis for "Quantization from the ground up" and updated README statistics.
+- files_changed_or_commands: src/2026-03/20260325-quantization-from-the-ground-up.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit add-synthesis change, then remove URL from LIST.md.
+
+## 2026-03-27 18:43:00 +0100
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260327-184300-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Process LIST.md queue per scan-list instructions.
+
 ## 2026-03-27 18:02:30 +0100
 - actor: agent
 - action: Initialized veille IA cron run; loaded prompt-hub context and created task file.

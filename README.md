@@ -20,12 +20,12 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 347
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 348
 ## Articles
 
 ### 2026
 
-#### March (347 articles)
+#### March (348 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
 - [Google’s TurboQuant compression can reduce LLM memory usage by 6x](src/2026-03/20260327-google-turboquant-compression-can-reduce-llm-memory-usage.md)
 - [Lyria 3 Pro: Create longer tracks in more Google products](src/2026-03/20260327-lyria-3-pro-create-longer-tracks.md)
@@ -78,6 +78,7 @@ Articles per month:
 - [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](src/2026-03/20260322-an-exclusive-tour-of-amazons-trainium-lab.md)
 - [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
 - [Amazon is reportedly developing an AI-centric smartphone](src/2026-03/20260326-amazon-ai-centric-smartphone.md)
+- [Quantization from the ground up](src/2026-03/20260325-quantization-from-the-ground-up.md)
 - [Agent Experience: Build without leaving your terminal](src/2026-03/20260325-agent-experience-workos.md)
 - [Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide)](src/2026-03/20260325-claude-certified-architects-production-guide.md)
 - [Claude Code Scheduled Tasks (Thread)](src/2026-03/20260325-claude-code-scheduled-tasks.md)

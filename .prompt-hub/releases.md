@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.168 - 2026-03-27
+- Add synthesis: Quantization from the ground up.
+
 ## 0.0.167 - 2026-03-27
 - Process article: Google’s TurboQuant compression can reduce LLM memory usage by 6x.
 
