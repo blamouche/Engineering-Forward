@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.66 - 2026-03-27
+- Add synthesis: Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course.
+
 ## 0.0.65 - 2026-03-27
 - Process article: Exactly Why and How AI Will Replace Knowledge Work.
 

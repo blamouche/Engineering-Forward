@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 299
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 300
 
 ## Articles
 
 ### 2026
 
-#### March (299 articles)
+#### March (300 articles)
+- [Last Chance to Enroll | Become an AI Engineer | Cohort-Based Course](src/2026-03/20260327-last-chance-to-enroll-become-an-ai-engineer-cohort-based-course.md)
 - [Exactly Why and How AI Will Replace Knowledge Work](src/2026-03/20260327-exactly-why-and-how-ai-will-replace-knowledge-work.md)
 - [An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple](src/2026-03/20260322-an-exclusive-tour-of-amazons-trainium-lab.md)
 - [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
