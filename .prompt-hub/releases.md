@@ -1,3 +1,6 @@
+## 0.0.206 - 2026-03-28
+- Initialize veille IA task log and memory entry.
+
 ## 0.0.205 - 2026-03-27
 - Log substack-post-recents completion in prompt-hub memory.
 
