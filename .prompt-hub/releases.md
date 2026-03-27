@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.121 - 2026-03-27
+- Process article: Trained on Tokens, Calibrated on Concepts: The Emergence of Semantic Calibration in LLMs.
+
 ## 0.0.120 - 2026-03-27
 - Add synthesis: Trained on Tokens, Calibrated on Concepts: The Emergence of Semantic Calibration in LLMs.
 
