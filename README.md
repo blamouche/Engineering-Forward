@@ -20,13 +20,14 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████ 328
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████ 329
 ## Articles
 
 ### 2026
 
-#### March (328 articles)
+#### March (329 articles)
 - [How Anthropic’s Claude Thinks](src/2026-03/20260327-how-anthropics-claude-thinks.md)
+- [Databricks Enters Security Market with Launch of Lakewatch: New Open, Agentic SIEM](src/2026-03/20260324-databricks-enters-security-market-launch-lakewatch.md)
 - [U.S. Government’s Ban on Anthropic Looks Like Punishment, Judge Says](src/2026-03/20260327-us-governments-ban-on-anthropic-looks-like-punishment.md)
 - [OpenAI raises additional money to bring record funding round to $120 billion, CFO tells Cramer](src/2026-03/20260324-openai-raises-additional-money-record-funding-round.md)
 - [Trained on Tokens, Calibrated on Concepts: The Emergence of Semantic Calibration in LLMs](src/2026-03/20260327-trained-on-tokens-calibrated-on-concepts.md)

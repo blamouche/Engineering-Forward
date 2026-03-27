@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.126 - 2026-03-27
+- Add synthesis: Databricks Enters Security Market with Launch of Lakewatch: New Open, Agentic SIEM.
+
 ## 0.0.125 - 2026-03-27
 - Process article: U.S. Government’s Ban on Anthropic Looks Like Punishment, Judge Says.
 
