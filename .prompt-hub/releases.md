@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.181 - 2026-03-27
+- Process article: Figma's next-generation data caching platform.
+
 ## 0.0.180 - 2026-03-27
 - Add synthesis: Figma's next-generation data caching platform.
 
