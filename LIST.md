@@ -1,4 +1,3 @@
-https://huggingface.co/blog/ServiceNow-AI/eva
 https://every.to/p/build-your-own-bloomberg-terminal-with-ai
 https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every
 https://linas.substack.com/p/claudemd

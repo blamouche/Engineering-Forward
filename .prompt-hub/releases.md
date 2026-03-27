@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.133 - 2026-03-27
+- Process article: A New Framework for Evaluating Voice Agents (EVA).
+
 ## 0.0.132 - 2026-03-27
 - Add synthesis: A New Framework for Evaluating Voice Agents (EVA).
 
