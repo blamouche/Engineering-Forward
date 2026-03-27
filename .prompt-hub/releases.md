@@ -1,3 +1,6 @@
+## 0.0.207 - 2026-03-28
+- Log veille IA task tracking after initial commit.
+
 ## 0.0.206 - 2026-03-28
 - Initialize veille IA task log and memory entry.
 
