@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.61 - 2026-03-27
+- Process article: Architect Once or Rebuild Twice for AI Teams Scaling Production (FETCH_ERROR).
+
 ## 0.0.60 - 2026-03-27
 - Process article: How to Do AI-Assisted Engineering.
 
