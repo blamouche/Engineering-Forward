@@ -9,6 +9,9 @@
 
 # Releases
 
+## 0.0.147 - 2026-03-27
+- Process article: gitagent | your repository becomes your agent.
+
 ## 0.0.146 - 2026-03-27
 - Add synthesis: gitagent | your repository becomes your agent.
 
