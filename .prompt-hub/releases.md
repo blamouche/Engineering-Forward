@@ -1,5 +1,8 @@
 # Releases
 
+## 0.0.62 - 2026-03-27
+- Add synthesis: An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple.
+
 ## 0.0.61 - 2026-03-27
 - Process article: Architect Once or Rebuild Twice for AI Teams Scaling Production (FETCH_ERROR).
 
