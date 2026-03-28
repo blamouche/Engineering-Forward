@@ -1,3 +1,6 @@
+## 0.0.214 - 2026-03-28
+- Initialize veille IA task log (daily cron).
+
 ## 0.0.213 - 2026-03-28
 - Add substack post recents: The enterprise AI boom is becoming an operations test.
 
