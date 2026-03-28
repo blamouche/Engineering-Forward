@@ -1280,3 +1280,10 @@
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit task log.
 
+
+## 2026-03-28 18:03:00 +0100
+- actor: agent
+- action: Initialized daily veille IA task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-180300-daily-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Check repo state and process Gmail label 0---veille-ia.
