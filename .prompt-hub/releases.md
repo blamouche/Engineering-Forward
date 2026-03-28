@@ -1,3 +1,6 @@
+## 0.0.228 - 2026-03-28
+- Initialize veille IA task log.
+
 ## 0.0.227 - 2026-03-28
 - Log scan-list push completion in prompt-hub memory.
 

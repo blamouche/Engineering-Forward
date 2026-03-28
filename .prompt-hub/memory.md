@@ -1267,3 +1267,10 @@
 - files_changed_or_commands: git add .prompt-hub/memory.md .prompt-hub/releases.md .prompt-hub/version.md .prompt-hub/todo/todo-20260328-150400-scan-list.md memory.md; git commit -m "Log scan-list run (LIST.md empty)"; git push.
 - outcome: success
 - next_step: Send summary.
+## 2026-03-28 16:01:30 +0100
+- actor: agent
+- action: Initialized veille IA task file and bumped prompt-hub version/releases for tracking.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-160100-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit/push tracking updates, then run Gmail extraction.
+
