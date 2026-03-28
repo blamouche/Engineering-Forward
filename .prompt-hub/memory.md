@@ -1294,3 +1294,17 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia"; gog gmail get 19d3513f671e4f88; updated LIST.md; git pull --rebase; git commit "Add URL(s) to processing queue"; git push; gog gmail batch modify 19d3513f671e4f88 --add TRASH --remove INBOX.
 - outcome: success
 - next_step: None.
+
+## 2026-03-28 18:07:30 +0100
+- actor: agent
+- action: Initialized scan-list cron task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-180700-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Sync repo and process LIST.md queue per scan-list instructions.
+
+## 2026-03-28 18:10:30 +0100
+- actor: agent
+- action: Added synthesis for EP208: Load Balancer vs API Gateway and updated README statistics.
+- files_changed_or_commands: src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit synthesis, then remove URL from LIST.md and commit process-article change.

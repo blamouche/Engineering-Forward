@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 364
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 365
 ## Articles
 
 ### 2026
 
-#### March (364 articles)
+#### March (365 articles)
+- [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)
 - [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
 - [OpenAI drops plans to release an adult chatbot](src/2026-03/20260326-openai-drops-plans-to-release-an-adult-chatbot.md)
 - [Warner, Rounds Unveil Bipartisan Plan to Prepare American Workers for AI-Driven Workforce Changes](src/2026-03/20260327-warner-rounds-unveil-bipartisan-plan-to-prepare-american-workers-for-ai-driven-workforce-changes.md)

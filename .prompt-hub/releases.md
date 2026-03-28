@@ -1,3 +1,6 @@
+## 0.0.232 - 2026-03-28
+- Add synthesis: EP208: Load Balancer vs API Gateway.
+
 ## 0.0.231 - 2026-03-28
 - Log veille IA run: added 1 URL to LIST.md and trashed processed Gmail message.
 
