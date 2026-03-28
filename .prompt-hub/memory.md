@@ -1322,3 +1322,10 @@
 - files_changed_or_commands: synthesis/2026-03-28 - 180700 - batch recap.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit recap and finalize task log, then push.
+
+## 2026-03-28 20:02:44 +0100
+- actor: agent
+- action: Initialized daily veille IA task file, checked repo clean, Gmail label returned 0 messages, LIST.md unchanged, no emails trashed.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-200244-daily-veille-ia.md; gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; git status --porcelain.
+- outcome: success
+- next_step: Commit/push prompt-hub log updates.
