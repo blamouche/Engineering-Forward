@@ -1,3 +1,6 @@
+## 0.0.217 - 2026-03-28
+- Initialize veille IA task log (todo + memory).
+
 ## 0.0.216 - 2026-03-28
 - Log scan-list run (LIST.md empty).
 
