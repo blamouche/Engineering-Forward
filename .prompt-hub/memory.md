@@ -1315,3 +1315,10 @@
 - files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit process-article change and create batch recap.
+
+## 2026-03-28 18:13:40 +0100
+- actor: agent
+- action: Created batch recap for scan-list run.
+- files_changed_or_commands: synthesis/2026-03-28 - 180700 - batch recap.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit recap and finalize task log, then push.
