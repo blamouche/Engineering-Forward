@@ -1120,3 +1120,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); .prompt-hub/todo/todo-20260328-040210-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, and push task log.
+
+## 2026-03-28 05:00:00 +0100
+- actor: agent
+- action: Drafted substack-post-recents article from latest 15 README entries and synced substack/latest.md.
+- files_changed_or_commands: substack/20260328-post-the-enterprise-ai-boom-is-becoming-an-operations-test.md; substack/latest.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, push, and send summary.

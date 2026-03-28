@@ -1,3 +1,6 @@
+## 0.0.213 - 2026-03-28
+- Add substack post recents: The enterprise AI boom is becoming an operations test.
+
 ## 0.0.212 - 2026-03-28
 - Log veille IA run (no Gmail messages, no LIST.md changes).
 
