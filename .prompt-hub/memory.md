@@ -1,5 +1,26 @@
 # Memory Log
 
+## 2026-03-28 09:03:30 +0100
+- actor: agent
+- action: Initialized scan-list cron task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-090300-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Inspect LIST.md and process URLs per scan-list instructions.
+
+## 2026-03-28 09:04:10 +0100
+- actor: agent
+- action: Scan-list run: LIST.md empty; no URL processing or batch recap.
+- files_changed_or_commands: LIST.md (empty check); .prompt-hub/todo/todo-20260328-090300-scan-list.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit task log.
+
+## 2026-03-28 09:04:40 +0100
+- actor: agent
+- action: Updated prompt-hub version/releases after empty scan-list run.
+- files_changed_or_commands: .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit and push prompt-hub task log.
+
 ## 2026-03-27 23:07:30 +0100
 - actor: agent
 - action: Initialized substack-post-recents task file after loading prompt-hub context (lessons, memory, releases).
