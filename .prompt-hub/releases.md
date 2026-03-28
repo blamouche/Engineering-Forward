@@ -1,3 +1,6 @@
+## 0.0.236 - 2026-03-28
+- Log daily veille IA run (no Gmail messages, LIST.md unchanged).
+
 ## 0.0.235 - 2026-03-28
 - Log daily veille IA run (no Gmail messages, LIST.md unchanged).
 
