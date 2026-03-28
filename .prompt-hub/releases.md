@@ -1,3 +1,6 @@
+## 0.0.212 - 2026-03-28
+- Log veille IA run (no Gmail messages, no LIST.md changes).
+
 ## 0.0.211 - 2026-03-28
 - Log veille IA task tracking (todo files).
 
