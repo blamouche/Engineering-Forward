@@ -1,3 +1,6 @@
+## 0.0.233 - 2026-03-28
+- Process article: EP208: Load Balancer vs API Gateway.
+
 ## 0.0.232 - 2026-03-28
 - Add synthesis: EP208: Load Balancer vs API Gateway.
 

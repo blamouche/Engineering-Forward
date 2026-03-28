@@ -1308,3 +1308,10 @@
 - files_changed_or_commands: src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit synthesis, then remove URL from LIST.md and commit process-article change.
+
+## 2026-03-28 18:12:10 +0100
+- actor: agent
+- action: Removed processed URL from LIST.md after extracting title/elevator pitch for batch recap.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit process-article change and create batch recap.
