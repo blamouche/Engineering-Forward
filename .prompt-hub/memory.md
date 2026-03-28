@@ -1106,3 +1106,10 @@
 - files_changed_or_commands: git pull --rebase; LIST.md (empty check); .prompt-hub/todo/todo-20260328-030200-scan-list.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit/push prompt-hub logs.
+
+## 2026-03-28 04:02:30 +0100
+- actor: agent
+- action: Created veille IA task file and bumped prompt-hub version/releases to restore clean working tree.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260328-020100-veille-ia.md; .prompt-hub/todo/todo-20260328-040210-veille-ia.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit/push tracking updates, then run veille IA extraction.
