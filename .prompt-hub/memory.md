@@ -1287,3 +1287,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260328-180300-daily-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
 - outcome: success
 - next_step: Check repo state and process Gmail label 0---veille-ia.
+
+## 2026-03-28 18:06:00 +0100
+- actor: agent
+- action: Processed veille IA Gmail label and queued article URL; trashed processed email.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia"; gog gmail get 19d3513f671e4f88; updated LIST.md; git pull --rebase; git commit "Add URL(s) to processing queue"; git push; gog gmail batch modify 19d3513f671e4f88 --add TRASH --remove INBOX.
+- outcome: success
+- next_step: None.

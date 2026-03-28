@@ -1,3 +1,6 @@
+## 0.0.231 - 2026-03-28
+- Log veille IA run: added 1 URL to LIST.md and trashed processed Gmail message.
+
 ## 0.0.230 - 2026-03-28
 - Initialize veille IA task log (todo + memory).
 
