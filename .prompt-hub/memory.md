@@ -1232,3 +1232,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260328-140100-veille-ia.md; git status --porcelain.
 - outcome: success
 - next_step: Commit pending prompt-hub changes, then run Gmail extraction.
+
+## 2026-03-28 14:02:40 +0100
+- actor: agent
+- action: Veille IA run: Gmail label returned 0 messages; LIST.md empty; sync done via stash/pull.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); git stash push/pop; git pull --rebase.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit task log.
