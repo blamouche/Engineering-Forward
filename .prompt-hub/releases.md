@@ -1,3 +1,6 @@
+## 0.0.221 - 2026-03-28
+- Log veille IA run (no Gmail messages, LIST.md empty).
+
 ## 0.0.220 - 2026-03-28
 - Initialize veille IA task log (cron run).
 
