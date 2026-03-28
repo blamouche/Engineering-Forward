@@ -1,3 +1,6 @@
+## 0.0.224 - 2026-03-28
+- Initialize veille IA task log and clean pending prompt-hub changes.
+
 ## 0.0.223 - 2026-03-28
 - Log veille IA run (no Gmail messages, LIST.md empty).
 
