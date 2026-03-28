@@ -1343,3 +1343,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260328-220209-daily-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit task log.
+
+## 2026-03-29 00:09:08 
+- actor: agent
+- action: Initialized daily veille IA task file and loaded prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-000855-veille-ia-daily.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Ensure clean repo, fetch Gmail messages, update LIST.md, and trash processed emails.
