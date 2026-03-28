@@ -1357,3 +1357,24 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 50 --json --no-input; .prompt-hub/todo/todo-20260329-000855-veille-ia-daily.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit log.
+
+## 2026-03-29 00:10:40 +0100
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-001000-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Sync repo and process LIST.md queue per scan-list instructions.
+
+## 2026-03-29 00:12:05 +0100
+- actor: agent
+- action: Synced repo for scan-list using stash/pull/pop to satisfy pre-sync requirement.
+- files_changed_or_commands: git stash push -u -m "pre-scan-list-20260329-0010"; git pull --rebase; git stash pop.
+- outcome: success
+- next_step: Inspect LIST.md and continue scan-list flow.
+
+## 2026-03-29 00:12:40 +0100
+- actor: agent
+- action: Scan-list run: LIST.md empty; no URL processing or batch recap.
+- files_changed_or_commands: LIST.md (empty check); .prompt-hub/todo/todo-20260329-001000-scan-list.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit/push logs.
