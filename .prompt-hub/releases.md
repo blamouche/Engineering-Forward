@@ -1,3 +1,6 @@
+## 0.0.238 - 2026-03-29
+- Log daily veille IA run (no Gmail messages, LIST.md unchanged).
+
 ## 0.0.237 - 2026-03-29
 - Initialize veille IA task log (todo + memory).
 
