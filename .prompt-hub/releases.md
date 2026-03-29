@@ -1,3 +1,6 @@
+## 0.0.242 - 2026-03-29
+- Initialize daily veille IA task log.
+
 ## 0.0.241 - 2026-03-29
 - Log scan-list run (LIST.md empty).
 
