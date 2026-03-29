@@ -1567,3 +1567,10 @@
 - files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue scan-list queue.
+
+## 2026-03-29 15:24:40 +0200
+- actor: agent
+- action: Processed article "Compound Engineering: The Definitive Guide" (already synthesized; removed URL from LIST.md; version bump).
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and finalize scan-list queue.

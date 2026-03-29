@@ -1,3 +1,6 @@
+## 0.0.261 - 2026-03-29
+- Process article: Compound Engineering: The Definitive Guide.
+
 ## 0.0.260 - 2026-03-29
 - Process article: Build Your Own Bloomberg Terminal With AI.
 
