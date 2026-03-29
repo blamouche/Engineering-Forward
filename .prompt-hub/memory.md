@@ -1637,3 +1637,10 @@
 - files_changed_or_commands: src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit add-synthesis change, then remove URL from LIST.md and commit process-article change.
+
+## 2026-03-29 18:06:30 +0200
+- actor: agent
+- action: Removed processed URL from LIST.md after extracting title and elevator pitch for batch recap.
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit process-article change and create batch recap.
