@@ -1,3 +1,6 @@
+## 0.0.260 - 2026-03-29
+- Process article: Build Your Own Bloomberg Terminal With AI.
+
 ## 0.0.259 - 2026-03-29
 - Process article: Instagram’s Cofounder on Why Great Products Are Still Hard to Build.
 
