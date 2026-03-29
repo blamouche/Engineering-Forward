@@ -1651,3 +1651,10 @@
 - files_changed_or_commands: synthesis/2026-03-29 - 180400 - batch recap.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit recap and finalize task log, then push.
+
+## 2026-03-29 18:08:40 +0200
+- actor: agent
+- action: Finalized scan-list task log after push.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-180300-scan-list.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: None.

@@ -1,3 +1,6 @@
+## 0.0.272 - 2026-03-29
+- Finalize scan-list task log after push.
+
 ## 0.0.271 - 2026-03-29
 - Add batch recap: 2026-03-29 18:04:00.
 
