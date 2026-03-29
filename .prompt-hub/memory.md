@@ -1574,3 +1574,10 @@
 - files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and finalize scan-list queue.
+
+## 2026-03-29 15:27:40 +0200
+- actor: agent
+- action: Created batch recap for scan-list run and prepared recap commit.
+- files_changed_or_commands: synthesis/2026-03-29 - 150302 - batch recap.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit recap and push remaining changes.
