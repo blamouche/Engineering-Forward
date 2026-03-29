@@ -1378,3 +1378,10 @@
 - files_changed_or_commands: LIST.md (empty check); .prompt-hub/todo/todo-20260329-001000-scan-list.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit/push logs.
+
+## 2026-03-29 03:05:30 +0100
+- actor: agent
+- action: Daily veille IA cron run: created task log, checked repo status, ran Gmail label search (0 messages).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-030500-veille-ia.md; git status --porcelain; gog gmail messages search "label:0---veille-ia" --max 200 --json.
+- outcome: success
+- next_step: Update prompt-hub version/releases and finalize task log if committing.
