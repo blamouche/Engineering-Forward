@@ -20,12 +20,12 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 367
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 368
 ## Articles
 
 ### 2026
 
-#### March (367 articles)
+#### March (368 articles)
 - [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)
 - [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)
 - [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
@@ -95,6 +95,7 @@ Articles per month:
 - [How to Do AI-Assisted Engineering](src/2026-03/20260327-how-to-do-ai-assisted-engineering.md)
 - [Amazon is reportedly developing an AI-centric smartphone](src/2026-03/20260326-amazon-ai-centric-smartphone.md)
 - [Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'](src/2026-03/20260326-anthropic-wins-preliminary-injunction-in-dod-fight-as-judge-cites-first-amendment-retaliation.md)
+- [Instagram’s Cofounder on Why Great Products Are Still Hard to Build](src/2026-03/20260325-instagrams-cofounder-on-why-great-products-are-still-hard-to-build.md)
 - [Quantization from the ground up](src/2026-03/20260325-quantization-from-the-ground-up.md)
 - [Software engineer interviews for the age of AI](src/2026-03/20260325-software-engineer-interviews-for-the-age-of-ai.md)
 - [Agent Experience: Build without leaving your terminal](src/2026-03/20260325-agent-experience-workos.md)
