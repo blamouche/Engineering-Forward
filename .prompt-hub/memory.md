@@ -1539,3 +1539,10 @@
 - files_changed_or_commands: src/2026-03/20260329-everyone-gets-a-sidekick.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
 - outcome: success
 - next_step: Commit changes and continue scan-list queue.
+
+## 2026-03-29 15:09:40 +0200
+- actor: agent
+- action: Processed article "Introducing Plus One: One-click OpenClaw Agents by Every" (already synthesized; removed URL from LIST.md; version bump).
+- files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue scan-list queue.
