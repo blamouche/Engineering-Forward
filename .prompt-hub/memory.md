@@ -1497,3 +1497,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260329-120300-veille-ia.md.
 - outcome: success
 - next_step: Commit task log, update version/releases, then run Gmail extraction.
+
+## 2026-03-29 12:04:10 +0200
+- actor: agent
+- action: Veille IA run: Gmail label 0---veille-ia returned 0 messages; LIST.md unchanged; no emails trashed.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); .prompt-hub/todo/todo-20260329-120300-veille-ia.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit log.
