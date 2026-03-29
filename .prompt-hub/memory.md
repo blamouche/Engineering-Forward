@@ -1,5 +1,12 @@
 # Memory Log
 
+## 2026-03-29 10:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-100100-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Check repo status, extract Gmail URLs, update LIST.md, and trash processed emails.
+
 ## 2026-03-29 09:02:40 +0200
 - actor: agent
 - action: Initialized scan-list task file after loading prompt-hub context (lessons, memory, releases).
