@@ -1,3 +1,6 @@
+## 0.0.264 - 2026-03-29
+- Initialize veille IA task log (todo + memory).
+
 ## 0.0.263 - 2026-03-29
 - Finalize scan-list task log after push.
 
