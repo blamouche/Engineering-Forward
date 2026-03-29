@@ -1,3 +1,6 @@
+## 0.0.265 - 2026-03-29
+- Add veille IA URL to LIST.md.
+
 ## 0.0.264 - 2026-03-29
 - Initialize veille IA task log (todo + memory).
 
