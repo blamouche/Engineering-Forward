@@ -1518,3 +1518,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260329-140225-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
 - outcome: success
 - next_step: Check repo status, extract Gmail URLs, update LIST.md, trash processed emails.
+
+## 2026-03-29 14:04:30 +0200
+- actor: agent
+- action: Extracted URLs from Gmail veille IA label, filtered AI/app-dev links, updated LIST.md, and trashed processed message.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md; gog gmail batch modify 19d3979c399de75c --add TRASH --no-input --force.
+- outcome: success
+- next_step: Commit/push LIST.md and prompt-hub updates.

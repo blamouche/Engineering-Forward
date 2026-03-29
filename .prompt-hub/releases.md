@@ -1,3 +1,6 @@
+## 0.0.255 - 2026-03-29
+- Add veille IA URLs to LIST.md and trash processed Gmail message.
+
 ## 0.0.254 - 2026-03-29
 - Initialize veille IA task log (todo + memory).
 
