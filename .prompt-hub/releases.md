@@ -1,3 +1,6 @@
+## 0.0.267 - 2026-03-29
+- Initialize veille IA task log (todo + memory).
+
 ## 0.0.266 - 2026-03-29
 - Finalize veille IA task log and Gmail trash action.
 
