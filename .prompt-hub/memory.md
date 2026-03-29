@@ -1602,3 +1602,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md.
 - outcome: success
 - next_step: Commit/push LIST.md update and trash processed Gmail messages.
+
+## 2026-03-29 16:03:30 +0200
+- actor: agent
+- action: Trashed processed Gmail message for veille IA run.
+- files_changed_or_commands: gog gmail batch modify 19d3996c5cf23457 --add TRASH --no-input --force.
+- outcome: success
+- next_step: Finalize task log and commit prompt-hub updates.
