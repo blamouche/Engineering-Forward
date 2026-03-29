@@ -20,12 +20,12 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 366
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 367
 ## Articles
 
 ### 2026
 
-#### March (366 articles)
+#### March (367 articles)
 - [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)
 - [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)
 - [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
@@ -114,6 +114,7 @@ Articles per month:
 - [cq: Stack Overflow for Agents](src/2026-03/20260325-cq-stack-overflow-for-agents.md)
 - [Designing AI for Disruptive Science](src/2026-03/20260325-designing-ai-for-disruptive-science.md)
 - [More Magic Math from OpenAI?](src/2026-03/20260323-more-magic-math-from-openai.md)
+- [The Agent That Saved My Brain](src/2026-03/20260323-the-agent-that-saved-my-brain.md)
 - [Anthropic's Claude Can Now Control Your Computer](src/2026-03/20260325-anthropics-claude-can-now-control-your-computer.md)
 - [The 4-Layer Production Stack Every AI Agent Needs](src/2026-03/20260325-the-4-layer-production-stack-every-ai-agent-needs.md)
 - [Walmart: ChatGPT checkout converted 3x worse than website](src/2026-03/20260325-walmart-chatgpt-checkout-converted-3x-worse-than-website.md)

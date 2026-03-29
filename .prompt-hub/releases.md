@@ -1,3 +1,6 @@
+## 0.0.258 - 2026-03-29
+- Process article: The Agent That Saved My Brain.
+
 ## 0.0.257 - 2026-03-29
 - Process article: Introducing Plus One: One-click OpenClaw Agents by Every.
 
