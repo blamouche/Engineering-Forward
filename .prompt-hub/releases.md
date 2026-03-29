@@ -1,3 +1,6 @@
+## 0.0.241 - 2026-03-29
+- Log scan-list run (LIST.md empty).
+
 ## 0.0.240 - 2026-03-29
 - Log daily veille IA run (no Gmail messages, LIST.md unchanged).
 
