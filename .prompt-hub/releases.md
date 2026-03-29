@@ -1,3 +1,6 @@
+## 0.0.269 - 2026-03-29
+- Add synthesis: From skeptic to true believer: How OpenClaw changed my life | Claire Vo.
+
 ## 0.0.268 - 2026-03-29
 - Log veille IA run (no Gmail messages, LIST.md unchanged).
 

@@ -1623,3 +1623,17 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260329-180215-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit task log.
+
+## 2026-03-29 18:03:50 +0200
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-180300-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Sync repo and process LIST.md queue per scan-list instructions.
+
+## 2026-03-29 18:05:40 +0200
+- actor: agent
+- action: Added synthesis for "From skeptic to true believer: How OpenClaw changed my life | Claire Vo" and updated README statistics.
+- files_changed_or_commands: src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md; README.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit add-synthesis change, then remove URL from LIST.md and commit process-article change.

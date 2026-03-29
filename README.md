@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 368
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369
 ## Articles
 
 ### 2026
 
-#### March (368 articles)
+#### March (369 articles)
+- [From skeptic to true believer: How OpenClaw changed my life | Claire Vo](src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md)
 - [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)
 - [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)
 - [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
