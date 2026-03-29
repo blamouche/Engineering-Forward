@@ -1,5 +1,12 @@
 # Memory Log
 
+## 2026-03-29 09:02:40 +0200
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context (lessons, memory, releases).
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-090200-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Inspect LIST.md and process URLs per scan-list instructions.
+
 ## 2026-03-29 06:06:30 +0200
 - actor: agent
 - action: Initialized scan-list task file after loading prompt-hub context (lessons, memory, releases).
@@ -1462,3 +1469,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260329-080100-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit log.
+
+## 2026-03-29 09:02:55 +0200
+- actor: agent
+- action: Scan-list run: LIST.md empty; no URL processing or batch recap.
+- files_changed_or_commands: LIST.md (empty check); .prompt-hub/todo/todo-20260329-090200-scan-list.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit/push logs.
