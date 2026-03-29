@@ -1504,3 +1504,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md (empty check); .prompt-hub/todo/todo-20260329-120300-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit log.
+
+## 2026-03-29 12:07:06 
+- actor: agent
+- action: Scan-list run: LIST.md empty; no URL processing or batch recap.
+- files_changed_or_commands: LIST.md (empty check); .prompt-hub/todo/todo-20260329-120500-scan-list.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit/push logs.
