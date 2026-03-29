@@ -1,3 +1,6 @@
+## 0.0.273 - 2026-03-29
+- Log veille IA run (no Gmail messages, LIST.md unchanged).
+
 ## 0.0.272 - 2026-03-29
 - Finalize scan-list task log after push.
 
