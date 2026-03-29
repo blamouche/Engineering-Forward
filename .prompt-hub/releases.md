@@ -1,3 +1,6 @@
+## 0.0.256 - 2026-03-29
+- Process article: Everyone Gets a Sidekick.
+
 ## 0.0.255 - 2026-03-29
 - Add veille IA URLs to LIST.md and trash processed Gmail message.
 

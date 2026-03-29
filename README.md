@@ -20,12 +20,13 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 365
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 366
 ## Articles
 
 ### 2026
 
-#### March (365 articles)
+#### March (366 articles)
+- [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)
 - [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)
 - [OpenAI ads pilot tops $100 million in annualized revenue in under 2 months](src/2026-03/20260326-openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.md)
 - [OpenAI drops plans to release an adult chatbot](src/2026-03/20260326-openai-drops-plans-to-release-an-adult-chatbot.md)

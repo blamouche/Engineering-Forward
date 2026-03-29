@@ -1525,3 +1525,17 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; LIST.md; gog gmail batch modify 19d3979c399de75c --add TRASH --no-input --force.
 - outcome: success
 - next_step: Commit/push LIST.md and prompt-hub updates.
+
+## 2026-03-29 15:02:40 +0200
+- actor: agent
+- action: Initialized scan-list cron task file after loading prompt-hub context.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260329-150228-scan-list.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
+- outcome: success
+- next_step: Inspect LIST.md and process URLs per scan-list instructions.
+
+## 2026-03-29 15:07:10 +0200
+- actor: agent
+- action: Processed article "Everyone Gets a Sidekick" (synthesis, README stats update, LIST.md update, version bump).
+- files_changed_or_commands: src/2026-03/20260329-everyone-gets-a-sidekick.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md.
+- outcome: success
+- next_step: Commit changes and continue scan-list queue.
