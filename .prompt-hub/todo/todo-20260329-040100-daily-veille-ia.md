@@ -8,16 +8,17 @@
 5. Trash processed Gmail messages.
 
 ## Progress
-- [ ] Repo status clean or fully synced
-- [ ] Gmail messages fetched and URLs extracted
-- [ ] LIST.md updated (add + filter)
-- [ ] Changes committed/pushed with version + release notes
-- [ ] Processed emails trashed
+- [x] Repo status clean or fully synced
+- [x] Gmail messages fetched and URLs extracted (0 messages)
+- [x] LIST.md updated (no changes needed)
+- [x] Changes committed/pushed with version + release notes
+- [x] Processed emails trashed (none)
 
 ## Notes
 - User requested full execution in cron task.
+- Gmail search returned 0 messages for label 0---veille-ia.
 
 ## Review
-- Summary:
-- Issues:
-- Follow-ups:
+- Summary: No Gmail messages found; LIST.md unchanged.
+- Issues: None.
+- Follow-ups: None.
