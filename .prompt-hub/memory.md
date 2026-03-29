@@ -1616,3 +1616,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260329-180215-veille-ia.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md.
 - outcome: success
 - next_step: Verify repo state, process Gmail label 0---veille-ia, update LIST.md, and trash processed emails.
+
+## 2026-03-29 18:03:40 +0200
+- actor: agent
+- action: Veille IA run: Gmail label returned 0 messages; LIST.md unchanged; no emails trashed.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260329-180215-veille-ia.md.
+- outcome: success
+- next_step: Update prompt-hub version/releases and commit task log.
