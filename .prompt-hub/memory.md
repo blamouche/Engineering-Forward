@@ -1673,6 +1673,13 @@
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit task log.
 
+## 2026-04-03 16:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: cleaned repo (committed 5 untracked src/2026-04 syntheses + pushed pending commit); extracted 15 new AI/dev URLs from 3 Gmail emails (Pragmatic Engineer: GitHub reliability/AI infra; TLDR AI: Cursor 3, Gemma 4, Qwen 3.6, open models, MCP, Gemini API tiers, ClawKeeper, Vision2Web; Unwind AI: Gemma 4, Cursor 3, ADK agents, Lemonade); appended to LIST.md (53→69 after dedupe, net +16 new URLs, cursor-3 was duplicate); no URLs removed (all AI/dev relevant); trashed 3 Gmail messages (19d53a5c3ed18473, 19d5382e9d391e41, 19d535320f771472); committed + pushed.
+- files_changed_or_commands: LIST.md (+16 URLs); .prompt-hub/version.md (0.0.274→0.0.275); .prompt-hub/releases.md; .prompt-hub/memory.md; git add -A; git commit; git push; gog gmail batch modify (3 ids) --add TRASH.
+- outcome: success
+- next_step: None.
+
 ## 2026-04-03 14:01:00 +0200
 - actor: agent
 - action: Daily veille IA run: committed untracked files (scan-list todo + 22 src/2026-04 syntheses); extracted 7 new AI/dev URLs from TLDR Gmail newsletter; added to LIST.md; no existing URLs removed (all relevant); trashed Gmail message 19d52ddc12c14749.

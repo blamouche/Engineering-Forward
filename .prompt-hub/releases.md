@@ -1,3 +1,9 @@
+## 0.0.275 - 2026-04-03
+- Daily veille IA: committed 5 unsynced src/2026-04 syntheses; extracted 15 new AI/dev URLs from 3 Gmail emails (Pragmatic Engineer, TLDR AI, Unwind AI); added to LIST.md (69 total, 16 new after dedupe); no URLs removed (all AI/dev relevant); trashed 3 processed Gmail messages.
+
+## 0.0.274 - 2026-04-03
+- Daily veille IA: committed untracked files (scan-list todo + 22 src/2026-04 syntheses); extracted 7 new AI/dev URLs from TLDR Gmail newsletter; added to LIST.md; no existing URLs removed (all relevant); LIST.md now at 77 URLs.
+
 ## 0.0.273 - 2026-03-29
 - Log veille IA run (no Gmail messages, LIST.md unchanged).
 
