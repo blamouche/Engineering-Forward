@@ -69,3 +69,4 @@ https://www.testingcatalog.com/anthropic-redies-powerfull-mythos-model-with-high
 https://simonwillison.net/2026/Mar/29/pretext/
 https://danielmiessler.com/blog/the-most-important-ideas-in-ai
 https://danielmiessler.com/blog/ai-unmasked-our-work-as-scaffolding
+https://linas.substack.com/p/10-ai-prompt-skills
