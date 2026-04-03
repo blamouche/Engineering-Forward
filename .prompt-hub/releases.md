@@ -1,3 +1,6 @@
+## 0.0.278 - 2026-04-03
+- Add batch recap: 2026-04-03 170800; update memory.md with scan-list run summary.
+
 ## 0.0.277 - 2026-04-03
 - Process articles (batch): URLs 13-69 — created 56 synthesis files across src/2026-04/, updated README April section to 89 articles, emptied LIST.md; 3 FETCH_ERRORs logged (arstechnica.com, venturebeat 429, qwen.ai JS-rendered).
 
