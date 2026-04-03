@@ -33,7 +33,6 @@ https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-
 https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of
 https://github.com/microsoft/agent-lightning
 https://ollama.com/blog/mlx
-https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
 https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
 https://cohere.com/blog/transcribe
 https://github.com/drona23/claude-token-efficient
@@ -45,7 +44,6 @@ https://github.com/MiniMax-AI/skills
 https://arstechnica.com/ai/2026/03/entire-claude-code-cli-source-code-leaks-thanks-to-exposed-map-file/
 https://newsletter.pragmaticengineer.com/p/what-is-inference-engineering
 https://metalbear.com/mirrord/ai-agents/
-https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/
 https://blog.bytebytego.com/p/how-meta-turned-debugging-into-a
 https://www.lesswrong.com/posts/TfKM9PgztxieEcKiv/a-mirror-test-for-llms
 https://nextbigteng.substack.com/p/ai-infrastructure-roadmap-five-frontiers-for-2026
