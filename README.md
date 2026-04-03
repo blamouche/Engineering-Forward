@@ -21,12 +21,23 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 21
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 33
 ## Articles
 
 ### 2026
 
-#### April (21 articles)
+#### April (33 articles)
+- [Improve coding agents' performance with Gemini API Docs MCP and Agent Skills](src/2026-04/20260401-improve-coding-agents-performance-gemini-api-docs-mcp-agent-skills.md)
+- [Aurora: Online Speculative Decoding via Reinforcement Learning](src/2026-04/20260331-aurora-online-speculative-decoding-via-reinforcement-learning.md)
+- [Build with Veo 3.1 Lite, our most cost-effective video generation model](src/2026-04/20260331-build-with-veo-3-1-lite-most-cost-effective-video-generation-model.md)
+- [It's not your imagination: AI seed startups are commanding higher valuations](src/2026-04/20260331-it-is-not-your-imagination-ai-seed-startups-commanding-higher-valuations.md)
+- [Claude Dispatch and the Power of Interfaces](src/2026-04/20260331-claude-dispatch-and-the-power-of-interfaces.md)
+- [Ollama is now powered by MLX on Apple Silicon in preview](src/2026-04/20260330-ollama-powered-by-mlx-apple-silicon-preview.md)
+- [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-04/20260212-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)
+- [Cohere Transcribe: state-of-the-art speech recognition](src/2026-04/20260326-cohere-transcribe-state-of-the-art-speech-recognition.md)
+- [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
+- [SentrySearch: Semantic search over videos using Gemini Embedding 2 or Qwen3-VL](src/2026-04/20260317-sentrysearch-semantic-search-over-videos-gemini-embedding.md)
+- [AIO Sandbox: All-in-One Sandbox Environment for AI Agents](src/2026-04/20250806-agent-infra-sandbox-all-in-one-agent-sandbox.md)
 - [Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration](src/2026-04/20260402-vibe-check-cursor-3-bets-big-on-agent-orchestration.md)
 - [Database Performance Strategies and Their Hidden Costs](src/2026-04/20260403-database-performance-strategies-and-their-hidden-costs.md)
 - [Trinity-Large-Thinking: Scaling an Open Source Frontier Agent](src/2026-04/20260403-trinity-large-thinking-scaling-open-source-frontier-agent.md)

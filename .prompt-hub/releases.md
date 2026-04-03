@@ -1,3 +1,6 @@
+## 0.0.276 - 2026-04-03
+- Process articles (batch): URLs 1-12 with existing synthesis files — committed untracked files, updated README April section (33 articles), removed processed URLs from LIST.md.
+
 ## 0.0.275 - 2026-04-03
 - Daily veille IA: committed 5 unsynced src/2026-04 syntheses; extracted 15 new AI/dev URLs from 3 Gmail emails (Pragmatic Engineer, TLDR AI, Unwind AI); added to LIST.md (69 total, 16 new after dedupe); no URLs removed (all AI/dev relevant); trashed 3 processed Gmail messages.
 

@@ -1,15 +1,4 @@
-https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/
-https://www.together.ai/blog/aurora
-https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-docsmcp-agent-skills/
-https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/
-https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of
 https://github.com/microsoft/agent-lightning
-https://ollama.com/blog/mlx
-https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
-https://cohere.com/blog/transcribe
-https://github.com/drona23/claude-token-efficient
-https://github.com/ssrajadh/sentrysearch
-https://github.com/agent-infra/sandbox
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://www.theunwindai.com/p/anthropic-accidentally-leaked-claude-code-s-entire-source
 https://github.com/MiniMax-AI/skills
