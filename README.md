@@ -20,10 +20,34 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 21
 ## Articles
 
 ### 2026
+
+#### April (21 articles)
+- [Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration](src/2026-04/20260402-vibe-check-cursor-3-bets-big-on-agent-orchestration.md)
+- [Database Performance Strategies and Their Hidden Costs](src/2026-04/20260403-database-performance-strategies-and-their-hidden-costs.md)
+- [Trinity-Large-Thinking: Scaling an Open Source Frontier Agent](src/2026-04/20260403-trinity-large-thinking-scaling-open-source-frontier-agent.md)
+- [Cognichip Wants AI to Design the Chips That Power AI, and Just Raised $60M to Try](src/2026-04/20260401-cognichip-ai-chip-design-raises-60m.md)
+- [[AINews] The Claude Code Source Leak](src/2026-04/20260403-ainews-the-claude-code-source-leak.md)
+- [How We Optimized Dash's Relevance Judge with DSPy](src/2026-04/20260403-optimizing-dropbox-dash-relevance-judge-with-dspy.md)
+- [Predicting When RL Training Breaks Chain of Thought](src/2026-04/20260403-predicting-when-rl-training-breaks-chain-of-thought.md)
+- [Generalization Results from Training on the APEX-Agents Dev Set](src/2026-04/20260403-generalization-results-from-training-on-apex-agents-dev-set.md)
+- [Can We Ever Trust AI to Watch Over Itself?](src/2026-04/20260403-can-we-ever-trust-ai-to-watch-over-itself.md)
+- [An AI State of the Union: We've Passed the Inflection Point, Dark Factories Are Coming](src/2026-04/20260403-an-ai-state-of-the-union-simon-willison.md)
+- [Agentic Engineering Patterns](src/2026-04/20260403-agentic-engineering-patterns-simon-willison.md)
+- [Head of Claude Code: What Happens After Coding Is Solved | Boris Cherny](src/2026-04/20260403-head-of-claude-code-what-happens-after-coding-is-solved.md)
+- [Import and Export Your Memory from Claude](src/2026-04/20260403-import-and-export-your-memory-from-claude.md)
+- [AI Prompt Engineering in 2025: What Works and What Doesn't | Sander Schulhoff](src/2026-04/20260403-ai-prompt-engineering-in-2025-sander-schulhoff.md)
+- [The Spec Layer](src/2026-04/20260403-the-spec-layer.md)
+- [Scaling Uber with Thuan Pham (Uber's First CTO)](src/2026-04/20260403-scaling-uber-with-thuan-pham.md)
+- [The Platform and Program Split at Uber](src/2026-04/20260403-platform-and-program-split-at-uber.md)
+- [Rewriting Uber Engineering: The Opportunities Microservices Provide](src/2026-04/20260403-rewriting-uber-engineering-microservices-tincup.md)
+- [Portable Microservices Ready for the Cloud](src/2026-04/20260403-portable-microservices-uber-cloud-migration.md)
+- [How Uber Built Its Observability Platform](src/2026-04/20260403-how-uber-built-its-observability-platform-m3.md)
+- [The Uber Engineering Tech Stack, Part I: The Foundation](src/2026-04/20260403-uber-engineering-tech-stack-part-one-foundation.md)
 
 #### March (369 articles)
 - [From skeptic to true believer: How OpenClaw changed my life | Claire Vo](src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md)
