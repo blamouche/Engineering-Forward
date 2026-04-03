@@ -835,3 +835,6 @@
 
 ## 0.0.1 - 2026-03-21
 - Initialize prompt-hub tracking files (.last-update-check, lessons, releases, todo) and version file.
+
+## 0.0.274 - 2026-04-03
+- Daily veille IA: extracted 7 new AI/dev URLs from TLDR Gmail email (label:0---veille-ia); committed untracked src/2026-04/ scan-list output; no URLs removed from LIST.md (all 70 existing URLs are AI/dev-related); LIST.md now at 77 URLs.

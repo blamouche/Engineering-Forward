@@ -68,3 +68,10 @@ https://simonwillison.net/2026/Mar/29/pretext/
 https://danielmiessler.com/blog/the-most-important-ideas-in-ai
 https://danielmiessler.com/blog/ai-unmasked-our-work-as-scaffolding
 https://linas.substack.com/p/10-ai-prompt-skills
+https://cursor.com/blog/cursor-3
+https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html
+https://blog.apiad.net/p/the-anatomy-of-ai-coding-agents
+https://blog.cloudflare.com/rethinking-cache-ai-humans/
+https://simonwillison.net/2026/Apr/2/gemma-4/
+https://simonwillison.net/2026/Apr/2/lennys-podcast/
+https://www.w3.org/TR/webnn/

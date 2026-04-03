@@ -1672,3 +1672,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input; .prompt-hub/todo/todo-20260329-200100-veille-ia.md.
 - outcome: success
 - next_step: Update prompt-hub version/releases and commit task log.
+
+## 2026-04-03 14:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed untracked files (scan-list todo + 22 src/2026-04 syntheses); extracted 7 new AI/dev URLs from TLDR Gmail newsletter; added to LIST.md; no existing URLs removed (all relevant); trashed Gmail message 19d52ddc12c14749.
+- files_changed_or_commands: LIST.md (+7 URLs, total 77); .prompt-hub/version.md (0.0.273→0.0.274); .prompt-hub/releases.md; .prompt-hub/memory.md.
+- outcome: success
+- next_step: None.
