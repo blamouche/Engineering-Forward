@@ -859,5 +859,8 @@
 ## 0.0.274 - 2026-04-03
 - Daily veille IA: extracted 7 new AI/dev URLs from TLDR Gmail email (label:0---veille-ia); committed untracked src/2026-04/ scan-list output; no URLs removed from LIST.md (all 70 existing URLs are AI/dev-related); LIST.md now at 77 URLs.
 
+## 0.0.282 - 2026-04-04
+- Daily veille IA cron (20:01): gog OAuth token expired (invalid_grant) — 4th consecutive failure today. No emails extracted. Ben must re-auth: `gog auth add b.lamouche@gmail.com`.
+
 ## 0.0.281 - 2026-04-04
 - Daily veille IA cron (14:01): gog OAuth token expired again; run failed; memory logged.

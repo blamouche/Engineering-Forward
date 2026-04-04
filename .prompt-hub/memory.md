@@ -1708,6 +1708,13 @@
 - outcome: failed
 - next_step: Ben must re-authenticate gog: run `gog auth add b.lamouche@gmail.com` to renew OAuth token.
 
+## 2026-04-04 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA cron run failed (4th consecutive): gog OAuth token expired (invalid_grant). No Gmail extraction possible, LIST.md empty, no emails trashed.
+- files_changed_or_commands: gog gmail messages search "label:0---veille-ia" (FAILED: oauth2 invalid_grant); .prompt-hub/todo/todo-20260404-200100-veille-ia.md.
+- outcome: failed
+- next_step: Ben must re-authenticate gog: run `gog auth add b.lamouche@gmail.com` to renew OAuth token.
+
 ## 2026-04-04 14:01:00 +0200
 - actor: agent
 - action: Daily veille IA cron run failed again: gog OAuth token expired (invalid_grant). No Gmail extraction possible, LIST.md unchanged, no emails trashed.
