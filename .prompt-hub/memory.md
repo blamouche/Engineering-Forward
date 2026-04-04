@@ -1721,3 +1721,10 @@
 - files_changed_or_commands: gog gmail messages search "label:0---veille-ia" (FAILED: oauth2 invalid_grant)
 - outcome: failed
 - next_step: Ben must re-authenticate gog: run `gog auth add b.lamouche@gmail.com` to renew OAuth token.
+
+## 2026-04-04 21:02:00 +0200
+- actor: agent
+- action: scan-list cron run (16h scheduled). LIST.md was empty — no URLs to process. No synthesis created, no batch recap needed.
+- files_changed_or_commands: LIST.md (read only, empty)
+- outcome: success (nothing to do)
+- next_step: none
