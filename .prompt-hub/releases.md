@@ -1,4 +1,6 @@
-## 0.0.278 - 2026-04-03
+## 0.0.279 - 2026-04-04
+- Daily veille IA cron failed: gog OAuth token expired (invalid_grant). No emails extracted.
+
 - Add batch recap: 2026-04-03 170800; update memory.md with scan-list run summary.
 
 ## 0.0.277 - 2026-04-03
