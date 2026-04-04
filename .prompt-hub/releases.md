@@ -1,3 +1,6 @@
+## 0.0.280 - 2026-04-04
+- Daily veille IA cron failed: gog OAuth token expired (invalid_grant). No emails extracted. Ben must re-auth: `gog auth add b.lamouche@gmail.com`.
+
 ## 0.0.279 - 2026-04-04
 - Daily veille IA cron failed: gog OAuth token expired (invalid_grant). No emails extracted.
 
