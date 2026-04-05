@@ -1,3 +1,6 @@
+## 0.0.291 - 2026-04-06
+- Process article error: https://every.to/also-true-for-humans/seven-things-ive-learned-getting-companies-to-use-ai.
+
 ## 0.0.290 - 2026-04-06
 - Process article: Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration.
 
