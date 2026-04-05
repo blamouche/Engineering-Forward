@@ -1,3 +1,6 @@
+## 0.0.301 - 2026-04-06
+- Process article: Turn Claude Cowork Into Your Personal COO.
+
 ## 0.0.300 - 2026-04-06
 - Process article: Productize Yourself.
 
