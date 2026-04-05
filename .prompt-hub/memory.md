@@ -1728,3 +1728,10 @@
 - files_changed_or_commands: LIST.md (read only, empty)
 - outcome: success (nothing to do)
 - next_step: none
+
+## 2026-04-05 22:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context and confirming Gmail access is available again.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260405-220100-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`; `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`.
+- outcome: success
+- next_step: Restore clean working tree via commit/push, then update LIST.md with extracted AI/app-dev URLs and trash processed Gmail messages.
