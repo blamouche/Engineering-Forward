@@ -1735,3 +1735,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260405-220100-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`; `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`.
 - outcome: success
 - next_step: Restore clean working tree via commit/push, then update LIST.md with extracted AI/app-dev URLs and trash processed Gmail messages.
+
+## 2026-04-05 22:06:00 +0200
+- actor: agent
+- action: Daily veille IA run: extracted AI/app-dev article URLs from Gmail label 0---veille-ia, updated LIST.md via add-url workflow, removed no non-relevant URLs, and trashed processed emails.
+- files_changed_or_commands: `git pull --rebase`; `LIST.md`; `gog gmail batch modify 19d5da2c0baa66c6 19d5d84c2a6e8b45 19d591f816ef6094 19d54d888f9aea17 19d53fa07a69f033 19d53dcfae101f2a --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260405-220100-veille-ia.md`.
+- outcome: success
+- next_step: none
