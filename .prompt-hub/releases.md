@@ -1,3 +1,6 @@
+## 0.0.298 - 2026-04-06
+- Process article: 10 AI Prompt Skills That Actually Change How ChatGPT, Claude, and Gemini Respond.
+
 ## 0.0.297 - 2026-04-06
 - Process article: Anthropic accidentally leaked Claude Code’s entire source.
 
