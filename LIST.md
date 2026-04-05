@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
 https://every.to/context-window/house-rules-for-the-agents
 https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4
 https://every.to/vibe-check/cursor

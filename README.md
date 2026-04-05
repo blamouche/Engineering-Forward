@@ -6,6 +6,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 ## Statistics
 
 Articles per month:
+
 2022-12 | █ 2<br>
 2024-05 | █ 1<br>
 2024-06 | █ 1<br>
@@ -20,13 +21,15 @@ Articles per month:
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 89
+2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
+2026-04 | ██████████████████████████████ 88
+
 ## Articles
 
 ### 2026
 
-#### April (89 articles)
+#### April (88 articles)
+- [Anthropic’s $1B to $19B Growth Run](src/2026-04/20260405-anthropics-1b-to-19b-growth-run.md)
 - [Developer's Guide to Building ADK Agents with Skills](src/2026-04/20260401-adk-agents-skills-google-progressive-disclosure.md)
 - [Is Claude Code 5x Cheaper Than Cursor?](src/2026-04/20260331-claude-code-vs-cursor-pricing-agent-hours.md)
 - [Microsoft Announces 3 New MAI Models: Transcribe, Voice, and Image](src/2026-04/20260402-microsoft-mai-transcribe-voice-image-models.md)

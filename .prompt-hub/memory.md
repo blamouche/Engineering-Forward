@@ -1756,3 +1756,17 @@
 - files_changed_or_commands: `git pull --rebase` (pre-sync attempted from clean tree before list update); `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`; `gog gmail batch modify 19d5f4aaef5ac56d --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260406-000300-veille-ia.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-06 16:00:00 +0200
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context and synced repo with git pull --rebase before processing queued URLs.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-160000-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`; `git pull --rebase`.
+- outcome: success
+- next_step: Inspect `LIST.md`, process each URL sequentially, then create the batch recap and push.
+
+## 2026-04-06 16:00:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run` and updated queue state.
+- files_changed_or_commands: `src/2026-04/20260405-anthropics-1b-to-19b-growth-run.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
