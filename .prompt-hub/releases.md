@@ -1,3 +1,6 @@
+## 0.0.296 - 2026-04-06
+- Process article: Iran Strikes Leave Amazon Availability Zones “Hard Down” in Bahrain and Dubai.
+
 ## 0.0.295 - 2026-04-06
 - Process article: EP209: 12 Claude Code Features Every Engineer Should Know.
 
