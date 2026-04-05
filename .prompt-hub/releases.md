@@ -1,3 +1,6 @@
+## 0.0.304 - 2026-04-06
+- Add batch recap: 2026-04-06 160000; finalize scan-list run.
+
 ## 0.0.303 - 2026-04-06
 - Process article: The One-Person Unicorn.
 
