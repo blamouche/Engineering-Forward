@@ -1805,3 +1805,10 @@
 - files_changed_or_commands: `src/2026-04/20260403-how-to-design-for-human-agent-interaction.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-06 16:00:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://blog.bytebytego.com/p/ep209-12-claude-code-features-every` and updated queue state.
+- files_changed_or_commands: `src/2026-04/20260404-12-claude-code-features-every-engineer-should-know.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.

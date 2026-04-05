@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████ 92
+2026-04 | ███████████████████████████████ 93
 
 ## Articles
 
 ### 2026
 
-#### April (92 articles)
+#### April (93 articles)
+- [EP209: 12 Claude Code Features Every Engineer Should Know](src/2026-04/20260404-12-claude-code-features-every-engineer-should-know.md)
 - [How to Design for Human-agent Interaction](src/2026-04/20260403-how-to-design-for-human-agent-interaction.md)
 - [What I Learned Onboarding Our AI Project Manager](src/2026-04/20260331-what-i-learned-onboarding-our-ai-project-manager.md)
 - [Gemma 4: Byte for Byte, the Most Capable Open Models](src/2026-04/20260402-gemma-4-byte-for-byte-most-capable-open-models.md)

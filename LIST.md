@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/ep209-12-claude-code-features-every
 https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
 https://linas.substack.com/p/claudecodesource
 https://linas.substack.com/p/10-ai-prompt-skills
