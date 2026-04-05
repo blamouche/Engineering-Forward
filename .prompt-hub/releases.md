@@ -1,3 +1,6 @@
+## 0.0.290 - 2026-04-06
+- Process article: Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration.
+
 ## 0.0.289 - 2026-04-06
 - Process article: Gemma 4: Byte for Byte, the Most Capable Open Models.
 

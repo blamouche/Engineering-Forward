@@ -1,4 +1,3 @@
-https://every.to/vibe-check/cursor
 https://every.to/also-true-for-humans/seven-things-ive-learned-getting-companies-to-use-ai
 https://every.to/p/what-i-learned-onboarding-our-ai-project-manager
 https://every.to/context-window/if-saas-is-dead-linear-didnt-get-the-memo
