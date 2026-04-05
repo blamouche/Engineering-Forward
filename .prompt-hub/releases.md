@@ -1,3 +1,6 @@
+## 0.0.294 - 2026-04-06
+- Process article: How to Design for Human-agent Interaction.
+
 ## 0.0.293 - 2026-04-06
 - Process article error: https://every.to/context-window/if-saas-is-dead-linear-didnt-get-the-memo.
 
