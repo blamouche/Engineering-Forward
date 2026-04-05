@@ -1,3 +1,6 @@
+## 0.0.300 - 2026-04-06
+- Process article: Productize Yourself.
+
 ## 0.0.299 - 2026-04-06
 - Process article: The File That Turns Claude Code Into Your Best Engineer.
 
