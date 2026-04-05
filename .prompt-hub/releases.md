@@ -1,3 +1,6 @@
+## 0.0.285 - 2026-04-06
+- Initialize veille IA task log for daily cron run.
+
 ## 0.0.284 - 2026-04-05
 - Daily veille IA: extracted 10 AI/app-dev URLs from 6 Gmail messages, updated `LIST.md`, removed 0 non-relevant URLs, trashed processed emails, and restored clean repo flow before add-url sync.
 

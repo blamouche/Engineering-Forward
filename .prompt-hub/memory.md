@@ -1742,3 +1742,10 @@
 - files_changed_or_commands: `git pull --rebase`; `LIST.md`; `gog gmail batch modify 19d5da2c0baa66c6 19d5d84c2a6e8b45 19d591f816ef6094 19d54d888f9aea17 19d53fa07a69f033 19d53dcfae101f2a --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260405-220100-veille-ia.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-06 00:03:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context and checking repo/Gmail readiness.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-000300-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short`; `gog auth list`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`.
+- outcome: success
+- next_step: Commit tracking updates to restore a clean tree, then update `LIST.md` and trash processed Gmail messages.
