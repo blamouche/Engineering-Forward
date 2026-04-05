@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████ 90
+2026-04 | ███████████████████████████████ 91
 
 ## Articles
 
 ### 2026
 
-#### April (90 articles)
+#### April (91 articles)
+- [What I Learned Onboarding Our AI Project Manager](src/2026-04/20260331-what-i-learned-onboarding-our-ai-project-manager.md)
 - [Gemma 4: Byte for Byte, the Most Capable Open Models](src/2026-04/20260402-gemma-4-byte-for-byte-most-capable-open-models.md)
 - [House Rules for the Agents](src/2026-04/20260404-house-rules-for-the-agents.md)
 - [Anthropic’s $1B to $19B Growth Run](src/2026-04/20260405-anthropics-1b-to-19b-growth-run.md)

@@ -1,3 +1,6 @@
+## 0.0.292 - 2026-04-06
+- Process article: What I Learned Onboarding Our AI Project Manager.
+
 ## 0.0.291 - 2026-04-06
 - Process article error: https://every.to/also-true-for-humans/seven-things-ive-learned-getting-companies-to-use-ai.
 
