@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████ 89
+2026-04 | ██████████████████████████████ 90
 
 ## Articles
 
 ### 2026
 
-#### April (89 articles)
+#### April (90 articles)
+- [Gemma 4: Byte for Byte, the Most Capable Open Models](src/2026-04/20260402-gemma-4-byte-for-byte-most-capable-open-models.md)
 - [House Rules for the Agents](src/2026-04/20260404-house-rules-for-the-agents.md)
 - [Anthropic’s $1B to $19B Growth Run](src/2026-04/20260405-anthropics-1b-to-19b-growth-run.md)
 - [Developer's Guide to Building ADK Agents with Skills](src/2026-04/20260401-adk-agents-skills-google-progressive-disclosure.md)

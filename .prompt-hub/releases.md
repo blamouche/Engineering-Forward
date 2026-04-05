@@ -1,3 +1,6 @@
+## 0.0.289 - 2026-04-06
+- Process article: Gemma 4: Byte for Byte, the Most Capable Open Models.
+
 ## 0.0.288 - 2026-04-06
 - Process article: House Rules for the Agents.
 
