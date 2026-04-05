@@ -1,4 +1,3 @@
-https://every.to/context-window/house-rules-for-the-agents
 https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4
 https://every.to/vibe-check/cursor
 https://every.to/also-true-for-humans/seven-things-ive-learned-getting-companies-to-use-ai

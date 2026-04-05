@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████ 88
+2026-04 | ██████████████████████████████ 89
 
 ## Articles
 
 ### 2026
 
-#### April (88 articles)
+#### April (89 articles)
+- [House Rules for the Agents](src/2026-04/20260404-house-rules-for-the-agents.md)
 - [Anthropic’s $1B to $19B Growth Run](src/2026-04/20260405-anthropics-1b-to-19b-growth-run.md)
 - [Developer's Guide to Building ADK Agents with Skills](src/2026-04/20260401-adk-agents-skills-google-progressive-disclosure.md)
 - [Is Claude Code 5x Cheaper Than Cursor?](src/2026-04/20260331-claude-code-vs-cursor-pricing-agent-hours.md)

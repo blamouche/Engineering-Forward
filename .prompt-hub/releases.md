@@ -1,3 +1,6 @@
+## 0.0.288 - 2026-04-06
+- Process article: House Rules for the Agents.
+
 ## 0.0.287 - 2026-04-06
 - Process article: Anthropic’s $1B to $19B Growth Run.
 
