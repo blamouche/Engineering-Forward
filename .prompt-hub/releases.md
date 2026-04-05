@@ -1,3 +1,6 @@
+## 0.0.302 - 2026-04-06
+- Process article: Everything Anthropic Teaches Its Claude Certified Architects (Full Production Guide).
+
 ## 0.0.301 - 2026-04-06
 - Process article: Turn Claude Cowork Into Your Personal COO.
 
