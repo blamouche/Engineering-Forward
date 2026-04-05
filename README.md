@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████ 94
+2026-04 | ████████████████████████████████ 95
 
 ## Articles
 
 ### 2026
 
-#### April (94 articles)
+#### April (95 articles)
+- [Anthropic accidentally leaked Claude Code’s entire source](src/2026-04/20260404-anthropic-accidentally-leaked-claude-codes-entire-source.md)
 - [Iran Strikes Leave Amazon Availability Zones “Hard Down” in Bahrain and Dubai](src/2026-04/20260405-iran-strikes-leave-amazon-availability-zones-hard-down.md)
 - [EP209: 12 Claude Code Features Every Engineer Should Know](src/2026-04/20260404-12-claude-code-features-every-engineer-should-know.md)
 - [How to Design for Human-agent Interaction](src/2026-04/20260403-how-to-design-for-human-agent-interaction.md)

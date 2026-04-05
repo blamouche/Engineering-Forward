@@ -1,3 +1,6 @@
+## 0.0.297 - 2026-04-06
+- Process article: Anthropic accidentally leaked Claude Code’s entire source.
+
 ## 0.0.296 - 2026-04-06
 - Process article: Iran Strikes Leave Amazon Availability Zones “Hard Down” in Bahrain and Dubai.
 
