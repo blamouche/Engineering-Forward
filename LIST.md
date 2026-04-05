@@ -1,6 +1,6 @@
 https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
 https://every.to/context-window/house-rules-for-the-agents
-https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/
+https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4
 https://every.to/vibe-check/cursor
 https://every.to/also-true-for-humans/seven-things-ive-learned-getting-companies-to-use-ai
 https://every.to/p/what-i-learned-onboarding-our-ai-project-manager
@@ -8,3 +8,10 @@ https://every.to/context-window/if-saas-is-dead-linear-didnt-get-the-memo
 https://every.to/thesis/how-to-design-for-human-agent-interaction
 https://blog.bytebytego.com/p/ep209-12-claude-code-features-every
 https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability
+https://linas.substack.com/p/claudecodesource
+https://linas.substack.com/p/10-ai-prompt-skills
+https://linas.substack.com/p/claudemd
+https://linas.substack.com/p/productizeyourself
+https://linas.substack.com/p/claudecowork
+https://linas.substack.com/p/claudearchitect
+https://linas.substack.com/p/onepersonunicorn
