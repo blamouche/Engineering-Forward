@@ -1,3 +1,6 @@
+## 0.0.338 - 2026-04-06
+- Process article error: https://www.chatprd.ai/how-i-ai/workflows/how-to-use-ai-to-answer-customer-questions-from-your-entire-codebase.
+
 ## 0.0.337 - 2026-04-06
 - Process article error: https://www.chatprd.ai/how-i-ai/workflows/automatically-create-a-knowledge-base-from-slack-support-threads.
 
