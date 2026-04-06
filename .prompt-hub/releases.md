@@ -1,3 +1,6 @@
+## 0.0.311 - 2026-04-06
+- Initialize veille IA task log for daily cron run.
+
 ## 0.0.310 - 2026-04-06
 - Daily veille IA: no Gmail messages found in label `0---veille-ia`; `LIST.md` unchanged; 0 URLs added, 0 URLs removed, and 0 emails trashed; logged the no-op run.
 
