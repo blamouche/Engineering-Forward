@@ -1,3 +1,6 @@
+## 0.0.324 - 2026-04-06
+- Process article: Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage.
+
 ## 0.0.320 - 2026-04-06
 - Add batch recap: 2026-04-06 15:02:40; finalize scan-list run.
 

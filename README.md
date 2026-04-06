@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████ 103
+2026-04 | ███████████████████████████████████ 104
 
 ## Articles
 
 ### 2026
 
-#### April (103 articles)
+#### April (104 articles)
+- [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage](src/2026-04/20260404-anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support.md)
 - [Skill Graphs: Fix Your AI Agent's Context Problem](src/2026-04/20260406-skill-graphs-fix-your-ai-agents-context-problem.md)
 - [Why domain specific LLMs won’t exist: an intuition](src/2026-04/20260404-why-domain-specific-llms-wont-exist.md)
 - [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](src/2026-04/20260406-elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions.md)

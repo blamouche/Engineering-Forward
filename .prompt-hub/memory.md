@@ -1973,3 +1973,17 @@
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit `LIST.md` + task logs, push, and verify `HEAD:LIST.md` contains each new URL.
 
+
+## 2026-04-06 18:06:38 +0200
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context and confirming LIST.md contains queued URLs for sequential processing.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-180638-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `LIST.md`; `git pull --rebase`.
+- outcome: success
+- next_step: Process each queued URL, create per-article commits, then create/verify batch recap and push.
+
+## 2026-04-06 18:06:38 +0200
+- actor: agent
+- action: Processed scan-list URL `https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support` and created a synthesis file.
+- files_changed_or_commands: ``src/2026-04/20260404-anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md``.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
