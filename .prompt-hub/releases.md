@@ -1,3 +1,6 @@
+## 0.0.316 - 2026-04-06
+- Process article: Non-Determinism Isn't a Bug. It's Tuesday : Why Product Managers Were Built for AI (They Just Don't Know It Yet).
+
 ## 0.0.315 - 2026-04-06
 - Process article: How Claude Code Builds a System Prompt.
 
