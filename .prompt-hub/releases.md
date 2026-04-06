@@ -1,3 +1,6 @@
+## 0.0.305 - 2026-04-06
+- Daily veille IA: no Gmail messages found; committed pending local prompt-hub files to restore a clean repo state.
+
 ## 0.0.304 - 2026-04-06
 - Add batch recap: 2026-04-06 160000; finalize scan-list run.
 
