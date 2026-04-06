@@ -1966,3 +1966,10 @@
 - outcome: success
 - next_step: Commit tracking files to restore a clean tree, then sync repo, update `LIST.md`, and trash processed emails.
 
+## 2026-04-06 18:10:00 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean repo state, synced with origin, added 6 AI/app-dev URLs to `LIST.md` after dedupe, removed 0 URLs from the queue, and trashed 3 processed Gmail messages.
+- files_changed_or_commands: `git add -A`; `git commit -m "Initialize veille IA task log"`; `git push`; `git stash push -u -m "pre-veille-ia-20260406-1802"`; `git pull --rebase origin main`; `git stash pop`; `LIST.md`; `gog gmail batch modify 19d636ca98a1efe1 19d635416efbe7c6 19d6350029ef48ca --add TRASH --no-input --force`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit `LIST.md` + task logs, push, and verify `HEAD:LIST.md` contains each new URL.
+

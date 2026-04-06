@@ -8,3 +8,9 @@ https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-e
 https://docs.openclaw.ai/concepts/dreaming
 https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 https://www.theunwindai.com/p/karpathy-s-autoresearch-for-agent-engineering
+https://blog.bytebytego.com/p/a-guide-to-context-engineering-for
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude
+https://www.chatprd.ai/how-i-ai/claude-code-and-repos-to-answer-any-customer-question
+https://www.chatprd.ai/how-i-ai/workflows/automatically-create-a-knowledge-base-from-slack-support-threads
+https://www.chatprd.ai/how-i-ai/workflows/how-to-use-ai-to-answer-customer-questions-from-your-entire-codebase
+https://every.to/working-overtime/writing-with-ai-is-harder-than-you-think
