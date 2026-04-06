@@ -28,7 +28,7 @@ Articles per month:
 
 ### 2026
 
-#### April (1 article)
+#### April (103 articles)
 - [Skill Graphs: Fix Your AI Agent's Context Problem](src/2026-04/20260406-skill-graphs-fix-your-ai-agents-context-problem.md)
 - [Why domain specific LLMs won’t exist: an intuition](src/2026-04/20260404-why-domain-specific-llms-wont-exist.md)
 - [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](src/2026-04/20260406-elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions.md)
@@ -757,7 +757,7 @@ Articles per month:
 
 ### 2025
 
-#### December (2 articles)
+#### December (1 article)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
@@ -776,7 +776,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (1 article)
+#### May (2 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
@@ -791,7 +791,7 @@ Articles per month:
 #### June (1 article)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 
-#### December (2 articles)
+#### December (1 article)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
 ### 2022

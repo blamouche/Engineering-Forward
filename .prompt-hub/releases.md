@@ -1,3 +1,6 @@
+## 0.0.320 - 2026-04-06
+- Add batch recap: 2026-04-06 15:02:40; finalize scan-list run.
+
 ## 0.0.319 - 2026-04-06
 - Process article: Skill Graphs: Fix Your AI Agent's Context Problem.
 
