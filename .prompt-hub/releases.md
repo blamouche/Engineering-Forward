@@ -1,3 +1,6 @@
+## 0.0.337 - 2026-04-06
+- Process article error: https://www.chatprd.ai/how-i-ai/workflows/automatically-create-a-knowledge-base-from-slack-support-threads.
+
 ## 0.0.336 - 2026-04-06
 - Process article: How Al Chen Uses Claude Code and 15 Repos to Answer Any Customer Question.
 
