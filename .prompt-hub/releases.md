@@ -1,3 +1,6 @@
+## 0.0.339 - 2026-04-06
+- Process article: Writing With AI is Harder Than You Think.
+
 ## 0.0.338 - 2026-04-06
 - Process article error: https://www.chatprd.ai/how-i-ai/workflows/how-to-use-ai-to-answer-customer-questions-from-your-entire-codebase.
 
