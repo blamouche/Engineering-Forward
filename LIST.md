@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/karpathy-s-autoresearch-for-agent-engineering
 https://blog.bytebytego.com/p/a-guide-to-context-engineering-for
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude
 https://www.chatprd.ai/how-i-ai/claude-code-and-repos-to-answer-any-customer-question

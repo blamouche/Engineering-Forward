@@ -1,3 +1,6 @@
+## 0.0.333 - 2026-04-06
+- Process article: Karpathy’s Autoresearch for Agent Engineering.
+
 ## 0.0.332 - 2026-04-06
 - Process article: How we built a virtual filesystem for our Assistant.
 
