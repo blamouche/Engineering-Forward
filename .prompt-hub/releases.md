@@ -1,3 +1,6 @@
+## 0.0.307 - 2026-04-06
+- Daily veille IA: no Gmail messages found in label `0---veille-ia`; `LIST.md` unchanged; no URLs added or removed; no emails trashed; committed and pushed task tracking to restore a clean repo state.
+
 ## 0.0.306 - 2026-04-06
 - Daily veille IA: no Gmail messages found; `LIST.md` unchanged; no emails trashed; updated and pushed prompt-hub task logs.
 
