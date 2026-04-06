@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████ 115
+2026-04 | ███████████████████████████████████████ 116
 
 ## Articles
 
 ### 2026
 
-#### April (115 articles)
+#### April (116 articles)
+- [How Al Chen Uses Claude Code and 15 Repos to Answer Any Customer Question](src/2026-04/20260406-claude-code-and-repos-to-answer-any-customer-question.md)
 - [This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.](src/2026-04/20260406-this-week-on-how-i-ai-i-gave-claude-our-entire-codebase.md)
 - [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
 - [Karpathy’s Autoresearch for Agent Engineering](src/2026-04/20260406-karpathys-autoresearch-for-agent-engineering.md)

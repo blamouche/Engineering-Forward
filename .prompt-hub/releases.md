@@ -1,3 +1,6 @@
+## 0.0.336 - 2026-04-06
+- Process article: How Al Chen Uses Claude Code and 15 Repos to Answer Any Customer Question.
+
 ## 0.0.335 - 2026-04-06
 - Process article: This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed..
 
