@@ -1882,3 +1882,17 @@
 - files_changed_or_commands: `.prompt-hub/todo/scan_list_runner.py`; `.prompt-hub/todo/todo-20260406-160000-scan-list.md`; `.prompt-hub/todo/todo-20260406-020214-veille-ia.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `git add -A`; `git commit`; `git pull --rebase`; `git push`.
 - outcome: success
 - next_step: none
+
+## 2026-04-06 04:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context for daily cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-040100-daily-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Search Gmail label, update LIST.md if needed, then finalize repo metadata.
+
+## 2026-04-06 04:02:00 +0200
+- actor: agent
+- action: Veille IA run: Gmail label returned 0 messages; LIST.md unchanged; no emails trashed.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`; `.prompt-hub/todo/todo-20260406-040100-daily-veille-ia.md`.
+- outcome: success
+- next_step: Bump prompt-hub version/releases, commit, and push logs.

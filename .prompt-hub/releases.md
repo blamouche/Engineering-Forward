@@ -1,3 +1,6 @@
+## 0.0.306 - 2026-04-06
+- Daily veille IA: no Gmail messages found; `LIST.md` unchanged; no emails trashed; updated and pushed prompt-hub task logs.
+
 ## 0.0.305 - 2026-04-06
 - Daily veille IA: no Gmail messages found; committed pending local prompt-hub files to restore a clean repo state.
 
