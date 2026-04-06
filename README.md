@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████ 114
+2026-04 | ███████████████████████████████████████ 115
 
 ## Articles
 
 ### 2026
 
-#### April (114 articles)
+#### April (115 articles)
+- [This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.](src/2026-04/20260406-this-week-on-how-i-ai-i-gave-claude-our-entire-codebase.md)
 - [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
 - [Karpathy’s Autoresearch for Agent Engineering](src/2026-04/20260406-karpathys-autoresearch-for-agent-engineering.md)
 - [How we built a virtual filesystem for our Assistant](src/2026-04/20260406-how-we-built-a-virtual-filesystem-for-our-assistant.md)
