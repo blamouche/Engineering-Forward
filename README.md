@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████████ 107
+2026-04 | ████████████████████████████████████ 108
 
 ## Articles
 
 ### 2026
 
-#### April (107 articles)
+#### April (108 articles)
+- [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [A Taxonomy of RL Environments for LLM Agents](src/2026-04/20260321-taxonomy-of-rl-environments-for-llm-agents.md)
 - [Continual learning for AI agents](src/2026-04/20260406-continual-learning-for-ai-agents.md)
 - [Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports](src/2026-04/20260403-anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports.md)

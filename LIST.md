@@ -1,4 +1,3 @@
-https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 https://david.coffee/i-still-prefer-mcp-over-skills
 https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4
 https://docs.openclaw.ai/concepts/dreaming
