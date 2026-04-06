@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████ 97
+2026-04 | █████████████████████████████████ 98
 
 ## Articles
 
 ### 2026
 
 #### April (1 article)
+- [Eight years of wanting, three months of building with AI](src/2026-04/20260406-eight-years-of-wanting-three-months-of-building-with-ai.md)
 - [Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming](src/2026-04/20260405-apple-approves-egpu-drivers-for-ai-on-mac.md)
 - [Productize Yourself](src/2026-04/20260404-productize-yourself.md)
 - [Anthropic accidentally leaked Claude Code’s entire source](src/2026-04/20260404-anthropic-accidentally-leaked-claude-codes-entire-source.md)

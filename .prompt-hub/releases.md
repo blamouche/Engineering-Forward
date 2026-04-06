@@ -1,3 +1,6 @@
+## 0.0.314 - 2026-04-06
+- Process article: Eight years of wanting, three months of building with AI.
+
 ## 0.0.313 - 2026-04-06
 - Process article: Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming.
 
