@@ -1,3 +1,6 @@
+## 0.0.325 - 2026-04-06
+- Process article: Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports.
+
 ## 0.0.324 - 2026-04-06
 - Process article: Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage.
 
