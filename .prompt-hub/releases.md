@@ -1,3 +1,6 @@
+## 0.0.332 - 2026-04-06
+- Process article: How we built a virtual filesystem for our Assistant.
+
 ## 0.0.331 - 2026-04-06
 - Process article: Dreaming (experimental).
 

@@ -1,4 +1,3 @@
-https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 https://www.theunwindai.com/p/karpathy-s-autoresearch-for-agent-engineering
 https://blog.bytebytego.com/p/a-guide-to-context-engineering-for
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-i-gave-claude
