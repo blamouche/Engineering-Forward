@@ -1,3 +1,6 @@
+## 0.0.326 - 2026-04-06
+- Process article: Continual learning for AI agents.
+
 ## 0.0.325 - 2026-04-06
 - Process article: Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports.
 
