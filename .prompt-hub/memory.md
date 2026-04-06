@@ -1,5 +1,19 @@
 # Memory Log
 
+## 2026-04-06 10:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for scheduled cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-100100-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Search Gmail label, inspect `LIST.md`, and finalize logs.
+
+## 2026-04-06 10:02:00 +0200
+- actor: agent
+- action: Veille IA run: Gmail label returned 0 messages; `LIST.md` was already empty after sync; no URLs added or removed; no emails trashed.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --no-input`; `git pull --rebase`; `LIST.md` (empty check).
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, and push.
+
 ## 2026-04-03 17:08:00
 - actor: agent
 - action: scan-list run: processed 69 URLs, created 57 synthesis files in src/2026-04/, updated README April section to 89 articles, emptied LIST.md, created batch recap synthesis/2026-04-03 - 170800 - batch recap.md
