@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████ 102
+2026-04 | ███████████████████████████████████ 103
 
 ## Articles
 
 ### 2026
 
 #### April (1 article)
+- [Skill Graphs: Fix Your AI Agent's Context Problem](src/2026-04/20260406-skill-graphs-fix-your-ai-agents-context-problem.md)
 - [Why domain specific LLMs won’t exist: an intuition](src/2026-04/20260404-why-domain-specific-llms-wont-exist.md)
 - [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](src/2026-04/20260406-elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions.md)
 - [Non-Determinism Isn't a Bug. It's Tuesday : Why Product Managers Were Built for AI (They Just Don't Know It Yet)](src/2026-04/20260406-why-product-managers-are-built-for-ai.md)
