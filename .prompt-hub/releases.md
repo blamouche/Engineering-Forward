@@ -1,3 +1,6 @@
+## 0.0.341 - 2026-04-06
+- Daily veille IA: no Gmail messages found in label `0---veille-ia`; 0 URLs added, 0 URLs removed, 0 emails trashed; committed and pushed pending local repo changes to restore a clean synced state.
+
 ## 0.0.340 - 2026-04-06
 - Add batch recap: 2026-04-06 180638; finalize scan-list run.
 

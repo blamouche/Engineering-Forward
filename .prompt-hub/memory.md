@@ -2099,3 +2099,18 @@
 - files_changed_or_commands: ``synthesis/2026-04-06 - 180638 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md``.
 - outcome: success
 - next_step: Push all committed scan-list changes.
+
+## 2026-04-06 20:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task log for scheduled cron run after loading prompt-hub context and checking Gmail label `0---veille-ia`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-200100-veille-ia.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json`.
+- outcome: success
+- next_step: Restore a clean synced repo state if local pending changes exist, then finalize no-op veille IA run.
+
+## 2026-04-06 20:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: no Gmail messages found in label `0---veille-ia`; no URLs extracted, added, or removed; committing pending local repo changes to restore a clean synced state.
+- files_changed_or_commands: `git status --short --branch`; `.prompt-hub/todo/todo-20260406-200100-veille-ia.md`.
+- outcome: success
+- next_step: Bump prompt-hub version/releases, commit all local changes, and push.
+
