@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████ 113
+2026-04 | ██████████████████████████████████████ 114
 
 ## Articles
 
 ### 2026
 
-#### April (113 articles)
+#### April (114 articles)
+- [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
 - [Karpathy’s Autoresearch for Agent Engineering](src/2026-04/20260406-karpathys-autoresearch-for-agent-engineering.md)
 - [How we built a virtual filesystem for our Assistant](src/2026-04/20260406-how-we-built-a-virtual-filesystem-for-our-assistant.md)
 - [Dreaming (experimental)](src/2026-04/20260406-dreaming-experimental.md)
