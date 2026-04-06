@@ -1959,3 +1959,10 @@
 - outcome: success
 - next_step: Trash processed Gmail messages, commit, and push.
 
+## 2026-04-06 18:02:00 +0200
+- actor: agent
+- action: Initialized daily veille IA task, inspected repo status, and searched Gmail label `0---veille-ia`; found 3 messages with candidate AI/app-dev article URLs.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260406-180200-veille-ia.md`; `git status --short`; `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`.
+- outcome: success
+- next_step: Commit tracking files to restore a clean tree, then sync repo, update `LIST.md`, and trash processed emails.
+
