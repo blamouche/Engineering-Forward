@@ -1938,3 +1938,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260406-140210-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Search Gmail label, inspect `LIST.md`, and finalize logs.
+
+## 2026-04-06 14:03:30 +0200
+- actor: agent
+- action: Veille IA run: extracted 7 relevant AI/app-dev URLs from 2 Gmail messages, updated `LIST.md` after clean sync/dedupe, and trashed the processed emails.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `LIST.md`; `git pull --rebase origin main`; `gog gmail batch modify <messageIds> --add TRASH`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, and push final task logs.
