@@ -1,3 +1,6 @@
+## 0.0.343 - 2026-04-07
+- Daily veille IA: no Gmail messages found in label `0---veille-ia`; repo already clean/synced; `LIST.md` unchanged; 0 URLs added, 0 URLs removed, and 0 emails trashed.
+
 ## 0.0.342 - 2026-04-06
 - Log scan-list run (LIST.md empty).
 
