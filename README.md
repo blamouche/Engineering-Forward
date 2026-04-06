@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████ 100
+2026-04 | ██████████████████████████████████ 101
 
 ## Articles
 
 ### 2026
 
 #### April (1 article)
+- [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](src/2026-04/20260406-elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions.md)
 - [Non-Determinism Isn't a Bug. It's Tuesday : Why Product Managers Were Built for AI (They Just Don't Know It Yet)](src/2026-04/20260406-why-product-managers-are-built-for-ai.md)
 - [How Claude Code Builds a System Prompt](src/2026-04/20260404-how-claude-code-builds-a-system-prompt.md)
 - [Eight years of wanting, three months of building with AI](src/2026-04/20260406-eight-years-of-wanting-three-months-of-building-with-ai.md)

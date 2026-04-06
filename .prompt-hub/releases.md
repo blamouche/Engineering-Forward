@@ -1,3 +1,6 @@
+## 0.0.317 - 2026-04-06
+- Process article: Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions.
+
 ## 0.0.316 - 2026-04-06
 - Process article: Non-Determinism Isn't a Bug. It's Tuesday : Why Product Managers Were Built for AI (They Just Don't Know It Yet).
 
