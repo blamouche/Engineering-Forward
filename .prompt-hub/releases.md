@@ -1,3 +1,6 @@
+## 0.0.327 - 2026-04-06
+- Process article: A Taxonomy of RL Environments for LLM Agents.
+
 ## 0.0.326 - 2026-04-06
 - Process article: Continual learning for AI agents.
 
