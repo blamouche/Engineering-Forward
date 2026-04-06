@@ -1,3 +1,6 @@
+## 0.0.318 - 2026-04-06
+- Process article: Why domain specific LLMs won’t exist: an intuition.
+
 ## 0.0.317 - 2026-04-06
 - Process article: Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions.
 
