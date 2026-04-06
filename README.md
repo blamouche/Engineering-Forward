@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████ 96
+2026-04 | █████████████████████████████████ 97
 
 ## Articles
 
 ### 2026
 
-#### April (96 articles)
+#### April (1 article)
+- [Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming](src/2026-04/20260405-apple-approves-egpu-drivers-for-ai-on-mac.md)
 - [Productize Yourself](src/2026-04/20260404-productize-yourself.md)
 - [Anthropic accidentally leaked Claude Code’s entire source](src/2026-04/20260404-anthropic-accidentally-leaked-claude-codes-entire-source.md)
 - [Iran Strikes Leave Amazon Availability Zones “Hard Down” in Bahrain and Dubai](src/2026-04/20260405-iran-strikes-leave-amazon-availability-zones-hard-down.md)
@@ -750,7 +751,7 @@ Articles per month:
 
 ### 2025
 
-#### December (1 article)
+#### December (2 articles)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
@@ -769,7 +770,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (2 articles)
+#### May (1 article)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
@@ -784,7 +785,7 @@ Articles per month:
 #### June (1 article)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 
-#### December (1 article)
+#### December (2 articles)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
 ### 2022

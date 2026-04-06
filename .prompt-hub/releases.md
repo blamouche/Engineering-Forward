@@ -1,3 +1,6 @@
+## 0.0.313 - 2026-04-06
+- Process article: Apple approves drivers that let AMD and Nvidia eGPUs run on Mac — software designed for AI, though, and not built for gaming.
+
 ## 0.0.312 - 2026-04-06
 - Daily veille IA: extracted 7 AI/app-dev URLs from 2 Gmail messages, updated `LIST.md` (7 URLs total after dedupe), removed 0 non-relevant URLs, and trashed 2 processed emails.
 
