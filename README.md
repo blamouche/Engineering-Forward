@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████ 110
+2026-04 | █████████████████████████████████████ 111
 
 ## Articles
 
 ### 2026
 
-#### April (110 articles)
+#### April (111 articles)
+- [Dreaming (experimental)](src/2026-04/20260406-dreaming-experimental.md)
 - [Bring state-of-the-art agentic skills to the edge with Gemma 4](src/2026-04/20260402-bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4.md)
 - [I Still Prefer MCP Over Skills](src/2026-04/20260406-i-still-prefer-mcp-over-skills.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
