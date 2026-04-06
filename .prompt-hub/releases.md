@@ -1,3 +1,6 @@
+## 0.0.330 - 2026-04-06
+- Process article: Bring state-of-the-art agentic skills to the edge with Gemma 4.
+
 ## 0.0.329 - 2026-04-06
 - Process article: I Still Prefer MCP Over Skills.
 

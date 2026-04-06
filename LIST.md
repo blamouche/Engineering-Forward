@@ -1,4 +1,3 @@
-https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4
 https://docs.openclaw.ai/concepts/dreaming
 https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
 https://www.theunwindai.com/p/karpathy-s-autoresearch-for-agent-engineering
