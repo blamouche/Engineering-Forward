@@ -978,3 +978,6 @@
 
 ## 0.0.281 - 2026-04-04
 - Daily veille IA cron (14:01): gog OAuth token expired again; run failed; memory logged.
+## 0.0.321 - 2026-04-06
+- Daily veille IA: extracted 10 AI/app-dev URLs from 2 Gmail messages, updated `LIST.md` (10 new after dedupe), removed 0 non-relevant URLs, and trashed 2 processed emails.
+

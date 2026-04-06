@@ -1,0 +1,10 @@
+https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support
+https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports
+https://blog.langchain.com/continual-learning-for-ai-agents
+https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents
+https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+https://david.coffee/i-still-prefer-mcp-over-skills
+https://developers.googleblog.com/bring-state-of-the-art-agentic-skills-to-the-edge-with-gemma-4
+https://docs.openclaw.ai/concepts/dreaming
+https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant
+https://www.theunwindai.com/p/karpathy-s-autoresearch-for-agent-engineering

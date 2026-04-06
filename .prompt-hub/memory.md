@@ -1952,3 +1952,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `LIST.md`; `git pull --rebase origin main`; `gog gmail batch modify <messageIds> --add TRASH`.
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, and push final task logs.
+## 2026-04-06 16:02:21 +0200
+- actor: agent
+- action: Daily veille IA run: extracted article URLs from 2 Gmail messages, normalized/deduped them into `LIST.md`, removed 0 non-relevant URLs from the queue, and prepared Gmail trash + git sync.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/todo/todo-20260406-160221-veille-ia.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Trash processed Gmail messages, commit, and push.
+
