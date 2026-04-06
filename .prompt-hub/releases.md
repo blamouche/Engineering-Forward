@@ -1,3 +1,6 @@
+## 0.0.340 - 2026-04-06
+- Add batch recap: 2026-04-06 180638; finalize scan-list run.
+
 ## 0.0.339 - 2026-04-06
 - Process article: Writing With AI is Harder Than You Think.
 
