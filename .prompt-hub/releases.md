@@ -1,3 +1,6 @@
+## 0.0.329 - 2026-04-06
+- Process article: I Still Prefer MCP Over Skills.
+
 ## 0.0.328 - 2026-04-06
 - Process article: llm-wiki.
 
