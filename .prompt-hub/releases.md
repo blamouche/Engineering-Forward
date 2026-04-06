@@ -1,3 +1,6 @@
+## 0.0.315 - 2026-04-06
+- Process article: How Claude Code Builds a System Prompt.
+
 ## 0.0.314 - 2026-04-06
 - Process article: Eight years of wanting, three months of building with AI.
 
