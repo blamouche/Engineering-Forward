@@ -1,3 +1,6 @@
+## 0.0.352 - 2026-04-07
+- Process article: Exclusive: Nvidia challenger Arago tapes out first chip in a milestone move for semiconductor startup.
+
 ## 0.0.351 - 2026-04-07
 - Process article: Why women aren't ‘missing’ the AI train.
 

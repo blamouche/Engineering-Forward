@@ -29,6 +29,7 @@ Articles per month:
 ### 2026
 
 #### April (120 articles)
+- [Exclusive: Nvidia challenger Arago tapes out first chip in a milestone move for semiconductor startup](src/2026-04/20260407-arago-tapes-out-first-chip-globalfoundries.md)
 - [Why women aren't ‘missing’ the AI train](src/2026-04/20260407-why-women-are-not-missing-the-ai-train.md)
 - [Writing With AI is Harder Than You Think](src/2026-04/20260406-writing-with-ai-is-harder-than-you-think.md)
 - [How Al Chen Uses Claude Code and 15 Repos to Answer Any Customer Question](src/2026-04/20260406-claude-code-and-repos-to-answer-any-customer-question.md)
