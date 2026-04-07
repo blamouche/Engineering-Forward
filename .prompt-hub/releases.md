@@ -1,3 +1,6 @@
+## 0.0.366 - 2026-04-07
+- Process article: Turn Claude Cowork Into Your Personal COO
+
 ## 0.0.365 - 2026-04-07
 - Process article: Turn Claude in Excel Into Your Senior Financial Analyst
 
