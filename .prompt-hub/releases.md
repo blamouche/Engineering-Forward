@@ -1,3 +1,6 @@
+## 0.0.367 - 2026-04-07
+- Process article: The File That Turns Claude Code Into Your Best Engineer
+
 ## 0.0.366 - 2026-04-07
 - Process article: Turn Claude Cowork Into Your Personal COO
 
