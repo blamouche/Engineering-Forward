@@ -2390,3 +2390,11 @@
 - files_changed_or_commands: `synthesis/2026-04-07 - 180429 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all committed scan-list changes.
+
+## 2026-04-07 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 5 AI/app-dev URLs from Gmail label `0---veille-ia`, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and prepared 2 processed email(s) for trash.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 200 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d68c77b1cb532c 19d68f681724cc5b --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none
+
