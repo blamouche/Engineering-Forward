@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████████████████ 148<br>
+2026-04 | ██████████████████████████████████████████████████ 149<br>
 
 ## Articles
 
 ### 2026
 
-#### April (148 articles)
+#### April (149 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -112,6 +112,7 @@ Articles per month:
 - [House Rules for the Agents](src/2026-04/20260404-house-rules-for-the-agents.md)
 - [Highlights from My Conversation About Agentic Engineering on Lenny's Podcast](src/2026-04/20260402-highlights-agentic-engineering-lennys-podcast.md)
 - [Head of Claude Code: What Happens After Coding Is Solved | Boris Cherny](src/2026-04/20260403-head-of-claude-code-what-happens-after-coding-is-solved.md)
+- [Google AI Edge Gallery](src/2026-04/20260406-google-ai-edge-gallery.md)
 - [Generalization Results from Training on the APEX-Agents Dev Set](src/2026-04/20260403-generalization-results-from-training-on-apex-agents-dev-set.md)
 - [Gemma 4: Byte for Byte, the Most Capable Open Models](src/2026-04/20260402-gemma-4-google-deepmind-open-models.md)
 - [Gemma 4: Byte for Byte, the Most Capable Open Models](src/2026-04/20260402-gemma-4-byte-for-byte-most-capable-open-models.md)
