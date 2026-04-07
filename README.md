@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████████ 160
+2026-04 | ██████████████████████████████████████████████████████ 161
 
 ## Articles
 
 ### 2026
 
-#### April (160 articles)
+#### April (161 articles)
+- [OpenAI asks California, Delaware to investigate Musk’s anti-competitive behavior ahead of April trial](src/2026-04/20260406-openai-asks-ags-to-investigate-musk.md)
 - [Google quietly launched an AI dictation app that works offline](src/2026-04/20260406-google-ai-edge-eloquent-offline-dictation-ios.md)
 - [Introducing the OpenAI Safety Fellowship](src/2026-04/20260407-openai-safety-fellowship.md)
 - [AI Is Becoming an Operating System Layer](src/2026-04/20260406-ai-is-becoming-an-operating-system-layer.md)

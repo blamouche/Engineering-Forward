@@ -1,3 +1,6 @@
+## 0.0.384 - 2026-04-07
+- Process article: OpenAI asks California, Delaware to investigate Musk’s anti-competitive behavior ahead of April trial.
+
 ## 0.0.383 - 2026-04-07
 - Process article: Google quietly launched an AI dictation app that works offline.
 
