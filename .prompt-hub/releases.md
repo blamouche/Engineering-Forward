@@ -1,3 +1,6 @@
+## 0.0.391 - 2026-04-07
+- Process article: OpenAI raises $122 billion to accelerate the next phase of AI.
+
 ## 0.0.390 - 2026-04-07
 - Process article: Your Best AI Strategy Starts at the Top.
 
