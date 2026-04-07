@@ -1,3 +1,6 @@
+## 0.0.389 - 2026-04-07
+- Process article: Get Your Hands Dirty.
+
 ## 0.0.388 - 2026-04-07
 - Daily veille IA: extracted 5 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
 

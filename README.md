@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████████ 163
+2026-04 | ███████████████████████████████████████████████████████ 164
 
 ## Articles
 
 ### 2026
 
-#### April (163 articles)
+#### April (164 articles)
+- [Get Your Hands Dirty](src/2026-04/20260407-get-your-hands-dirty.md)
 - [OpenAI President Greg Brockman: Doubling Down on Text Models, The Superapp Plan, Codex’s Potential](src/2026-04/20260407-greg-brockman-text-models-superapp-codex.md)
 - [Nextdoor’s Database Evolution: A Scaling Ladder](src/2026-04/20260407-nextdoor-database-evolution-scaling-ladder.md)
 - [OpenAI asks California, Delaware to investigate Musk’s anti-competitive behavior ahead of April trial](src/2026-04/20260406-openai-asks-ags-to-investigate-musk.md)
