@@ -1,3 +1,6 @@
+## 0.0.360 - 2026-04-07
+- Process article: 58% of PRs in our largest monorepo merge without human review
+
 ## 0.0.359 - 2026-04-07
 - Process article: OpenAI’s Altman and Friar reportedly disagree on IPO timing and AI compute spending commitments
 

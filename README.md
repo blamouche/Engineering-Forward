@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████████████████ 146<br>
+2026-04 | █████████████████████████████████████████████████ 147<br>
 
 ## Articles
 
 ### 2026
 
-#### April (146 articles)
+#### April (147 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -174,6 +174,7 @@ Articles per month:
 - [A Mirror Test for LLMs](src/2026-04/20260403-mirror-test-for-llms.md)
 - [A Mirror Test for LLMs](src/2026-04/20260403-mirror-test-for-llms-lesswrong.md)
 - [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
+- [58% of PRs in our largest monorepo merge without human review](src/2026-04/20260406-58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review.md)
 - [10 AI Prompt Skills That Actually Change How ChatGPT, Claude, and Gemini Respond](src/2026-04/20260403-10-ai-prompt-skills-linas-beliunas.md)
 #### March (369 articles)
 - [From skeptic to true believer: How OpenClaw changed my life | Claire Vo](src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md)
