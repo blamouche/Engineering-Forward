@@ -1065,3 +1065,6 @@
 
 ## 0.0.349 - 2026-04-07
 - Daily veille IA: extracted 0 AI/app-dev URL(s) from 1 Gmail message, updated LIST.md (0 URLs total after dedupe), removed 0 non-relevant URLs, and trashed 1 processed email thread(s).
+
+## 0.0.350 - 2026-04-07
+- Daily veille IA correction: added 3 filtered Sifted AI/app-dev tracking URLs to LIST.md after parsing the trashed newsletter thread; kept 0 removals; 1 email thread already trashed.
