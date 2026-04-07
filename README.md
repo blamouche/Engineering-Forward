@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████████ 164
+2026-04 | ███████████████████████████████████████████████████████ 165
 
 ## Articles
 
 ### 2026
 
-#### April (164 articles)
+#### April (165 articles)
+- [Your Best AI Strategy Starts at the Top](src/2026-04/20260407-your-best-ai-strategy-starts-at-the-top.md)
 - [Get Your Hands Dirty](src/2026-04/20260407-get-your-hands-dirty.md)
 - [OpenAI President Greg Brockman: Doubling Down on Text Models, The Superapp Plan, Codex’s Potential](src/2026-04/20260407-greg-brockman-text-models-superapp-codex.md)
 - [Nextdoor’s Database Evolution: A Scaling Ladder](src/2026-04/20260407-nextdoor-database-evolution-scaling-ladder.md)

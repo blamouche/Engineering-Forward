@@ -1,3 +1,6 @@
+## 0.0.390 - 2026-04-07
+- Process article: Your Best AI Strategy Starts at the Top.
+
 ## 0.0.389 - 2026-04-07
 - Process article: Get Your Hands Dirty.
 
