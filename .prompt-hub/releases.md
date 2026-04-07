@@ -1,3 +1,6 @@
+## 0.0.387 - 2026-04-07
+- Add batch recap: 2026-04-07 180429; finalize scan-list run.
+
 ## 0.0.386 - 2026-04-07
 - Process article: OpenAI President Greg Brockman: Doubling Down on Text Models, The Superapp Plan, Codex’s Potential.
 
