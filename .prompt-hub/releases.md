@@ -1,3 +1,6 @@
+## 0.0.380 - 2026-04-07
+- Process article: GitNexus: The Zero-Server Code Intelligence Engine.
+
 ## 0.0.379 - 2026-04-07
 - Process article: OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford.
 
