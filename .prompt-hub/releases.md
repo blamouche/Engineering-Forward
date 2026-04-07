@@ -1,3 +1,6 @@
+## 0.0.365 - 2026-04-07
+- Process article: Turn Claude in Excel Into Your Senior Financial Analyst
+
 ## 0.0.364 - 2026-04-07
 - Process article: What next for the compute crunch?
 
