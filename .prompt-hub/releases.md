@@ -1,3 +1,6 @@
+## 0.0.378 - 2026-04-07
+- Process article error: https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i.
+
 ## 0.0.377 - 2026-04-07
 - Process article: Report: Some of Meta’s new AI models will eventually be open-source.
 

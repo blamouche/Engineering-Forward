@@ -1,4 +1,3 @@
-https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i
 https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford
 https://github.com/abhigyanpatwari/GitNexus
 https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer
