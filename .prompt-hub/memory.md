@@ -2271,3 +2271,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `LIST.md`; `git pull --rebase origin main`; `gog gmail batch modify 19d681b8c90301e2 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260407-160333-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-07 16:04:29 +0200
+- actor: agent
+- action: Daily veille IA correction: recovered 11 AI/app-dev article URLs from the already trashed TLDR message and appended them to `LIST.md`.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none
