@@ -1,3 +1,6 @@
+## 0.0.348 - 2026-04-07
+- Add substack post: AI is becoming a systems design discipline.
+
 ## 0.0.347 - 2026-04-07
 - Daily veille IA: no Gmail messages found in label `0---veille-ia`; repo already clean/synced; `LIST.md` unchanged; 0 URLs added, 0 URLs removed, and 0 emails trashed.
 

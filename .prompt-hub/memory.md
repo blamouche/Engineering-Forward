@@ -232,6 +232,13 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --no-input`; `.prompt-hub/todo/todo-20260407-040212-veille-ia.md`.
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, and push.
+
+## 2026-04-07 05:00:00 +0200
+- actor: agent
+- action: Executed substack-post-recents from the 15 most recent README entries; drafted a new Substack essay focused on AI as a systems design discipline and synced `substack/latest.md`.
+- files_changed_or_commands: `README.md` parsing for latest 15 article links; `substack/20260407-post-ai-is-becoming-a-systems-design-discipline.md`; `substack/latest.md`; `.prompt-hub/todo/todo-20260407-050000-substack-post-recents.md`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, push, and return the title + file link.
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
 - 2026-03-08 11:19:40 CET | actor: assistant | action: attempted scan-list run via /scan-list command; command not found in shell (no such file). No list processing performed. | files: none | commands: /scan-list | outcome: failed | next: clarify how to run scan-list automation in this repo
 
