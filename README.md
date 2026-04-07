@@ -20,15 +20,16 @@ Articles per month:
 2025-11 | █ 1<br>
 2025-12 | █ 1<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | █████████████████████████████████████████████████ 148<br>
+2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████ 152<br>
+2026-04 | ███████████████████████████████████████████████████ 153
 
 ## Articles
 
 ### 2026
 
-#### April (152 articles)
+#### April (153 articles)
+- [OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena](src/2026-04/20260407-openai-image-v2-chatgpt-lm-arena.md)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)

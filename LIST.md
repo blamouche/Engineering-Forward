@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/openai-tests-next-gen-image-v2-model-on-chatgpt-and-lm-arena
 https://www.testingcatalog.com/google-prepares-jules-v2-agent-capable-of-taking-bigger-tasks
 https://www.anthropic.com/news/google-broadcom-partnership-compute
 https://sherwood.news/tech/report-some-of-metas-new-ai-models-will-eventually-be-open-source
