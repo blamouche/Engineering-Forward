@@ -1,3 +1,6 @@
+## 0.0.355 - 2026-04-07
+- Daily veille IA: no Gmail messages found in label `0---veille-ia`; `LIST.md` already empty; 0 URLs added, 0 URLs removed, and 0 emails trashed. Logged the run and committed prompt-hub tracking to restore a clean repo state.
+
 ## 0.0.354 - 2026-04-07
 - Add batch recap: 2026-04-07 090300.
 
