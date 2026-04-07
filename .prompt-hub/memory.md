@@ -218,6 +218,20 @@
 - outcome: success
 - next_step: None.
 - 2026-03-08 10:59:08 CET | actor: assistant | action: extracted article URLs from Gmail label 0---veille-ia, cleaned/normalized list, added to LIST.md via add-url workflow | files: LIST.md | commands: gog gmail messages search, gog gmail get, git pull --rebase, git add, git commit, git push | outcome: success | next: none
+
+## 2026-04-07 04:02:12 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for scheduled cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260407-040212-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Search Gmail label, inspect `LIST.md`, and finalize logs.
+
+## 2026-04-07 04:03:00 +0200
+- actor: agent
+- action: Veille IA run: Gmail label returned 0 messages; repo already clean/synced; `LIST.md` unchanged; no URLs added or removed; no emails trashed.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --no-input`; `.prompt-hub/todo/todo-20260407-040212-veille-ia.md`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, and push.
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
 - 2026-03-08 11:19:40 CET | actor: assistant | action: attempted scan-list run via /scan-list command; command not found in shell (no such file). No list processing performed. | files: none | commands: /scan-list | outcome: failed | next: clarify how to run scan-list automation in this repo
 
