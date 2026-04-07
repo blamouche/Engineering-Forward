@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████ 117
+2026-04 | ████████████████████████████████████████ 120
 
 ## Articles
 
 ### 2026
 
-#### April (117 articles)
+#### April (120 articles)
+- [Why women aren't ‘missing’ the AI train](src/2026-04/20260407-why-women-are-not-missing-the-ai-train.md)
 - [Writing With AI is Harder Than You Think](src/2026-04/20260406-writing-with-ai-is-harder-than-you-think.md)
 - [How Al Chen Uses Claude Code and 15 Repos to Answer Any Customer Question](src/2026-04/20260406-claude-code-and-repos-to-answer-any-customer-question.md)
 - [This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.](src/2026-04/20260406-this-week-on-how-i-ai-i-gave-claude-our-entire-codebase.md)
