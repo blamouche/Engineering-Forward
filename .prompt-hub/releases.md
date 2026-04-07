@@ -1,3 +1,6 @@
+## 0.0.377 - 2026-04-07
+- Process article: Report: Some of Meta’s new AI models will eventually be open-source.
+
 ## 0.0.376 - 2026-04-07
 - Process article: Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute.
 
