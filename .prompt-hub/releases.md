@@ -1,3 +1,6 @@
+## 0.0.383 - 2026-04-07
+- Process article: Google quietly launched an AI dictation app that works offline.
+
 ## 0.0.382 - 2026-04-07
 - Process article: Introducing the OpenAI Safety Fellowship.
 

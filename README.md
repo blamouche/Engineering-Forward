@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████████████████████ 159
+2026-04 | ██████████████████████████████████████████████████████ 160
 
 ## Articles
 
 ### 2026
 
-#### April (159 articles)
+#### April (160 articles)
+- [Google quietly launched an AI dictation app that works offline](src/2026-04/20260406-google-ai-edge-eloquent-offline-dictation-ios.md)
 - [Introducing the OpenAI Safety Fellowship](src/2026-04/20260407-openai-safety-fellowship.md)
 - [AI Is Becoming an Operating System Layer](src/2026-04/20260406-ai-is-becoming-an-operating-system-layer.md)
 - [OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford](src/2026-04/20260407-openai-122b-round-vendor-deals-contingent-capital.md)
