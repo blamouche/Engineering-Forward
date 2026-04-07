@@ -1,3 +1,6 @@
+## 0.0.364 - 2026-04-07
+- Process article: What next for the compute crunch?
+
 ## 0.0.363 - 2026-04-07
 - Process article: Agentic coding and microservices
 

@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████ 150<br>
+2026-04 | ██████████████████████████████████████████████████ 151<br>
 
 ## Articles
 
 ### 2026
 
-#### April (150 articles)
+#### April (151 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -39,6 +39,7 @@ Articles per month:
 - [Why domain specific LLMs won’t exist: an intuition](src/2026-04/20260404-why-domain-specific-llms-wont-exist.md)
 - [Why It's Getting Harder to Measure AI Performance](src/2026-04/20260402-why-harder-measure-ai-performance-benchmarks.md)
 - [Why Cloudflare is Rethinking Cache for the AI Era](src/2026-04/20260402-cloudflare-rethinking-cache-ai-humans.md)
+- [What next for the compute crunch?](src/2026-04/20260407-what-next-for-the-compute-crunch.md)
 - [What is inference engineering? Deepdive](src/2026-04/20260331-what-is-inference-engineering.md)
 - [What is Inference Engineering? Deepdive](src/2026-04/20260331-what-is-inference-engineering-pragmatic-engineer.md)
 - [What I Learned Onboarding Our AI Project Manager](src/2026-04/20260331-what-i-learned-onboarding-our-ai-project-manager.md)
