@@ -1,3 +1,6 @@
+## 0.0.354 - 2026-04-07
+- Add batch recap: 2026-04-07 090300.
+
 ## 0.0.353 - 2026-04-07
 - Process article: Europe lost the B2C tech race. Can it win in B2B?.
 
