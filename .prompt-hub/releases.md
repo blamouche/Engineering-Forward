@@ -1,3 +1,6 @@
+## 0.0.369 - 2026-04-07
+- Add batch recap: 2026-04-07 150229.
+
 ## 0.0.368 - 2026-04-07
 - Process article: These AI Startups Just Raised $187M, and They Reveal Exactly Where the Market Is Headed
 
