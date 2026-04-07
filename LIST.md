@@ -1,0 +1,11 @@
+https://sherwood.news/markets/anthropic-revenue-run-rate-30-billion-google-broadcom-partnership
+https://sherwood.news/markets/openai-altman-friar-reportedly-disagree-ipo-timing-and-ai-compute-spend-the-information
+https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review
+https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines
+https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery
+https://www.natemeyvis.com/agentic-coding-and-microservices
+https://martinalderson.com/posts/what-next-for-the-compute-crunch
+https://linas.substack.com/p/claudeinexcel
+https://linas.substack.com/p/claudecowork
+https://linas.substack.com/p/claudemd
+https://linas.substack.com/p/aistartupmarket
