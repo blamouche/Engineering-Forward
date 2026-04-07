@@ -1,3 +1,6 @@
+## 0.0.358 - 2026-04-07
+- Process article: Anthropic boasts revenue run rate of $30 billion as the Claude developer expands its partnership with Google and Broadcom
+
 ## 0.0.357 - 2026-04-07
 - Daily veille IA: restored a clean repo state, extracted 11 AI/app-dev URLs from 2 Gmail messages, updated `LIST.md`, removed 0 non-relevant queued URLs, and trashed 2 processed emails.
 

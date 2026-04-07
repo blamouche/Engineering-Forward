@@ -1,4 +1,3 @@
-https://sherwood.news/markets/anthropic-revenue-run-rate-30-billion-google-broadcom-partnership
 https://sherwood.news/markets/openai-altman-friar-reportedly-disagree-ipo-timing-and-ai-compute-spend-the-information
 https://vercel.com/blog/58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review
 https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines
