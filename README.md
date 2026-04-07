@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████████████████ 147<br>
+2026-04 | █████████████████████████████████████████████████ 148<br>
 
 ## Articles
 
 ### 2026
 
-#### April (147 articles)
+#### April (148 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -101,6 +101,7 @@ Articles per month:
 - [How We Optimized Dash's Relevance Judge with DSPy](src/2026-04/20260403-optimizing-dropbox-dash-relevance-judge-with-dspy.md)
 - [How Uber Built Its Observability Platform](src/2026-04/20260403-how-uber-built-its-observability-platform-m3.md)
 - [How Roblox Uses AI to Translate 16 Languages in 100 Milliseconds](src/2026-04/20260330-roblox-ai-translation-16-languages-100ms.md)
+- [How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](src/2026-04/20260406-how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines.md)
 - [How Meta Turned Debugging Into a Product](src/2026-04/20260331-meta-debugging-platform-drp.md)
 - [How Meta Turned Debugging Into a Product](src/2026-04/20260331-how-meta-turned-debugging-into-a-product-drp.md)
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-04/20260212-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)

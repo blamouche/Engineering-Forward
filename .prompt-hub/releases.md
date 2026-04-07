@@ -1,3 +1,6 @@
+## 0.0.361 - 2026-04-07
+- Process article: How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines
+
 ## 0.0.360 - 2026-04-07
 - Process article: 58% of PRs in our largest monorepo merge without human review
 
