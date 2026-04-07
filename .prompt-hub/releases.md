@@ -1,3 +1,6 @@
+## 0.0.375 - 2026-04-07
+- Process article: Google tests Jules V2 agent capable of taking bigger tasks.
+
 ## 0.0.374 - 2026-04-07
 - Process article: OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena.
 
