@@ -2250,3 +2250,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `.prompt-hub/todo/todo-20260407-100100-veille-ia-extraire-urls-gmail.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push prompt-hub tracking updates.
+
+## 2026-04-07 14:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for scheduled cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260407-140100-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.

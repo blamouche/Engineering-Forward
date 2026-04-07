@@ -1,3 +1,6 @@
+## 0.0.356 - 2026-04-07
+- Initialize veille IA task log for 14:01 cron run after loading prompt-hub context and creating the run todo file.
+
 ## 0.0.355 - 2026-04-07
 - Daily veille IA: no Gmail messages found in label `0---veille-ia`; `LIST.md` already empty; 0 URLs added, 0 URLs removed, and 0 emails trashed. Logged the run and committed prompt-hub tracking to restore a clean repo state.
 
