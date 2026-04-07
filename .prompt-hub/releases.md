@@ -1,3 +1,6 @@
+## 0.0.359 - 2026-04-07
+- Process article: OpenAI’s Altman and Friar reportedly disagree on IPO timing and AI compute spending commitments
+
 ## 0.0.358 - 2026-04-07
 - Process article: Anthropic boasts revenue run rate of $30 billion as the Claude developer expands its partnership with Google and Broadcom
 

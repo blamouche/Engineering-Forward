@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████████████████████ 145<br>
+2026-04 | █████████████████████████████████████████████████ 146<br>
 
 ## Articles
 
 ### 2026
 
-#### April (145 articles)
+#### April (146 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -69,6 +69,7 @@ Articles per month:
 - [Pretext: A Browser Library for Accurate Text Height Calculation](src/2026-04/20260329-pretext-text-layout-library-cheng-lou.md)
 - [Predicting When RL Training Breaks Chain of Thought](src/2026-04/20260403-predicting-when-rl-training-breaks-chain-of-thought.md)
 - [Portable Microservices Ready for the Cloud](src/2026-04/20260403-portable-microservices-uber-cloud-migration.md)
+- [OpenAI’s Altman and Friar reportedly disagree on IPO timing and AI compute spending commitments](src/2026-04/20260407-openai-altman-friar-disagree-ipo-timing-and-compute-spend.md)
 - [Open Models Have Crossed a Threshold](src/2026-04/20260402-open-models-crossed-threshold-langchain.md)
 - [Ollama is now powered by MLX on Apple Silicon in preview](src/2026-04/20260330-ollama-powered-by-mlx-apple-silicon-preview.md)
 - [Ollama is now powered by MLX on Apple Silicon in preview](src/2026-04/20260330-ollama-mlx-apple-silicon.md)
