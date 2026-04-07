@@ -1,3 +1,6 @@
+## 0.0.393 - 2026-04-07
+- Add batch recap: 2026-04-07 210452.
+
 ## 0.0.392 - 2026-04-07
 - Process article: Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler.
 
