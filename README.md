@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████████████████████████ 154
+2026-04 | ████████████████████████████████████████████████████ 155
 
 ## Articles
 
 ### 2026
 
-#### April (154 articles)
+#### April (155 articles)
+- [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute](src/2026-04/20260407-anthropic-google-broadcom-next-generation-compute.md)
 - [Google tests Jules V2 agent capable of taking bigger tasks](src/2026-04/20260407-google-jules-v2-goal-oriented-coding-agent.md)
 - [OpenAI tests next-gen Image V2 model on ChatGPT and LM Arena](src/2026-04/20260407-openai-image-v2-chatgpt-lm-arena.md)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)

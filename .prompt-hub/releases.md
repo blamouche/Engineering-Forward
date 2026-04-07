@@ -1,3 +1,6 @@
+## 0.0.376 - 2026-04-07
+- Process article: Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute.
+
 ## 0.0.375 - 2026-04-07
 - Process article: Google tests Jules V2 agent capable of taking bigger tasks.
 
