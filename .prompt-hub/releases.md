@@ -1,3 +1,6 @@
+## 0.0.372 - 2026-04-07
+- Initialize veille IA task log for 18:01 cron run after loading prompt-hub context and creating the run todo file.
+
 ## 0.0.371 - 2026-04-07
 - Daily veille IA correction: recovered 11 AI/app-dev article URLs from the trashed TLDR email, appended them to `LIST.md`, kept 0 removals, and left the email in trash.
 

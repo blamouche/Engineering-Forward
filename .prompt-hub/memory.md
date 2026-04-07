@@ -2278,3 +2278,10 @@
 - files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-07 18:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for scheduled cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260407-180100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.
