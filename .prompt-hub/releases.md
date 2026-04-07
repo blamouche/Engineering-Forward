@@ -1,3 +1,6 @@
+## 0.0.368 - 2026-04-07
+- Process article: These AI Startups Just Raised $187M, and They Reveal Exactly Where the Market Is Headed
+
 ## 0.0.367 - 2026-04-07
 - Process article: The File That Turns Claude Code Into Your Best Engineer
 

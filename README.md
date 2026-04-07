@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████ 151<br>
+2026-04 | ███████████████████████████████████████████████████ 152<br>
 
 ## Articles
 
 ### 2026
 
-#### April (151 articles)
+#### April (152 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -51,6 +51,7 @@ Articles per month:
 - [TimesFM: Time Series Foundation Model by Google Research](src/2026-04/20260319-timesfm-google-time-series-foundation-model.md)
 - [This week on How I AI: I gave Claude Code our entire codebase. Our customers noticed.](src/2026-04/20260406-this-week-on-how-i-ai-i-gave-claude-our-entire-codebase.md)
 - [Things I Learned at OpenAI](src/2026-04/20260328-things-i-learned-at-openai-karina-nguyen.md)
+- [These AI Startups Just Raised $187M, and They Reveal Exactly Where the Market Is Headed](src/2026-04/20260407-these-ai-startups-just-raised-187m-and-they-reveal-exactly-where-the-market-is-headed.md)
 - [The Uber Engineering Tech Stack, Part I: The Foundation](src/2026-04/20260403-uber-engineering-tech-stack-part-one-foundation.md)
 - [The State of Consumer AI. Part 3: Time is Money](src/2026-04/20260330-state-of-consumer-ai-time-advertising-chatgpt.md)
 - [The Spec Layer](src/2026-04/20260403-the-spec-layer.md)
