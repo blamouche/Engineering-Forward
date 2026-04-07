@@ -2264,3 +2264,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`; `gog gmail batch modify 19d6777a92bf8ab0 19d6770988e8ba7d --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260407-140100-veille-ia.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-07 16:03:33 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 0 AI/app-dev URLs from Gmail label `0---veille-ia`, updated `LIST.md` after clean sync/dedupe, removed 0 non-relevant queued URLs, and trashed 1 processed emails.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `LIST.md`; `git pull --rebase origin main`; `gog gmail batch modify 19d681b8c90301e2 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260407-160333-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none
