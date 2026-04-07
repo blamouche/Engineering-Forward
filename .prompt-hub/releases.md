@@ -1,3 +1,6 @@
+## 0.0.379 - 2026-04-07
+- Process article: OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford.
+
 ## 0.0.378 - 2026-04-07
 - Process article error: https://www.lesswrong.com/posts/dKpC6wHFqDrGZwnah/ais-can-now-often-do-massive-easy-to-verify-swe-tasks-and-i.
 

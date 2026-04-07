@@ -1,4 +1,3 @@
-https://www.saastr.com/openais-122b-vc-round-is-vendor-deals-contingent-capital-and-a-guaranteed-return-it-arguably-cant-afford
 https://github.com/abhigyanpatwari/GitNexus
 https://raffy.ch/blog/2026/04/06/ai-is-becoming-an-operating-system-layer
 https://openai.com/index/introducing-openai-safety-fellowship
