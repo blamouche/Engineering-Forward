@@ -2257,3 +2257,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260407-140100-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.
+
+## 2026-04-07 14:12:00 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean repo state, extracted 11 AI/app-dev URLs from 2 Gmail messages, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 2 processed emails.
+- files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push`; `gog gmail batch modify 19d6777a92bf8ab0 19d6770988e8ba7d --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260407-140100-veille-ia.md`.
+- outcome: success
+- next_step: none
