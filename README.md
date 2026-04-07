@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | █████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████ 149<br>
+2026-04 | ██████████████████████████████████████████████████ 150<br>
 
 ## Articles
 
 ### 2026
 
-#### April (149 articles)
+#### April (150 articles)
 - [mirrord for AI Agents: Instant Real-World Context for AI Agents](src/2026-04/20260403-mirrord-ai-agents-local-kubernetes-testing.md)
 - [llm-wiki](src/2026-04/20260406-llm-wiki-personal-knowledge-bases-using-llms.md)
 - [claude-token-efficient: Keep Claude responses terse with a single CLAUDE.md file](src/2026-04/20260330-claude-token-efficient-terse-responses-claude-md.md)
@@ -161,6 +161,7 @@ Articles per month:
 - [Anthropic Accidentally Leaked Claude Code's Entire Source](src/2026-04/20260401-anthropic-leaked-claude-code-source-npm-map-file.md)
 - [Anthropic Accidentally Leaked Claude Code's Entire Source](src/2026-04/20260401-anthropic-claude-code-source-leak.md)
 - [An AI State of the Union: We've Passed the Inflection Point, Dark Factories Are Coming](src/2026-04/20260403-an-ai-state-of-the-union-simon-willison.md)
+- [Agentic coding and microservices](src/2026-04/20260406-agentic-coding-and-microservices.md)
 - [Agentic Engineering Patterns](src/2026-04/20260403-agentic-engineering-patterns-simon-willison.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training](src/2026-04/20260403-agent-lightning-microsoft.md)
