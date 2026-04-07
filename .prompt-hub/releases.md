@@ -1,3 +1,6 @@
+## 0.0.381 - 2026-04-07
+- Process article: AI Is Becoming an Operating System Layer.
+
 ## 0.0.380 - 2026-04-07
 - Process article: GitNexus: The Zero-Server Code Intelligence Engine.
 

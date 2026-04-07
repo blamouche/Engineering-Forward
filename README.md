@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | █████████████████████████████████████████████████████ 157
+2026-04 | █████████████████████████████████████████████████████ 158
 
 ## Articles
 
 ### 2026
 
-#### April (157 articles)
+#### April (158 articles)
+- [AI Is Becoming an Operating System Layer](src/2026-04/20260406-ai-is-becoming-an-operating-system-layer.md)
 - [OpenAI’s $122B “VC Round” Is Vendor Deals, Contingent Capital, and a Guaranteed Return It Arguably Can’t Afford](src/2026-04/20260407-openai-122b-round-vendor-deals-contingent-capital.md)
 - [Report: Some of Meta’s new AI models will eventually be open-source](src/2026-04/20260407-meta-hybrid-open-source-ai-model-strategy.md)
 - [Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute](src/2026-04/20260407-anthropic-google-broadcom-next-generation-compute.md)
