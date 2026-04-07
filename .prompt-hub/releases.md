@@ -1,3 +1,6 @@
+## 0.0.392 - 2026-04-07
+- Process article: Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler.
+
 ## 0.0.391 - 2026-04-07
 - Process article: OpenAI raises $122 billion to accelerate the next phase of AI.
 

@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████████████████████████████ 166
+2026-04 | ████████████████████████████████████████████████████████ 167
 
 ## Articles
 
 ### 2026
 
-#### April (166 articles)
+#### April (167 articles)
+- [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](src/2026-04/20260407-cycles-of-disruption-in-the-tech-industry-kent-beck-martin-fowler.md)
 - [OpenAI raises $122 billion to accelerate the next phase of AI](src/2026-04/20260407-openai-raises-122-billion-to-accelerate-the-next-phase-of-ai.md)
 - [Your Best AI Strategy Starts at the Top](src/2026-04/20260407-your-best-ai-strategy-starts-at-the-top.md)
 - [Get Your Hands Dirty](src/2026-04/20260407-get-your-hands-dirty.md)
