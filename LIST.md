@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/cursor
 https://newsletter.pragmaticengineer.com/p/thronefall
 https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers
 https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code
