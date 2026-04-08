@@ -1,4 +1,3 @@
-https://epochai.substack.com/p/google-controls-the-most-ai-computing
 https://googlecloudplatform.github.io/scion/overview
 https://autocli.ai/
 https://blog.bytebytego.com/p/how-spotify-ships-to-675-million
