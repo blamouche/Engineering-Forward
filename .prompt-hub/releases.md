@@ -1,3 +1,6 @@
+## 0.0.404 - 2026-04-08
+- Daily veille IA correction: removed 1 non-article unsubscribe URL mistakenly added to `LIST.md`; queue now keeps only the relevant AI/app-dev article URL from the processed email.
+
 ## 0.0.403 - 2026-04-08
 - Daily veille IA: extracted 2 AI/app-dev URL(s) from 1 Gmail message, updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 1 processed email.
 

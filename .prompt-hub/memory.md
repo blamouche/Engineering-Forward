@@ -2503,3 +2503,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 20 --json --results-only --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19d6c5d050dfde39 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-08 12:04:48 +0200
+- actor: agent
+- action: Daily veille IA correction: removed the mistakenly queued unsubscribe URL from `LIST.md`; kept only the relevant Claude/AI article URL.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none
