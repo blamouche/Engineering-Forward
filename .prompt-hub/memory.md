@@ -2610,3 +2610,10 @@
 - outcome: success
 - next_step: Commit recap, prompt-hub logs, and push.
 
+
+## 2026-04-08 18:10:00 +0200
+- actor: agent
+- action: Corrected README April section count and monthly statistics after scan-list article imports.
+- files_changed_or_commands: README.md, .prompt-hub/version.md, .prompt-hub/releases.md
+- outcome: success
+- next_step: Push all commits to origin.

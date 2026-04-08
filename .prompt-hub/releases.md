@@ -1,3 +1,6 @@
+## 0.0.437 - 2026-04-08
+- Fix README April article count and monthly statistics after 18:06:59 scan-list run.
+
 ## 0.0.436 - 2026-04-08
 - Add batch recap: 2026-04-08 18:06:59.
 
