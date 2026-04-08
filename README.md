@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [WorkOS Pipes: Third-party integrations without the headache](src/2026-04/20260408-workos-pipes-third-party-integrations-without-the-headache.md)
 - [Pipes – WorkOS Docs](src/2026-04/20260408-pipes-workos-docs.md)
 - [How We Release the Spotify App: A Look Under the Hood (Part 2)](src/2026-04/20260408-how-we-release-the-spotify-app-a-look-under-the-hood-part-2.md)
 - [A Behind-the-Scenes Look at How We Release the Spotify App (Part 1)](src/2026-04/20260408-a-behind-the-scenes-look-at-how-we-release-the-spotify-app-part-1.md)
