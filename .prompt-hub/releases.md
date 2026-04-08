@@ -1,3 +1,6 @@
+## 0.0.413 - 2026-04-08
+- Process article: Principles of Mechanical Sympathy.
+
 ## 0.0.412 - 2026-04-08
 - Process article: OpenAI #16: A History and a Proposal.
 

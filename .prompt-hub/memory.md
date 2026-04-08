@@ -2567,3 +2567,10 @@
 - outcome: success
 - next_step: Continue with the next queued URL.
 
+## 2026-04-08 15:17:00 +0200
+- actor: agent
+- action: Processed the Mechanical Sympathy URL from scan-list and created a new synthesis.
+- files_changed_or_commands: `src/2026-04/20260408-principles-of-mechanical-sympathy.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Build and verify the batch recap.
+
