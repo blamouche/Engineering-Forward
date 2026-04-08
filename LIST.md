@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent
 https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve
 https://every.to/context-window/every-is-half-agent-now
 https://every.to/context-window/everyone-gets-a-sidekick

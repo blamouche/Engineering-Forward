@@ -1360,3 +1360,6 @@
 
 ## 0.0.447 - 2026-04-09
 - Process article: The creator of Clawd: “I ship code I don’t read”
+
+## 0.0.448 - 2026-04-09
+- Process article: TDD, AI agents and coding with Kent Beck
