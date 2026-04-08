@@ -10,10 +10,9 @@ https://epochai.substack.com/p/google-controls-the-most-ai-computing
 https://googlecloudplatform.github.io/scion/overview
 https://autocli.ai/
 https://blog.bytebytego.com/p/how-spotify-ships-to-675-million
-https://substack.com/redirect/b48b04db-e7ab-41dc-94e8-a0765e7517e5?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/700d4e08-7685-4767-b7f2-c5335b405f44?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/e904bb93-3e7e-4e68-b822-f9824bc7672b?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/ac6f624f-c13f-4da1-9c04-55c88d638303?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/ee967d15-7408-4db7-9a9c-9d52a16a76fd?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/0abcb3e2-8093-4ad5-9ba3-c9e3c552f9b5?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
-https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9ibG9nLmJ5dGVieXRlZ28uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3lOakF3TVRreU55d2ljRzl6ZEY5cFpDSTZNVGt6TURrMk5ERTBMQ0pwWVhRaU9qRTNOelUyTmpJek16RXNJbVY0Y0NJNk1UZ3dOekU1T0RNek1Td2lhWE56SWpvaWNIVmlMVGd4TnpFek1pSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuSzZISTdZOVktZ1MxamI5UE9vM1VRLUtXeWhxMWI2cEMtb3dNc29lOERsayIsInAiOjE5MzA5NjQxNCwicyI6ODE3MTMyLCJmIjp0cnVlLCJ1IjoyNjAwMTkyNywiaWF0IjoxNzc1NjYyMzMxLCJleHAiOjIwOTEyMzgzMzEsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.8168r1jelfNbVTyCrrMtvLZfEhOXy8EJ2rgSGcDgvik
+https://engineering.atspotify.com/2025/04/how-we-release-the-spotify-app-part-1
+https://engineering.atspotify.com/2026/2/how-we-release-the-spotify-app-part-2
+https://workos.com/docs/pipes
+https://workos.com/blog/workos-pipes-third-party-integrations
+https://en.wikipedia.org/wiki/Branching_(version_control)
+https://martinfowler.com/articles/feature-toggles.html

@@ -1,3 +1,6 @@
+## 0.0.417 - 2026-04-08
+- Daily veille IA: committed and pushed pending local changes to restore a clean sync state, extracted 8 AI/app-dev/app-engineering URL(s) from 1 Gmail message, resolved Substack redirect links to canonical destinations, removed 6 non-relevant/tracking URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.416 - 2026-04-08
 - Daily veille IA: extracted 16 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
 

@@ -2595,3 +2595,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git commit -m "Add URL(s) to processing queue"`; `git push origin main`; `LIST.md`; `gog gmail batch modify 19d6d434fdd259df 19d6d141370d6f3f --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-160100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-08 18:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed and pushed pending local changes to restore a clean sync state, extracted 8 AI/app-dev/app-engineering URLs from 1 Gmail message, resolved newsletter redirect links to canonical destinations, removed 6 non-relevant/tracking URLs from `LIST.md`, and trashed 1 processed email.
+- files_changed_or_commands: `git status --short`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git pull --rebase origin main`; `git push origin main`; `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input`; `LIST.md`; `curl -sIL <substack redirect urls>`; `git commit -m "Add URL(s) to processing queue"`; `git push origin main`; `gog gmail batch modify 19d6db3cc4ae34a0 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-180200-daily-veille-ia-extraire-urls.md`.
+- outcome: success
+- next_step: none
