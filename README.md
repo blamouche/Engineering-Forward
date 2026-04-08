@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [Claude Mythos Preview](src/2026-04/20260408-claude-mythos-preview.md)
 - [My picture of the present in AI](src/2026-04/20260408-my-picture-of-the-present-in-ai.md)
 - [GLM-5.1: Towards Long-Horizon Tasks](src/2026-04/20260408-glm-5-1-towards-long-horizon-tasks.md)
 - [Project Glasswing](src/2026-04/20260408-project-glasswing.md)

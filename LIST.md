@@ -1,4 +1,3 @@
-https://red.anthropic.com/2026/mythos-preview
 https://www.mercor.com/blog/Finance-tasks-ai-failures-modes
 https://cursor.com/blog/warp-decode
 https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale
