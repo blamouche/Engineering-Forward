@@ -2626,3 +2626,11 @@
 - next_step: none
 
 - 2026-04-08 20:06:00 +0200 | actor: agent | action: Daily veille IA correction: removed 4 non-article feedback URLs from LIST.md and kept only AI/app-dev article links. | files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md` | outcome: success | next: none
+
+
+## 2026-04-09 00:03:44 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 0 AI/app-dev URL(s) from Gmail label `0---veille-ia`, updated `LIST.md` after clean sync/dedupe, removed 2 non-relevant queued URL(s), and trashed 1 processed email.
+- files_changed_or_commands: `gog gmail get 19d6ee013d135eef --json --results-only --format=full --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d6ee013d135eef --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260409-000344-veille-ia.md`.
+- outcome: success
+- next_step: none

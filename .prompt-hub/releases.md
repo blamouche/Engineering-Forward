@@ -1,3 +1,6 @@
+## 0.0.441 - 2026-04-09
+- Daily veille IA: extracted 0 AI/app-dev URL(s) from 1 Gmail message, updated `LIST.md`, removed 2 non-relevant queued URL(s), and trashed 1 processed email.
+
 ## 0.0.437 - 2026-04-08
 - Fix README April article count and monthly statistics after 18:06:59 scan-list run.
 
