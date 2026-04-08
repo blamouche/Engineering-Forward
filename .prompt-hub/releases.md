@@ -1351,3 +1351,6 @@
 
 ## 0.0.444 - 2026-04-09
 - Process article: Real-world engineering challenges: building Cursor
+
+## 0.0.445 - 2026-04-09
+- Process article: Building a best-selling game with a tiny team – with Jonas Tyroller
