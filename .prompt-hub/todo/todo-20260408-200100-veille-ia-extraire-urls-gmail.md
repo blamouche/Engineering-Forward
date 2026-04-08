@@ -13,8 +13,8 @@
 
 ## Review
 
-- Completed successfully.
-- Added URLs: 20
-- Removed URLs: 0
+- Completed successfully after a correction pass to remove non-article feedback links.
+- Added URLs: 16
+- Removed URLs: 4
 - Gmail messages trashed: 2
 - Pre-clean commit created: yes

@@ -1336,3 +1336,6 @@
 
 ## 0.0.439 - 2026-04-08
 - Daily veille IA: extracted 20 AI/app-dev article URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
+
+## 0.0.440 - 2026-04-08
+- Daily veille IA correction: removed 4 non-article feedback URL(s) from `LIST.md`; kept only AI/app-dev article links.

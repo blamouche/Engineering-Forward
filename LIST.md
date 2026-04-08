@@ -14,7 +14,3 @@ https://every.to/source-code/compound-engineering-the-definitive-guide
 https://every.to/source-code/compound-engineering-camp-every-step-from-scratch
 https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent
 https://every.to/working-overtime/writing-with-ai-is-harder-than-you-think
-https://every.to/context-window/every-is-half-agent-now/feedback?rating=amazing
-https://every.to/context-window/every-is-half-agent-now/feedback?rating=good
-https://every.to/context-window/every-is-half-agent-now/feedback?rating=meh
-https://every.to/context-window/every-is-half-agent-now/feedback?rating=bad
