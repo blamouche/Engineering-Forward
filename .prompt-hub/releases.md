@@ -1369,3 +1369,6 @@
 
 ## 0.0.450 - 2026-04-09
 - Process article: Every Is Half Agent Now
+
+## 0.0.451 - 2026-04-09
+- Process article: Everyone Gets a Sidekick
