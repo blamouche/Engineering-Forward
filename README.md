@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](src/2026-04/20260408-torchtpu-running-pytorch-natively-on-tpus-at-google-scale.md)
 - [Better MoE model inference with warp decode](src/2026-04/20260408-better-moe-model-inference-with-warp-decode.md)
 - [AI failures modes when we pushed frontier models on real finance tasks](src/2026-04/20260408-ai-failures-modes-when-we-pushed-frontier-models-on-real-finance-tasks.md)
 - [Claude Mythos Preview](src/2026-04/20260408-claude-mythos-preview.md)
