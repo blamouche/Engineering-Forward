@@ -1384,3 +1384,6 @@
 
 ## 0.0.455 - 2026-04-09
 - Process article: Compound Engineering Camp: Every step from scratch
+
+## 0.0.456 - 2026-04-09
+- Process article: OpenClaw: Setting up your first personal AI agent
