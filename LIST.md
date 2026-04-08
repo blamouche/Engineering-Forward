@@ -1,0 +1,2 @@
+https://linas.substack.com/p/claudeinexcel
+https://linas.substack.com/action/disable_email?token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTkzNTQ0NDI0LCJpYXQiOjE3NzU2Mzk1MjcsImV4cCI6MTgwNzE3NTUyNywiaXNzIjoicHViLTgxODE5Iiwic3ViIjoiZGlzYWJsZV9lbWFpbCJ9.S7ZQQDMjlayWcjpBTHS4-Cj3aFf8xY2zVvpG103WgkI
