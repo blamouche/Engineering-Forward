@@ -1363,3 +1363,6 @@
 
 ## 0.0.448 - 2026-04-09
 - Process article: TDD, AI agents and coding with Kent Beck
+
+## 0.0.449 - 2026-04-09
+- Process article: From IDEs to AI Agents with Steve Yegge
