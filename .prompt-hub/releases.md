@@ -1366,3 +1366,6 @@
 
 ## 0.0.449 - 2026-04-09
 - Process article: From IDEs to AI Agents with Steve Yegge
+
+## 0.0.450 - 2026-04-09
+- Process article: Every Is Half Agent Now
