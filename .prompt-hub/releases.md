@@ -1,3 +1,6 @@
+## 0.0.406 - 2026-04-08
+- Add batch recap: 2026-04-08 160000.
+
 ## 0.0.405 - 2026-04-08
 - Process article: Turn Claude in Excel Into Your Senior Financial Analyst.
 
