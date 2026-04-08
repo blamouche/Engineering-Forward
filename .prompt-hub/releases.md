@@ -1345,3 +1345,6 @@
 
 ## 0.0.440 - 2026-04-08
 - Daily veille IA correction: removed 4 non-article feedback URL(s) from `LIST.md`; kept only AI/app-dev article links.
+
+## 0.0.443 - 2026-04-09
+- Process article: DHH’s new way of writing code

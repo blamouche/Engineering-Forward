@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/dhhs-new-way-of-writing-code
 https://newsletter.pragmaticengineer.com/p/cursor
 https://newsletter.pragmaticengineer.com/p/thronefall
 https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers
