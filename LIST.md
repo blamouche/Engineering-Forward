@@ -6,6 +6,7 @@ https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code
 https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent
 https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve
 https://every.to/context-window/every-is-half-agent-now
+https://every.to/context-window/everyone-gets-a-sidekick
 https://every.to/on-every/introducing-plus-one-one-click-openclaw-agents-by-every
 https://every.to/p/what-i-learned-onboarding-our-ai-project-manager
 https://every.to/source-code/compound-engineering-the-definitive-guide

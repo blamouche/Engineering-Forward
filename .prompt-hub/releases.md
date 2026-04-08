@@ -1,3 +1,6 @@
+## 0.0.442 - 2026-04-09
+- Daily veille IA correction: restored `Everyone Gets a Sidekick` in `LIST.md` because it is AI-relevant; kept `The Next Chapter of Every Consulting` removed.
+
 ## 0.0.441 - 2026-04-09
 - Daily veille IA: extracted 0 AI/app-dev URL(s) from 1 Gmail message, updated `LIST.md`, removed 2 non-relevant queued URL(s), and trashed 1 processed email.
 
