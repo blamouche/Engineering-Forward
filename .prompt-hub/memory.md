@@ -2581,3 +2581,10 @@
 - outcome: success
 - next_step: Push all committed scan-list changes.
 
+
+## 2026-04-08 16:01:00 +0200
+- actor: agent
+- action: Initialized veille IA extraction run after loading prompt-hub context, creating the scheduled task file, and detecting a dirty repo state that needs a cleanup commit before add-url sync.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260408-160100-veille-ia-extraire-urls-gmail.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push pending local changes to restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.

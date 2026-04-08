@@ -1,3 +1,6 @@
+## 0.0.415 - 2026-04-08
+- Initialize veille IA task log for 16:01 cron run after loading prompt-hub context and creating the run todo file.
+
 ## 0.0.414 - 2026-04-08
 - Add batch recap: 2026-04-08 160000.
 
