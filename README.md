@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [GLM-5.1: Towards Long-Horizon Tasks](src/2026-04/20260408-glm-5-1-towards-long-horizon-tasks.md)
 - [Project Glasswing](src/2026-04/20260408-project-glasswing.md)
 - [Principles of Mechanical Sympathy](src/2026-04/20260408-principles-of-mechanical-sympathy.md)
 - [OpenAI #16: A History and a Proposal](src/2026-04/20260407-openai-16-a-history-and-a-proposal.md)
