@@ -1354,3 +1354,6 @@
 
 ## 0.0.445 - 2026-04-09
 - Process article: Building a best-selling game with a tiny team – with Jonas Tyroller
+
+## 0.0.446 - 2026-04-09
+- Process article: Scaling Uber with Thuan Pham (Uber's First CTO)

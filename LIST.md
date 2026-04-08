@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/scaling-uber-with-thuan-pham-ubers
 https://newsletter.pragmaticengineer.com/p/the-creator-of-clawd-i-ship-code
 https://newsletter.pragmaticengineer.com/p/tdd-ai-agents-and-coding-with-kent
 https://newsletter.pragmaticengineer.com/p/from-ides-to-ai-agents-with-steve
