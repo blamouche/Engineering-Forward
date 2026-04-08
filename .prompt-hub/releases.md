@@ -1,3 +1,6 @@
+## 0.0.399 - 2026-04-08
+- Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, updated `LIST.md`, removed 0 non-relevant queued URLs, and trashed 1 processed email.
+
 ## 0.0.398 - 2026-04-08
 - Scan-list cron run: synced repo, confirmed `LIST.md` is empty, so 0 URL(s) processed, 0 error(s) logged, and no batch recap was needed.
 

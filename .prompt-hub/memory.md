@@ -2469,3 +2469,9 @@
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, and push the no-op scan-list log.
 
+## 2026-04-08 08:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 1 AI/app-dev URL from the Sifted newsletter, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 1 processed email.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 20 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19d6b537e34cdbdd --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260408-080100-veille-ia.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the veille IA updates.
