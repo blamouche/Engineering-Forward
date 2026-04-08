@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [AutoCLI.ai — Turn Any Website Into Structured CLI Output by AI](src/2026-04/20260408-autocli-ai-turn-any-website-into-structured-cli-output-by-ai.md)
 - [Scion Overview](src/2026-04/20260408-scion-overview.md)
 - [Google controls the most AI computing power, driven by its custom TPUs](src/2026-04/20260408-google-controls-the-most-ai-computing-power-driven-by-its-custom-tpus.md)
 - [We're actually running out of benchmarks to upper bound AI capabilities](src/2026-04/20260408-we-re-actually-running-out-of-benchmarks-to-upper-bound-ai-capabilities.md)
