@@ -1,3 +1,6 @@
+## 0.0.414 - 2026-04-08
+- Add batch recap: 2026-04-08 160000.
+
 ## 0.0.413 - 2026-04-08
 - Process article: Principles of Mechanical Sympathy.
 

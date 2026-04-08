@@ -2574,3 +2574,10 @@
 - outcome: success
 - next_step: Build and verify the batch recap.
 
+## 2026-04-08 15:20:00 +0200
+- actor: agent
+- action: Created and verified the scan-list batch recap with GitHub links, confirmed `LIST.md` is empty, and finalized prompt-hub tracking.
+- files_changed_or_commands: `synthesis/2026-04-08 - 160000 - batch recap.md`, `LIST.md`, `.prompt-hub/todo/todo-20260408-160000-scan-list.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push all committed scan-list changes.
+
