@@ -1,0 +1,16 @@
+https://www.anthropic.com/glasswing
+https://z.ai/blog/glm-5.1
+https://www.greaterwrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai
+https://red.anthropic.com/2026/mythos-preview
+https://www.mercor.com/blog/Finance-tasks-ai-failures-modes
+https://cursor.com/blog/warp-decode
+https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale
+https://github.com/WeianMao/triattention
+https://arxiv.org/abs/2604.04872
+https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai
+https://epochai.substack.com/p/google-controls-the-most-ai-computing
+https://github.com/mattmireles/gemma-tuner-multimodal
+https://github.com/safishamsi/graphify
+https://googlecloudplatform.github.io/scion/overview
+https://autocli.ai/
+https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files
