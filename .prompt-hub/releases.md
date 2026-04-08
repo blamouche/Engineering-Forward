@@ -1,3 +1,60 @@
+## 0.0.436 - 2026-04-08
+- Add batch recap: 2026-04-08 18:06:59.
+
+## 0.0.435 - 2026-04-08
+- Process article: Feature Toggles (aka Feature Flags).
+
+## 0.0.434 - 2026-04-08
+- Process article: Branching (version control).
+
+## 0.0.433 - 2026-04-08
+- Process article: WorkOS Pipes: Third-party integrations without the headache.
+
+## 0.0.432 - 2026-04-08
+- Process article: Pipes – WorkOS Docs.
+
+## 0.0.431 - 2026-04-08
+- Process article: How We Release the Spotify App: A Look Under the Hood (Part 2).
+
+## 0.0.430 - 2026-04-08
+- Process article: A Behind-the-Scenes Look at How We Release the Spotify App (Part 1).
+
+## 0.0.429 - 2026-04-08
+- Process article: How Spotify Ships to 675 Million Users Every Week Without Breaking Things.
+
+## 0.0.428 - 2026-04-08
+- Process article: AutoCLI.ai — Turn Any Website Into Structured CLI Output by AI.
+
+## 0.0.427 - 2026-04-08
+- Process article: Scion Overview.
+
+## 0.0.426 - 2026-04-08
+- Process article: Google controls the most AI computing power, driven by its custom TPUs.
+
+## 0.0.425 - 2026-04-08
+- Process article: We're actually running out of benchmarks to upper bound AI capabilities.
+
+## 0.0.424 - 2026-04-08
+- Process article: TorchTPU: Running PyTorch Natively on TPUs at Google Scale.
+
+## 0.0.423 - 2026-04-08
+- Process article: Better MoE model inference with warp decode.
+
+## 0.0.422 - 2026-04-08
+- Process article: AI failures modes when we pushed frontier models on real finance tasks.
+
+## 0.0.421 - 2026-04-08
+- Process article: Claude Mythos Preview.
+
+## 0.0.420 - 2026-04-08
+- Process article: My picture of the present in AI.
+
+## 0.0.419 - 2026-04-08
+- Process article: GLM-5.1: Towards Long-Horizon Tasks.
+
+## 0.0.418 - 2026-04-08
+- Process article: Project Glasswing.
+
 ## 0.0.417 - 2026-04-08
 - Daily veille IA: committed and pushed pending local changes to restore a clean sync state, extracted 8 AI/app-dev/app-engineering URL(s) from 1 Gmail message, resolved Substack redirect links to canonical destinations, removed 6 non-relevant/tracking URL(s) from `LIST.md`, and trashed 1 processed email.
 

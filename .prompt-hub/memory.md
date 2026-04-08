@@ -2602,3 +2602,11 @@
 - files_changed_or_commands: `git status --short`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git pull --rebase origin main`; `git push origin main`; `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input`; `LIST.md`; `curl -sIL <substack redirect urls>`; `git commit -m "Add URL(s) to processing queue"`; `git push origin main`; `gog gmail batch modify 19d6db3cc4ae34a0 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-180200-daily-veille-ia-extraire-urls.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-08 18:06:59 +0200
+- actor: agent
+- action: scan-list run: processed 18 URLs, created 18 synthesis files in src/2026-04/, updated README April section, emptied LIST.md, created batch recap synthesis/2026-04-08 - 180659 - batch recap.md
+- files_changed_or_commands: LIST.md (cleared), src/2026-04/*.md (18 new files), README.md, synthesis/2026-04-08 - 180659 - batch recap.md, .prompt-hub/version.md, .prompt-hub/releases.md
+- outcome: success
+- next_step: Commit recap, prompt-hub logs, and push.
+
