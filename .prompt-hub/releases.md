@@ -1,3 +1,6 @@
+## 0.0.400 - 2026-04-08
+- Process article: 11 AI agent startups to watch, according to investors.
+
 ## 0.0.399 - 2026-04-08
 - Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, updated `LIST.md`, removed 0 non-relevant queued URLs, and trashed 1 processed email.
 
