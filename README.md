@@ -7,28 +7,28 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2022-12 | █ 2<br>
+2022-12 | ██ 2<br>
 2024-05 | █ 1<br>
 2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
-2025-05 | █ 2<br>
+2025-05 | ██ 2<br>
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
 2025-09 | █ 1<br>
-2025-10 | █ 2<br>
+2025-10 | ██ 2<br>
 2025-11 | █ 1<br>
 2025-12 | █ 1<br>
-2026-01 | █████████████████████████████████ 99<br>
-2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ████████████████████████████████████████████████████████ 167
-
+2026-01 | ███████████████████████████████████████████████████████████████████████████████████████████████████ 99<br>
+2026-02 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 148<br>
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 168<br>
 ## Articles
 
 ### 2026
 
-#### April (167 articles)
+#### April (1 articles)
+- [S3 Files and the changing face of S3](src/2026-04/20260407-s3-files-and-the-changing-face-of-s3.md)
 - [Cycles of disruption in the tech industry: with software pioneers Kent Beck & Martin Fowler](src/2026-04/20260407-cycles-of-disruption-in-the-tech-industry-kent-beck-martin-fowler.md)
 - [OpenAI raises $122 billion to accelerate the next phase of AI](src/2026-04/20260407-openai-raises-122-billion-to-accelerate-the-next-phase-of-ai.md)
 - [Your Best AI Strategy Starts at the Top](src/2026-04/20260407-your-best-ai-strategy-starts-at-the-top.md)
@@ -839,7 +839,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (2 articles)
+#### May (1 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 

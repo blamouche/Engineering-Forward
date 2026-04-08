@@ -1,3 +1,6 @@
+## 0.0.409 - 2026-04-08
+- Process article: S3 Files and the changing face of S3.
+
 ## 0.0.408 - 2026-04-08
 - Process article: Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ (duplicate using existing synthesis src/2026-04/20260328-anthropic-mythos-capybara-model-cybersecurity-risk.md).
 
