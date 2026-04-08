@@ -2489,3 +2489,10 @@
 - files_changed_or_commands: `synthesis/2026-04-08 - 090442 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all committed scan-list changes.
+
+## 2026-04-08 10:03:19 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 messages; `LIST.md` stayed empty; no URLs were added/removed; no emails were trashed. Logged the no-op run and committed/pushed prompt-hub tracking to keep the repo clean.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260408-100251-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --json --no-input`; `LIST.md` empty check; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none
