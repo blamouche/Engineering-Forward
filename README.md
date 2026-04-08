@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [We're actually running out of benchmarks to upper bound AI capabilities](src/2026-04/20260408-we-re-actually-running-out-of-benchmarks-to-upper-bound-ai-capabilities.md)
 - [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](src/2026-04/20260408-torchtpu-running-pytorch-natively-on-tpus-at-google-scale.md)
 - [Better MoE model inference with warp decode](src/2026-04/20260408-better-moe-model-inference-with-warp-decode.md)
 - [AI failures modes when we pushed frontier models on real finance tasks](src/2026-04/20260408-ai-failures-modes-when-we-pushed-frontier-models-on-real-finance-tasks.md)

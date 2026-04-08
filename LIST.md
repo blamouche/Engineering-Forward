@@ -1,4 +1,3 @@
-https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai
 https://epochai.substack.com/p/google-controls-the-most-ai-computing
 https://googlecloudplatform.github.io/scion/overview
 https://autocli.ai/
