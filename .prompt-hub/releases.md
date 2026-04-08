@@ -1,3 +1,7 @@
+
+## 0.0.407 - 2026-04-08
+- Daily veille IA: extracted 6 AI/app-dev URL(s) from 1 Gmail message(s), updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 1 processed email thread(s).
+
 ## 0.0.406 - 2026-04-08
 - Add batch recap: 2026-04-08 160000.
 

@@ -2524,3 +2524,11 @@
 - files_changed_or_commands: `synthesis/2026-04-08 - 160000 - batch recap.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit the batch recap and push all remaining changes.
+
+
+## 2026-04-08 14:02:22 +0200
+- actor: agent
+- action: Initialized veille IA extraction run after loading prompt-hub context, creating the task file, extracting article URLs from Gmail label `0---veille-ia`, updating `LIST.md`, filtering non-relevant queue entries, and trashing processed email threads.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260408-140222-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `gog gmail thread modify <threadId> --add TRASH --remove UNREAD,INBOX --force --no-input`; `LIST.md`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, and push.
