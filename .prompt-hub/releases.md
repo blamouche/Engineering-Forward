@@ -1,3 +1,6 @@
+## 0.0.411 - 2026-04-08
+- Process article: Good Taste the Only Real Moat Left.
+
 ## 0.0.410 - 2026-04-08
 - Process article: The Building Block Economy.
 
