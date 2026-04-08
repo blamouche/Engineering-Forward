@@ -1,3 +1,6 @@
+## 0.0.412 - 2026-04-08
+- Process article: OpenAI #16: A History and a Proposal.
+
 ## 0.0.411 - 2026-04-08
 - Process article: Good Taste the Only Real Moat Left.
 
