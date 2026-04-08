@@ -1,3 +1,6 @@
+## 0.0.395 - 2026-04-08
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo had only the new run todo pending; `LIST.md` stayed empty so 0 URL(s) added, 0 removed, and 0 email(s) trashed.
+
 ## 0.0.394 - 2026-04-08
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo synced cleanly; `LIST.md` already empty so 0 URL(s) added and 0 removed; 0 email(s) trashed.
 
