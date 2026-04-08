@@ -1378,3 +1378,6 @@
 
 ## 0.0.453 - 2026-04-09
 - Process article: What I Learned Onboarding Our AI Project Manager
+
+## 0.0.454 - 2026-04-09
+- Process article: Compound Engineering: The Definitive Guide
