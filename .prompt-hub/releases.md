@@ -1330,3 +1330,6 @@
 
 ## 0.0.350 - 2026-04-07
 - Daily veille IA correction: added 3 filtered Sifted AI/app-dev tracking URLs to LIST.md after parsing the trashed newsletter thread; kept 0 removals; 1 email thread already trashed.
+
+## 0.0.438 - 2026-04-08
+- Initialize veille IA task log for 20:01 cron run after loading prompt-hub context and creating the run todo file.
