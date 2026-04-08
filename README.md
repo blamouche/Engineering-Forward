@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [A Behind-the-Scenes Look at How We Release the Spotify App (Part 1)](src/2026-04/20260408-a-behind-the-scenes-look-at-how-we-release-the-spotify-app-part-1.md)
 - [How Spotify Ships to 675 Million Users Every Week Without Breaking Things](src/2026-04/20260408-how-spotify-ships-to-675-million-users-every-week-without-breaking-things.md)
 - [AutoCLI.ai — Turn Any Website Into Structured CLI Output by AI](src/2026-04/20260408-autocli-ai-turn-any-website-into-structured-cli-output-by-ai.md)
 - [Scion Overview](src/2026-04/20260408-scion-overview.md)
