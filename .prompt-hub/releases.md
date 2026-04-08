@@ -1,3 +1,6 @@
+## 0.0.405 - 2026-04-08
+- Process article: Turn Claude in Excel Into Your Senior Financial Analyst.
+
 ## 0.0.404 - 2026-04-08
 - Daily veille IA correction: removed 1 non-article unsubscribe URL mistakenly added to `LIST.md`; queue now keeps only the relevant AI/app-dev article URL from the processed email.
 

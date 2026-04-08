@@ -2510,3 +2510,10 @@
 - files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-08 16:00:00 +0200
+- actor: agent
+- action: scan-list run: reused the existing synthesis for `https://linas.substack.com/p/claudeinexcel`, removed the URL from `LIST.md`, and created the batch recap `synthesis/2026-04-08 - 160000 - batch recap.md`.
+- files_changed_or_commands: `src/2026-03/20260323-turn-claude-in-excel-into-your-senior-financial-analyst.md` (reused existing synthesis); `LIST.md`; `synthesis/2026-04-08 - 160000 - batch recap.md`; `.prompt-hub/todo/todo-20260408-160000-scan-list.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit the process-article change, then commit the batch recap and push remaining changes.
