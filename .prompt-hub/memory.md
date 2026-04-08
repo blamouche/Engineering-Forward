@@ -2617,3 +2617,10 @@
 - files_changed_or_commands: README.md, .prompt-hub/version.md, .prompt-hub/releases.md
 - outcome: success
 - next_step: Push all commits to origin.
+
+## 2026-04-08 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA: extracted 20 AI/app-dev article URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d6e1af8ca2d33e 19d6df8a38934280 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-200100-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none

@@ -1333,3 +1333,6 @@
 
 ## 0.0.438 - 2026-04-08
 - Initialize veille IA task log for 20:01 cron run after loading prompt-hub context and creating the run todo file.
+
+## 0.0.439 - 2026-04-08
+- Daily veille IA: extracted 20 AI/app-dev article URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
