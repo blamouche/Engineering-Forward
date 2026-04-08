@@ -1357,3 +1357,6 @@
 
 ## 0.0.446 - 2026-04-09
 - Process article: Scaling Uber with Thuan Pham (Uber's First CTO)
+
+## 0.0.447 - 2026-04-09
+- Process article: The creator of Clawd: “I ship code I don’t read”
