@@ -1372,3 +1372,6 @@
 
 ## 0.0.451 - 2026-04-09
 - Process article: Everyone Gets a Sidekick
+
+## 0.0.452 - 2026-04-09
+- Process article: Introducing Plus One: One-click OpenClaw Agents by Every
