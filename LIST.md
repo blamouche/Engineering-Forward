@@ -1,4 +1,3 @@
-https://www.greaterwrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai
 https://red.anthropic.com/2026/mythos-preview
 https://www.mercor.com/blog/Finance-tasks-ai-failures-modes
 https://cursor.com/blog/warp-decode
