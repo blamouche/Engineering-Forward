@@ -1,3 +1,6 @@
+## 0.0.408 - 2026-04-08
+- Process article: Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’ (duplicate using existing synthesis src/2026-04/20260328-anthropic-mythos-capybara-model-cybersecurity-risk.md).
+
 
 ## 0.0.407 - 2026-04-08
 - Daily veille IA: extracted 6 AI/app-dev URL(s) from 1 Gmail message(s), updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 1 processed email thread(s).

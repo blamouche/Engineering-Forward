@@ -2532,3 +2532,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260408-140222-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `gog gmail thread modify <threadId> --add TRASH --remove UNREAD,INBOX --force --no-input`; `LIST.md`.
 - outcome: success
 - next_step: Update prompt-hub version/releases, commit, and push.
+## 2026-04-08 15:10:00 +0200
+- actor: agent
+- action: Processed the NYT Mythos URL from scan-list as a duplicate using the existing synthesis `src/2026-04/20260328-anthropic-mythos-capybara-model-cybersecurity-risk.md`.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with the next queued URL.
+
