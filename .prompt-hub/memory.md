@@ -2588,3 +2588,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260408-160100-veille-ia-extraire-urls-gmail.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push pending local changes to restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.
+
+## 2026-04-08 16:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 16 AI/app-dev URLs from 2 Gmail newsletters, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 2 processed emails.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git commit -m "Add URL(s) to processing queue"`; `git push origin main`; `LIST.md`; `gog gmail batch modify 19d6d434fdd259df 19d6d141370d6f3f --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-160100-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none

@@ -1,3 +1,6 @@
+## 0.0.416 - 2026-04-08
+- Daily veille IA: extracted 16 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md`, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
+
 ## 0.0.415 - 2026-04-08
 - Initialize veille IA task log for 16:01 cron run after loading prompt-hub context and creating the run todo file.
 
