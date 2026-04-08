@@ -28,6 +28,7 @@ Articles per month:
 ### 2026
 
 #### April (1 articles)
+- [Scion Overview](src/2026-04/20260408-scion-overview.md)
 - [Google controls the most AI computing power, driven by its custom TPUs](src/2026-04/20260408-google-controls-the-most-ai-computing-power-driven-by-its-custom-tpus.md)
 - [We're actually running out of benchmarks to upper bound AI capabilities](src/2026-04/20260408-we-re-actually-running-out-of-benchmarks-to-upper-bound-ai-capabilities.md)
 - [TorchTPU: Running PyTorch Natively on TPUs at Google Scale](src/2026-04/20260408-torchtpu-running-pytorch-natively-on-tpus-at-google-scale.md)

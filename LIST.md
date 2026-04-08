@@ -1,4 +1,3 @@
-https://googlecloudplatform.github.io/scion/overview
 https://autocli.ai/
 https://blog.bytebytego.com/p/how-spotify-ships-to-675-million
 https://engineering.atspotify.com/2025/04/how-we-release-the-spotify-app-part-1
