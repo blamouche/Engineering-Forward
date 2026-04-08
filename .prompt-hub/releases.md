@@ -1390,3 +1390,6 @@
 
 ## 0.0.457 - 2026-04-09
 - Process article: Writing With AI is Harder Than You Think
+
+## 0.0.458 - 2026-04-09
+- Add batch recap: 2026-04-09 000739.
