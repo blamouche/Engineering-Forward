@@ -1381,3 +1381,6 @@
 
 ## 0.0.454 - 2026-04-09
 - Process article: Compound Engineering: The Definitive Guide
+
+## 0.0.455 - 2026-04-09
+- Process article: Compound Engineering Camp: Every step from scratch
