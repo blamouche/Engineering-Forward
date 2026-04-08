@@ -1,4 +1,3 @@
-https://www.anthropic.com/glasswing
 https://z.ai/blog/glm-5.1
 https://www.greaterwrong.com/posts/WjaGAA4xCAXeFpyWm/my-picture-of-the-present-in-ai
 https://red.anthropic.com/2026/mythos-preview
