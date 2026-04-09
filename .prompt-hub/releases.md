@@ -1,3 +1,6 @@
+## 0.0.482 - 2026-04-09
+- Add batch recap: 2026-04-09 - 160000; finalize scan-list run.
+
 ## 0.0.481 - 2026-04-09
 - Process article: Anthropic launches Claude Managed Agents for businesses.
 
