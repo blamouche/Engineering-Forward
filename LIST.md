@@ -1,0 +1,10 @@
+https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/
+https://linas.substack.com/p/claudecodesource
+https://linas.substack.com/p/fintechpulse1066
+https://linas.substack.com/p/skill-graphs
+https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html
+https://piecechowski.io/post/git-commands-before-reading-code/
+https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/
+https://veralang.dev/
+https://www.a16z.news/p/ai-adoption-by-the-numbers
+https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/

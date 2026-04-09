@@ -1,3 +1,6 @@
+## 0.0.471 - 2026-04-09
+- Daily veille IA: extracted 10 AI/app-dev URL(s) from 2 Gmail threads, rebuilt `LIST.md` from empty after resolving Substack redirects and filtering out finance-only links, removed 0 non-relevant queued URL(s), and trashed 2 processed email threads.
+
 ## 0.0.470 - 2026-04-09
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo synced cleanly, `LIST.md` stayed empty, 0 URL(s) added, 0 non-relevant URL(s) removed, and 0 email(s) were trashed.
 

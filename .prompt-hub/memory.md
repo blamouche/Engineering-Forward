@@ -2741,3 +2741,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260409-120300-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the no-op run log.
+
+## 2026-04-09 14:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed the run todo to restore a clean sync state, extracted 10 AI/app-dev URLs from 2 Gmail threads, resolved Substack redirects to canonical destinations, kept only AI/app-dev links in `LIST.md`, and trashed both processed threads.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260409-140100-veille-ia.md`; `git commit -m "Initialize veille IA task log for 14:01 cron run"`; `git pull --rebase`; `git push`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input`; `gog gmail get 19d71c6e31b542fa --json --format=full --no-input`; `gog gmail get 19d71be21f8eac52 --json --format=full --no-input`; `curl -Ls -o /dev/null -w '%{url_effective}' ...`; `LIST.md`; `gog gmail thread modify <threadId> --add TRASH --remove UNREAD --force --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the updated queue plus prompt-hub logs.
