@@ -1,3 +1,6 @@
+## 0.0.498 - 2026-04-09
+- Process article: Must-Know Cross-Cutting Concerns in API Development.
+
 ## 0.0.497 - 2026-04-09
 - Process article: The next phase of enterprise AI.
 
