@@ -1393,3 +1393,6 @@
 
 ## 0.0.458 - 2026-04-09
 - Add batch recap: 2026-04-09 000739.
+
+## 0.0.459 - 2026-04-09
+- Daily veille IA: repo already clean/synced; Gmail label `0 - Veille/IA` returned 0 message(s); `LIST.md` unchanged so 0 URL(s) added, 0 removed, and 0 email(s) trashed.

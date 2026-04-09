@@ -2657,3 +2657,10 @@
 - 2026-04-09 00:07:39 | agent | Processed article URL https://every.to/source-code/openclaw-setting-up-your-first-personal-ai-agent with title 'OpenClaw: Setting up your first personal AI agent' | files: src/2026-03/20260303-openclaw-setting-up-your-first-personal-ai-agent.md, LIST.md, README.md, .prompt-hub/version.md, .prompt-hub/releases.md | status: success | next: Continue scan-list queue
 - 2026-04-09 00:07:39 | agent | Processed article URL https://every.to/working-overtime/writing-with-ai-is-harder-than-you-think with title 'Writing With AI is Harder Than You Think' | files: src/2026-04/20260406-writing-with-ai-is-harder-than-you-think.md, LIST.md, README.md, .prompt-hub/version.md, .prompt-hub/releases.md | status: success | next: Continue scan-list queue
 - 2026-04-09 00:07:39 | agent | Created batch recap after processing scan-list queue | files: synthesis/2026-04-09 - 000739 - batch recap.md, .prompt-hub/version.md, .prompt-hub/releases.md | status: success | next: Verify recap and push all remaining changes
+
+## 2026-04-09 02:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: repository already clean/synced; Gmail label `0 - Veille/IA` returned 0 messages; `LIST.md` unchanged; no URLs added/removed; no emails trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260409-020100-veille-ia-extraire-urls-gmail.md`; `git status --short --branch`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 20 --json --no-input`; `LIST.md` (no change).
+- outcome: success
+- next_step: none
