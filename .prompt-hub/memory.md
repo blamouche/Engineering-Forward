@@ -2832,3 +2832,10 @@
 - files_changed_or_commands: `synthesis/2026-04-09 - 160000 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-160000-scan-list.md`.
 - outcome: success
 - next_step: Push all remaining commits.
+
+## 2026-04-09 16:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed and pushed pending local changes to restore a clean sync state, extracted 13 AI/app-dev URLs from 1 Gmail newsletter, resolved TLDR redirect links to canonical destinations, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and prepared the processed Gmail message for trash.
+- files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `curl -Ls -o /dev/null -w "%{url_effective}" <tldr links>`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260409-160100-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: Trash the processed Gmail message, commit the queue update, and push.

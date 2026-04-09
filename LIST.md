@@ -1,0 +1,13 @@
+https://ai.meta.com/blog/introducing-muse-spark-msl/
+https://www.anthropic.com/engineering/managed-agents
+https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/
+https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive
+https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/
+https://github.com/claw-eval/claw-eval
+https://cursor.com/blog/bugbot-learning
+https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html
+https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
+https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/
+https://huggingface.co/blog/ibm-research/altk-evolve
+https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/
+https://openai.com/index/next-phase-of-enterprise-ai/
