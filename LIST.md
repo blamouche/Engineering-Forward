@@ -1,4 +1,3 @@
-https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/
 https://github.com/claw-eval/claw-eval
 https://cursor.com/blog/bugbot-learning
 https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html
