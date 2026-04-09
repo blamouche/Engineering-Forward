@@ -1,3 +1,6 @@
+## 0.0.480 - 2026-04-09
+- Process article: Where Enterprises are Actually Adopting AI.
+
 ## 0.0.479 - 2026-04-09
 - Process article: Vera: A programming language designed for LLMs to write, not humans.
 
