@@ -1,3 +1,6 @@
+## 0.0.496 - 2026-04-09
+- Process article: Perplexity’s Shift to AI Agents Boosts Revenue 50%.
+
 ## 0.0.495 - 2026-04-09
 - Process article: ALTK-Evolve: On-the-Job Learning for AI Agents.
 
