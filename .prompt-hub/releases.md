@@ -1,3 +1,6 @@
+## 0.0.460 - 2026-04-09
+- Scheduled scan-list run: synced repository, found `LIST.md` empty, logged the run, and made no content changes.
+
 ## 0.0.442 - 2026-04-09
 - Daily veille IA correction: restored `Everyone Gets a Sidekick` in `LIST.md` because it is AI-relevant; kept `The Next Chapter of Every Consulting` removed.
 
