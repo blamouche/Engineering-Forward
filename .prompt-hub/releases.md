@@ -1,3 +1,6 @@
+## 0.0.472 - 2026-04-09
+- Process article: Meta's Superintelligence Lab unveils its first public model, Muse Spark.
+
 ## 0.0.471 - 2026-04-09
 - Daily veille IA: extracted 10 AI/app-dev URL(s) from 2 Gmail threads, rebuilt `LIST.md` from empty after resolving Substack redirects and filtering out finance-only links, removed 0 non-relevant queued URL(s), and trashed 2 processed email threads.
 

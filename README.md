@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | ███████████████████████████████████████████████████████████████████████████████████████████████████ 99<br>
 2026-02 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 148<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 195<br>
-2026-08 | █ 1<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 197
+
 ## Articles
 
 ### 2026
 
-#### April (196 articles)
+#### April (197 articles)
+- [Meta's Superintelligence Lab unveils its first public model, Muse Spark](src/2026-04/20260409-metas-superintelligence-lab-unveils-its-first-public-model-muse-spark.md)
 - [Here’s how you can secure access to the UK’s most powerful supercomputer](src/2026-04/20260409-heres-how-you-can-secure-access-to-the-uks-most-powerful-supercomputer.md)
 - [Every Is Half Agent Now](src/2026-04/20260408-every-is-half-agent-now.md)
 - [TDD, AI agents and coding with Kent Beck](src/2026-04/20260408-tdd-ai-agents-and-coding-with-kent-beck.md)
@@ -868,7 +869,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (1 articles)
+#### May (2 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 

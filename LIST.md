@@ -1,4 +1,3 @@
-https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/
 https://linas.substack.com/p/claudecodesource
 https://linas.substack.com/p/fintechpulse1066
 https://linas.substack.com/p/skill-graphs
