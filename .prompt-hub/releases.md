@@ -1,3 +1,6 @@
+## 0.0.463 - 2026-04-09
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repository was already clean aside from the new task log, so `LIST.md` stayed unchanged with 0 URL(s) added, 0 removed, and 0 email(s) trashed.
+
 ## 0.0.462 - 2026-04-09
 - Add substack post: AI is turning software process into product strategy.
 
