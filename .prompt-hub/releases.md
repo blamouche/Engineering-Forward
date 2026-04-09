@@ -1,3 +1,6 @@
+## 0.0.465 - 2026-04-09
+- Initialize veille IA task log for the 08:01 scheduled Gmail URL extraction run after loading prompt-hub context and creating the run todo file.
+
 ## 0.0.464 - 2026-04-09
 - Scheduled scan-list run: synced repository, found `LIST.md` empty, logged the run, and made no content changes.
 
