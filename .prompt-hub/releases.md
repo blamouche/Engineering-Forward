@@ -1,3 +1,6 @@
+## 0.0.466 - 2026-04-09
+- Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 1 processed email.
+
 ## 0.0.465 - 2026-04-09
 - Initialize veille IA task log for the 08:01 scheduled Gmail URL extraction run after loading prompt-hub context and creating the run todo file.
 

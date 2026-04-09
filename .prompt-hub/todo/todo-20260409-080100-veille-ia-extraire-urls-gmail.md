@@ -6,13 +6,16 @@ Exécuter la séquence quotidienne veille IA : extraire les URLs des emails Gmai
 ## Plan
 - [x] Lire lessons, memory, releases
 - [x] Créer ce fichier de tâche
-- [ ] Vérifier l’état du repo et de `LIST.md`
-- [ ] Extraire les URLs des emails Gmail label `0---veille-ia`
-- [ ] Normaliser, dédupliquer et filtrer IA/app-dev
-- [ ] Mettre à jour `LIST.md`
+- [x] Vérifier l’état du repo et de `LIST.md`
+- [x] Extraire les URLs des emails Gmail label `0---veille-ia`
+- [x] Normaliser, dédupliquer et filtrer IA/app-dev
+- [x] Mettre à jour `LIST.md`
 - [ ] Commit/push les changements requis
-- [ ] Mettre les emails traités à la corbeille
-- [ ] Mettre à jour prompt-hub (memory/version/releases) et finaliser
+- [x] Mettre les emails traités à la corbeille
+- [x] Mettre à jour prompt-hub (memory/version/releases) et finaliser
 
 ## Review
-- Pending
+- Un email Sifted traité.
+- 1 URL IA/app-dev conservée et ajoutée à `LIST.md`.
+- 0 URL supprimée de `LIST.md`.
+- Email traité préparé pour archivage définitif via corbeille Gmail.
