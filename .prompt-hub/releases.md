@@ -1,3 +1,6 @@
+## 0.0.500 - 2026-04-09
+- Add batch recap: 2026-04-09 - 180400; finalize scan-list run.
+
 ## 0.0.499 - 2026-04-09
 - Process article: How We Run a 25-person Company on Four AI Agents.
 
