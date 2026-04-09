@@ -2853,3 +2853,10 @@
 - files_changed_or_commands: `src/2026-04/20260408-introducing-muse-spark-scaling-towards-personal-superintelligence.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-180400-scan-list.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-09 18:04:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://www.anthropic.com/engineering/managed-agents`; created a new synthesis, updated README stats, and removed the URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260409-scaling-managed-agents-decoupling-the-brain-from-the-hands.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-180400-scan-list.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.

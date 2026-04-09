@@ -1,3 +1,6 @@
+## 0.0.486 - 2026-04-09
+- Process article: Scaling Managed Agents: Decoupling the brain from the hands.
+
 ## 0.0.485 - 2026-04-09
 - Process article: Introducing Muse Spark: Scaling Towards Personal Superintelligence.
 
