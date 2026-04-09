@@ -1,4 +1,3 @@
-https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive
 https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/
 https://github.com/claw-eval/claw-eval
 https://cursor.com/blog/bugbot-learning

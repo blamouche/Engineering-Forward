@@ -1,3 +1,6 @@
+## 0.0.488 - 2026-04-09
+- Process article: Inside the AI Industry's Most Expensive Mistake.
+
 ## 0.0.487 - 2026-04-09
 - Process article: Introducing Learn Mode: your personal coding tutor in Google Colab.
 
