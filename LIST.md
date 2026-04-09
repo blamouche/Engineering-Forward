@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
 https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/
 https://huggingface.co/blog/ibm-research/altk-evolve
 https://www.pymnts.com/artificial-intelligence-2/2026/perplexitys-shift-to-ai-agents-boosts-revenue-50/

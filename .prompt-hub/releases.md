@@ -1,3 +1,6 @@
+## 0.0.493 - 2026-04-09
+- Process article: Poke makes using AI agents as easy as sending a text.
+
 ## 0.0.492 - 2026-04-09
 - Process article: Anthropic loses appeals court bid to temporarily block Pentagon blacklisting.
 
