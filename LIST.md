@@ -1,4 +1,3 @@
-https://linas.substack.com/p/fintechpulse1066
 https://linas.substack.com/p/skill-graphs
 https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html
 https://piecechowski.io/post/git-commands-before-reading-code/

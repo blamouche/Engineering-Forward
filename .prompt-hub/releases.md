@@ -1,3 +1,6 @@
+## 0.0.474 - 2026-04-09
+- Process article: Anthropic’s Managed Agents: The AI Infrastructure Play.
+
 ## 0.0.473 - 2026-04-09
 - Process article: Anthropic accidentally leaked Claude Code’s entire source.
 
