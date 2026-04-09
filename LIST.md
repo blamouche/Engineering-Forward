@@ -1,4 +1,3 @@
-https://github.com/claw-eval/claw-eval
 https://cursor.com/blog/bugbot-learning
 https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html
 https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
