@@ -1,3 +1,6 @@
+## 0.0.481 - 2026-04-09
+- Process article: Anthropic launches Claude Managed Agents for businesses.
+
 ## 0.0.480 - 2026-04-09
 - Process article: Where Enterprises are Actually Adopting AI.
 

@@ -2818,3 +2818,10 @@
 - files_changed_or_commands: `src/2026-04/20260409-where-enterprises-are-actually-adopting-ai.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-160000-scan-list.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-09 16:00:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/`; created a new synthesis, updated README stats, and removed the URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260409-anthropic-launches-claude-managed-agents-for-businesses.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-160000-scan-list.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
