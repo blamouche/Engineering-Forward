@@ -2958,3 +2958,10 @@
 - files_changed_or_commands: `synthesis/2026-04-09 - 180400 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-180400-scan-list.md`.
 - outcome: success
 - next_step: Push all remaining commits.
+
+## 2026-04-09 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 messages; `LIST.md` stayed unchanged; no URLs were added or removed; no emails were trashed. Committed pending local repo changes to restore a clean synced state.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260409-200100-veille-ia.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git status --short --branch`; `.prompt-hub/todo/scan_list_runner_20260409_180400.py`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none

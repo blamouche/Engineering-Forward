@@ -1,3 +1,6 @@
+## 0.0.501 - 2026-04-09
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed unchanged, 0 URL(s) added, 0 non-relevant URL(s) removed, 0 email(s) trashed; committed pending local changes to restore a clean synced repo state.
+
 ## 0.0.500 - 2026-04-09
 - Add batch recap: 2026-04-09 - 180400; finalize scan-list run.
 
