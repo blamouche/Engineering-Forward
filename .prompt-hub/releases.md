@@ -1,3 +1,6 @@
+## 0.0.475 - 2026-04-09
+- Process article: Skill Graphs: Fix Your AI Agent's Context Problem.
+
 ## 0.0.474 - 2026-04-09
 - Process article: Anthropic’s Managed Agents: The AI Infrastructure Play.
 

@@ -1,4 +1,3 @@
-https://linas.substack.com/p/skill-graphs
 https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html
 https://piecechowski.io/post/git-commands-before-reading-code/
 https://polypane.app/blog/the-intl-api-the-best-browser-api-youre-not-using/
