@@ -1,3 +1,6 @@
+## 0.0.503 - 2026-04-10
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was empty so 0 URL(s) added, 0 non-relevant URL(s) removed, and 0 email(s) trashed.
+
 ## 0.0.502 - 2026-04-09
 - Daily veille IA: extracted 0 AI/app-dev URL(s) from 0 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 0 processed email(s).
 

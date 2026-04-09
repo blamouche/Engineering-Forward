@@ -2972,3 +2972,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify  --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-200100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-10 00:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 messages; `LIST.md` was empty, so no URLs were added or removed and no emails were trashed. Logged the no-op run and prepared the cleanup commit.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260410-000200-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `LIST.md` (empty check); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the no-op run log.
