@@ -1,3 +1,6 @@
+## 0.0.497 - 2026-04-09
+- Process article: The next phase of enterprise AI.
+
 ## 0.0.496 - 2026-04-09
 - Process article: Perplexity’s Shift to AI Agents Boosts Revenue 50%.
 
