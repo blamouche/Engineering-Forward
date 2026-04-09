@@ -2685,3 +2685,10 @@
 - files_changed_or_commands: `LIST.md` (no change); `gog gmail messages search "label:0---veille-ia" --max 100 --json --no-input`.
 - outcome: success
 - next_step: none
+
+## 2026-04-09 05:00:00 +0200
+- actor: agent
+- action: Executed `substack-post-recents` from the 15 most recent `README.md` article entries; drafted a new Substack essay focused on AI shifting software advantage toward process, release discipline, and operational control; synced `substack/latest.md`.
+- files_changed_or_commands: `README.md` parsing for latest 15 article links; `substack/20260409-post-ai-is-turning-software-process-into-product-strategy.md`; `substack/latest.md`; `.prompt-hub/todo/todo-20260409-050000-substack-post-recents.md`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, push, and return the title + file link.
