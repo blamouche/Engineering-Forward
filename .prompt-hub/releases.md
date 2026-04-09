@@ -1,3 +1,6 @@
+## 0.0.478 - 2026-04-09
+- Process article: The Intl API: The best browser API you're not using.
+
 ## 0.0.477 - 2026-04-09
 - Process article error: https://piecechowski.io/post/git-commands-before-reading-code/.
 
