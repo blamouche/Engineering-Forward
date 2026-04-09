@@ -1,3 +1,6 @@
+## 0.0.476 - 2026-04-09
+- Process article: Feedback Flywheel.
+
 ## 0.0.475 - 2026-04-09
 - Process article: Skill Graphs: Fix Your AI Agent's Context Problem.
 
