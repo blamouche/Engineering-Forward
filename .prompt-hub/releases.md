@@ -1,3 +1,6 @@
+## 0.0.477 - 2026-04-09
+- Process article error: https://piecechowski.io/post/git-commands-before-reading-code/.
+
 ## 0.0.476 - 2026-04-09
 - Process article: Feedback Flywheel.
 
