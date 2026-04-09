@@ -1,3 +1,6 @@
+## 0.0.495 - 2026-04-09
+- Process article: ALTK-Evolve: On-the-Job Learning for AI Agents.
+
 ## 0.0.494 - 2026-04-09
 - Process article: Apple Shows Its Cards, Plans To Move The Production Of Its Upcoming Baltra ASIC In-House.
 
