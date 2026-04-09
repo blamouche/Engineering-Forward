@@ -1,3 +1,6 @@
+## 0.0.473 - 2026-04-09
+- Process article: Anthropic accidentally leaked Claude Code’s entire source.
+
 ## 0.0.472 - 2026-04-09
 - Process article: Meta's Superintelligence Lab unveils its first public model, Muse Spark.
 
