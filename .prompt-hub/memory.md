@@ -2846,3 +2846,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `curl -Ls -o /dev/null -w "%{url_effective}" <tldr links>`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260409-160100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: Trash the processed Gmail message, commit the queue update, and push.
+
+## 2026-04-09 18:04:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://ai.meta.com/blog/introducing-muse-spark-msl/`; created a new synthesis, updated README stats, and removed the URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260408-introducing-muse-spark-scaling-towards-personal-superintelligence.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260409-180400-scan-list.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.

@@ -1,4 +1,3 @@
-https://ai.meta.com/blog/introducing-muse-spark-msl/
 https://www.anthropic.com/engineering/managed-agents
 https://blog.google/innovation-and-ai/technology/developers-tools/colab-updates/
 https://www.thealgorithmicbridge.com/p/inside-the-ai-industrys-most-expensive
