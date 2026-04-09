@@ -2965,3 +2965,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260409-200100-veille-ia.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git status --short --branch`; `.prompt-hub/todo/scan_list_runner_20260409_180400.py`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-09 22:03:09 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 0 AI/app-dev URLs from Gmail label `0---veille-ia`, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 0 processed emails.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify  --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260408-200100-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none

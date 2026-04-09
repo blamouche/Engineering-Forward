@@ -7,12 +7,12 @@
 ## Plan
 - [x] Load prompt-hub context
 - [x] Create this task file
-- [ ] Clean/sync repo if needed
-- [ ] Extract URLs from Gmail label 0---veille-ia
-- [ ] Update LIST.md with dedupe/filter
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking/versioning
+- [x] Clean/sync repo if needed
+- [x] Extract URLs from Gmail label 0---veille-ia
+- [x] Update LIST.md with dedupe/filter
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking/versioning
 - [ ] Commit and push
 
 ## Review
-- Pending
+- Added 0 URL(s), removed 0 URL(s), trashed 0 email(s).
