@@ -1,3 +1,6 @@
+## 0.0.492 - 2026-04-09
+- Process article: Anthropic loses appeals court bid to temporarily block Pentagon blacklisting.
+
 ## 0.0.491 - 2026-04-09
 - Process article: Bugbot now self-improves with learned rules.
 
