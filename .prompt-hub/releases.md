@@ -1,3 +1,6 @@
+## 0.0.479 - 2026-04-09
+- Process article: Vera: A programming language designed for LLMs to write, not humans.
+
 ## 0.0.478 - 2026-04-09
 - Process article: The Intl API: The best browser API you're not using.
 
