@@ -1,3 +1,6 @@
+## 0.0.491 - 2026-04-09
+- Process article: Bugbot now self-improves with learned rules.
+
 ## 0.0.490 - 2026-04-09
 - Process article: Claw-Eval: End-to-End Transparent Benchmark for AI Agents in the Real World.
 

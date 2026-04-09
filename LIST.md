@@ -1,4 +1,3 @@
-https://cursor.com/blog/bugbot-learning
 https://www.cnbc.com/2026/04/08/anthropic-pentagon-court-ruling-supply-chain-risk.html
 https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/
 https://wccftech.com/apple-shows-its-cards-plans-to-move-the-production-of-its-upcoming-baltra-asic-in-house/
