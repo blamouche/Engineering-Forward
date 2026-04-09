@@ -1,3 +1,6 @@
+## 0.0.467 - 2026-04-09
+- Process article: Here’s how you can secure access to the UK’s most powerful supercomputer.
+
 ## 0.0.466 - 2026-04-09
 - Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 1 processed email.
 

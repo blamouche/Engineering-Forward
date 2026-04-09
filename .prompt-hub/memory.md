@@ -2720,3 +2720,10 @@
 - files_changed_or_commands: `git add .prompt-hub/*`; `git commit -m "Initialize veille IA task log"`; `git push origin main`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d707954bdcea1c --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260409-080100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: Finalize the todo review, commit the queue update, and push.
+
+## 2026-04-09 09:04:02 +0200
+- actor: agent
+- action: Processed scan-list URL `https://sifted.eu/articles/isambard-uk-supercomputer/` from a Sifted tracking link, created a synthesis, updated README statistics/month count, removed the queued URL from `LIST.md`, and created/verified the batch recap `synthesis/2026-04-09 - 160000 - batch recap.md`.
+- files_changed_or_commands: `src/2026-04/20260409-heres-how-you-can-secure-access-to-the-uks-most-powerful-supercomputer.md`; `README.md`; `LIST.md`; `synthesis/2026-04-09 - 160000 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260409-160000-scan-list.md`.
+- outcome: success
+- next_step: Commit the process-article change, then commit the batch recap and push all remaining changes.

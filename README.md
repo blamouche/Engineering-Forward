@@ -28,7 +28,8 @@ Articles per month:
 
 ### 2026
 
-#### April (195 articles)
+#### April (196 articles)
+- [Here’s how you can secure access to the UK’s most powerful supercomputer](src/2026-04/20260409-heres-how-you-can-secure-access-to-the-uks-most-powerful-supercomputer.md)
 - [Every Is Half Agent Now](src/2026-04/20260408-every-is-half-agent-now.md)
 - [TDD, AI agents and coding with Kent Beck](src/2026-04/20260408-tdd-ai-agents-and-coding-with-kent-beck.md)
 - [Building a best-selling game with a tiny team – with Jonas Tyroller](src/2026-04/20260408-building-a-best-selling-game-with-a-tiny-team-jonas-tyroller.md)
