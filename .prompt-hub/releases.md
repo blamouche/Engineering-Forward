@@ -1,3 +1,6 @@
+## 0.0.487 - 2026-04-09
+- Process article: Introducing Learn Mode: your personal coding tutor in Google Colab.
+
 ## 0.0.486 - 2026-04-09
 - Process article: Scaling Managed Agents: Decoupling the brain from the hands.
 
