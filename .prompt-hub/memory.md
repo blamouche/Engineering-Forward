@@ -1,5 +1,12 @@
 # Memory Log
 
+## 2026-04-09 18:02:23 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context, inspected `LIST.md`, extracted 2 relevant AI/app-dev article URLs from Gmail label `0---veille-ia`, appended them to the queue with dedupe preserved, and trashed 2 processed emails.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260409-180223-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`; `gog gmail messages search "label:0---veille-ia" --max 20 --json --include-body --no-input`; `gog gmail batch modify 19d72e05f447a4d1 19d72c348b19901d --add TRASH --no-input --force`; `LIST.md`.
+- outcome: success
+- next_step: Update prompt-hub version/releases, commit, and push.
+
 ## 2026-04-06 10:01:00 +0200
 - actor: agent
 - action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for scheduled cron run.
