@@ -15,7 +15,7 @@ Articles per month:
 2025-05 | █ 2<br>
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
-2025-09 | █ 1<br>
+2025-09 | █ 2<br>
 2025-10 | █ 3<br>
 2025-11 | █ 1<br>
 2025-12 | █ 2<br>
@@ -903,7 +903,8 @@ Articles per month:
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)
 - [Reasoning boosts search relevance 15-30%](src/2025-10/20251006-reasoning-boosts-search-relevance.md)
 
-#### September (1 article)
+#### September (2 articles)
+- [Tinker](src/2025-09/20250916-tinker.md)
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
 
 #### August (1 article)
