@@ -1,4 +1,3 @@
-https://every.to/playtesting/the-market-for-making-ai-better
 https://every.to/thesis/two-ways-to-win-in-the-post-software-era
 https://every.to/playtesting/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent-299b5938-09dd-4881-803f-aea21f0d461f
 https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m
