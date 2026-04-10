@@ -1,4 +1,3 @@
-https://www.theguardian.com/media/2026/mar/04/news-corp-meta-ai-deal-us50m
 https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c
 https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion
 https://www.appliedcompute.com/case-studies/mercor

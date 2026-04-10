@@ -21,7 +21,7 @@ Articles per month:
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
-2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
+2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████ 230
 
 ## Articles
@@ -259,7 +259,8 @@ Articles per month:
 - [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
 - [58% of PRs in our largest monorepo merge without human review](src/2026-04/20260406-58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review.md)
 - [10 AI Prompt Skills That Actually Change How ChatGPT, Claude, and Gemini Respond](src/2026-04/20260403-10-ai-prompt-skills-linas-beliunas.md)
-#### March (369 articles)
+#### March (370 articles)
+- [News Corp is essentially an AI ‘input company’, chief executive says, after US$150m deal with Meta](src/2026-03/20260304-news-corp-is-essentially-an-ai-input-company-chief-executive-says-after-us-150m-deal-with-meta.md)
 - [From skeptic to true believer: How OpenClaw changed my life | Claire Vo](src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md)
 - [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)
 - [EP208: Load Balancer vs API Gateway](src/2026-03/20260328-ep208-load-balancer-vs-api-gateway.md)

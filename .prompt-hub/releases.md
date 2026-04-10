@@ -1,3 +1,6 @@
+## 0.0.535 - 2026-04-10
+- Process article: News Corp is essentially an AI ‘input company’, chief executive says, after US$150m deal with Meta.
+
 ## 0.0.534 - 2026-04-10
 - Process article: We Trained an AI on a Board Game. It Became a Better Customer Support Agent..
 
