@@ -1,4 +1,3 @@
-https://blog.skypilot.co/research-driven-agents
 https://decrypt.co/363837/googles-paperorchestra-ai-converts-lab-notes-into-publication-ready-research-papers
 https://every.to/playtesting/the-market-for-making-ai-better
 https://every.to/thesis/two-ways-to-win-in-the-post-software-era

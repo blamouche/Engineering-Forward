@@ -1,3 +1,6 @@
+## 0.0.530 - 2026-04-10
+- Process article: Research-Driven Agents: What Happens When Your Agent Reads Before It Codes.
+
 ## 0.0.529 - 2026-04-10
 - Process article: Agentic Infrastructure.
 
