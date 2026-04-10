@@ -1,3 +1,6 @@
+## 0.0.513 - 2026-04-10
+- Daily veille IA: extracted 8 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
+
 ## 0.0.512 - 2026-04-10
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was clean/synced; `LIST.md` stayed unchanged so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
 

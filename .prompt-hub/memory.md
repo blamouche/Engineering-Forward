@@ -3049,3 +3049,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260410-120359-scan-list.md`; `git pull --rebase`; `LIST.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-10 14:03:34 +0200
+- actor: agent
+- action: Daily veille IA: extracted 8 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
+- files_changed_or_commands: `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19d7711e2eb22a45 19d76e2b4aaf1b8f --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260410-140330-veille-ia.md`.
+- outcome: success
+- next_step: none
