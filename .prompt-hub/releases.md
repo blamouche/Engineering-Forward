@@ -1,3 +1,6 @@
+## 0.0.509 - 2026-04-10
+- Process article: Revolut rolls out AI assistant as part of product expansion push.
+
 ## 0.0.508 - 2026-04-10
 - Daily veille IA: restored a clean synced repo state, extracted 1 AI/app-dev URL from the Sifted newsletter, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 1 processed email.
 

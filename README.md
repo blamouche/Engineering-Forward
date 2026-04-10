@@ -28,7 +28,8 @@ Articles per month:
 
 ### 2026
 
-#### April (218 articles)
+#### April (219 articles)
+- [Revolut rolls out AI assistant as part of product expansion push](src/2026-04/20260410-revolut-rolls-out-ai-assistant-as-part-of-product-expansion-push.md)
 - [How We Run a 25-person Company on Four AI Agents](src/2026-04/20260409-how-we-run-a-25-person-company-on-four-ai-agents.md)
 - [Must-Know Cross-Cutting Concerns in API Development](src/2026-04/20260409-must-know-cross-cutting-concerns-in-api-development.md)
 - [The next phase of enterprise AI](src/2026-04/20260409-the-next-phase-of-enterprise-ai.md)
