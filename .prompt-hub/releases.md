@@ -1,3 +1,6 @@
+## 0.0.510 - 2026-04-10
+- Add batch recap: 2026-04-10 090327.
+
 ## 0.0.509 - 2026-04-10
 - Process article: Revolut rolls out AI assistant as part of product expansion push.
 
