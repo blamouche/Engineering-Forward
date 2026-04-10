@@ -1,3 +1,6 @@
+## 0.0.544 - 2026-04-10
+- Process article: Compound Engineering.
+
 ## 0.0.543 - 2026-04-10
 - Process article: Cognition | An Early Preview of SWE.
 

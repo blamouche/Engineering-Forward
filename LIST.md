@@ -1,4 +1,3 @@
-https://every.to/guides/compound-engineering
 https://www.primeintellect.ai/blog/lab
 https://unsloth.ai/
 https://thinkingmachines.ai/tinker
