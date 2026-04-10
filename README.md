@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████ 242
+2026-04 | █████████████████████████████████████████████████████████████████████████████████ 243
 
 ## Articles
 
 ### 2026
 
-#### April (242 articles)
+#### April (243 articles)
+- [The AI Data Center Backlash is Now Impossible to Ignore](src/2026-04/20260411-the-ai-data-center-backlash-is-now-impossible-to-ignore.md)
 - [Introducing KellyBench](src/2026-04/20260410-introducing-kellybench.md)
 - [Sol](src/2026-04/20260410-sol.md)
 - [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](src/2026-04/20260410-think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning.md)

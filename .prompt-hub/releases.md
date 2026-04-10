@@ -1,3 +1,6 @@
+## 0.0.559 - 2026-04-11
+- Process article: The AI Data Center Backlash is Now Impossible to Ignore.
+
 ## 0.0.558 - 2026-04-11
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean/synced; `LIST.md` stayed unchanged so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
 
