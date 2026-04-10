@@ -1,3 +1,6 @@
+## 0.0.550 - 2026-04-10
+- Process article: Multimodal Embedding & Reranker Models with Sentence Transformers.
+
 ## 0.0.549 - 2026-04-10
 - Process article: Anthropic launches advisor tool for Claude API users.
 

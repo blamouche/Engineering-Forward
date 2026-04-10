@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████ 238
+2026-04 | ████████████████████████████████████████████████████████████████████████████████ 239
 
 ## Articles
 
 ### 2026
 
-#### April (238 articles)
+#### April (239 articles)
+- [Multimodal Embedding & Reranker Models with Sentence Transformers](src/2026-04/20260410-multimodal-embedding-reranker-models-with-sentence-transformers.md)
 - [Anthropic launches advisor tool for Claude API users](src/2026-04/20260409-anthropic-launches-advisor-tool-for-claude-api-users.md)
 - [Making Claude Cowork ready for enterprise](src/2026-04/20260410-making-claude-cowork-ready-for-enterprise.md)
 - [Unsloth](src/2026-04/20260410-unsloth.md)
