@@ -1,3 +1,6 @@
+## 0.0.556 - 2026-04-10
+- Prepare clean synced repo state for the 22:01 veille IA run by tracking the new task log before URL processing.
+
 ## 0.0.555 - 2026-04-10
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean/synced; `LIST.md` stayed unchanged so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
 

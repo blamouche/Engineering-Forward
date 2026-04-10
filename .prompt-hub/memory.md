@@ -3343,3 +3343,10 @@
 - files_changed_or_commands: `synthesis/2026-04-10 - 180600 - batch recap.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260410-180600-scan-list.md`
 - outcome: success
 - next_step: Push all remaining commits.
+
+## 2026-04-10 22:01:00 +0200
+- actor: agent
+- action: Initialized the 22:01 veille IA task by creating the dedicated todo file and preparing a cleanup commit so the repository is clean before running add-url.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260410-220100-veille-ia.md, .prompt-hub/version.md, .prompt-hub/releases.md`
+- outcome: success
+- next_step: Commit and push the cleanup state, then process Gmail URLs.
