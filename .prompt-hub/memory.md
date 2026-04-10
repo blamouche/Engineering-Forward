@@ -1,3 +1,10 @@
+## 2026-04-10 16:02:29 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context and creating the scheduled todo for Gmail URL extraction.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260410-160229-veille-ia.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.
+
 # Memory Log
 
 ## 2026-04-09 18:02:23 +0200
