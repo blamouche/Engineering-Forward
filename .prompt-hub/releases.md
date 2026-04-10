@@ -1,3 +1,6 @@
+## 0.0.529 - 2026-04-10
+- Process article: Agentic Infrastructure.
+
 ## 0.0.528 - 2026-04-10
 - Process article error: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans.
 
