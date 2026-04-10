@@ -1,3 +1,6 @@
+## 0.0.533 - 2026-04-10
+- Process article: Two Ways to Win in the Post.
+
 ## 0.0.532 - 2026-04-10
 - Process article: The Market for Making AI Better.
 

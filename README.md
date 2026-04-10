@@ -18,7 +18,7 @@ Articles per month:
 2025-09 | █ 1<br>
 2025-10 | █ 2<br>
 2025-11 | █ 1<br>
-2025-12 | █ 1<br>
+2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
@@ -883,7 +883,8 @@ Articles per month:
 
 ### 2025
 
-#### December (1 article)
+#### December (2 articles)
+- [Two Ways to Win in the Post](src/2025-12/20251208-two-ways-to-win-in-the-post.md)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
