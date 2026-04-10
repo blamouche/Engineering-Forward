@@ -1,3 +1,6 @@
+## 0.0.527 - 2026-04-10
+- Daily veille IA correction: restored 6 valid AI/app-dev URL(s) in `LIST.md` after an over-aggressive cleanup pass.
+
 ## 0.0.526 - 2026-04-10
 - Daily veille IA: extracted 16 AI/app-dev URL(s) from 1 Gmail message(s), updated `LIST.md` via add-url workflow, removed 6 non-relevant queued URL(s), and trashed 1 processed email(s).
 

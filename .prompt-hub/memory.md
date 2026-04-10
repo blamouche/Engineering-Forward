@@ -3140,3 +3140,10 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260410-180200-veille-ia.md`.
 - outcome: success
 - next_step: Trash processed Gmail messages, commit the queue update, and push.
+
+## 2026-04-10 18:08:00 +0200
+- actor: agent
+- action: Daily veille IA correction: restored 6 valid AI/app-dev URLs in `LIST.md` after an over-aggressive cleanup pass.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none
