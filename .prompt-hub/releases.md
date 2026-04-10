@@ -1,3 +1,6 @@
+## 0.0.549 - 2026-04-10
+- Process article: Anthropic launches advisor tool for Claude API users.
+
 ## 0.0.548 - 2026-04-10
 - Process article: Making Claude Cowork ready for enterprise.
 

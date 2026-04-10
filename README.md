@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████ 237
+2026-04 | ████████████████████████████████████████████████████████████████████████████████ 238
 
 ## Articles
 
 ### 2026
 
-#### April (237 articles)
+#### April (238 articles)
+- [Anthropic launches advisor tool for Claude API users](src/2026-04/20260409-anthropic-launches-advisor-tool-for-claude-api-users.md)
 - [Making Claude Cowork ready for enterprise](src/2026-04/20260410-making-claude-cowork-ready-for-enterprise.md)
 - [Unsloth](src/2026-04/20260410-unsloth.md)
 - [Introducing Lab: The Full-Stack Platform for Training your Own Models](src/2026-04/20260410-introducing-lab-the-full-stack-platform-for-training-your-own-models.md)
