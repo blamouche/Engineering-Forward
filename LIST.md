@@ -1,4 +1,3 @@
-https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c
 https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion
 https://www.appliedcompute.com/case-studies/mercor
 https://simonwillison.net/2025/Jun/6/six-months-in-llms

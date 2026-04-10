@@ -1,3 +1,6 @@
+## 0.0.536 - 2026-04-10
+- Process article: Mercor quintuples valuation to $10B with $350M Series C.
+
 ## 0.0.535 - 2026-04-10
 - Process article: News Corp is essentially an AI ‘input company’, chief executive says, after US$150m deal with Meta.
 
