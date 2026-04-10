@@ -3000,3 +3000,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260410-060200-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 50 --json --include-body --no-input`; `LIST.md` (empty check); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the no-op run log.
+
+## 2026-04-10 08:03:50 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context, inspected repo status, and found 1 Gmail newsletter to parse for AI/app-dev URLs.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260410-080217-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search "label:0---veille-ia" --max 20 --json --include-body --no-input`; `git status --short`; `LIST.md` (empty check).
+- outcome: success
+- next_step: Commit pending tracking files to restore a clean synced repo state, then update `LIST.md` and trash the processed email.
