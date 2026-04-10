@@ -20,7 +20,7 @@ Articles per month:
 2025-11 | █ 1<br>
 2025-12 | █ 2<br>
 2026-01 | █████████████████████████████████ 99<br>
-2026-02 | ██████████████████████████████████████████████████ 148<br>
+2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████ 231
 
@@ -632,7 +632,8 @@ Articles per month:
 - [Dario's Choice and Anthropic's Future](src/2026-03/20260303-darios-choice-and-anthropics-future.md)
 - [The design process is dead. Here's what's replacing it.](src/2026-03/20260301-the-design-process-is-dead-heres-whats-replacing-it.md)
 
-#### February (148 articles)
+#### February (149 articles)
+- [Building State-of-the](src/2026-02/20260224-building-state-of-the.md)
 - [Vibe Check: Opus 4.6—The Best Coding Model We’ve Tested (With Some Maddening Habits)](src/2026-02/20260205-vibe-check-opus-4-6-the-best-coding-model-weve-tested-with-some-maddening-habits.md)
 - [OpenAI's New Codex App Is Gold for Senior Engineers](src/2026-02/20260202-openais-new-codex-app-is-gold-for-senior-engineers.md)
 - [CoderPad State of Tech Hiring 2026](src/2026-02/20260211-coderpad-state-of-tech-hiring-2026.md)

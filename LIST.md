@@ -1,4 +1,3 @@
-https://www.appliedcompute.com/case-studies/mercor
 https://simonwillison.net/2025/Jun/6/six-months-in-llms
 https://arxiv.org/pdf/2603.01203
 https://every.to/vibe-check/cursor
