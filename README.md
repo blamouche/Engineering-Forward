@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████ 236
+2026-04 | ███████████████████████████████████████████████████████████████████████████████ 237
 
 ## Articles
 
 ### 2026
 
-#### April (236 articles)
+#### April (237 articles)
+- [Making Claude Cowork ready for enterprise](src/2026-04/20260410-making-claude-cowork-ready-for-enterprise.md)
 - [Unsloth](src/2026-04/20260410-unsloth.md)
 - [Introducing Lab: The Full-Stack Platform for Training your Own Models](src/2026-04/20260410-introducing-lab-the-full-stack-platform-for-training-your-own-models.md)
 - [Cognition | An Early Preview of SWE](src/2026-04/20260410-cognition-an-early-preview-of-swe.md)

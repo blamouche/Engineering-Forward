@@ -1,3 +1,6 @@
+## 0.0.548 - 2026-04-10
+- Process article: Making Claude Cowork ready for enterprise.
+
 ## 0.0.547 - 2026-04-10
 - Process article: Tinker.
 
