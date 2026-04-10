@@ -1,3 +1,6 @@
+## 0.0.560 - 2026-04-11
+- Add batch recap: 2026-04-11 000348.
+
 ## 0.0.559 - 2026-04-11
 - Process article: The AI Data Center Backlash is Now Impossible to Ignore.
 
