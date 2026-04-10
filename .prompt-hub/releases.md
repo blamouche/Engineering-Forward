@@ -1,3 +1,6 @@
+## 0.0.557 - 2026-04-10
+- Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, added the canonical Big Technology article to `LIST.md`, removed 0 non-relevant URL(s), and trashed 1 processed email thread.
+
 ## 0.0.556 - 2026-04-10
 - Prepare clean synced repo state for the 22:01 veille IA run by tracking the new task log before URL processing.
 
