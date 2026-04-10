@@ -1,3 +1,6 @@
+## 0.0.553 - 2026-04-10
+- Process article: Introducing KellyBench.
+
 ## 0.0.552 - 2026-04-10
 - Process article: Sol.
 
