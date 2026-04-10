@@ -1,3 +1,10 @@
+## 2026-04-10 16:05:00 +0200
+- actor: agent
+- action: Daily veille IA run: extracted 10 AI/app-dev URLs from the TLDR AI Gmail message, normalized/deduped them into `LIST.md`, removed 0 non-relevant queued URLs, and prepared the processed email for trash.
+- files_changed_or_commands: `gog gmail get 19d778ffdaf8263b --json --format=full --no-input`; `curl -Ls -o /dev/null -w '%{url_effective}' <TLDR shortlinks>`; `LIST.md`; `gog gmail batch modify 19d778ffdaf8263b --add TRASH --no-input --force`.
+- outcome: success
+- next_step: Commit and push the queue update.
+
 ## 2026-04-10 16:02:29 +0200
 - actor: agent
 - action: Initialized veille IA task file after loading prompt-hub context and creating the scheduled todo for Gmail URL extraction.

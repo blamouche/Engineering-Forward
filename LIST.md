@@ -1,0 +1,10 @@
+https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans
+https://claude.com/blog/cowork-for-enterprise
+https://vercel.com/blog/agentic-infrastructure
+https://blog.skypilot.co/research-driven-agents
+https://www.testingcatalog.com/anthropic-launches-advisor-tool-for-claude-platform-api-users
+https://huggingface.co/blog/multimodal-sentence-transformers
+https://arxiv.org/abs/2604.04746
+https://nvlabs.github.io/Sana/Sol-RL
+https://www.gr.inc/releases/introducing-kellybench
+https://decrypt.co/363837/googles-paperorchestra-ai-converts-lab-notes-into-publication-ready-research-papers
