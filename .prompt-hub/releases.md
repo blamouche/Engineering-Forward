@@ -1,3 +1,6 @@
+## 0.0.554 - 2026-04-10
+- Add batch recap: 2026-04-10 180600.
+
 ## 0.0.553 - 2026-04-10
 - Process article: Introducing KellyBench.
 
