@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████ 239
+2026-04 | ████████████████████████████████████████████████████████████████████████████████ 240
 
 ## Articles
 
 ### 2026
 
-#### April (239 articles)
+#### April (240 articles)
+- [Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning](src/2026-04/20260410-think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning.md)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](src/2026-04/20260410-multimodal-embedding-reranker-models-with-sentence-transformers.md)
 - [Anthropic launches advisor tool for Claude API users](src/2026-04/20260409-anthropic-launches-advisor-tool-for-claude-api-users.md)
 - [Making Claude Cowork ready for enterprise](src/2026-04/20260410-making-claude-cowork-ready-for-enterprise.md)
