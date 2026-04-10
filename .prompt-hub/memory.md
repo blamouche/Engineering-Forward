@@ -3112,3 +3112,10 @@
 - files_changed_or_commands: `src/2026-04/20260410-the-definitive-guide-to-perplexity-computer-april-2026.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260410-150308-scan-list.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-10 15:04:27 +0200
+- actor: agent
+- action: Created and verified `synthesis/2026-04-10 - 150427 - batch recap.md`; confirmed all processed syntheses are listed, LIST.md is empty, and the scan-list run is ready to push.
+- files_changed_or_commands: `synthesis/2026-04-10 - 150427 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260410-150308-scan-list.md`.
+- outcome: success
+- next_step: Push all remaining commits.

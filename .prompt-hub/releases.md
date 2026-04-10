@@ -1,3 +1,6 @@
+## 0.0.522 - 2026-04-10
+- Add batch recap: 2026-04-10 - 150427; finalize scan-list run.
+
 ## 0.0.521 - 2026-04-10
 - Process article: The Definitive Guide to Perplexity Computer (April 2026).
 
