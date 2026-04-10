@@ -1,3 +1,6 @@
+## 0.0.543 - 2026-04-10
+- Process article: Cognition | An Early Preview of SWE.
+
 ## 0.0.542 - 2026-04-10
 - Process article: AI at Pinterest.
 

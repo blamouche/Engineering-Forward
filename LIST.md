@@ -1,4 +1,3 @@
-https://cognition.ai/blog/swe-1-6-preview
 https://every.to/guides/compound-engineering
 https://www.primeintellect.ai/blog/lab
 https://unsloth.ai/
