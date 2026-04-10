@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████ 232
+2026-04 | ██████████████████████████████████████████████████████████████████████████████ 233
 
 ## Articles
 
 ### 2026
 
-#### April (232 articles)
+#### April (233 articles)
+- [AI at Pinterest](src/2026-04/20260410-ai-at-pinterest.md)
 - [The last six months in LLMs, illustrated by pelicans on bicycles](src/2026-04/20260410-the-last-six-months-in-llms-illustrated-by-pelicans-on-bicycles.md)
 - [Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident](src/2026-04/20260410-mercor-a-10-billion-ai-startup-confirms-it-was-caught-up-in-a-major-security-incident.md)
 - [The Market for Making AI Better](src/2026-04/20260410-the-market-for-making-ai-better.md)
