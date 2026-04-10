@@ -1,3 +1,6 @@
+## 0.0.552 - 2026-04-10
+- Process article: Sol.
+
 ## 0.0.551 - 2026-04-10
 - Process article: Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning.
 
