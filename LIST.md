@@ -1,4 +1,3 @@
-https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans
 https://vercel.com/blog/agentic-infrastructure
 https://blog.skypilot.co/research-driven-agents
 https://decrypt.co/363837/googles-paperorchestra-ai-converts-lab-notes-into-publication-ready-research-papers

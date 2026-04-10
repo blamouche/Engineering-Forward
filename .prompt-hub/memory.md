@@ -3147,3 +3147,10 @@
 - files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-10 18:06:00 +0200
+- actor: agent
+- action: Failed to process scan-list URL `https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans`; removed it from LIST.md and logged the error.
+- files_changed_or_commands: `LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`
+- outcome: partial_success
+- next_step: Continue with next URL in LIST.md.

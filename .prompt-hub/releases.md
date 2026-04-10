@@ -1,3 +1,6 @@
+## 0.0.528 - 2026-04-10
+- Process article error: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-plans.
+
 ## 0.0.527 - 2026-04-10
 - Daily veille IA correction: restored 6 valid AI/app-dev URL(s) in `LIST.md` after an over-aggressive cleanup pass.
 
