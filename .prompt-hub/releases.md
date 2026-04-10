@@ -1,3 +1,6 @@
+## 0.0.541 - 2026-04-10
+- Process article: Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration.
+
 ## 0.0.540 - 2026-04-10
 - Process article error: https://arxiv.org/pdf/2603.01203.
 
