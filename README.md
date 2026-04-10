@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 148<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████ 230
+2026-04 | █████████████████████████████████████████████████████████████████████████████ 231
 
 ## Articles
 
 ### 2026
 
-#### April (230 articles)
+#### April (231 articles)
+- [Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident](src/2026-04/20260410-mercor-a-10-billion-ai-startup-confirms-it-was-caught-up-in-a-major-security-incident.md)
 - [The Market for Making AI Better](src/2026-04/20260410-the-market-for-making-ai-better.md)
 - [Research-Driven Agents: What Happens When Your Agent Reads Before It Codes](src/2026-04/20260408-research-driven-agents-what-happens-when-your-agent-reads-before-it-codes.md)
 - [Agentic Infrastructure](src/2026-04/20260409-agentic-infrastructure.md)

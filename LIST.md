@@ -1,4 +1,3 @@
-https://fortune.com/2026/04/02/mercor-ai-startup-security-incident-10-billion
 https://www.appliedcompute.com/case-studies/mercor
 https://simonwillison.net/2025/Jun/6/six-months-in-llms
 https://arxiv.org/pdf/2603.01203

@@ -1,3 +1,6 @@
+## 0.0.537 - 2026-04-10
+- Process article: Mercor, a $10 billion AI startup, confirms it was caught up in a major security incident.
+
 ## 0.0.536 - 2026-04-10
 - Process article: Mercor quintuples valuation to $10B with $350M Series C.
 
