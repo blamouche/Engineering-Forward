@@ -1,3 +1,6 @@
+## 0.0.516 - 2026-04-10
+- Process article: OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum.
+
 ## 0.0.515 - 2026-04-10
 - Process article: What are your programming "hunches" you haven't yet investigated?.
 
