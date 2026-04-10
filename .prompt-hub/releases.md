@@ -1,3 +1,6 @@
+## 0.0.558 - 2026-04-11
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean/synced; `LIST.md` stayed unchanged so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
+
 ## 0.0.557 - 2026-04-10
 - Daily veille IA: extracted 1 AI/app-dev URL from 1 Gmail message, added the canonical Big Technology article to `LIST.md`, removed 0 non-relevant URL(s), and trashed 1 processed email thread.
 
