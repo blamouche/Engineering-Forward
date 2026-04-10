@@ -1,4 +1,3 @@
-https://decrypt.co/363837/googles-paperorchestra-ai-converts-lab-notes-into-publication-ready-research-papers
 https://every.to/playtesting/the-market-for-making-ai-better
 https://every.to/thesis/two-ways-to-win-in-the-post-software-era
 https://every.to/playtesting/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent-299b5938-09dd-4881-803f-aea21f0d461f
