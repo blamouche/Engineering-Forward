@@ -1,3 +1,6 @@
+## 0.0.508 - 2026-04-10
+- Daily veille IA: restored a clean synced repo state, extracted 1 AI/app-dev URL from the Sifted newsletter, updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URLs, and trashed 1 processed email.
+
 ## 0.0.507 - 2026-04-10
 - Initialize veille IA task log for the 08:01 scheduled Gmail URL extraction run after loading prompt-hub context, creating the run todo file, and preparing to restore a clean synced repo state.
 
