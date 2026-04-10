@@ -3189,3 +3189,10 @@
 - files_changed_or_commands: `src/2025-12/20251208-two-ways-to-win-in-the-post.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-10 18:06:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://every.to/playtesting/we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent-299b5938-09dd-4881-803f-aea21f0d461f` as duplicate using existing synthesis `src/2026-02/20260204-we-trained-an-ai-on-a-board-game-it-became-a-better-customer-support-agent.md`.
+- files_changed_or_commands: `LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
