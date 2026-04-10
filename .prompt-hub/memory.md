@@ -3231,3 +3231,10 @@
 - files_changed_or_commands: `src/2026-04/20260410-the-last-six-months-in-llms-illustrated-by-pelicans-on-bicycles.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-10 18:06:00 +0200
+- actor: agent
+- action: Failed to process scan-list URL `https://arxiv.org/pdf/2603.01203`; removed it from LIST.md and logged the error.
+- files_changed_or_commands: `LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md`
+- outcome: partial_success
+- next_step: Continue with next URL in LIST.md.

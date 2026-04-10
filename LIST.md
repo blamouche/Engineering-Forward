@@ -1,4 +1,3 @@
-https://arxiv.org/pdf/2603.01203
 https://every.to/vibe-check/cursor
 https://help.pinterest.com/en/article/ai-at-pinterest
 https://cognition.ai/blog/swe-1-6-preview
