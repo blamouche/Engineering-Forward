@@ -1,3 +1,6 @@
+## 0.0.519 - 2026-04-10
+- Process article: Let’s talk about LLMs.
+
 ## 0.0.518 - 2026-04-10
 - Process article: Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising.
 
