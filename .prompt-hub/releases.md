@@ -1,3 +1,6 @@
+## 0.0.514 - 2026-04-10
+- Process article: Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter.
+
 ## 0.0.513 - 2026-04-10
 - Daily veille IA: extracted 8 AI/app-dev URL(s) from 2 Gmail message(s), updated `LIST.md` via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 2 processed email(s).
 

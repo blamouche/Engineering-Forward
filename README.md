@@ -22,13 +22,13 @@ Articles per month:
 2026-01 | ███████████████████████████████████████████████████████████████████████████████████████████████████ 99<br>
 2026-02 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 148<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 218
-
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 220<br>
 ## Articles
 
 ### 2026
 
-#### April (219 articles)
+#### April (1 articles)
+- [Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter](src/2026-04/20260409-amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter.md)
 - [Revolut rolls out AI assistant as part of product expansion push](src/2026-04/20260410-revolut-rolls-out-ai-assistant-as-part-of-product-expansion-push.md)
 - [How We Run a 25-person Company on Four AI Agents](src/2026-04/20260409-how-we-run-a-25-person-company-on-four-ai-agents.md)
 - [Must-Know Cross-Cutting Concerns in API Development](src/2026-04/20260409-must-know-cross-cutting-concerns-in-api-development.md)
@@ -891,7 +891,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (2 articles)
+#### May (1 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
