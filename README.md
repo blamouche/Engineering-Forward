@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████ 234
+2026-04 | ███████████████████████████████████████████████████████████████████████████████ 235
 
 ## Articles
 
 ### 2026
 
-#### April (234 articles)
+#### April (235 articles)
+- [Introducing Lab: The Full-Stack Platform for Training your Own Models](src/2026-04/20260410-introducing-lab-the-full-stack-platform-for-training-your-own-models.md)
 - [Cognition | An Early Preview of SWE](src/2026-04/20260410-cognition-an-early-preview-of-swe.md)
 - [AI at Pinterest](src/2026-04/20260410-ai-at-pinterest.md)
 - [The last six months in LLMs, illustrated by pelicans on bicycles](src/2026-04/20260410-the-last-six-months-in-llms-illustrated-by-pelicans-on-bicycles.md)
