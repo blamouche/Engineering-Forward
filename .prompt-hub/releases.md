@@ -1,3 +1,6 @@
+## 0.0.521 - 2026-04-10
+- Process article: The Definitive Guide to Perplexity Computer (April 2026).
+
 ## 0.0.520 - 2026-04-10
 - Process article: Anthropic launches Claude Cowork in General Availability.
 

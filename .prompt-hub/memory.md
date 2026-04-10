@@ -3105,3 +3105,10 @@
 - files_changed_or_commands: `src/2026-04/20260409-anthropic-launches-claude-cowork-in-general-availability.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260410-150308-scan-list.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-10 15:04:27 +0200
+- actor: agent
+- action: Processed scan-list URL `https://linas.substack.com/p/perplexity-computer-guide`; noted LIST.md at `2026-04-10 15:04:27` and removed the URL after creating its synthesis.
+- files_changed_or_commands: `src/2026-04/20260410-the-definitive-guide-to-perplexity-computer-april-2026.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/todo/todo-20260410-150308-scan-list.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
