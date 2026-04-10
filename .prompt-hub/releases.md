@@ -1,3 +1,6 @@
+## 0.0.518 - 2026-04-10
+- Process article: Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising.
+
 ## 0.0.517 - 2026-04-10
 - Process article: OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions.
 

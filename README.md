@@ -22,12 +22,13 @@ Articles per month:
 2026-01 | ███████████████████████████████████████████████████████████████████████████████████████████████████ 99<br>
 2026-02 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 148<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 369<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 223<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 224<br>
 ## Articles
 
 ### 2026
 
 #### April (1 articles)
+- [Meta commits to spending additional $21 billion with CoreWeave as AI costs keep rising](src/2026-04/20260409-meta-commits-to-spending-additional-21-billion-with-coreweave-as-ai-costs-keep-rising.md)
 - [OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions](src/2026-04/20260409-openai-looks-to-take-on-anthropic-with-100-per-month-chatgpt-pro-subscriptions.md)
 - [OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum](src/2026-04/20260409-openai-slams-anthropic-in-memo-to-shareholders-as-rival-gains-momentum.md)
 - [What are your programming "hunches" you haven't yet investigated?](src/2026-04/20260409-what-are-your-programming-hunches-you-havent-yet-investigated.md)
