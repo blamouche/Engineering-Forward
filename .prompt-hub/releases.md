@@ -1,3 +1,6 @@
+## 0.0.517 - 2026-04-10
+- Process article: OpenAI looks to take on Anthropic with $100 per month ChatGPT Pro subscriptions.
+
 ## 0.0.516 - 2026-04-10
 - Process article: OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum.
 
