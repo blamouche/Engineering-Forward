@@ -112,6 +112,13 @@
 
 # Memory Log
 
+## 2026-04-12 00:02:00 +0200
+- actor: agent
+- action: Daily veille IA run was blocked because `gog` Gmail auth failed with `invalid_grant` (`Token has been expired or revoked`); no emails were read, `LIST.md` was left unchanged, and no emails were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260412-000200-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`; `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input` (FAILED: oauth2 invalid_grant); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Re-authenticate Gmail for `gog`, then rerun the veille IA extraction.
+
 ## 2026-04-09 18:02:23 +0200
 - actor: agent
 - action: Initialized veille IA task file after loading prompt-hub context, inspected `LIST.md`, extracted 2 relevant AI/app-dev article URLs from Gmail label `0---veille-ia`, appended them to the queue with dedupe preserved, and trashed 2 processed emails.
