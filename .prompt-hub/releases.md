@@ -1,3 +1,6 @@
+## 0.0.575 - 2026-04-11
+- Scan-list run: `LIST.md` was empty after sync, so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
 ## 0.0.574 - 2026-04-11
 - Daily veille IA: extracted 0 AI/app-dev URL(s) from 1 Gmail message(s), updated LIST.md via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 1 processed email(s).
 
