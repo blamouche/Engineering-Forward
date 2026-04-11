@@ -1,3 +1,6 @@
+## 0.0.568 - 2026-04-11
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean/synced; `LIST.md` stayed empty so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
+
 ## 0.0.567 - 2026-04-11
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo had 2 untracked prompt-hub todo file(s), so the cleanup state was committed/pushed; `LIST.md` stayed empty so 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed.
 
