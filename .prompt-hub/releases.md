@@ -1,3 +1,6 @@
+## 0.0.578 - 2026-04-11
+- Daily veille IA: run blocked because `gog` Gmail auth failed with `invalid_grant` (token expired or revoked); no emails read, 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed. Committed/pushed the run logs to restore a clean synced repo state.
+
 ## 0.0.577 - 2026-04-11
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
 
