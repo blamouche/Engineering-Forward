@@ -1,3 +1,6 @@
+## 0.0.574 - 2026-04-11
+- Daily veille IA: extracted 0 AI/app-dev URL(s) from 1 Gmail message(s), updated LIST.md via add-url workflow, removed 0 non-relevant queued URL(s), and trashed 1 processed email(s).
+
 ## 0.0.573 - 2026-04-11
 - Prepare clean synced repo state for the 18:02 veille IA run by committing pending local changes before add-url sync.
 
