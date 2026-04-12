@@ -1,4 +1,7 @@
 
+## 0.0.583 - 2026-04-12
+- Daily veille IA: run blocked again because Gmail access was unavailable (`gog` invalid_grant and browser attach to the logged-in Chrome profile failed); no emails read, 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed. Logged the scheduled run for traceability.
+
 ## 0.0.582 - 2026-04-12
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
 

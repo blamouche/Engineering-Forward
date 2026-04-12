@@ -1,3 +1,10 @@
+## 2026-04-12 04:01:00 +0200
+- actor: agent
+- action: Daily veille IA run was blocked again because Gmail access was unavailable: `gog` failed with `invalid_grant` and browser attach to the logged-in Chrome profile also failed, so no emails could be read, `LIST.md` stayed unchanged, and no emails were trashed. The new task log was kept so the repo can be committed back to a clean synced state.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260412-040100-daily-veille-ia-extract-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `.prompt-hub/version.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input` (FAILED: oauth2 invalid_grant); browser attach/open to `https://mail.google.com/mail/u/0/#label/0---veille-ia` (FAILED: could not connect to Chrome); `git status --short --branch`.
+- outcome: failed
+- next_step: Re-authenticate Gmail for `gog` or make the logged-in Chrome profile attachable, then rerun the veille IA extraction.
+
 ## 2026-04-12 02:02:14 +0200
 - actor: agent
 - action: Daily veille IA run was blocked because `gog` Gmail auth failed with `invalid_grant` (`Token has been expired or revoked`); no emails were read, `LIST.md` was left unchanged, and no emails were trashed.
