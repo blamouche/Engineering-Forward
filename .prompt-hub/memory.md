@@ -3604,3 +3604,10 @@
 - files_changed_or_commands:   `.prompt-hub/todo/todo-20260412-160229-veille-ia-extraire-urls-gmail.md`;   read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`;   `gog auth list`;   `gog gmail messages search 'label:0---veille-ia' --max 100 --json --account b.lamouche@gmail.com` (FAILED: oauth2 invalid_grant);   `browser status target=host profile=user` (FAILED: DevToolsActivePort missing).
 - outcome: failed
 - next_step: Refresh/re-authorize the Gmail token for `gog` or make the logged-in Chrome profile attachable, then rerun the daily veille IA extraction.
+
+## 2026-04-12 18:03:43 +0200
+- actor: agent
+- action: Daily veille IA run was blocked again because Gmail access remained unavailable: `gog` failed with `invalid_grant` and browser attach to the logged-in Chrome profile failed (`DevToolsActivePort` missing). No emails were read, `LIST.md` stayed unchanged, and no emails were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260412-180343-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input` (FAILED: oauth2 invalid_grant); browser status/open attach to Chrome user profile (FAILED: DevToolsActivePort missing); `git status --short --branch`; `LIST.md` (empty check).
+- outcome: failed
+- next_step: Re-authenticate Gmail for `gog` or make the logged-in Chrome profile attachable, then rerun the veille IA extraction.
