@@ -1,3 +1,6 @@
+
+## 0.0.595 - 2026-04-12
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
 ## 0.0.594 - 2026-04-12
 - Daily veille IA: run blocked again because Gmail access stayed unavailable ( invalid_grant and browser fallback could not attach to Chrome), so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability.
 
