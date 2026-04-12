@@ -3590,3 +3590,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260412-140217-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog auth list`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --account b.lamouche@gmail.com` (FAILED: oauth2 invalid_grant); browser status attach to host Chrome profile `user` (FAILED: DevToolsActivePort missing); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: failed
 - next_step: Re-authenticate Gmail for `gog` and/or make the logged-in Chrome profile attachable, then rerun the veille IA extraction.
+
+## 2026-04-12 15:02:00 +0200
+- actor: agent
+- action: Scan-list run: synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260412-150200-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `wc -l LIST.md`; `sed -n '1,120p' LIST.md`.
+- outcome: success
+- next_step: Commit and push the no-op scan-list log.
