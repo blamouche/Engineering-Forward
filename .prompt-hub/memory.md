@@ -1,3 +1,10 @@
+## 2026-04-12 08:01:00 +0200
+- actor: agent
+- action: Daily veille IA run was blocked again because Gmail access via `gog` still failed with `invalid_grant`; the repo was already clean/synced, so `LIST.md` stayed unchanged and no emails were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260412-080100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input` (FAILED: oauth2 invalid_grant); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Re-authenticate Gmail for `gog`, then rerun the veille IA extraction.
+
 ## 2026-04-12 06:02:00 +0200
 - actor: agent
 - action: Daily veille IA run was blocked again because Gmail access via `gog` still failed with `invalid_grant`; no emails could be read, `LIST.md` stayed unchanged, and no emails were trashed.
