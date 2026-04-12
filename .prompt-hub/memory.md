@@ -3597,3 +3597,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260412-150200-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `wc -l LIST.md`; `sed -n '1,120p' LIST.md`.
 - outcome: success
 - next_step: Commit and push the no-op scan-list log.
+
+## 2026-04-12 16:03:08 +0200
+- actor: agent
+- action: Daily veille IA run failed again because Gmail access via `gog` returned `invalid_grant`, and the fallback browser attach to the logged-in Chrome profile was unavailable, so no emails were read and the repository content stayed unchanged.
+- files_changed_or_commands:   `.prompt-hub/todo/todo-20260412-160229-veille-ia-extraire-urls-gmail.md`;   read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`;   `gog auth list`;   `gog gmail messages search 'label:0---veille-ia' --max 100 --json --account b.lamouche@gmail.com` (FAILED: oauth2 invalid_grant);   `browser status target=host profile=user` (FAILED: DevToolsActivePort missing).
+- outcome: failed
+- next_step: Refresh/re-authorize the Gmail token for `gog` or make the logged-in Chrome profile attachable, then rerun the daily veille IA extraction.

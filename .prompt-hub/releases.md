@@ -1796,3 +1796,6 @@
 
 ## 0.0.591 - 2026-04-12
 - Daily veille IA: run blocked again because Gmail access via `gog` still fails with `invalid_grant` and the fallback browser attach to the logged-in Chrome profile also failed, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability.
+
+## 0.0.593 - 2026-04-12
+- Daily veille IA: blocked because Gmail access via `gog` failed with `invalid_grant` and the logged-in Chrome profile was not attachable via the browser bridge, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed.
