@@ -1790,3 +1790,6 @@
 
 ## 0.0.459 - 2026-04-09
 - Daily veille IA: repo already clean/synced; Gmail label `0 - Veille/IA` returned 0 message(s); `LIST.md` unchanged so 0 URL(s) added, 0 removed, and 0 email(s) trashed.
+
+## 0.0.591 - 2026-04-12
+- Daily veille IA: run blocked again because Gmail access via `gog` still fails with `invalid_grant` and the fallback browser attach to the logged-in Chrome profile also failed, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability.
