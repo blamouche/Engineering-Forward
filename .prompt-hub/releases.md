@@ -1,4 +1,7 @@
 
+## 0.0.584 - 2026-04-12
+- Daily veille IA: Gmail access via `gog` is still blocked by `invalid_grant` (expired or revoked token), so no emails were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability.
+
 ## 0.0.583 - 2026-04-12
 - Daily veille IA: run blocked again because Gmail access was unavailable (`gog` invalid_grant and browser attach to the logged-in Chrome profile failed); no emails read, 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed. Logged the scheduled run for traceability.
 
