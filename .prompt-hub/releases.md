@@ -1,4 +1,7 @@
 
+## 0.0.598 - 2026-04-13
+- Daily veille IA: run blocked because Gmail access via `gog` still fails with `invalid_grant` (expired or revoked token) and the browser fallback could not attach to Chrome, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run and prepared the cleanup commit to keep the repo clean/synced.
+
 ## 0.0.597 - 2026-04-12
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
 ## 0.0.596 - 2026-04-12
