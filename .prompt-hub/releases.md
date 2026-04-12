@@ -1,3 +1,7 @@
+
+## 0.0.582 - 2026-04-12
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
+
 ## 0.0.581 - 2026-04-12
 - Daily veille IA: run blocked because `gog` Gmail auth failed with `invalid_grant` (token expired or revoked); no emails read, 0 URL(s) added, 0 URL(s) removed, and 0 email(s) trashed. Logged the scheduled run for traceability.
 
