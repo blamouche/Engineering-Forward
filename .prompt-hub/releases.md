@@ -1,3 +1,7 @@
+## 0.0.608 - 2026-04-13
+- Daily veille IA: read 4 Gmail message(s), extracted 3 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 4 processed emails, and committed/pushed the updated processing queue.
+
+
 ## 0.0.607 - 2026-04-13
 - Daily veille IA prep: committed the new task log first so the repo returned to a clean synced state before applying the add-url workflow.
 

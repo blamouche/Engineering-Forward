@@ -3703,3 +3703,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260413-100219-daily-veille-ia-extract-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Extract relevant URLs from Gmail and apply the add-url workflow on a clean repo.
+
+## 2026-04-13 10:04:30 
+- actor: agent
+- action: Daily veille IA run completed successfully by extracting relevant AI/app-dev URLs from Gmail, updating LIST.md, and trashing the processed emails.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/todo/todo-20260413-100219-daily-veille-ia-extract-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail batch modify <4 ids> --add TRASH --no-input -y --json`.
+- outcome: success
+- next_step: Process the queued URLs from LIST.md during the next scan-list run.
