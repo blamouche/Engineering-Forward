@@ -1,4 +1,3 @@
-https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem
 https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
 https://claude.com/blog/multi-agent-coordination-patterns
 https://recursive-mode.dev/introduction
