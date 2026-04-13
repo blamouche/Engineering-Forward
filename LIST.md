@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/newsletters/2026-04-12/apple-ai-smart-glasses-features-styles-colors-cameras-giannandrea-leaving-mnvtz4yg
 https://www.mbi-deepdives.com/meta-strikes-back
 https://addyosmani.com/blog/agentic-engine-optimization
 https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence
