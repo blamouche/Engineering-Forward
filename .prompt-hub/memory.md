@@ -3696,3 +3696,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260413-090233-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `LIST.md` (empty check); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the no-op scan-list log.
+
+## 2026-04-13 10:03:48 
+- actor: agent
+- action: Prepared a clean synced repo state for the daily veille IA run by committing the new task log before touching LIST.md.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-100219-daily-veille-ia-extract-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Extract relevant URLs from Gmail and apply the add-url workflow on a clean repo.

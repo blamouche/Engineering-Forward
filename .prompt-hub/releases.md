@@ -1,3 +1,7 @@
+## 0.0.607 - 2026-04-13
+- Daily veille IA prep: committed the new task log first so the repo returned to a clean synced state before applying the add-url workflow.
+
+
 ## 0.0.606 - 2026-04-13
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
 
