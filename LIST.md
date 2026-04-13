@@ -1,4 +1,3 @@
-https://github.com/RunanywhereAI/rcli
 https://github.com/vercel-labs/just-bash
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve
