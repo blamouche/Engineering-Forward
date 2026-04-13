@@ -1,4 +1,11 @@
 
+## 2026-04-13 16:02:00 +0200
+- actor: agent
+- action: Scan-list run processed all 8 queued URLs from `LIST.md`, created 8 synthesis files, emptied `LIST.md`, generated the batch recap, and prepared the final cleanup push.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-160200-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`, `LIST.md`; `git pull --rebase`; created 8 `src/2026-04/*.md` synthesis files; updated `README.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`; created `synthesis/2026-04-13 - 160200 - batch recap.md`; committed each article with `Process article: [Title]`.
+- outcome: success
+- next_step: Commit prompt-hub tracking + batch recap, push all remaining changes, and keep the queue empty until the next veille IA extraction.
+
 ## 2026-04-13 06:02:00 +0200
 - actor: agent
 - action: Daily veille IA run was blocked again because Gmail access via `gog` still failed with `invalid_grant` and the browser fallback could not connect to Chrome; no emails were read, `LIST.md` stayed unchanged, and no emails were trashed.

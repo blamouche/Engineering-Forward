@@ -27,7 +27,7 @@ Articles per month:
 
 ### 2026
 
-#### April (1 articles)
+#### April (254 articles)
 - [Your harness, your memory](src/2026-04/20260413-your-harness-your-memory.md)
 - [Watch out, Google: Meta is reportedly working on an AI-powered search engine](src/2026-04/20260413-watch-out-google-meta-is-reportedly-working-on-an-ai-powered-search-engine.md)
 - [The Linux kernel now allows AI-written code, but you're on the hook for it](src/2026-04/20260411-the-linux-kernel-now-allows-ai-written-code-but-youre-on-the-hook-for-it.md)

@@ -1,3 +1,30 @@
+## 0.0.624 - 2026-04-13
+- Add batch recap: 2026-04-13 160200.
+
+## 0.0.623 - 2026-04-13
+- Process article: Your harness, your memory.
+
+## 0.0.622 - 2026-04-13
+- Process article: Watch out, Google: Meta is reportedly working on an AI-powered search engine.
+
+## 0.0.621 - 2026-04-13
+- Process article: The Linux kernel now allows AI-written code, but you're on the hook for it.
+
+## 0.0.620 - 2026-04-13
+- Process article: Vibe check from inside one of AI industry's main events: 'Claude mania'.
+
+## 0.0.619 - 2026-04-13
+- Process article: The Shelf Life of Intelligence.
+
+## 0.0.618 - 2026-04-13
+- Process article: Agentic Engine Optimization (AEO).
+
+## 0.0.617 - 2026-04-13
+- Process article: Meta Strikes Back!.
+
+## 0.0.616 - 2026-04-13
+- Process article: Apple AI Smart Glasses Features, Styles, Colors, Cameras; Giannandrea Leaving.
+
 ## 0.0.613 - 2026-04-13
 - Add batch recap: 2026-04-13 121031.
 
