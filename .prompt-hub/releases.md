@@ -1,3 +1,7 @@
+## 0.0.610 - 2026-04-13
+- Process article: Hard truths about building in the AI era.
+
+
 ## 0.0.609 - 2026-04-13
 - Daily veille IA: read 1 Gmail message, extracted 1 relevant URL, removed 1 off-topic URL from `LIST.md`, trashed 1 processed email, and committed/pushed the cleaned processing queue.
 
