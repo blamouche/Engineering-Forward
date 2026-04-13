@@ -1,4 +1,3 @@
-https://github.com/Shubhamsaboo/awesome-llm-apps
 https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork
 https://www.chatprd.ai/how-i-ai/taming-slack-with-a-custom-ai-built-dashboard
