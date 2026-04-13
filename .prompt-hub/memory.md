@@ -3724,3 +3724,10 @@
 - files_changed_or_commands: `src/2026-04/20260413-hard-truths-about-building-in-the-ai-era.md`; `src/2026-04/20260411-the-missing-layer-in-ai-adoption.md`; `src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch-with-working-code.md`; `README.md`; `LIST.md`; `synthesis/2026-04-13 - 121031 - batch recap.md`; per-article `git commit`; final recap commit.
 - outcome: success
 - next_step: none
+
+## 2026-04-13 14:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for the scheduled cron run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-140100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.

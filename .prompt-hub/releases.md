@@ -1866,3 +1866,6 @@
 
 ## 0.0.593 - 2026-04-12
 - Daily veille IA: blocked because Gmail access via `gog` failed with `invalid_grant` and the logged-in Chrome profile was not attachable via the browser bridge, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed.
+
+## 0.0.614 - 2026-04-13
+- Initialize veille IA task log for the 14:01 scheduled Gmail URL extraction run after loading prompt-hub context and creating the run todo file.
