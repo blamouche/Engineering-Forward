@@ -3717,3 +3717,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260413-120800-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input`; `gog gmail get 19d861cceda8f7ef --json --results-only --format=full --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-13 12:10:31 +0200
+- actor: agent
+- action: Scan-list run: processed 3 URLs into syntheses, updated README April section/statistics, emptied `LIST.md`, and created `synthesis/2026-04-13 - 121031 - batch recap.md`.
+- files_changed_or_commands: `src/2026-04/20260413-hard-truths-about-building-in-the-ai-era.md`; `src/2026-04/20260411-the-missing-layer-in-ai-adoption.md`; `src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch-with-working-code.md`; `README.md`; `LIST.md`; `synthesis/2026-04-13 - 121031 - batch recap.md`; per-article `git commit`; final recap commit.
+- outcome: success
+- next_step: none

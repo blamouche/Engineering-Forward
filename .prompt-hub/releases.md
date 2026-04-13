@@ -1,3 +1,7 @@
+## 0.0.613 - 2026-04-13
+- Add batch recap: 2026-04-13 121031.
+
+
 ## 0.0.612 - 2026-04-13
 - Process article: How to Build an AI Agent from Scratch (With Working Code).
 
