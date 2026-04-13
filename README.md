@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████ 244
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████ 245
 
 ## Articles
 
 ### 2026
 
-#### April (244 articles)
+#### April (245 articles)
+- [The Missing Layer in AI Adoption](src/2026-04/20260411-the-missing-layer-in-ai-adoption.md)
 - [Hard truths about building in the AI era](src/2026-04/20260413-hard-truths-about-building-in-the-ai-era.md)
 - [The AI Data Center Backlash is Now Impossible to Ignore](src/2026-04/20260411-the-ai-data-center-backlash-is-now-impossible-to-ignore.md)
 - [Introducing KellyBench](src/2026-04/20260410-introducing-kellybench.md)

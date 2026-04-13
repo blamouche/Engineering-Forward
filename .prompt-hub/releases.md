@@ -1,3 +1,7 @@
+## 0.0.611 - 2026-04-13
+- Process article: The Missing Layer in AI Adoption.
+
+
 ## 0.0.610 - 2026-04-13
 - Process article: Hard truths about building in the AI era.
 
