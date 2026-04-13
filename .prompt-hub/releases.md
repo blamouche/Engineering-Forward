@@ -1,3 +1,6 @@
+## 0.0.629 - 2026-04-13
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
 ## 0.0.627 - 2026-04-13
 - Daily veille IA correction: restored `https://arxiv.org/abs/2604.08407` in `LIST.md` because it is AI-security/LLM-supply-chain relevant; net removals for the run are 0.
 
