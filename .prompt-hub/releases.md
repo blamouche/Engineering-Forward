@@ -1,3 +1,7 @@
+## 0.0.609 - 2026-04-13
+- Daily veille IA: read 1 Gmail message, extracted 1 relevant URL, removed 1 off-topic URL from `LIST.md`, trashed 1 processed email, and committed/pushed the cleaned processing queue.
+
+
 ## 0.0.608 - 2026-04-13
 - Daily veille IA: read 4 Gmail message(s), extracted 3 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 4 processed emails, and committed/pushed the updated processing queue.
 

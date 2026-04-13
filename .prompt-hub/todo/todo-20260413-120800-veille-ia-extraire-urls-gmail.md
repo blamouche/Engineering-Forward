@@ -14,3 +14,12 @@
 ## Notes
 - Candidate article from the email: `https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch`
 - Existing off-topic queued URL spotted in `LIST.md`: `https://linas.substack.com/p/weeklyfintechpulse394`
+
+## Completion
+- Added: 1 URL
+- Removed: 1 URL
+- Gmail messages trashed: 1
+- Final queue:
+  - https://www.lennysnewsletter.com/p/hard-truths-about-building-in-the-ai-era
+  - https://every.to/context-window/the-missing-layer-in-ai-adoption
+  - https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch
