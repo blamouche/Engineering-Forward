@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/taming-slack-with-a-custom-ai-built-dashboard
 https://www.chatprd.ai/how-i-ai/workflows/how-to-turn-a-text-digest-into-an-interactive-kanban-dashboard
 https://www.chatprd.ai/how-i-ai/workflows/how-to-prototype-a-website-redesign-using-an-ai-with-browser-access
 https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-custom-ai-powered-text-digest-for-slack-notifications
