@@ -3761,3 +3761,17 @@
 - next_step: none
 - 2026-04-13 16:01:00 | agent | Daily veille IA cron: extracted 17 relevant AI/app-dev URL(s) from 3 Gmail messages, rebuilt LIST.md from empty after dedupe/filtering, pending Gmail trash + commit/push. | files: LIST.md, .prompt-hub/todo/todo-20260413-160100-veille-ia-extraire-urls-gmail.md | status: success | next: trash processed emails, bump version, commit/push
 - 2026-04-13 16:03:00 | gog gmail | Trashed 3 processed Gmail messages from label 0---veille-ia after URL extraction. | commands: gog gmail batch modify ... --add=TRASH --remove=UNREAD | status: success | next: update release/version and commit/push
+
+## 2026-04-13 18:05:13 +0200
+- actor: agent
+- action: Initialized scan-list task file after loading prompt-hub context and synced the repo with `git pull --rebase origin main` before processing queued URLs.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-180513-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`, `LIST.md`; `git pull --rebase origin main`.
+- outcome: success
+- next_step: Process each queued URL sequentially, then create and verify the batch recap and push.
+
+## 2026-04-13 18:20:00 +0200
+- actor: agent
+- action: Completed the scan-list run, removed every queued URL from `LIST.md`, created new article syntheses where content was retrievable, reused existing syntheses for duplicates, and logged fetch failures for the URLs that returned tool errors.
+- files_changed_or_commands: `src/2026-04/*.md`; `LIST.md`; `synthesis/2026-04-13 - 180513 - batch recap.md`; sequential `git commit` operations for each processed URL.
+- outcome: success_with_partial_url_errors
+- next_step: Verify the batch recap, commit recap artifacts, and push all commits.
