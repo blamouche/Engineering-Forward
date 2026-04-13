@@ -6,6 +6,7 @@ https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem
 https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
 https://claude.com/blog/multi-agent-coordination-patterns
 https://recursive-mode.dev/introduction
+https://arxiv.org/abs/2604.08407
 https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/
 https://github.com/addyosmani/agent-skills
 https://github.com/forrestchang/andrej-karpathy-skills

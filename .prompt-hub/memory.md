@@ -1,3 +1,10 @@
+## 2026-04-13 18:04:40 +0200
+- actor: agent
+- action: Daily veille IA correction: restored the arXiv LLM supply-chain paper URL in `LIST.md` after a too-aggressive relevance filter; effective removals for the run are 0.
+- files_changed_or_commands: `LIST.md`; `web_fetch https://arxiv.org/abs/2604.08407`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none
+
 ## 2026-04-13 18:02:50 +0200
 - actor: agent
 - action: Daily veille IA run: read 4 Gmail messages, extracted 12 AI/app-dev URLs, updated `LIST.md` after clean sync/dedupe, removed 1 non-relevant queued URLs, and prepared the processed emails for trash.

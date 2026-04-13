@@ -1,3 +1,6 @@
+## 0.0.627 - 2026-04-13
+- Daily veille IA correction: restored `https://arxiv.org/abs/2604.08407` in `LIST.md` because it is AI-security/LLM-supply-chain relevant; net removals for the run are 0.
+
 ## 0.0.626 - 2026-04-13
 - Daily veille IA: read 4 Gmail message(s), extracted 12 relevant URL(s), removed 1 off-topic URL(s) from `LIST.md`, trashed 4 processed email(s), and committed/pushed the refreshed processing queue.
 
