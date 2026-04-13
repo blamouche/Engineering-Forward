@@ -22,13 +22,14 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████ 245
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████ 246
 
 ## Articles
 
 ### 2026
 
-#### April (245 articles)
+#### April (246 articles)
+- [How to Build an AI Agent from Scratch (With Working Code)](src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch-with-working-code.md)
 - [The Missing Layer in AI Adoption](src/2026-04/20260411-the-missing-layer-in-ai-adoption.md)
 - [Hard truths about building in the AI era](src/2026-04/20260413-hard-truths-about-building-in-the-ai-era.md)
 - [The AI Data Center Backlash is Now Impossible to Ignore](src/2026-04/20260411-the-ai-data-center-backlash-is-now-impossible-to-ignore.md)

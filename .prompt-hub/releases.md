@@ -1,3 +1,7 @@
+## 0.0.612 - 2026-04-13
+- Process article: How to Build an AI Agent from Scratch (With Working Code).
+
+
 ## 0.0.611 - 2026-04-13
 - Process article: The Missing Layer in AI Adoption.
 
