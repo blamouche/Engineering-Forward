@@ -1,4 +1,7 @@
 
+## 0.0.603 - 2026-04-13
+- Daily veille IA: run blocked again because Gmail access via `gog` still fails with `invalid_grant` and the browser fallback could not connect to Chrome, so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability and committed the task log to restore a clean synced repo state.
+
 ## 0.0.602 - 2026-04-13
 - Daily veille IA: run blocked because Gmail access via `gog` still fails with `invalid_grant` (expired or revoked token), so 0 email(s) were read, 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run for traceability.
 
