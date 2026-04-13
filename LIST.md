@@ -1,0 +1,17 @@
+https://www.testingcatalog.com/anthropic-tests-claude-code-upgrade-to-rival-codex-superapp/
+https://www.testingcatalog.com/openai-develops-unified-codex-app-and-new-scratchpad-feature/
+https://www.testingcatalog.com/xai-prepares-credits-system-for-upcoming-grok-build-launch/
+https://factory.ai/news/missions-architecture
+https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem
+https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
+https://claude.com/blog/multi-agent-coordination-patterns
+https://recursive-mode.dev/introduction
+https://arxiv.org/abs/2604.08407
+https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/
+https://github.com/addyosmani/agent-skills
+https://github.com/forrestchang/andrej-karpathy-skills
+https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
+https://github.com/multica-ai/multica
+https://github.com/RunanywhereAI/rcli
+https://github.com/vercel-labs/just-bash
+https://github.com/Shubhamsaboo/awesome-llm-apps

@@ -3745,3 +3745,5 @@
 - files_changed_or_commands: `gog gmail messages search 'label:0---veille-ia' --max 50 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d86607edfd2352 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260413-140100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none
+- 2026-04-13 16:01:00 | agent | Daily veille IA cron: extracted 17 relevant AI/app-dev URL(s) from 3 Gmail messages, rebuilt LIST.md from empty after dedupe/filtering, pending Gmail trash + commit/push. | files: LIST.md, .prompt-hub/todo/todo-20260413-160100-veille-ia-extraire-urls-gmail.md | status: success | next: trash processed emails, bump version, commit/push
+- 2026-04-13 16:03:00 | gog gmail | Trashed 3 processed Gmail messages from label 0---veille-ia after URL extraction. | commands: gog gmail batch modify ... --add=TRASH --remove=UNREAD | status: success | next: update release/version and commit/push
