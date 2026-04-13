@@ -6,7 +6,6 @@ https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem
 https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
 https://claude.com/blog/multi-agent-coordination-patterns
 https://recursive-mode.dev/introduction
-https://arxiv.org/abs/2604.08407
 https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/
 https://github.com/addyosmani/agent-skills
 https://github.com/forrestchang/andrej-karpathy-skills
@@ -15,3 +14,15 @@ https://github.com/multica-ai/multica
 https://github.com/RunanywhereAI/rcli
 https://github.com/vercel-labs/just-bash
 https://github.com/Shubhamsaboo/awesome-llm-apps
+https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-claude-cowork
+https://www.chatprd.ai/how-i-ai/taming-slack-with-a-custom-ai-built-dashboard
+https://www.chatprd.ai/how-i-ai/workflows/how-to-turn-a-text-digest-into-an-interactive-kanban-dashboard
+https://www.chatprd.ai/how-i-ai/workflows/how-to-prototype-a-website-redesign-using-an-ai-with-browser-access
+https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-custom-ai-powered-text-digest-for-slack-notifications
+https://www.chatprd.ai/how-i-ai/jj-englerts-guide-to-a-daily-operating-system-with-claude-cowork
+https://www.chatprd.ai/how-i-ai/workflows/build-a-multi-persona-sub-advisory-board-for-instant-feedback
+https://www.chatprd.ai/how-i-ai/workflows/train-claude-cowork-to-write-emails-in-your-personal-style
+https://www.chatprd.ai/how-i-ai/workflows/how-to-set-up-a-daily-operating-system-in-claude-cowork
+https://every.to/source-code/the-folder-is-the-agent
+https://www.bigtechnology.com/p/anthropics-mythos-is-here-is-openais

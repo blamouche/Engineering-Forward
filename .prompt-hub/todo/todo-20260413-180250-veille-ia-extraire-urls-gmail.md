@@ -11,12 +11,12 @@ Exécuter la séquence quotidienne :
 ## Plan
 - [x] Charger le contexte prompt-hub obligatoire
 - [x] Créer ce fichier de tâche
-- [ ] Vérifier / restaurer un état git propre et synchronisé
-- [ ] Lire Gmail label `0---veille-ia`
-- [ ] Extraire, normaliser et filtrer les URLs pertinentes
-- [ ] Mettre à jour `LIST.md`, vérifier, commit+push
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour memory/version/releases et clôturer
+- [x] Vérifier / restaurer un état git propre et synchronisé
+- [x] Lire Gmail label `0---veille-ia`
+- [x] Extraire, normaliser et filtrer les URLs pertinentes
+- [x] Mettre à jour `LIST.md`, vérifier, commit+push
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour memory/version/releases et clôturer
 
 ## Review
-- Pending
+- Done: 4 emails, 12 URLs ajoutées, 1 URLs supprimées.

@@ -1,3 +1,10 @@
+## 2026-04-13 18:02:50 +0200
+- actor: agent
+- action: Daily veille IA run: read 4 Gmail messages, extracted 12 AI/app-dev URLs, updated `LIST.md` after clean sync/dedupe, removed 1 non-relevant queued URLs, and prepared the processed emails for trash.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-180250-veille-ia-extraire-urls-gmail.md`; `git status --porcelain`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19d877b1545057e6 19d87664472fbea1 19d875c73226a896 19d874b5c58ac3b2 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none
+
 
 ## 2026-04-13 16:02:00 +0200
 - actor: agent
