@@ -1,4 +1,3 @@
-https://github.com/addyosmani/agent-skills
 https://github.com/forrestchang/andrej-karpathy-skills
 https://www.theunwindai.com/p/how-i-built-an-autonomous-ai-agent-team-that-runs-24-7
 https://github.com/multica-ai/multica
