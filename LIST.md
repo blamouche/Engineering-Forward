@@ -1,4 +1,3 @@
-https://recursive-mode.dev/introduction
 https://arxiv.org/abs/2604.08407
 https://www.testingcatalog.com/google-prepares-broader-rollout-of-skills-for-gemini-and-ai-studio/
 https://github.com/addyosmani/agent-skills
