@@ -20,6 +20,13 @@
 - outcome: failed
 - next_step: Re-authenticate Gmail for `gog`, then rerun the veille IA extraction.
 
+## 2026-04-13 08:02:35 +0200
+- actor: agent
+- action: Daily veille IA run was blocked again because Gmail access via `gog` still failed with `invalid_grant` (`Token has been expired or revoked`); no emails were read, `LIST.md` stayed unchanged, and no emails were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-080235-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --porcelain`; `gog auth list`; `gog gmail messages search 'label:0---veille-ia' --json --no-input` (FAILED: oauth2 invalid_grant); `wc -l LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Re-authenticate Gmail for `gog`, then rerun the veille IA extraction.
+
 ## 2026-04-13 06:03:00 +0200
 - actor: agent
 - action: Scan-list run: synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
