@@ -1,4 +1,3 @@
-https://thezvi.substack.com/p/claude-mythos-2-cybersecurity-and
 https://claude.com/blog/multi-agent-coordination-patterns
 https://recursive-mode.dev/introduction
 https://arxiv.org/abs/2604.08407
