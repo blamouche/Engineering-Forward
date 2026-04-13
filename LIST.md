@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/openai-develops-unified-codex-app-and-new-scratchpad-feature/
 https://www.testingcatalog.com/xai-prepares-credits-system-for-upcoming-grok-build-launch/
 https://factory.ai/news/missions-architecture
 https://vinvashishta.substack.com/p/the-ai-labs-have-a-7-doritos-problem
