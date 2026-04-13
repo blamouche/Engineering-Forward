@@ -3775,3 +3775,10 @@
 - files_changed_or_commands: `src/2026-04/*.md`; `LIST.md`; `synthesis/2026-04-13 - 180513 - batch recap.md`; sequential `git commit` operations for each processed URL.
 - outcome: success_with_partial_url_errors
 - next_step: Verify the batch recap, commit recap artifacts, and push all commits.
+
+## 2026-04-13 20:02:11 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message; repo was already clean/synced; `LIST.md` stayed empty so 0 URL was added, 0 URL was removed, and 0 email was trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260413-200211-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --porcelain`; `gog gmail messages search 'label:0---veille-ia' --max 20 --json --no-input`; `LIST.md` empty check; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none
