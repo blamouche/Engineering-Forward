@@ -1,3 +1,6 @@
+## 0.0.676 - 2026-04-14
+- Process article: Anthropic revenue growth accelerates on AI demand.
+
 ## 0.0.675 - 2026-04-14
 - Process article: Microsoft is working on yet another OpenClaw-like agent.
 
