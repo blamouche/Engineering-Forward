@@ -1,3 +1,6 @@
+## 0.0.659 - 2026-04-14
+- Process article: Building a CLI for all of Cloudflare.
+
 ## 0.0.658 - 2026-04-14
 - Process article: The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind.
 
