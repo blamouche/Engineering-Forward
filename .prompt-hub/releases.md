@@ -1,3 +1,6 @@
+## 0.0.675 - 2026-04-14
+- Process article: Microsoft is working on yet another OpenClaw-like agent.
+
 ## 0.0.674 - 2026-04-14
 - Process article: The Beginning of Scarcity in AI.
 
