@@ -4021,3 +4021,17 @@
 - files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d8c2a77e8fe930 19d8c0972504888e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260414-160100-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none
+
+## 2026-04-14 18:04:04 — Codex
+- Action: Daily veille IA cron run — read Gmail label `0---veille-ia`, filtered URLs, queued the ByteByteGo Figma design-to-code article in `LIST.md`, and prepared prompt-hub release/task updates.
+- Files: `.prompt-hub/todo/todo-20260414-180404-veille-ia-extraire-urls-gmail.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- Commands: `gog gmail messages search 'label:0---veille-ia' --include-body`, `git status --short --branch`.
+- Status: success.
+- Next: trash the processed email threads, then commit and push the clean synced repo state.
+
+## 2026-04-14 18:04:21 — Codex
+- Action: Moved the two processed Gmail threads to trash after extracting the relevant queue URL.
+- Files: none.
+- Commands: `gog gmail thread modify 19d8cab3d7b13627 --add TRASH --remove UNREAD,'0 - Veille/IA'`, `gog gmail thread modify 19d8ca157457d74e --add TRASH --remove UNREAD,'0 - Veille/IA'`.
+- Status: success.
+- Next: commit and push the refreshed queue state.
