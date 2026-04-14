@@ -1,3 +1,6 @@
+## 0.0.669 - 2026-04-14
+- Process article: Defeating Nondeterminism in LLM Inference.
+
 ## 0.0.668 - 2026-04-14
 - Process article: OpenAI tests web browsing feature on Codex Superapp.
 
