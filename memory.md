@@ -30,3 +30,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `.prompt-hub/todo/todo-20260411-160000-scan-list.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the scheduled scan-list log.
+
+## 2026-04-14 09:04:20 +0200
+- actor: agent
+- action: scan-list run: processed the queued Sifted URL, created a new synthesis, updated README April section/statistics, and removed the URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260414-anthropic-plots-lovable-challenger-leak-suggests.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap, verify it, and push all remaining changes.

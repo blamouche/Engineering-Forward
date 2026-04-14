@@ -1,3 +1,6 @@
+## 0.0.639 - 2026-04-14
+- Process article: Anthropic plots Lovable challenger, leak suggests.
+
 ## 0.0.638 - 2026-04-14
 - Daily veille IA: read 1 Gmail message(s), extracted 1 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 1 processed email(s), and committed/pushed the refreshed processing queue.
 

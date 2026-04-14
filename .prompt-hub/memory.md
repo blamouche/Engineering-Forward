@@ -3853,3 +3853,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260414-060800-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `LIST.md` (empty check); `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the no-op scan-list log.
+
+## 2026-04-14 09:04:20 +0200
+- actor: agent
+- action: Processed scan-list URL `https://sifted.eu/articles/anthropic-lovable-challenger-leak` and created a synthesis file.
+- files_changed_or_commands: `src/2026-04/20260414-anthropic-plots-lovable-challenger-leak-suggests.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit article changes, then create and verify the batch recap.
