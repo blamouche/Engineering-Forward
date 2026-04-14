@@ -1,3 +1,6 @@
+## 0.0.678 - 2026-04-14
+- Process article: Figma Design to Code, Code to Design: Clearly Explained.
+
 ## 0.0.677 - 2026-04-14
 - Process article: Agents as scaffolding for recurring tasks..
 
