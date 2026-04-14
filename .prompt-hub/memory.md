@@ -1,3 +1,10 @@
+
+## 2026-04-14 14:02:17 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for the scheduled Gmail extraction run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-140217-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state if needed, then extract Gmail URLs and update `LIST.md`.
 ## 2026-04-14 10:02:12 +0200
 - actor: agent
 - action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 messages; repo only had the new task log pending, so the cleanup commit/push restored a clean synced repo; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
