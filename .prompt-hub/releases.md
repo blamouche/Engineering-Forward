@@ -1,3 +1,6 @@
+## 0.0.654 - 2026-04-14
+- Process article: GitHub Stacked PRs.
+
 ## 0.0.653 - 2026-04-14
 - Process article: OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients.
 

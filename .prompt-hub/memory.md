@@ -1,5 +1,12 @@
 ## 2026-04-14 15:08:10 +0200
 - actor: agent
+- action: Processed scan-list article 'GitHub Stacked PRs', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://github.github.com/gh-stack`; `src/2026-04/20260413-github-stacked-prs.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-14 15:08:10 +0200
+- actor: agent
 - action: Processed scan-list article 'OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
 - files_changed_or_commands: `https://www.cnbc.com/2026/04/13/openai-touts-amazon-alliance-in-memo-microsoft-limited-our-ability.html`; `src/2026-04/20260413-openai-touts-amazon-alliance-memo-microsoft-limited-our-ability.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
