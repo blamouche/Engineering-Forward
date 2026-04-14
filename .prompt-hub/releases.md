@@ -1,3 +1,6 @@
+## 0.0.633 - 2026-04-14
+- Daily veille IA: read 0 Gmail message(s), extracted 0 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 0 processed email(s), and committed/pushed the refreshed processing queue.
+
 ## 0.0.632 - 2026-04-14
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
 
