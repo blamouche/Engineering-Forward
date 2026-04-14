@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/google-develops-its-own-desktop-agent-to-compete-with-cowork
 https://www.testingcatalog.com/openai-tests-web-browsing-feature-on-codex-superapp
 https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference
 https://allenai.org/blog/evaluating-scientific-discovery-agents

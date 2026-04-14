@@ -1,3 +1,6 @@
+## 0.0.667 - 2026-04-14
+- Process article: Google develops its own desktop Agent to compete with Cowork.
+
 ## 0.0.666 - 2026-04-14
 - Process article: Not all AI agents are created equal.
 
