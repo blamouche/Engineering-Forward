@@ -3923,3 +3923,10 @@
 - files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-14 12:13:00 +0200
+- actor: agent
+- action: Created and verified the scan-list batch recap `2026-04-14 - 120600 - batch recap.md`, confirmed `LIST.md` is empty, and finalized the task log.
+- files_changed_or_commands: `synthesis/2026-04-14 - 120600 - batch recap.md`, `LIST.md`, `.prompt-hub/todo/todo-20260414-120600-scan-list.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push all committed scan-list changes.

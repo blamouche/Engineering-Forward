@@ -1969,4 +1969,6 @@
 - Process article: How to Build an AI Agent from Scratch (With Working Code).
 ## 0.0.649 - 2026-04-14
 - Process article: Anthropic’s Managed Agents: The AI Infrastructure Play.
+## 0.0.650 - 2026-04-14
+- Add batch recap: 2026-04-14 120600.
 
