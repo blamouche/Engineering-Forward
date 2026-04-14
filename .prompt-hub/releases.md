@@ -1,3 +1,6 @@
+## 0.0.674 - 2026-04-14
+- Process article: The Beginning of Scarcity in AI.
+
 ## 0.0.673 - 2026-04-14
 - Process article: Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts.
 

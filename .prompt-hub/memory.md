@@ -4098,3 +4098,10 @@
 - files_changed_or_commands: `src/2026-04/20260413-cram-less-to-fit-more-training-data-pruning-improves-memorization-of-facts.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/memory.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-14 18:05:27 +0200
+- actor: agent
+- action: Processed scan-list URL `https://tomtunguz.com/ai-compute-crisis-2026` and updated queue state.
+- files_changed_or_commands: `src/2026-04/20260413-the-beginning-of-scarcity-in-ai.md, README.md, LIST.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/memory.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
