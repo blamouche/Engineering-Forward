@@ -1,3 +1,6 @@
+## 0.0.661 - 2026-04-14
+- Add batch recap: 2026-04-14 150810.
+
 ## 0.0.660 - 2026-04-14
 - Process article: Configuration flags are where software goes to rot.
 

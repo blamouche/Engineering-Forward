@@ -1,5 +1,12 @@
 ## 2026-04-14 15:08:10 +0200
 - actor: agent
+- action: Scan-list run processed 8 queued URLs from LIST.md, created 8 synthesis files, emptied LIST.md, generated 2026-04-14 - 150810 - batch recap.md, and finalized task tracking.
+- files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `synthesis/2026-04-14 - 150810 - batch recap.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260414-150313-scan-list.md`
+- outcome: success
+- next_step: Push the final recap commit.
+
+## 2026-04-14 15:08:10 +0200
+- actor: agent
 - action: Processed scan-list article 'Configuration flags are where software goes to rot', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
 - files_changed_or_commands: `https://00f.net/2026/04/11/config-flags`; `src/2026-04/20260411-configuration-flags-are-where-software-goes-to-rot.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
