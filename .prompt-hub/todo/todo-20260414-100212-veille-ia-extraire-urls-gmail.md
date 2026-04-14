@@ -5,9 +5,9 @@
 - [x] Restore a clean synced repo state if needed
 - [x] Update `LIST.md` via add-url workflow + remove off-topic queued URLs
 - [x] Trash processed Gmail emails
-- [ ] Update prompt-hub tracking/versioning and push summary state
+- [x] Update prompt-hub tracking/versioning and push summary state
 
 ## Review
 - Gmail labels `0---veille-ia` and `0 - Veille/IA` returned 0 message.
 - `LIST.md` was already empty/unchanged.
-- Repo had only this new todo file pending; cleanup commit/push required to restore a clean synced state.
+- Repo had only this new todo file pending; cleanup commit/push restored a clean synced state.

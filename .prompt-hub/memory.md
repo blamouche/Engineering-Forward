@@ -1,9 +1,9 @@
 ## 2026-04-14 10:02:12 +0200
 - actor: agent
-- action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 messages; repo only had the new task log pending, so the cleanup state was prepared to restore a clean synced repo; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
-- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-100212-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `git status --short --branch`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 messages; repo only had the new task log pending, so the cleanup commit/push restored a clean synced repo; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-100212-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `git status --short --branch`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git pull --rebase origin main`; `git push origin main`.
 - outcome: success
-- next_step: Commit and push the cleanup state.
+- next_step: none.
 
 ## 2026-04-14 08:02:18 +0200
 - actor: agent
