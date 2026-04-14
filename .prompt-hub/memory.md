@@ -1,5 +1,12 @@
 ## 2026-04-14 15:08:10 +0200
 - actor: agent
+- action: Processed scan-list article 'Stanford report highlights growing disconnect between AI insiders and everyone else', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else`; `src/2026-04/20260413-stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-14 15:08:10 +0200
+- actor: agent
 - action: Processed scan-list article 'A Picture Is Worth a Thousand Tokens', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
 - files_changed_or_commands: `https://repaint.com/blog/picture-is-worth-a-thousand-tokens`; `src/2026-04/20260413-a-picture-is-worth-a-thousand-tokens.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success

@@ -1,3 +1,6 @@
+## 0.0.656 - 2026-04-14
+- Process article: Stanford report highlights growing disconnect between AI insiders and everyone else.
+
 ## 0.0.655 - 2026-04-14
 - Process article: A Picture Is Worth a Thousand Tokens.
 
