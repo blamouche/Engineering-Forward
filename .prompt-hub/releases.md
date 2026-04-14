@@ -1926,3 +1926,6 @@
 
 ## 0.0.628 - 2026-04-13
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message; repo was already clean/synced; `LIST.md` stayed empty so 0 URL added, 0 URL removed, and 0 email trashed.
+
+## 0.0.634 - 2026-04-14
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
