@@ -1,0 +1,12 @@
+https://www.lennysnewsletter.com/p/not-all-ai-agents-are-created-equal
+https://www.testingcatalog.com/google-develops-its-own-desktop-agent-to-compete-with-cowork
+https://www.testingcatalog.com/openai-tests-web-browsing-feature-on-codex-superapp
+https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference
+https://allenai.org/blog/evaluating-scientific-discovery-agents
+https://arxiv.org/abs/2604.09168
+https://kiro.dev/blog/cli-2-0
+https://machinelearning.apple.com/research/cram-less
+https://tomtunguz.com/ai-compute-crisis-2026
+https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent
+https://www.axios.com/2026/04/13/anthropic-revenue-growth-ai
+https://lethain.com/agents-as-scaffolding

@@ -4014,3 +4014,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260414-160100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`.
 - outcome: success
 - next_step: Restore a clean synced repo state if needed, then extract Gmail URLs and update `LIST.md`.
+
+## 2026-04-14 16:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: read 2 Gmail messages, extracted 12 relevant URL(s), updated `LIST.md` after clean sync/dedupe, removed 0 off-topic queued URL(s), and trashed 2 processed emails.
+- files_changed_or_commands: `gog gmail messages search "label:0---veille-ia" --max 100 --json --include-body --no-input`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19d8c2a77e8fe930 19d8c0972504888e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260414-160100-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none
