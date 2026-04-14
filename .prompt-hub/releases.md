@@ -1935,3 +1935,6 @@
 
 ## 0.0.634 - 2026-04-14
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
+## 0.0.637 - 2026-04-14
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
