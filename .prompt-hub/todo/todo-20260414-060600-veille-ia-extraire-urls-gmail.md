@@ -7,7 +7,7 @@
 - [x] Update `LIST.md` with dedupe + cleanup
 - [x] Trash processed emails
 - [x] Update prompt-hub memory/version/releases
-- [ ] Commit and push final state
+- [x] Commit and push final state
 
 ## Review
 - Gmail label `0---veille-ia` returned 0 message.
