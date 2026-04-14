@@ -7,7 +7,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████ 255<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████ 256<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-01 | █████████████████████████████████ 99<br>
@@ -27,7 +27,8 @@ Articles per month:
 
 ### 2026
 
-#### April (255 articles)
+#### April (256 articles)
+- [Anthropic's Mythos Sparked a Global Bank Emergency](src/2026-04/20260414-anthropics-mythos-sparked-a-global-bank-emergency.md)
 - [Anthropic plots Lovable challenger, leak suggests](src/2026-04/20260414-anthropic-plots-lovable-challenger-leak-suggests.md)
 - [Your harness, your memory](src/2026-04/20260413-your-harness-your-memory.md)
 - [Watch out, Google: Meta is reportedly working on an AI-powered search engine](src/2026-04/20260413-watch-out-google-meta-is-reportedly-working-on-an-ai-powered-search-engine.md)

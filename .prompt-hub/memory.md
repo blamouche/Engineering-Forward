@@ -3888,3 +3888,10 @@
 - files_changed_or_commands: `gog gmail get 19d8b43455425a5f --json --format=full --no-input`; `curl -Ls -o /dev/null -w '%{url_effective}' <linas substack redirects>`; `git commit -m "chore: sync pending local changes before veille IA"`; `git pull --rebase origin main`; `git push origin main`; `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `git push origin main`; `gog gmail batch modify 19d8b43455425a5f --add TRASH --no-input --force`.
 - outcome: success
 - next_step: none
+
+## 2026-04-14 12:08:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://linas.substack.com/p/fintechpulse1067` and created a synthesis file.
+- files_changed_or_commands: `src/2026-04/20260414-anthropics-mythos-sparked-a-global-bank-emergency.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
