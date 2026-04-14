@@ -1,3 +1,6 @@
+## 0.0.658 - 2026-04-14
+- Process article: The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind.
+
 ## 0.0.657 - 2026-04-14
 - Process article: The AI Revolution in Math Has Arrived.
 

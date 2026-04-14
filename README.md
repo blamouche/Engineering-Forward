@@ -7,7 +7,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████ 261<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████ 262<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-01 | █████████████████████████████████ 99<br>
@@ -27,7 +27,8 @@ Articles per month:
 
 ### 2026
 
-#### April (261 articles)
+#### April (262 articles)
+- [The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind](src/2026-04/20260413-the-economics-of-software-teams-why-most-engineering-organizations-are-flying-blind.md)
 - [The AI Revolution in Math Has Arrived](src/2026-04/20260413-the-ai-revolution-in-math-has-arrived.md)
 - [Stanford report highlights growing disconnect between AI insiders and everyone else](src/2026-04/20260413-stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else.md)
 - [A Picture Is Worth a Thousand Tokens](src/2026-04/20260413-a-picture-is-worth-a-thousand-tokens.md)
