@@ -1,3 +1,6 @@
+## 0.0.640 - 2026-04-14
+- Add batch recap: 2026-04-14 090420.
+
 ## 0.0.639 - 2026-04-14
 - Process article: Anthropic plots Lovable challenger, leak suggests.
 
