@@ -1,3 +1,17 @@
+## 2026-04-14 22:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message; repo only had the new task log pending, so the cleanup commit/push restored a clean synced repo; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-220100-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `git status --short --branch`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git pull --rebase origin main`; `git push origin main`.
+- outcome: success
+- next_step: none.
+
+## 2026-04-14 22:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for the scheduled Gmail extraction run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-220100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state if needed, then extract Gmail URLs and update `LIST.md`.
+
 ## 2026-04-14 15:08:10 +0200
 - actor: agent
 - action: Scan-list run processed 8 queued URLs from LIST.md, created 8 synthesis files, emptied LIST.md, generated 2026-04-14 - 150810 - batch recap.md, and finalized task tracking.
