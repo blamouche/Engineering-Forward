@@ -1,5 +1,12 @@
 ## 2026-04-14 15:08:10 +0200
 - actor: agent
+- action: Processed scan-list article 'Configuration flags are where software goes to rot', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://00f.net/2026/04/11/config-flags`; `src/2026-04/20260411-configuration-flags-are-where-software-goes-to-rot.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-14 15:08:10 +0200
+- actor: agent
 - action: Processed scan-list article 'Building a CLI for all of Cloudflare', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md.
 - files_changed_or_commands: `https://blog.cloudflare.com/cf-cli-local-explorer`; `src/2026-04/20260413-building-a-cli-for-all-of-cloudflare.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success

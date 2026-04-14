@@ -1,3 +1,6 @@
+## 0.0.660 - 2026-04-14
+- Process article: Configuration flags are where software goes to rot.
+
 ## 0.0.659 - 2026-04-14
 - Process article: Building a CLI for all of Cloudflare.
 
