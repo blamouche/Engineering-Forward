@@ -1,3 +1,6 @@
+## 0.0.665 - 2026-04-14
+- Finalize the 18:04 veille IA task tracking after the queue refresh push (todo review completed).
+
 ## 0.0.664 - 2026-04-14
 - Daily veille IA: read 2 Gmail message(s), extracted 1 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 2 processed email(s), and committed/pushed the refreshed processing queue.
 
