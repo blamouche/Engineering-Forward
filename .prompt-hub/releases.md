@@ -1967,4 +1967,6 @@
 - Process article: The File That Turns Claude Code Into Your Best Engineer.
 ## 0.0.648 - 2026-04-14
 - Process article: How to Build an AI Agent from Scratch (With Working Code).
+## 0.0.649 - 2026-04-14
+- Process article: Anthropic’s Managed Agents: The AI Infrastructure Play.
 
