@@ -1,4 +1,3 @@
-https://allenai.org/blog/evaluating-scientific-discovery-agents
 https://arxiv.org/abs/2604.09168
 https://kiro.dev/blog/cli-2-0
 https://machinelearning.apple.com/research/cram-less

@@ -1,3 +1,6 @@
+## 0.0.670 - 2026-04-14
+- Process article: Evaluating agents for scientific discovery.
+
 ## 0.0.669 - 2026-04-14
 - Process article: Defeating Nondeterminism in LLM Inference.
 
