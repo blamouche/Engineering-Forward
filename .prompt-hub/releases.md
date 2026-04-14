@@ -1,3 +1,6 @@
+## 0.0.653 - 2026-04-14
+- Process article: OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients.
+
 ## 0.0.652 - 2026-04-14
 - Daily veille IA: read 1 Gmail message, extracted 8 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 1 processed email, and committed/pushed the refreshed processing queue.
 
