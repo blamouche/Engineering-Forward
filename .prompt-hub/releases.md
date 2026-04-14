@@ -1,3 +1,6 @@
+## 0.0.672 - 2026-04-14
+- Process article: Kiro CLI 2.0: a new look and feel, headless CI/CD pipelines, and Windows support.
+
 ## 0.0.671 - 2026-04-14
 - Process article: Elastic Looped Transformers for Visual Generation.
 
