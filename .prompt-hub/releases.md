@@ -1,3 +1,6 @@
+## 0.0.666 - 2026-04-14
+- Process article: Not all AI agents are created equal.
+
 ## 0.0.665 - 2026-04-14
 - Finalize the 18:04 veille IA task tracking after the queue refresh push (todo review completed).
 
