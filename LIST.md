@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.09168
 https://kiro.dev/blog/cli-2-0
 https://machinelearning.apple.com/research/cram-less
 https://tomtunguz.com/ai-compute-crisis-2026

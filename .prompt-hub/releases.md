@@ -1,3 +1,6 @@
+## 0.0.671 - 2026-04-14
+- Process article: Elastic Looped Transformers for Visual Generation.
+
 ## 0.0.670 - 2026-04-14
 - Process article: Evaluating agents for scientific discovery.
 
