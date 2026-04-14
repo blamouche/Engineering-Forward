@@ -7,7 +7,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████ 258<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████ 259<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-01 | █████████████████████████████████ 99<br>
@@ -27,7 +27,8 @@ Articles per month:
 
 ### 2026
 
-#### April (258 articles)
+#### April (259 articles)
+- [A Picture Is Worth a Thousand Tokens](src/2026-04/20260413-a-picture-is-worth-a-thousand-tokens.md)
 - [GitHub Stacked PRs](src/2026-04/20260413-github-stacked-prs.md)
 - [OpenAI touts Amazon alliance in memo, says Microsoft has 'limited our ability' to reach clients](src/2026-04/20260413-openai-touts-amazon-alliance-memo-microsoft-limited-our-ability.md)
 - [Anthropic's Mythos Sparked a Global Bank Emergency](src/2026-04/20260414-anthropics-mythos-sparked-a-global-bank-emergency.md)
