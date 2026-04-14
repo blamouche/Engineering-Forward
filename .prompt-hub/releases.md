@@ -1,3 +1,6 @@
+## 0.0.668 - 2026-04-14
+- Process article: OpenAI tests web browsing feature on Codex Superapp.
+
 ## 0.0.667 - 2026-04-14
 - Process article: Google develops its own desktop Agent to compete with Cowork.
 
