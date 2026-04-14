@@ -4007,3 +4007,10 @@
 - files_changed_or_commands: `synthesis/2026-04-14 - 120600 - batch recap.md`, `LIST.md`, `.prompt-hub/todo/todo-20260414-120600-scan-list.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all committed scan-list changes.
+
+## 2026-04-14 16:01:00 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for the scheduled Gmail extraction run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-160100-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`.
+- outcome: success
+- next_step: Restore a clean synced repo state if needed, then extract Gmail URLs and update `LIST.md`.

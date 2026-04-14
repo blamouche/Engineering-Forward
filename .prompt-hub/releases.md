@@ -2005,3 +2005,5 @@
 ## 0.0.650 - 2026-04-14
 - Add batch recap: 2026-04-14 120600.
 
+## 0.0.662 - 2026-04-14
+- Initialize veille IA task log for the 16:01 scheduled Gmail URL extraction run after loading prompt-hub context and creating the run todo file.
