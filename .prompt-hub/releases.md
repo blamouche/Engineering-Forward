@@ -1,3 +1,6 @@
+## 0.0.677 - 2026-04-14
+- Process article: Agents as scaffolding for recurring tasks..
+
 ## 0.0.676 - 2026-04-14
 - Process article: Anthropic revenue growth accelerates on AI demand.
 
