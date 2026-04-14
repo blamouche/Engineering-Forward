@@ -3909,3 +3909,10 @@
 - files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-14 12:11:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch` as a duplicate using the existing synthesis.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
