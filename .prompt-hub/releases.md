@@ -1,3 +1,6 @@
+## 0.0.643 - 2026-04-14
+- Initialize veille IA task log for the 12:02 scheduled Gmail URL extraction run after loading prompt-hub context and creating the run todo file.
+
 ## 0.0.642 - 2026-04-14
 - Finalize the 10:02 veille IA task tracking after the cleanup push (todo review + memory next step set to none).
 

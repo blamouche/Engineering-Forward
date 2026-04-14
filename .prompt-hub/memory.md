@@ -3874,3 +3874,10 @@
 - files_changed_or_commands: `synthesis/2026-04-14 - 090420 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all committed scan-list changes.
+
+## 2026-04-14 12:03:33 +0200
+- actor: agent
+- action: Initialized veille IA task file after loading prompt-hub context (lessons, memory, releases) for the scheduled cron run and detected a dirty repo state that requires a cleanup commit before the add-url sync.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260414-120333-daily-veille-ia-extract-gmail-urls.md`; `git status --short --branch`.
+- outcome: success
+- next_step: Commit and push pending local changes to restore a clean synced repo state, then extract Gmail URLs and update `LIST.md`.
