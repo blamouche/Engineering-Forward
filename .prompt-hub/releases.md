@@ -1,3 +1,6 @@
+## 0.0.673 - 2026-04-14
+- Process article: Cram Less to Fit More: Training Data Pruning Improves Memorization of Facts.
+
 ## 0.0.672 - 2026-04-14
 - Process article: Kiro CLI 2.0: a new look and feel, headless CI/CD pipelines, and Windows support.
 
