@@ -1,3 +1,6 @@
+## 0.0.679 - 2026-04-14
+- Add batch recap: 2026-04-14 180527.
+
 ## 0.0.678 - 2026-04-14
 - Process article: Figma Design to Code, Code to Design: Clearly Explained.
 
