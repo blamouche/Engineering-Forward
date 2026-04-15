@@ -1,3 +1,6 @@
+## 0.0.693 - 2026-04-15
+- Daily veille IA Gmail extraction: synced repo, added 29 filtered AI/app-dev URLs to LIST.md, trashed 6 processed emails, and pushed the clean update.
+
 ## 0.0.689 - 2026-04-15
 - Daily veille IA: read 1 Gmail message, extracted 1 relevant URL from Sifted, kept 0 off-topic URL in `LIST.md`, trashed 1 processed email, and committed/pushed the refreshed processing queue.
 
