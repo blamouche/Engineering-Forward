@@ -4232,3 +4232,11 @@
 - files_changed_or_commands: `src/2026-04/20260415-lovable-poaches-new-engineering-chief-from-meta.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit the synthesis, remove the processed URL from `LIST.md`, then create the batch recap and push all remaining changes.
+
+
+## 2026-04-15 09:03:20 +0200
+- actor: agent
+- action: Removed the processed Sifted URL from `LIST.md` after creating the corresponding synthesis, keeping the scan-list queue empty.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap, verify it references the processed synthesis, then push all outstanding commits.
