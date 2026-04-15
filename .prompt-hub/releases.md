@@ -1,3 +1,6 @@
+## 0.0.687 - 2026-04-15
+- Daily veille IA: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message; repo only had the new task log pending, so the cleanup commit/push restored a clean synced repo; `LIST.md` stayed empty so 0 URL added, 0 URL removed, and 0 email trashed.
+
 ## 0.0.686 - 2026-04-15
 - Daily veille IA: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message; repo was already clean/synced; `LIST.md` stayed empty so 0 URL added, 0 URL removed, and 0 email trashed.
 
