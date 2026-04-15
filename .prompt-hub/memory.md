@@ -4217,3 +4217,10 @@
 - files_changed_or_commands: `git pull --rebase`; `LIST.md`; `src/2026-04/20260414-the-impact-of-ai-on-software-engineers-in-2026-key-trends.md`; `README.md`; `synthesis/2026-04-14 - 210303 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260414-210303-scan-list.md`; `git commit -m "Process article: The impact of AI on software engineers in 2026: key trends"`.
 - outcome: success
 - next_step: Commit recap + tracking files, push all remaining changes, and keep the queue empty until the next veille IA extraction.
+
+## 2026-04-15 08:05:00 +0200
+- actor: agent
+- action: Daily veille IA run: found 1 Sifted Gmail message in label `0 - Veille/IA`, resolved the tracked links to Sifted article slugs, kept only the AI/app-dev relevant Lovable engineering article, updated `LIST.md`, trashed the processed message, and refreshed prompt-hub tracking.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260415-080211-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --account b.lamouche@gmail.com --json`; `gog gmail get 19d8f58e26b352cf --account b.lamouche@gmail.com --json --format=full --no-input`; `LIST.md`; `gog gmail trash 19d8f58e26b352cf --account b.lamouche@gmail.com --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.

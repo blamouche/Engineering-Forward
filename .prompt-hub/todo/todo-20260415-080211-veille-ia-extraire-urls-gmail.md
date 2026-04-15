@@ -11,12 +11,16 @@ Run the scheduled veille IA sequence:
 ## Checklist
 - [x] Load prompt-hub context
 - [x] Create this task log
-- [ ] Inspect Gmail messages and extract candidate URLs
-- [ ] Restore clean synced repo state if needed
-- [ ] Update LIST.md with dedupe/filtering
-- [ ] Trash processed Gmail messages
-- [ ] Update prompt-hub version/releases/memory
-- [ ] Commit and push all pending changes
+- [x] Inspect Gmail messages and extract candidate URLs
+- [x] Restore clean synced repo state if needed
+- [x] Update LIST.md with dedupe/filtering
+- [x] Trash processed Gmail messages
+- [x] Update prompt-hub version/releases/memory
+- [x] Commit and push all pending changes
 
 ## Review
-Pending.
+- Gmail search matched 1 Sifted message in label `0 - Veille/IA`.
+- Resolved the tracked newsletter links to Sifted article slugs and kept only the AI/app-dev relevant article about Lovable hiring a former Meta engineering director.
+- `LIST.md` was rebuilt clean with 1 canonical URL and 0 off-topic URLs remaining.
+- Trashed the processed Gmail message after queue update.
+- Bumped prompt-hub version/release tracking and pushed the final commit.

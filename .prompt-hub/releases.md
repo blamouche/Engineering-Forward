@@ -1,3 +1,6 @@
+## 0.0.689 - 2026-04-15
+- Daily veille IA: read 1 Gmail message, extracted 1 relevant URL from Sifted, kept 0 off-topic URL in `LIST.md`, trashed 1 processed email, and committed/pushed the refreshed processing queue.
+
 ## 0.0.688 - 2026-04-15
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
 
