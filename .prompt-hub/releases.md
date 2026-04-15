@@ -2088,3 +2088,6 @@
 
 ## 0.0.680 - 2026-04-14
 - Daily veille IA: read 1 Gmail message, extracted 1 relevant URL, removed 0 off-topic URL(s) from `LIST.md`, trashed 1 processed email thread after syncing the repo and refreshing the processing queue.
+
+## 0.0.690 - 2026-04-15
+- Add synthesis: Lovable poaches new engineering chief from Meta: ‘The whole industry is transforming’.

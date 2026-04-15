@@ -22,12 +22,13 @@ Articles per month:
 2026-01 | █████████████████████████████████ 99<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 370<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████ 278
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████ 279
 ## Articles
 
 ### 2026
 
-#### April (278 articles)
+#### April (279 articles)
+- [Lovable poaches new engineering chief from Meta: ‘The whole industry is transforming’](src/2026-04/20260415-lovable-poaches-new-engineering-chief-from-meta.md)
 - [The impact of AI on software engineers in 2026: key trends](src/2026-04/20260414-the-impact-of-ai-on-software-engineers-in-2026-key-trends.md)
 - [Figma Design to Code, Code to Design: Clearly Explained](src/2026-04/20260413-figma-design-to-code-code-to-design-clearly-explained.md)
 - [Agents as scaffolding for recurring tasks.](src/2026-04/20260413-agents-as-scaffolding-for-recurring-tasks.md)
