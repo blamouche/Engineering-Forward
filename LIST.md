@@ -1,4 +1,3 @@
-https://www.algolia.com/resources/asset/why-agentic-ai-is-your-next-priority
 https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/
 https://www.testingcatalog.com/google-tests-canvas-and-connectors-on-notebooklm/
 https://epochai.substack.com/p/five-hyperscalers-now-own-over-two
