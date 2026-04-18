@@ -1,4 +1,3 @@
-https://finance.yahoo.com/sectors/technology/articles/openai-spend-more-20-billion-013150907.html
 https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e
 https://blog.google/products-and-platforms/products/search/ai-mode-chrome
 https://vercel.com/blog/a-new-programming-model-for-durable-execution

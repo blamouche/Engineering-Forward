@@ -1,3 +1,6 @@
+## 0.0.820 - 2026-04-19
+- Process article: OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports.
+
 ## 0.0.819 - 2026-04-19
 - Process article: Anthropic CPO leaves Figma's board after reports he will offer a competing product.
 
