@@ -1,3 +1,6 @@
+## 0.0.916 - 2026-04-19
+- Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/4113/optimized_b8e37989-830c-47e7-9551-a6b709aba593.png.
+
 ## 0.0.915 - 2026-04-19
 - Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiWW914oCZcmUgdGhlIE1hbmFnZXIgTm93IiwicG9zdF9pZCI6NDExMywicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8veC5jb20vZmlzaF9reWxlMyIsInBvc2l0aW9uIjozNX0=.
 
