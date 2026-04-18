@@ -1,3 +1,6 @@
+## 0.0.909 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.908 - 2026-04-19
 - Process article: Introducing Plus One: One.
 
