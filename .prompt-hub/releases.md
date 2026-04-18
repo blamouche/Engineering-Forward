@@ -1,3 +1,6 @@
+## 0.0.971 - 2026-04-19
+- Process article: Apply to Gauntlet AI.
+
 ## 0.0.970 - 2026-04-19
 - Process article: Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts).
 
