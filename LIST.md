@@ -1,4 +1,3 @@
-https://hub.sparklp.co/sub_1830cd6e7410/1
 https://tldr.tech/tech/manage?email=b.lamouche%40gmail.com
 https://linas.substack.com/p/fintechpulse1069
 https://substack.com/redirect/a7cfc147-e7cb-4eb6-8468-8c39ab74e3ae?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk

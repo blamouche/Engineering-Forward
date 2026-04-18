@@ -1,3 +1,6 @@
+## 0.0.849 - 2026-04-19
+- Process article error: https://hub.sparklp.co/sub_1830cd6e7410/1.
+
 ## 0.0.848 - 2026-04-19
 - Process article: Laravel raised money and now injects ads directly into your agent.
 
