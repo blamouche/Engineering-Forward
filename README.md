@@ -17,7 +17,7 @@ Articles per month:
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
 2025-09 | ██ 2<br>
-2025-10 | ███ 3<br>
+2025-10 | ████ 4<br>
 2025-11 | █ 1<br>
 2025-12 | ██ 2<br>
 2026-01 | ████████████████████████████████████████████████████████████████████████████████████████████████████ 100<br>
@@ -976,7 +976,8 @@ Articles per month:
 #### November (1 article)
 - [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
 
-#### October (3 articles)
+#### October (1 articles)
+- [Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma](src/2025-10/20251030-introducing-figma-weave-the-next-generation-of-ai-native-creation-at-figma.md)
 - [Kate Lee Joins Every as Editor-in](src/2023-10/20231029-kate-lee-joins-every-as-editor-in.md)
 - [Mercor quintuples valuation to $10B with $350M Series C](src/2025-10/20251027-mercor-quintuples-valuation-to-10b-with-350m-series-c.md)
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)

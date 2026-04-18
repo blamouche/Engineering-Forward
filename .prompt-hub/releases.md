@@ -1,3 +1,6 @@
+## 0.0.780 - 2026-04-19
+- Process article: Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma.
+
 ## 0.0.779 - 2026-04-19
 - Process article: Config 2025: Pushing Design Further.
 
