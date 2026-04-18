@@ -1,0 +1,19 @@
+# Ukraine’s military robot surge aims to offset drone risks to humans
+
+**Source**: https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/
+**Date**: April 14, 2026
+**Author**: Unknown
+**Keywords**: arstechnica, ukraine, military, robot, surge, aims, offset, drone
+
+## Elevator pitch
+Ukraine is replacing more soldiers with robots in the battlefield kill zone
+
+## Takeaways
+- Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Ukrainian ground robots and drones have demonstrated how to overcome a Russian military position by themselves while forcing the surrender of Russian soldiers, claimed Ukrainian President Volodymyr Zelenskyy.
+- If true, that would represent a significant robotic milestone during the ongoing war that has already been significantly reshaped by drones—and it could offer lessons for how militaries worldwide may use robots and drones to do the dirtiest and most dangerous jobs in future conflicts.
+- The claim by Zelenskyy has not been independently verified but was accompanied by a promotional video in which he described Ukraine’s military robots as having completed over 22,000 missions in the last three months.
+- Ukraine’s defense ministry also recently described a threefold increase in the Ukrainian military’s uncrewed ground vehicle missions over the last five months, with more than 9,000 robotic missions conducted in March, according to Scripps News .
+- The growing robotic ground presence represents a new trend in a war that has become synonymous with drones.
+
+## Synthesis
+Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Ukrainian ground robots and drones have demonstrated how to overcome a Russian military position by themselves while forcing the surrender of Russian soldiers, claimed Ukrainian President Volodymyr Zelenskyy. If true, that would represent a significant robotic milestone during the ongoing war that has already been significantly reshaped by drones—and it could offer lessons for how militaries worldwide may use robots and drones to do the dirtiest and most dangerous jobs in future conflicts. The claim by Zelenskyy has not been independently verified but was accompanied by a promotional video in which he described Ukraine’s military robots as having completed over 22,000 missions in the last three months. Ukraine’s defense ministry also recently described a threefold increase in the Ukrainian military’s uncrewed ground vehicle missions over the last five months, with more than 9,000 robotic missions conducted in March, according to Scripps News . The growing robotic ground presence represents a new trend in a war that has become synonymous with drones. Zelenskyy’s statement may refer to an event that occurred in the Kharkiv Oblast in northeastern Ukraine last year, according to The Independent . It referenced a statement by the Ukrainian 3rd Separate Assault Brigade detailing how the unit had used flying drones and “kamikaze” ground robots to attack fortified Russian frontline positions at that time. The brigade’s statement also described Russian soldiers as surrendering to one of the unit’s robots after abandoning the battered fortifications. There are previous examples of individual or small groups of Russian soldiers surrendering to Ukrainian drones and even a robot while being recorded on video, so the idea of a group of Russian soldiers surrendering their position and themselves to a robot is not necessarily far-fetched. The battlefield exploits of such robots were also featured in a recent video by the Ukrainian government-run platform United24, which described a similar or possibly the same incident involving the same brigade.

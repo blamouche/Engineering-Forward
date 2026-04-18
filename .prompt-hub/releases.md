@@ -1,3 +1,6 @@
+## 0.0.977 - 2026-04-19
+- Process article: Ukraine’s military robot surge aims to offset drone risks to humans.
+
 ## 0.0.976 - 2026-04-19
 - Process article: An end to cervical cancer is possible.
 
