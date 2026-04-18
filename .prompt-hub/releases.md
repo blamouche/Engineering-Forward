@@ -1,3 +1,6 @@
+## 0.0.942 - 2026-04-19
+- Process article: Gemini 3.1 Flash TTS: the next generation of expressive AI speech.
+
 ## 0.0.941 - 2026-04-19
 - Process article: 2026 Trends From Cataloging 50+ AI Pricing Models.
 

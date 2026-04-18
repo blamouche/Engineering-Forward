@@ -1,4 +1,3 @@
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts
 https://links.tldrnewsletter.com/ALGo3b
 https://testingcatalog.com/humwork-a2p-marketplace-connects-ai-agents-with-experts
 https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
