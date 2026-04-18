@@ -1,3 +1,6 @@
+## 0.0.878 - 2026-04-19
+- Process article: Give Cora your inbox. Take back your life..
+
 ## 0.0.877 - 2026-04-19
 - Process article: Every.
 
