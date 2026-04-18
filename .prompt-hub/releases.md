@@ -1,3 +1,6 @@
+## 0.0.775 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.774 - 2026-04-19
 - Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/4115/full_page_cover_Friday_Piece.png.
 
