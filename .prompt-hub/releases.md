@@ -1,3 +1,6 @@
+## 0.0.698 - 2026-04-19
+- Process article: Turn your best AI prompts into one.
+
 ## 0.0.697 - 2026-04-19
 - Process article: Why agentic AI is your next priority.
 
