@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents
 https://xata.io/blog/open-source-postgres-branching-copy-on-write
 https://links.tldrnewsletter.com/j3L7bc
 https://ahrefs.com/blog/why-chatgpt-cites-pages
