@@ -1,3 +1,6 @@
+## 0.0.966 - 2026-04-19
+- Process article: Frontier Systems for the Physical World.
+
 ## 0.0.965 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/gdbpZY.
 

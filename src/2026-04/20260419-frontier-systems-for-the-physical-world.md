@@ -1,0 +1,19 @@
+# Frontier Systems for the Physical World
+
+**Source**: https://www.a16z.news/p/frontier-systems-for-the-physical
+**Date**: April 19, 2026
+**Author**: Oliver Hsu
+**Keywords**: a16z, frontier, systems, physical, world
+
+## Elevator pitch
+Robot learning, autonomous science, and new interfaces as instances of an emerging paradigm for physical AI.
+
+## Takeaways
+- Frontier Systems for the Physical World Robot learning, autonomous science, and new interfaces as instances of an emerging paradigm for physical AI Oliver Hsu Apr 15, 2026 201 12 4 Share America | Tech | Opinion | Culture | Charts The dominant paradigm in AI today, insofar as it is used in production-ready settings, is organized around language and code.
+- The scaling laws governing large language models are well-characterized, the commercial flywheel of data, compute, and algorithmic improvement is spinning, and the returns to incremental capability gains remain large and mostly legible.
+- This paradigm has earned the capital and attention it commands.
+- But a set of adjacent and related fields has been making meaningful strides in its gestation phase.
+- These areas of activity include VLAs, WAMs, and other approaches to generalist robotics models, physical and scientific reasoning in the pursuit of AI scientists, and novel interfaces for human-computer interaction (including BCIs and neurotech) that take advantage of advances in AI to rethink how we interact with machines.
+
+## Synthesis
+Frontier Systems for the Physical World Robot learning, autonomous science, and new interfaces as instances of an emerging paradigm for physical AI Oliver Hsu Apr 15, 2026 201 12 4 Share America | Tech | Opinion | Culture | Charts The dominant paradigm in AI today, insofar as it is used in production-ready settings, is organized around language and code. The scaling laws governing large language models are well-characterized, the commercial flywheel of data, compute, and algorithmic improvement is spinning, and the returns to incremental capability gains remain large and mostly legible. This paradigm has earned the capital and attention it commands. But a set of adjacent and related fields has been making meaningful strides in its gestation phase. These areas of activity include VLAs, WAMs, and other approaches to generalist robotics models, physical and scientific reasoning in the pursuit of AI scientists, and novel interfaces for human-computer interaction (including BCIs and neurotech) that take advantage of advances in AI to rethink how we interact with machines. Beyond technical progress, each of these areas has seen the beginnings of an influx in talent, capital, and founder activity. The technical primitives for extending frontier AI into the physical world are maturing concurrently, and the pace of progress over the past eighteen months suggests that these fields could soon enter a scaling regime of their own. In a given technology paradigm, the areas with the greatest delta between their current perceived capabilities and medium-term upside potential tend to be those that benefit from the same scaling dynamics driving the current frontier, but sit one step removed from the incumbent paradigm — close enough to inherit its infrastructure and research momentum, but distant enough to require non-trivial additional work. This distance serves a dual function: it creates a natural moat against fast-following, and it defines a problem space that is richer, less explored, and more likely to produce emergent capabilities precisely because the easy paths have not already been taken. Three domains fit this description today: robot learning, autonomous science (particularly in materials and life sciences), and new human-machine interfaces (including brain-computer interfaces, silent speech, neural wearables, and novel sensory modalities like digitized olfaction).
