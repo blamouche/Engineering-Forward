@@ -1,4 +1,3 @@
-https://blog.cloudflare.com/browser-run-for-ai-agents
 https://testingcatalog.com/google-tests-agentic-shopping-with-native-checkout-in-gemini
 https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os
 https://thenextweb.com/news/jane-street-coreweave-6-billion-cloud-1-billion-equity-ai

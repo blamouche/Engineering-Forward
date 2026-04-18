@@ -1,3 +1,6 @@
+## 0.0.955 - 2026-04-19
+- Process article: Browser Run: give your agents a browser.
+
 ## 0.0.954 - 2026-04-19
 - Process article: Anthropic loses Claude Code trust in black.
 
