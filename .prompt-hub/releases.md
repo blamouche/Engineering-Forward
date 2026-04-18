@@ -1,3 +1,6 @@
+## 0.0.951 - 2026-04-19
+- Process article: Lyra 2.0: Explorable Generative 3D Worlds.
+
 ## 0.0.950 - 2026-04-19
 - Process article: Parcae: Doing more with fewer parameters using stable looped models.
 

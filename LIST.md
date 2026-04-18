@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.13036
 https://arxiv.org/abs/2604.09443
 https://dwarkesh.com/p/jensen-huang
 https://implicator.ai/claude-probably-wasnt-secretly-nerfed-anthropic-made-the-black-box-too-dark
