@@ -1,3 +1,6 @@
+## 0.0.783 - 2026-04-19
+- Process article: I Hired an AI to Do My Chores. Now I Maintain the AI..
+
 ## 0.0.782 - 2026-04-19
 - Process article: Every Is Half Agent Now.
 
