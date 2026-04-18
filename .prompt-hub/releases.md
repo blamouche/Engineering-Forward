@@ -1,3 +1,6 @@
+## 0.0.726 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.725 - 2026-04-19
 - Process article error: https://d24ovhgu8s7341.cloudfront.net/static/every-logo.png.
 
