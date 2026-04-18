@@ -1,3 +1,6 @@
+## 0.0.776 - 2026-04-19
+- Process article: Kate Lee Joins Every as Editor-in.
+
 ## 0.0.775 - 2026-04-19
 - Process article: Every.
 
