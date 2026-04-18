@@ -1,3 +1,6 @@
+## 0.0.808 - 2026-04-19
+- Process article: Introducing Claude Opus 4.7.
+
 ## 0.0.807 - 2026-04-19
 - Process article: Technology Radar.
 
