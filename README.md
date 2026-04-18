@@ -13,7 +13,7 @@ Articles per month:
 2024-06 | █ 1<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
-2025-05 | ██ 2<br>
+2025-05 | ███ 3<br>
 2025-06 | █ 1<br>
 2025-08 | █ 1<br>
 2025-09 | ██ 2<br>
@@ -993,6 +993,7 @@ Articles per month:
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
 #### May (1 articles)
+- [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 
