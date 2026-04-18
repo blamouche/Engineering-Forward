@@ -1,3 +1,6 @@
+## 0.0.855 - 2026-04-19
+- Process article error: https://substack.com/redirect/7c181178-75eb-476b-875b-11b2ad9b405a?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk.
+
 ## 0.0.854 - 2026-04-19
 - Process article error: https://substack.com/redirect/f2c67ad8-f6ca-4acf-a932-670d9d8d57e4?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk.
 
