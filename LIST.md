@@ -1,4 +1,3 @@
-https://notateslaapp.com/news/3954/how-elon-musk-plans-to-bypass-the-asml-bottleneck-to-build-terafab
 https://theregister.com/2026/04/15/national_initiative_for_american_space
 https://quodeq.ai/blog/supply-chain-attack-surface
 https://hannahritchie.substack.com/p/hpv-vaccination

@@ -1,3 +1,6 @@
+## 0.0.973 - 2026-04-19
+- Process article: How Elon Musk Plans to Bypass the ASML Bottleneck to Build TERAFAB.
+
 ## 0.0.972 - 2026-04-19
 - Process article: Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value.
 
