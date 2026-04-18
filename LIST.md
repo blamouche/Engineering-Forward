@@ -1,4 +1,3 @@
-https://every.to/paywall/pencil.png
 https://every.to/paywall/check.png
 https://every.to/paywall/sparks.png
 https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiTGl2aW5nIFNvZnR3YXJlIiwicG9zdF9pZCI6NDExNSwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8iLCJwb3NpdGlvbiI6MjN9
