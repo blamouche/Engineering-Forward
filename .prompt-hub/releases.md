@@ -1,3 +1,6 @@
+## 0.0.793 - 2026-04-19
+- Process article error: https://every.to/paywall/email-full.png.
+
 ## 0.0.792 - 2026-04-19
 - Process article: Every.
 
