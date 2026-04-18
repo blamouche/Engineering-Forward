@@ -1,6 +1,6 @@
 # Subscribe to Every
 
-**Source**: https://every.to/subscribe?source=post_button
+**Source**: https://every.to/subscribe
 **Date**: April 19, 2026
 **Author**: Unknown
 **Keywords**: every, subscribe
