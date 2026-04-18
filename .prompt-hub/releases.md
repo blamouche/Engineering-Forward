@@ -1,3 +1,6 @@
+## 0.0.818 - 2026-04-19
+- Process article: Migrate a Legacy Codebase with Sandbox Agents.
+
 ## 0.0.817 - 2026-04-19
 - Process article: PrismML — Introducing Ternary Bonsai: Top Intelligence at 1.58 Bits.
 
