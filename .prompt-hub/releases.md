@@ -1,3 +1,6 @@
+## 0.0.943 - 2026-04-19
+- Process article error: https://links.tldrnewsletter.com/ALGo3b.
+
 ## 0.0.942 - 2026-04-19
 - Process article: Gemini 3.1 Flash TTS: the next generation of expressive AI speech.
 
