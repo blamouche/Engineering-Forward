@@ -1,3 +1,6 @@
+## 0.0.704 - 2026-04-19
+- Process article: Anthropic: Claude quota drain not caused by cache tweaks.
+
 ## 0.0.703 - 2026-04-19
 - Process article: Securing non.
 
