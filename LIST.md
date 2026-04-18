@@ -1,4 +1,3 @@
-https://deepmind.google/blog/gemini-robotics-er-1-6/
 https://blog.cloudflare.com/improved-developer-security/
 https://www.theregister.com/2026/04/13/claude_code_cache_confusion/
 https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/
