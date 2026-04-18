@@ -1,3 +1,6 @@
+## 0.0.964 - 2026-04-19
+- Process article: Siri Engineers Sent to AI Coding Bootcamp as Apple Prepares to Deliver Siri Overhaul.
+
 ## 0.0.963 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/31E9kI.
 

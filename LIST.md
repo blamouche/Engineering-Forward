@@ -1,4 +1,3 @@
-https://macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp
 https://links.tldrnewsletter.com/gdbpZY
 https://a16z.news/p/frontier-systems-for-the-physical
 https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents
