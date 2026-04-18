@@ -1,3 +1,6 @@
+## 0.0.791 - 2026-04-19
+- Process article: Subscribe to Every.
+
 ## 0.0.790 - 2026-04-19
 - Process article error: https://every.to/subscribe.
 
