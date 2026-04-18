@@ -1,3 +1,6 @@
+## 0.0.872 - 2026-04-19
+- Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/publication/logo/94/small_context_windown_1.png.
+
 ## 0.0.871 - 2026-04-19
 - Process article: Every.
 
