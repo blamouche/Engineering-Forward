@@ -1,6 +1,6 @@
 # Turn documentation into your productâs knowledge system
 
-**Source**: https://www.gitbook.com/?amp%3Butm_medium=newsletter&amp%3Butm_campaign=knowledge_system
+**Source**: https://www.gitbook.com/?utm_source=every&utm_medium=newsletter&utm_campaign=knowledge_system
 **Date**: April 19, 2026
 **Author**: Unknown
 **Keywords**: gitbook, turn, documentation, into, your, product, knowledge, system
