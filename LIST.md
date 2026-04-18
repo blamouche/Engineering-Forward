@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product
 https://finance.yahoo.com/sectors/technology/articles/openai-spend-more-20-billion-013150907.html
 https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e
 https://blog.google/products-and-platforms/products/search/ai-mode-chrome

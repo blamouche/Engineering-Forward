@@ -1,3 +1,6 @@
+## 0.0.819 - 2026-04-19
+- Process article: Anthropic CPO leaves Figma's board after reports he will offer a competing product.
+
 ## 0.0.818 - 2026-04-19
 - Process article: Migrate a Legacy Codebase with Sandbox Agents.
 
