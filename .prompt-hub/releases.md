@@ -1,3 +1,6 @@
+## 0.0.834 - 2026-04-19
+- Process article error: https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm.
+
 ## 0.0.833 - 2026-04-19
 - Process article: Wispr Flow.
 
