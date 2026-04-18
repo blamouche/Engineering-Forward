@@ -1,3 +1,6 @@
+## 0.0.845 - 2026-04-19
+- Process article: Stop comparing price per million tokens: the hidden LLM API costs.
+
 ## 0.0.844 - 2026-04-19
 - Process article: Write broken commits for better review.
 
