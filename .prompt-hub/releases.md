@@ -1,3 +1,6 @@
+## 0.0.768 - 2026-04-19
+- Process article error: http://email.mg.every.to/o/eJwEwEsOhCAMANDTyE7SQqWy6GGw4CeRYBRN5vbzsqwx4pJMEWQONM0cJrMLxTW5CFmd-pjZBwSK3juc2HvUbA5x4AIQsgMK4G3JVHhmhZIUM-hAUDdbvnL_bG_mlsWeqbZX9zIQbDUdp9VWTZerPX0kRDJd2vU-I41sPnH_AAAA___Jzyw8.
+
 ## 0.0.767 - 2026-04-19
 - Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
 
