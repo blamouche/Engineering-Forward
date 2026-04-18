@@ -1,3 +1,6 @@
+## 0.0.954 - 2026-04-19
+- Process article: Anthropic loses Claude Code trust in black.
+
 ## 0.0.953 - 2026-04-19
 - Process article: Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat.
 
