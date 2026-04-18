@@ -1,3 +1,6 @@
+## 0.0.765 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.764 - 2026-04-19
 - Process article error: https://every.to/paywall/app_icons/monologue.png.
 
