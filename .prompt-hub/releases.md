@@ -1,3 +1,6 @@
+## 0.0.739 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.738 - 2026-04-19
 - Process article: Every.
 
