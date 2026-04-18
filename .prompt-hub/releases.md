@@ -1,3 +1,6 @@
+## 0.0.731 - 2026-04-19
+- Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/4114/full_page_cover_claude_4.7_A.png.
+
 ## 0.0.730 - 2026-04-19
 - Process article: Every.
 
