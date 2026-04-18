@@ -1,3 +1,6 @@
+## 0.0.705 - 2026-04-19
+- Process article: AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report.
+
 ## 0.0.704 - 2026-04-19
 - Process article: Anthropic: Claude quota drain not caused by cache tweaks.
 
