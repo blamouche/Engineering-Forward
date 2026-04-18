@@ -1,3 +1,6 @@
+## 0.0.821 - 2026-04-19
+- Process article error: https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e.
+
 ## 0.0.820 - 2026-04-19
 - Process article: OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports.
 

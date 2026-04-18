@@ -1,4 +1,3 @@
-https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e
 https://blog.google/products-and-platforms/products/search/ai-mode-chrome
 https://vercel.com/blog/a-new-programming-model-for-durable-execution
 https://testingcatalog.com/windsurf-2-0-adds-devin-and-agent-command-center
