@@ -1,3 +1,6 @@
+## 0.0.946 - 2026-04-19
+- Process article: Evaluating agents for scientific discovery.
+
 ## 0.0.945 - 2026-04-19
 - Process article: Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents.
 
