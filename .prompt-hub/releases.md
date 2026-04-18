@@ -1,3 +1,6 @@
+## 0.0.938 - 2026-04-19
+- Process article: You’re the Manager Now.
+
 ## 0.0.937 - 2026-04-19
 - Process article: Home.
 
