@@ -1,3 +1,6 @@
+## 0.0.939 - 2026-04-19
+- Process article error: http://email.mg.every.to/o/eJwEwF1uwyAMAODTlDeQ7TgxefBh-HGSSqVMjHbK7fdVPfYdc3KmKLItK26yu0vLntmi5FUK05IL1kgRIcZkOQJE91QC2oBxwxUQJYiQUD0YrFCufDwY2hnsa-MOs7uhObxS659y2YPhbOn5CqU3N_XuHz_Mz8t8S-902vDv_uem_vTf6RlxcV-l_wAAAP__qecyQA.
+
 ## 0.0.938 - 2026-04-19
 - Process article: You’re the Manager Now.
 
