@@ -1,4 +1,3 @@
-https://timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee
 https://links.tldrnewsletter.com/24J4nz
 https://replay.temporal.io/
 https://links.tldrnewsletter.com/2ylNv4
