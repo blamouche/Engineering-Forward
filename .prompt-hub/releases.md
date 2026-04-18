@@ -1,3 +1,6 @@
+## 0.0.812 - 2026-04-19
+- Process article: Jensen Huang on Anthropic, OpenAI, China, and demand for inference tokens.
+
 ## 0.0.811 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/rm8Jdy.
 
