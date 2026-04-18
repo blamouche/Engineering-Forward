@@ -1,3 +1,6 @@
+## 0.0.970 - 2026-04-19
+- Process article: Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts).
+
 ## 0.0.969 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/j3L7bc.
 

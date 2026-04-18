@@ -1,4 +1,3 @@
-https://ahrefs.com/blog/why-chatgpt-cites-pages
 https://gauntletai.com/apply
 https://cnbc.com/2026/04/15/allbirds-bird-stock-shoes-ai.html
 https://notateslaapp.com/news/3954/how-elon-musk-plans-to-bypass-the-asml-bottleneck-to-build-terafab
