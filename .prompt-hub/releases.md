@@ -1,3 +1,6 @@
+## 0.0.738 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.737 - 2026-04-19
 - Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
 
