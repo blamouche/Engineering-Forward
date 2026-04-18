@@ -1,3 +1,6 @@
+## 0.0.978 - 2026-04-19
+- Process article: OpenAI is building a personal CFO in plain sight 🤖📊; Revolut GlobalHire isn’t an HR product. It’s a payments product 👥💵; Shopify just made every AI agent a Shopify Agent 🛍️🤖.
+
 ## 0.0.977 - 2026-04-19
 - Process article: Ukraine’s military robot surge aims to offset drone risks to humans.
 
