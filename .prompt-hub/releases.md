@@ -1,3 +1,6 @@
+## 0.0.875 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.874 - 2026-04-19
 - Process article: You’re the Manager Now.
 
