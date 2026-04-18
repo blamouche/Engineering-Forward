@@ -1,3 +1,6 @@
+## 0.0.764 - 2026-04-19
+- Process article error: https://every.to/paywall/app_icons/monologue.png.
+
 ## 0.0.763 - 2026-04-19
 - Process article error: https://every.to/paywall/app_icons/spiral.png.
 
