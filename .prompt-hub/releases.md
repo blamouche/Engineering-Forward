@@ -1,3 +1,6 @@
+## 0.0.842 - 2026-04-19
+- Process article: Replay 2026 - San Francisco.
+
 ## 0.0.841 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/24J4nz.
 
