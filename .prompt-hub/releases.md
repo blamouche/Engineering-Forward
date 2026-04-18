@@ -1,3 +1,6 @@
+## 0.0.696 - 2026-04-19
+- Process article: Inside Revolut's PRAGMA: The Foundation Model Trained on 40 Billion Banking Events 🧠.
+
 ## 0.0.695 - 2026-04-19
 - Process article: Mini.
 
