@@ -1,3 +1,6 @@
+## 0.0.736 - 2026-04-19
+- Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
+
 ## 0.0.735 - 2026-04-19
 - Process article: LIVE VIBE CHECK: OPUS 4.7 DROPS.
 
