@@ -1,4 +1,3 @@
-https://every.to/paywall/app_icons/cora.png
 https://every.to/paywall/app_icons/spiral.png
 https://every.to/paywall/app_icons/monologue.png
 https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiVmliZSBDaGVjazogT3B1cyA0LjcgU3RvcHBlZCBSZWFkaW5nIEJldHdlZW4gdGhlIExpbmVzIiwicG9zdF9pZCI6NDExNCwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vZXZlcnkudG8iLCJwb3NpdGlvbiI6MzN9
