@@ -1,3 +1,6 @@
+## 0.0.792 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.791 - 2026-04-19
 - Process article: Subscribe to Every.
 
