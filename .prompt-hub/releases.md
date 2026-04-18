@@ -1,3 +1,6 @@
+## 0.0.829 - 2026-04-19
+- Process article error: https://tldr.tech/ai/manage?email=b.lamouche%40gmail.com.
+
 ## 0.0.828 - 2026-04-19
 - Process article error: https://jobs.ashbyhq.com/tldr.tech/c227b917-a6a4-40ce-8950-d3e165357871.
 
