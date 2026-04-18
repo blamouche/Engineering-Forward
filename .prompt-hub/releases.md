@@ -1,3 +1,6 @@
+## 0.0.709 - 2026-04-19
+- Process article: Introducing routines in Claude Code.
+
 ## 0.0.708 - 2026-04-19
 - Process article: Open Agents.
 
