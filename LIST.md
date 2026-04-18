@@ -1,4 +1,3 @@
-https://github.com/QwenLM/Qwen3.6
 https://prismml.com/news/ternary-bonsai
 https://developers.openai.com/cookbook/examples/agents_sdk/sandboxed-code-migration/sandboxed_code_migration_agent
 https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product
