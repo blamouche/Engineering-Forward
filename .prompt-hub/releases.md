@@ -1,3 +1,6 @@
+## 0.0.722 - 2026-04-19
+- Process article error: https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/.
+
 ## 0.0.721 - 2026-04-19
 - Process article: Anthropic shifts enterprise billing to usage.
 
