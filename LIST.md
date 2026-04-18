@@ -1,4 +1,3 @@
-https://links.tldrnewsletter.com/31E9kI
 https://macrumors.com/2026/04/15/siri-engineers-ai-coding-bootcamp
 https://links.tldrnewsletter.com/gdbpZY
 https://a16z.news/p/frontier-systems-for-the-physical

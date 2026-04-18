@@ -1,3 +1,6 @@
+## 0.0.963 - 2026-04-19
+- Process article error: https://links.tldrnewsletter.com/31E9kI.
+
 ## 0.0.962 - 2026-04-19
 - Process article: Agent Experience: Build without leaving your terminal — WorkOS.
 
