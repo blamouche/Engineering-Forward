@@ -1,3 +1,6 @@
+## 0.0.823 - 2026-04-19
+- Process article: A new programming model for durable execution.
+
 ## 0.0.822 - 2026-04-19
 - Process article: A new way to explore the web with AI Mode in Chrome.
 
