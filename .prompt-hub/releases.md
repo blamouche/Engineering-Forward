@@ -1,3 +1,6 @@
+## 0.0.950 - 2026-04-19
+- Process article: Parcae: Doing more with fewer parameters using stable looped models.
+
 ## 0.0.949 - 2026-04-19
 - Process article: Teleport Beams â Trusted Runtimes for Infrastructure Agents.
 

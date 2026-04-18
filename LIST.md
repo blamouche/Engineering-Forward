@@ -1,4 +1,3 @@
-https://together.ai/blog/parcae
 https://arxiv.org/abs/2604.13036
 https://arxiv.org/abs/2604.09443
 https://dwarkesh.com/p/jensen-huang
