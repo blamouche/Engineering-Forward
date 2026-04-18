@@ -1,4 +1,3 @@
-https://cursor.com/blog/multi-agent-kernels
 https://deepmind.google/blog/gemini-robotics-er-1-6/
 https://blog.cloudflare.com/improved-developer-security/
 https://www.theregister.com/2026/04/13/claude_code_cache_confusion/

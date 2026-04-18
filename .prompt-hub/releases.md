@@ -1,3 +1,6 @@
+## 0.0.701 - 2026-04-19
+- Process article: Speeding up GPU kernels by 38% with a multi-agent system.
+
 ## 0.0.700 - 2026-04-19
 - Process article: Five hyperscalers now own over two.
 
