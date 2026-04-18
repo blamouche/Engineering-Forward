@@ -1,6 +1,6 @@
 # Subscribe to Every
 
-**Source**: https://every.to/subscribe?hash=09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d&publication=p&source=email_post_paywall
+**Source**: https://every.to/subscribe
 **Date**: April 19, 2026
 **Author**: Unknown
 **Keywords**: every, subscribe
