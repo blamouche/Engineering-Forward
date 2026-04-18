@@ -1,3 +1,6 @@
+## 0.0.887 - 2026-04-19
+- Process article: Every Is Half Agent Now.
+
 ## 0.0.886 - 2026-04-19
 - Process article: AI Cybersecurity After Mythos: The Jagged Frontier.
 
