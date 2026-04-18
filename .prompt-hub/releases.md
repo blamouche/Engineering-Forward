@@ -1,3 +1,6 @@
+## 0.0.824 - 2026-04-19
+- Process article: Windsurf 2.0 adds Devin and Agent Command Center.
+
 ## 0.0.823 - 2026-04-19
 - Process article: A new programming model for durable execution.
 
