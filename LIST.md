@@ -1,4 +1,3 @@
-https://refer.tldr.tech/6046cea0
 https://tldr.tech/signup
 https://a.tldrnewsletter.com/web-version?ep=1&lc=25c0e65e-c53c-11ef-9e30-3128051c4297&p=3ebe6c00-3a3c-11f1-af89-2b9543aab7b1&pt=campaign&t=1776421388&s=c2b9cac13096db74f1308350125c8e4b2c9553c21be8d5ba997493077ff281b1
 https://ref.wisprflow.ai/tldr-apr17

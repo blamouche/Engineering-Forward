@@ -1,3 +1,6 @@
+## 0.0.830 - 2026-04-19
+- Process article error: https://refer.tldr.tech/6046cea0.
+
 ## 0.0.829 - 2026-04-19
 - Process article error: https://tldr.tech/ai/manage?email=b.lamouche%40gmail.com.
 
