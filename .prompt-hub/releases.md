@@ -1,3 +1,6 @@
+## 0.0.817 - 2026-04-19
+- Process article: PrismML — Introducing Ternary Bonsai: Top Intelligence at 1.58 Bits.
+
 ## 0.0.816 - 2026-04-19
 - Process article: GitHub.
 
