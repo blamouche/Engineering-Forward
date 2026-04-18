@@ -1,4 +1,3 @@
-https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html
 https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/
 https://open-agents.dev/
 https://claude.com/blog/introducing-routines-in-claude-code

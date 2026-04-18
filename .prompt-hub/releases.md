@@ -1,3 +1,6 @@
+## 0.0.706 - 2026-04-19
+- Process article: Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board.
+
 ## 0.0.705 - 2026-04-19
 - Process article: AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report.
 
