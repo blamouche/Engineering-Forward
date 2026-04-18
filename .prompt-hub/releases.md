@@ -1,3 +1,6 @@
+## 0.0.913 - 2026-04-19
+- Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiWW914oCZcmUgdGhlIE1hbmFnZXIgTm93IiwicG9zdF9pZCI6NDExMywicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8veC5jb20vZGlvc2N1cmkvc3RhdHVzLzIwNDM2NjE5NzY1MzQ5NTAzMjMiLCJwb3NpdGlvbiI6MzN9.
+
 ## 0.0.912 - 2026-04-19
 - Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiWW914oCZcmUgdGhlIE1hbmFnZXIgTm93IiwicG9zdF9pZCI6NDExMywicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8veC5jb20vZGFuc2hpcHBlci9zdGF0dXMvMjA0MzY3MjQzNzYyNDA0NTc2NSIsInBvc2l0aW9uIjozMn0=.
 
