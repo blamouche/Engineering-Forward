@@ -1,4 +1,3 @@
-https://github.com/BayramAnnakov/claude-reflect
 https://9to5mac.com/2026/04/14/anthropic-adds-repeatable-routines-feature-to-claude-code-heres-how-it-works/
 https://awesomeagents.ai/news/github-fake-stars-investigation/
 https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/
