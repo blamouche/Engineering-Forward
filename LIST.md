@@ -1,4 +1,3 @@
-https://links.tldrnewsletter.com/rm8Jdy
 https://davefriedman.substack.com/p/jensen-huang-on-anthropic-openai
 https://dwarkesh.com/p/what-i-learned-april-15
 https://huggingface.co/blog/transformers-to-mlx
