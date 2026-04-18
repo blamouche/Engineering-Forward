@@ -1,3 +1,6 @@
+## 0.0.802 - 2026-04-19
+- Process article: Living Software.
+
 ## 0.0.801 - 2026-04-19
 - Process article: Home.
 

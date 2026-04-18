@@ -1,6 +1,6 @@
 # Living Software
 
-**Source**: https://every.to/p/living-software?metered_paywall=1
+**Source**: https://every.to/unsubscribe?post=living-software&hash=09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d
 **Date**: April 17, 2026
 **Author**: Jack Cheng
 **Keywords**: every, living, software
@@ -9,11 +9,11 @@
 AI has made software disorienting. It doesn’t have to be
 
 ## Takeaways
-- He is a creative generalist and the author of two novels for young readers.
-- Why do constant updates fill us with dread in some apps, while we greet the daily evolution of an AI agent with more curiosity?
-- Jack Cheng , Every’s senior editor, explores that tension through a clarifying distinction: “tool-like software,” which we expect to be stable and consistent, versus “living software,” which we expect to grow and adapt.
-- Read on for his practical advice for builders of both.— Kate Lee  Was this newsletter forwarded to you?
-- When pressed, the product would crystalize in its present state.
+- Confirming you’d like to unsubscribe as [email protected] .
+- You'll select your email preferences on the next page.
+- We use analytics and advertising tools by default.
+- Necessary cookies stay on so the site can function.
+- Global Privacy Control is active, so advertising and sharing is turned off.
 
 ## Synthesis
-He is a creative generalist and the author of two novels for young readers. Why do constant updates fill us with dread in some apps, while we greet the daily evolution of an AI agent with more curiosity? Jack Cheng , Every’s senior editor, explores that tension through a clarifying distinction: “tool-like software,” which we expect to be stable and consistent, versus “living software,” which we expect to grow and adapt. Read on for his practical advice for builders of both.— Kate Lee  Was this newsletter forwarded to you? When pressed, the product would crystalize in its present state. The feature set would lock, and the interface would solidify, as if dipped in carbonite . I want this button because companies are loading apps with more and more features, whether AI or the result of AI-accelerated development, making the tools unrecognizable. The additions are even more jarring for apps that I only use occasionally, like Figma. There, a chat box now beckons to describe my idea to make it come to life. A “Recents” toolbar above it has buttons for Figma Sites, Figma Buzz, and Figma Make—all launched last May .
+Confirming you’d like to unsubscribe as [email protected] . You'll select your email preferences on the next page. We use analytics and advertising tools by default. Necessary cookies stay on so the site can function. Global Privacy Control is active, so advertising and sharing is turned off. Confirming you’d like to unsubscribe as [email protected] . You'll select your email preferences on the next page. We use analytics and advertising tools by default. You can update this anytime. Manage optional tracking categories. Necessary cookies stay on so the site can function. Global Privacy Control is active, so advertising and sharing is turned off.
