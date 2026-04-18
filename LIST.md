@@ -1,4 +1,3 @@
-https://a.tldrnewsletter.com/web-version?ep=1&lc5f36c90-c53c-11ef-8628-79595ca5259c=&p%EF%BF%BD7b2e02-3978-11f1-85a8-e709599e4e50=&pt%EF%BF%BDmpaign=&t%1776346077=&s%EF%BF%BDb61aadf2f3b34693ada58c0f11213a56cd0969b46b1644541aa8d7d2110a59=
 https://metronome.com/blog/2026-trends-from-cataloging-50-ai-pricing-models
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts
 https://links.tldrnewsletter.com/ALGo3b
