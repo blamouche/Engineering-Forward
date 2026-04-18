@@ -1,3 +1,6 @@
+## 0.0.850 - 2026-04-19
+- Process article error: https://tldr.tech/tech/manage?email=b.lamouche%40gmail.com.
+
 ## 0.0.849 - 2026-04-19
 - Process article error: https://hub.sparklp.co/sub_1830cd6e7410/1.
 
