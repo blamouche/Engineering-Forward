@@ -1,3 +1,6 @@
+## 0.0.876 - 2026-04-19
+- Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/4113/full_page_cover_A_plugin_for_getting_agents_to_shut_up.png.
+
 ## 0.0.875 - 2026-04-19
 - Process article: Every.
 
