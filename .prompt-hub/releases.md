@@ -1,3 +1,6 @@
+## 0.0.975 - 2026-04-19
+- Process article error: https://quodeq.ai/blog/supply-chain-attack-surface.
+
 ## 0.0.974 - 2026-04-19
 - Process article: Fission impossible: Uncle Sam wants nuclear power in space.
 
