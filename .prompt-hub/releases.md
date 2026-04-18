@@ -1,3 +1,6 @@
+## 0.0.836 - 2026-04-19
+- Process article: OpenAI starts offering a biology.
+
 ## 0.0.835 - 2026-04-19
 - Process article: MacBook Neo sells out for April as demand for Apple's $599 laptop outpaces supply.
 

@@ -1,4 +1,3 @@
-https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm
 https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught
 https://github.com/heygen-com/hyperframes
 https://cloudflare.com/agents-week/updates
