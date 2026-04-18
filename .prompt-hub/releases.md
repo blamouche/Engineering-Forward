@@ -1,3 +1,6 @@
+## 0.0.748 - 2026-04-19
+- Process article: The Curiosity Gap | Katie Parrott.
+
 ## 0.0.747 - 2026-04-19
 - Process article: Every.
 
