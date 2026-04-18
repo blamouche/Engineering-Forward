@@ -1,4 +1,3 @@
-https://hub.sparklp.co/sub_548047b52a18/2
 https://jobs.ashbyhq.com/tldr.tech
 https://jobs.ashbyhq.com/tldr.tech/c227b917-a6a4-40ce-8950-d3e165357871
 https://tldr.tech/ai/manage?email=b.lamouche%40gmail.com

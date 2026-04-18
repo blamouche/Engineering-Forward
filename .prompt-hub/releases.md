@@ -1,3 +1,6 @@
+## 0.0.826 - 2026-04-19
+- Process article error: https://hub.sparklp.co/sub_548047b52a18/2.
+
 ## 0.0.825 - 2026-04-19
 - Process article: Thread by @xDaily on Thread Reader App.
 
