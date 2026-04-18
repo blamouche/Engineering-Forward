@@ -1,3 +1,6 @@
+## 0.0.825 - 2026-04-19
+- Process article: Thread by @xDaily on Thread Reader App.
+
 ## 0.0.824 - 2026-04-19
 - Process article: Windsurf 2.0 adds Devin and Agent Command Center.
 
