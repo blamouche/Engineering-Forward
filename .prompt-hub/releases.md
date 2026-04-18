@@ -1,3 +1,6 @@
+## 0.0.782 - 2026-04-19
+- Process article: Every Is Half Agent Now.
+
 ## 0.0.781 - 2026-04-19
 - Process article: OpenClaw: Our Comprehensive Guide for Beginners.
 
