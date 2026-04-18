@@ -1,4 +1,3 @@
-http://email.mg.every.to/o/eJxMxkuOwyAMANDTlB3INr-w8GFIMGkkGCrKpOrtZzu7V7imhHtWwhhjcHZD2NSTD7B7iJv1ItEmgVA87ORjICg-FacuJqAADiN6QGdN8jHXGuxBQBvZ-nDQTyO3zK9ZQ03eTct9_B5PeTg4e76aOUZXi9t1Xz-nfo-6PnmKWvwa76Udov9v3WXJlKJf-fvJrWlUN9NfAAAA__80CDl4
 https://refer.tldr.tech/5b8ae078/2
 https://tldr.tech/ai
 https://a.tldrnewsletter.com/web-version?ep=1&lc=35f36c90-c53c-11ef-8628-79595ca5259c&p=960c5222-3a52-11f1-9174-df0e804ddee9&pt=campaign&t=1776432187&s=203e2f6d2f823d8fe664cf220924c3e9245cef56a4439d7f0b4a6da9bf635961
