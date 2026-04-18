@@ -1,3 +1,6 @@
+## 0.0.841 - 2026-04-19
+- Process article error: https://links.tldrnewsletter.com/24J4nz.
+
 ## 0.0.840 - 2026-04-19
 - Process article error: https://timdavis.com/blog/probabilistic-engineering-and-the-24-7-employee.
 
