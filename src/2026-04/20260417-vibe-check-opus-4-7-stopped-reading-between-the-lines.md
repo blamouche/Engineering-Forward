@@ -1,6 +1,6 @@
 # Vibe Check: Opus 4.7 Stopped Reading Between the Lines
 
-**Source**: https://every.to/vibe-check/opus-4-7
+**Source**: https://every.to/vibe-check/opus-4-7?source=post_button
 **Date**: April 17, 2026
 **Author**: Katie Parrott
 **Keywords**: every, vibe, check, opus, stopped, reading, between, lines
