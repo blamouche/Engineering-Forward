@@ -1,3 +1,6 @@
+## 0.0.941 - 2026-04-19
+- Process article: 2026 Trends From Cataloging 50+ AI Pricing Models.
+
 ## 0.0.940 - 2026-04-19
 - Process article error: https://a.tldrnewsletter.com/web-version?ep=1&lc5f36c90-c53c-11ef-8628-79595ca5259c=&p%EF%BF%BD7b2e02-3978-11f1-85a8-e709599e4e50=&pt%EF%BF%BDmpaign=&t%1776346077=&s%EF%BF%BDb61aadf2f3b34693ada58c0f11213a56cd0969b46b1644541aa8d7d2110a59=.
 
