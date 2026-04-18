@@ -1,3 +1,6 @@
+## 0.0.720 - 2026-04-19
+- Process article: Scaling MCP adoption: Our reference architecture for simpler, safer and cheaper enterprise deployments of MCP.
+
 ## 0.0.719 - 2026-04-19
 - Process article: GitHub.
 
