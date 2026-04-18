@@ -1,3 +1,6 @@
+## 0.0.694 - 2026-04-19
+- Daily veille IA: Gmail labels `0---veille-ia` / `0 - Veille/IA` returned 15 message(s); repo had pending local changes that were committed/pushed first; extracted 262 relevant URL(s), removed 1 off-topic URL(s) from `LIST.md`, trashed 15 processed email(s), and refreshed the processing queue.
+
 ## 0.0.693 - 2026-04-15
 - Daily veille IA Gmail extraction: synced repo, added 29 filtered AI/app-dev URLs to LIST.md, trashed 6 processed emails, and pushed the clean update.
 

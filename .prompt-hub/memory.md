@@ -4249,3 +4249,10 @@
 - outcome: success
 - next_step: Push all local commits to origin/main and finish the scan-list run with a plain-text summary.
 - 2026-04-15: Daily veille IA Gmail extraction processed 6 Gmail messages, rebuilt LIST.md from empty with 29 AI/app-dev URLs, trashed the processed emails, and pushed the repo after bumping prompt-hub tracking.
+
+## 2026-04-19 00:03:09 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail labels `0---veille-ia` / `0 - Veille/IA` returned 15 message(s); extracted 262 relevant URL(s), removed 1 off-topic queued URL(s), and trashed 15 processed email(s).
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260419-000211-veille-ia-extraire-urls-gmail.md`; `git pull --rebase origin main`; `gog gmail messages search` for both labels; `LIST.md`; `gog gmail batch modify 19da139263c4b69f 19d9d31984631a8f 19d9ca2601087e45 19d9bf66294aeb43 19d9b9c0a943c136 19d9af74414563c9 19d9ac7eff9aff83 19d99adacc9d4c4c 19d9762c71cf2a66 19d96ee3f1626a29 19d96cf96f63d2c4 19d967a1f060e8b1 19d95d3ffd3ca365 19d958fd63e1c7e9 19d9483b46cd0aee --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
