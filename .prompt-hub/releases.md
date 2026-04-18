@@ -1,3 +1,6 @@
+## 0.0.708 - 2026-04-19
+- Process article: Open Agents.
+
 ## 0.0.707 - 2026-04-19
 - Process article: Anthropic co-founder confirms the company briefed the Trump administration on Mythos.
 

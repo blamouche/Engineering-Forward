@@ -1,4 +1,3 @@
-https://open-agents.dev/
 https://claude.com/blog/introducing-routines-in-claude-code
 https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/self-improving-agent-skills
 https://www.theunwindai.com/p/how-to-run-a-24-7-ai-agent-that-grows-with-you
