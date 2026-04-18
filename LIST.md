@@ -1,4 +1,3 @@
-https://epochai.substack.com/p/five-hyperscalers-now-own-over-two
 https://cursor.com/blog/multi-agent-kernels
 https://deepmind.google/blog/gemini-robotics-er-1-6/
 https://blog.cloudflare.com/improved-developer-security/

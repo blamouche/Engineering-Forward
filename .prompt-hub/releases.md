@@ -1,3 +1,6 @@
+## 0.0.700 - 2026-04-19
+- Process article: Five hyperscalers now own over two.
+
 ## 0.0.699 - 2026-04-19
 - Process article: Google tests Canvas and Connectors on NotebookLM.
 
