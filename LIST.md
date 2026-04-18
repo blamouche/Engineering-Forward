@@ -1,4 +1,3 @@
-https://hannahritchie.substack.com/p/hpv-vaccination
 https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans
 https://linas.substack.com/p/fintechpulse1068
 https://substack.com/redirect/7d59f5e4-1003-4da3-bf98-122c5c754c6e?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
