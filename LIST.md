@@ -1,4 +1,3 @@
-https://github.com/dropseed/plain
 https://blog.cloudflare.com/enterprise-mcp/
 https://www.implicator.ai/anthropic-shifts-enterprise-billing-to-per-token-pricing-the-flat-fee-era-is-over/
 https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/
