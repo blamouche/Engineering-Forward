@@ -1,4 +1,3 @@
-https://blog.google/products-and-platforms/products/search/ai-mode-chrome
 https://vercel.com/blog/a-new-programming-model-for-durable-execution
 https://testingcatalog.com/windsurf-2-0-adds-devin-and-agent-command-center
 https://threadreaderapp.com/thread/2044756242287976923.html

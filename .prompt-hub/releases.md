@@ -1,3 +1,6 @@
+## 0.0.822 - 2026-04-19
+- Process article: A new way to explore the web with AI Mode in Chrome.
+
 ## 0.0.821 - 2026-04-19
 - Process article error: https://jobs.ashbyhq.com/tldr.tech/3b21aaf8-dea5-4127-be71-602d30e5001e.
 
