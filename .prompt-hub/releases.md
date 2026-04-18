@@ -1,3 +1,6 @@
+## 0.0.699 - 2026-04-19
+- Process article: Google tests Canvas and Connectors on NotebookLM.
+
 ## 0.0.698 - 2026-04-19
 - Process article: Turn your best AI prompts into one.
 
