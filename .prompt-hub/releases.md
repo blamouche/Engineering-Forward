@@ -1,3 +1,6 @@
+## 0.0.956 - 2026-04-19
+- Process article: Google tests Agentic Shopping and native checkout in Gemini.
+
 ## 0.0.955 - 2026-04-19
 - Process article: Browser Run: give your agents a browser.
 
