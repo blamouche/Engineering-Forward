@@ -1,3 +1,6 @@
+## 0.0.799 - 2026-04-19
+- Process article error: https://every.to/paywall/sparks.png.
+
 ## 0.0.798 - 2026-04-19
 - Process article error: https://every.to/paywall/check.png.
 
