@@ -1,4 +1,3 @@
-https://huggingface.co/blog/transformers-to-mlx
 https://digitalocean.com/deploy
 https://github.com/QwenLM/Qwen3.6
 https://prismml.com/news/ternary-bonsai
