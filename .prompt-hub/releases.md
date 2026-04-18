@@ -1,3 +1,6 @@
+## 0.0.949 - 2026-04-19
+- Process article: Teleport Beams â Trusted Runtimes for Infrastructure Agents.
+
 ## 0.0.948 - 2026-04-19
 - Process article: Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters.
 
