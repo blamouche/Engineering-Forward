@@ -1,3 +1,6 @@
+## 0.0.904 - 2026-04-19
+- Process article error: https://d24ovhgu8s7341.cloudfront.net/uploads/editor/posts/4113/optimized_15049a49-aac6-4709-ab6c-aaa631a8b380.png.
+
 ## 0.0.903 - 2026-04-19
 - Process article: OpenClaw: Setting Up Your First Personal AI Agent.
 
