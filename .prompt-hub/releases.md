@@ -1,3 +1,6 @@
+## 0.0.868 - 2026-04-19
+- Process article: A Guide to Relational Database Design.
+
 ## 0.0.867 - 2026-04-19
 - Process article error: https://0ab9ee3d.unsubscribe.kit-mail3.com/xmu0qmgwn0i6hp0xmv4t5h2e880rpanh8lr4l.
 
