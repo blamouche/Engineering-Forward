@@ -1,3 +1,6 @@
+## 0.0.957 - 2026-04-19
+- Process article: The Gemini app is now on Mac.
+
 ## 0.0.956 - 2026-04-19
 - Process article: Google tests Agentic Shopping and native checkout in Gemini.
 
