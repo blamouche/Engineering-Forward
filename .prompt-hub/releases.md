@@ -1,3 +1,6 @@
+## 0.0.961 - 2026-04-19
+- Process article error: https://links.tldrnewsletter.com/H1jLU5.
+
 ## 0.0.960 - 2026-04-19
 - Process article: AI Installer & CLI – AuthKit – WorkOS Docs.
 
