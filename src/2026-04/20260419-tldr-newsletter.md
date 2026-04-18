@@ -1,6 +1,6 @@
 # TLDR Newsletter
 
-**Source**: https://tldr.tech/ai
+**Source**: https://tldr.tech/signup
 **Date**: April 19, 2026
 **Author**: Unknown
 **Keywords**: tldr, newsletter
