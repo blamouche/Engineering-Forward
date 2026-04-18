@@ -1,3 +1,6 @@
+## 0.0.953 - 2026-04-19
+- Process article: Jensen Huang – TPU competition, why we should sell chips to China, & Nvidia’s supply chain moat.
+
 ## 0.0.952 - 2026-04-19
 - Process article: Many.
 

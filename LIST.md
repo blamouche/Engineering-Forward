@@ -1,4 +1,3 @@
-https://dwarkesh.com/p/jensen-huang
 https://implicator.ai/claude-probably-wasnt-secretly-nerfed-anthropic-made-the-black-box-too-dark
 https://blog.cloudflare.com/browser-run-for-ai-agents
 https://testingcatalog.com/google-tests-agentic-shopping-with-native-checkout-in-gemini
