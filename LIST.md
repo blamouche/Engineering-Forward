@@ -1,4 +1,3 @@
-https://every.to/paywall/app_icons/sparkle.png
 https://every.to/paywall/app_icons/cora.png
 https://every.to/paywall/app_icons/spiral.png
 https://every.to/paywall/app_icons/monologue.png
