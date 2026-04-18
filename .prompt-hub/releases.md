@@ -1,3 +1,6 @@
+## 0.0.717 - 2026-04-19
+- Process article: Inside GitHub's Fake Star Economy.
+
 ## 0.0.716 - 2026-04-19
 - Process article: Anthropic adds routines to redesigned Claude Code, here's how it works.
 

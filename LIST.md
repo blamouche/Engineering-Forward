@@ -1,4 +1,3 @@
-https://awesomeagents.ai/news/github-fake-stars-investigation/
 https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/
 https://github.com/dropseed/plain
 https://blog.cloudflare.com/enterprise-mcp/
