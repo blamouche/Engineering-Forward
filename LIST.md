@@ -1,4 +1,3 @@
-https://dwarkesh.com/p/what-i-learned-april-15
 https://huggingface.co/blog/transformers-to-mlx
 https://digitalocean.com/deploy
 https://github.com/QwenLM/Qwen3.6

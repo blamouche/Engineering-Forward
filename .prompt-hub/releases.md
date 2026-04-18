@@ -1,3 +1,6 @@
+## 0.0.813 - 2026-04-19
+- Process article: What I learned this week.
+
 ## 0.0.812 - 2026-04-19
 - Process article: Jensen Huang on Anthropic, OpenAI, China, and demand for inference tokens.
 
