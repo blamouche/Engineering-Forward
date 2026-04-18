@@ -1,3 +1,6 @@
+## 0.0.723 - 2026-04-19
+- Process article error: https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9ibG9nLmJ5dGVieXRlZ28uY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3lOakF3TVRreU55d2ljRzl6ZEY5cFpDSTZNVGswTkRrek9USTRMQ0pwWVhRaU9qRTNOelkxTWpZek5qZ3NJbVY0Y0NJNk1UZ3dPREEyTWpNMk9Dd2lhWE56SWpvaWNIVmlMVGd4TnpFek1pSXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuVktMcVkta0xBSEhyVFVleGxZd0JFVk0tVGkyRjI4YkNXRU9ENFItYnVWRSIsInAiOjE5NDQ5MzkyOCwicyI6ODE3MTMyLCJmIjp0cnVlLCJ1IjoyNjAwMTkyNywiaWF0IjoxNzc2NTI2MzY4LCJleHAiOjIwOTIxMDIzNjgsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9.Sq-bZu-H21SkCE-V8XUxr-v5lT1cBiYlh948oOZgetQ.
+
 ## 0.0.722 - 2026-04-19
 - Process article error: https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/.
 
