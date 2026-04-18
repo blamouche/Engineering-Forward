@@ -1,3 +1,6 @@
+## 0.0.714 - 2026-04-19
+- Process article: GitHub - kontext-security/kontext-cli: Open.
+
 ## 0.0.713 - 2026-04-19
 - Process article: Login.
 
