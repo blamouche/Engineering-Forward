@@ -1,4 +1,3 @@
-https://linas.substack.com/p/fintechpulse1069
 https://substack.com/redirect/a7cfc147-e7cb-4eb6-8468-8c39ab74e3ae?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
 https://substack.com/redirect/54925e7d-f011-4878-bfff-f70856b3d7b2?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
 https://substack.com/redirect/f2c67ad8-f6ca-4acf-a932-670d9d8d57e4?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk

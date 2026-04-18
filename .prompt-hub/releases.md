@@ -1,3 +1,6 @@
+## 0.0.851 - 2026-04-19
+- Process article: American Express skipped the Agent Protocol wars and bought the risk instead 🤖🛡️; Anthropic is now banking infrastructure 🤖🏦.
+
 ## 0.0.850 - 2026-04-19
 - Process article error: https://tldr.tech/tech/manage?email=b.lamouche%40gmail.com.
 
