@@ -1,3 +1,6 @@
+## 0.0.848 - 2026-04-19
+- Process article: Laravel raised money and now injects ads directly into your agent.
+
 ## 0.0.847 - 2026-04-19
 - Process article: New undersea cable cutter risks Internet’s backbone.
 

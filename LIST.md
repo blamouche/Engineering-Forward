@@ -1,4 +1,3 @@
-https://techstackups.com/articles/laravel-raised-money-and-now-injects-ads-directly-into-your-agent
 https://hub.sparklp.co/sub_1830cd6e7410/1
 https://tldr.tech/tech/manage?email=b.lamouche%40gmail.com
 https://linas.substack.com/p/fintechpulse1069
