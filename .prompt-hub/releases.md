@@ -1,3 +1,6 @@
+## 0.0.786 - 2026-04-19
+- Process article: When Your Vibe Coded App Goes Viral—And Then Goes Down.
+
 ## 0.0.785 - 2026-04-19
 - Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiTGl2aW5nIFNvZnR3YXJlIiwicG9zdF9pZCI6NDExNSwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vcXouY29tLzQ4NjM3OS9waG90b3Mtc2NlbmVzLWZyb20tdGhlLXdvcmxkd2lkZS1mcmVuenktb2YtbWljcm9zb2Z0cy13aW5kb3dzLTk1LXJlbGVhc2UiLCJwb3NpdGlvbiI6MTR9.
 
