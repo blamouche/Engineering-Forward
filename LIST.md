@@ -1,4 +1,3 @@
-https://thenextweb.com/news/jane-street-coreweave-6-billion-cloud-1-billion-equity-ai
 https://a.tldrnewsletter.com/web-version?ep=1&lc=25c0e65e-c53c-11ef-9e30-3128051c4297&p=edd147be-3972-11f1-ad47-29feeb2f679c&pt=campaign&t=1776335191&s=80e5d1af2c4ce735bea2261a199822e8999c8847b0a2ac662f166478750f0515
 https://workos.com/docs/authkit/cli-installer
 https://links.tldrnewsletter.com/H1jLU5

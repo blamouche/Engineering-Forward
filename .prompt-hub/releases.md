@@ -1,3 +1,6 @@
+## 0.0.958 - 2026-04-19
+- Process article: Jane Street signs $6 billion AI cloud deal with CoreWeave, invests $1 billion in equity.
+
 ## 0.0.957 - 2026-04-19
 - Process article: The Gemini app is now on Mac.
 
