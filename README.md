@@ -18,7 +18,7 @@ Articles per month:
 2025-08 | █ 1<br>
 2025-09 | ██ 2<br>
 2025-10 | ████ 4<br>
-2025-11 | █ 1<br>
+2025-11 | ██ 2<br>
 2025-12 | ██ 2<br>
 2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
@@ -1014,6 +1014,7 @@ Articles per month:
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 
 #### November (1 article)
+- [The AI Browsers That Made It Into Our Daily Workflow](src/2025-11/20251125-the-ai-browsers-that-made-it-into-our-daily-workflow.md)
 - [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
 
 #### October (1 articles)
