@@ -1,3 +1,6 @@
+## 0.0.760 - 2026-04-19
+- Process article error: https://every.to/paywall/ai_tools_showcase.gif.
+
 ## 0.0.759 - 2026-04-19
 - Process article: Every.
 
