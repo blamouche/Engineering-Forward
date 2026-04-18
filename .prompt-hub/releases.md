@@ -1,3 +1,6 @@
+## 0.0.712 - 2026-04-19
+- Process article: tinyfish-cookbook/skills/use-tinyfish/SKILL.md at main · tinyfish-io/tinyfish.
+
 ## 0.0.711 - 2026-04-19
 - Process article: How to Run a 24/7 AI Agent that Grows with You.
 

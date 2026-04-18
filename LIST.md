@@ -1,4 +1,3 @@
-https://github.com/tinyfish-io/tinyfish-cookbook/blob/main/skills/use-tinyfish/SKILL.md
 https://console.mistral.ai/codestral/cli
 https://github.com/kontext-security/kontext-cli
 https://github.com/BayramAnnakov/claude-reflect
