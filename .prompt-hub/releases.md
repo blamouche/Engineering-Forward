@@ -1,3 +1,6 @@
+## 0.0.784 - 2026-04-19
+- Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiTGl2aW5nIFNvZnR3YXJlIiwicG9zdF9pZCI6NDExNSwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vdHVyby5jb20vdXMvZW4vY2FyLXJlbnRhbC91bml0ZWQtc3RhdGVzL21hcmluYS1kZWwtcmV5LWNhL2RlbG9yZWFuL2RtYy0xMi8zMzU2NjgiLCJwb3NpdGlvbiI6MTN9.
+
 ## 0.0.783 - 2026-04-19
 - Process article: I Hired an AI to Do My Chores. Now I Maintain the AI..
 
