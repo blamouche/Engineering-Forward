@@ -1,4 +1,3 @@
-https://digitalocean.com/deploy
 https://github.com/QwenLM/Qwen3.6
 https://prismml.com/news/ternary-bonsai
 https://developers.openai.com/cookbook/examples/agents_sdk/sandboxed-code-migration/sandboxed_code_migration_agent
