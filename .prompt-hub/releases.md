@@ -1,3 +1,6 @@
+## 0.0.798 - 2026-04-19
+- Process article error: https://every.to/paywall/check.png.
+
 ## 0.0.797 - 2026-04-19
 - Process article error: https://every.to/paywall/pencil.png.
 
