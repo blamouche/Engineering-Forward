@@ -1,3 +1,6 @@
+## 0.0.781 - 2026-04-19
+- Process article: OpenClaw: Our Comprehensive Guide for Beginners.
+
 ## 0.0.780 - 2026-04-19
 - Process article: Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma.
 
