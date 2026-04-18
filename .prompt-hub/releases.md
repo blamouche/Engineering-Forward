@@ -1,3 +1,6 @@
+## 0.0.827 - 2026-04-19
+- Process article error: https://jobs.ashbyhq.com/tldr.tech.
+
 ## 0.0.826 - 2026-04-19
 - Process article error: https://hub.sparklp.co/sub_548047b52a18/2.
 
