@@ -1,4 +1,3 @@
-https://xata.io/blog/open-source-postgres-branching-copy-on-write
 https://links.tldrnewsletter.com/j3L7bc
 https://ahrefs.com/blog/why-chatgpt-cites-pages
 https://gauntletai.com/apply

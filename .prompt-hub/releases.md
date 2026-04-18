@@ -1,3 +1,6 @@
+## 0.0.968 - 2026-04-19
+- Process article: Xata.
+
 ## 0.0.967 - 2026-04-19
 - Process article: OpenAI updates its Agents SDK to help enterprises build safer, more capable agents.
 
