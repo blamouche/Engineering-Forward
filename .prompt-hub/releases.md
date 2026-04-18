@@ -1,3 +1,6 @@
+## 0.0.969 - 2026-04-19
+- Process article error: https://links.tldrnewsletter.com/j3L7bc.
+
 ## 0.0.968 - 2026-04-19
 - Process article: Xata.
 
