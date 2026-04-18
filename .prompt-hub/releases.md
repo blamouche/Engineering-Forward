@@ -1,3 +1,6 @@
+## 0.0.884 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.883 - 2026-04-19
 - Process article: Monologue.
 
