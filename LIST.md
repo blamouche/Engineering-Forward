@@ -1,4 +1,3 @@
-https://thoughtworks.com/radar
 https://anthropic.com/news/claude-opus-4-7
 https://links.tldrnewsletter.com/CwsmUE
 https://links.tldrnewsletter.com/ZPKOhX
