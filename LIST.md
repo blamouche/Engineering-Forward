@@ -1,4 +1,3 @@
-https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
 https://allenai.org/blog/evaluating-scientific-discovery-agents
 https://links.tldrnewsletter.com/sS4VPu
 https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories

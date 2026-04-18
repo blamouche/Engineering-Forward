@@ -1,3 +1,6 @@
+## 0.0.945 - 2026-04-19
+- Process article: Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents.
+
 ## 0.0.944 - 2026-04-19
 - Process article: Humwork A2P marketplace connects AI agents with experts.
 
