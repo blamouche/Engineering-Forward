@@ -1,3 +1,6 @@
+## 0.0.772 - 2026-04-19
+- Process article: Living Software.
+
 ## 0.0.771 - 2026-04-19
 - Process article: Living Software.
 
