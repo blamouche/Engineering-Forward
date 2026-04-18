@@ -1,3 +1,6 @@
+## 0.0.847 - 2026-04-19
+- Process article: New undersea cable cutter risks Internet’s backbone.
+
 ## 0.0.846 - 2026-04-19
 - Process article: Android CLI and skills: Build Android apps 3x faster using any agent.
 
