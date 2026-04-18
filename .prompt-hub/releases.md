@@ -1,3 +1,6 @@
+## 0.0.796 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.795 - 2026-04-19
 - Process article error: https://every.to/paywall/lock.png.
 
