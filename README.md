@@ -22,7 +22,7 @@ Articles per month:
 2025-12 | ██ 2<br>
 2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
-2026-03 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 372<br>
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 373<br>
 2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 348<br>
 ## Articles
 
@@ -377,7 +377,8 @@ Articles per month:
 - [A Guide to Context Engineering for LLMs](src/2026-04/20260406-guide-to-context-engineering-for-llms.md)
 - [58% of PRs in our largest monorepo merge without human review](src/2026-04/20260406-58-percent-of-prs-in-our-largest-monorepo-merge-without-human-review.md)
 - [10 AI Prompt Skills That Actually Change How ChatGPT, Claude, and Gemini Respond](src/2026-04/20260403-10-ai-prompt-skills-linas-beliunas.md)
-#### March (372 articles)
+#### March (373 articles)
+- [OpenClaw: Setting Up Your First Personal AI Agent](src/2026-03/20260302-openclaw-setting-up-your-first-personal-ai-agent.md)
 - [I Hired an AI to Do My Chores. Now I Maintain the AI.](src/2026-03/20260317-i-hired-an-ai-to-do-my-chores-now-i-maintain-the-ai.md)
 - [OpenClaw: Our Comprehensive Guide for Beginners](src/2026-03/20260326-openclaw-our-comprehensive-guide-for-beginners.md)
 - [News Corp is essentially an AI ‘input company’, chief executive says, after US$150m deal with Meta](src/2026-03/20260304-news-corp-is-essentially-an-ai-input-company-chief-executive-says-after-us-150m-deal-with-meta.md)

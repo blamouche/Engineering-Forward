@@ -1,3 +1,6 @@
+## 0.0.903 - 2026-04-19
+- Process article: OpenClaw: Setting Up Your First Personal AI Agent.
+
 ## 0.0.902 - 2026-04-19
 - Process article: Every Is Half Agent Now.
 
