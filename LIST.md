@@ -1,4 +1,3 @@
-https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/
 https://github.com/dropseed/plain
 https://blog.cloudflare.com/enterprise-mcp/
 https://www.implicator.ai/anthropic-shifts-enterprise-billing-to-per-token-pricing-the-flat-fee-era-is-over/

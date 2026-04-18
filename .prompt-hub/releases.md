@@ -1,3 +1,6 @@
+## 0.0.718 - 2026-04-19
+- Process article: Cybersecurity Looks Like Proof of Work Now.
+
 ## 0.0.717 - 2026-04-19
 - Process article: Inside GitHub's Fake Star Economy.
 
