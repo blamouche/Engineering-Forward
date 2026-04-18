@@ -1,4 +1,3 @@
-https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories
 https://fandf.co/4bvUDne
 https://together.ai/blog/parcae
 https://arxiv.org/abs/2604.13036

@@ -1,3 +1,6 @@
+## 0.0.948 - 2026-04-19
+- Process article: Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters.
+
 ## 0.0.947 - 2026-04-19
 - Process article error: https://links.tldrnewsletter.com/sS4VPu.
 
