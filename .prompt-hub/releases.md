@@ -1,3 +1,6 @@
+## 0.0.972 - 2026-04-19
+- Process article: Struggling shoe retailer Allbirds makes bizarre pivot to AI, adds $127 million in value.
+
 ## 0.0.971 - 2026-04-19
 - Process article: Apply to Gauntlet AI.
 
