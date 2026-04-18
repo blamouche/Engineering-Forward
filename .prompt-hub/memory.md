@@ -4844,3 +4844,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-19 00:15:11 +0200
+- actor: agent
+- action: Failed to synthesize `https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiTGl2aW5nIFNvZnR3YXJlIiwicG9zdF9pZCI6NDExNSwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vc3RhcndhcnMuZmFuZG9tLmNvbS93aWtpL0NhcmJvbi1mcmVlemluZyIsInBvc2l0aW9uIjo3fQ==`; removed it from `LIST.md` and logged the failure.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: failed
+- next_step: Continue with next queued URL.
+

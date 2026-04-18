@@ -1,3 +1,6 @@
+## 0.0.778 - 2026-04-19
+- Process article error: https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d/eyJzdWJqZWN0IjoiTGl2aW5nIFNvZnR3YXJlIiwicG9zdF9pZCI6NDExNSwicG9zdF90eXBlIjoicG9zdCIsInVybCI6Imh0dHBzOi8vc3RhcndhcnMuZmFuZG9tLmNvbS93aWtpL0NhcmJvbi1mcmVlemluZyIsInBvc2l0aW9uIjo3fQ==.
+
 ## 0.0.777 - 2026-04-19
 - Process article: Every.
 
