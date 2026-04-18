@@ -1,4 +1,3 @@
-https://substack.com/redirect/54925e7d-f011-4878-bfff-f70856b3d7b2?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
 https://substack.com/redirect/f2c67ad8-f6ca-4acf-a932-670d9d8d57e4?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
 https://substack.com/redirect/7c181178-75eb-476b-875b-11b2ad9b405a?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
 https://substack.com/redirect/8524bf15-564c-416e-b62d-80a6b8e15932?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk
