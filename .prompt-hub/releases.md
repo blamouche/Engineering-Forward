@@ -1,3 +1,6 @@
+## 0.0.888 - 2026-04-19
+- Process article: Every.
+
 ## 0.0.887 - 2026-04-19
 - Process article: Every Is Half Agent Now.
 
