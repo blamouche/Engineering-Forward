@@ -6272,3 +6272,10 @@
 - outcome: partial
 - next_step: Continue with next queued URL.
 
+## 2026-04-19 00:15:11 +0200
+- actor: agent
+- action: Removed queued URL without synthesis because local processing classified it as non-article/tracking (tracking or utility domain: substack.com).
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: partial
+- next_step: Continue with next queued URL.
+
