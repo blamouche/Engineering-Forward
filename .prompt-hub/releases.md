@@ -1,3 +1,6 @@
+## 0.0.846 - 2026-04-19
+- Process article: Android CLI and skills: Build Android apps 3x faster using any agent.
+
 ## 0.0.845 - 2026-04-19
 - Process article: Stop comparing price per million tokens: the hidden LLM API costs.
 
