@@ -6300,3 +6300,11 @@
 - outcome: success
 - next_step: Commit recap changes, then push all local commits.
 
+
+## 2026-04-19 00:21:31 +0200
+- actor: agent
+- action: Appended the 8 leftover synthesis files to the 2026-04-19 batch recap and removed the aborted helper todo file so the repo is clean after the scan-list run.
+- files_changed_or_commands: `synthesis/2026-04-19 - 001511 - batch recap.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/memory.md`, removed `.prompt-hub/todo/todo-20260419-000512-scan-list.md`.
+- outcome: success
+- next_step: Commit and push the cleanup.
+

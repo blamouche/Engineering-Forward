@@ -1,3 +1,6 @@
+## 0.0.986 - 2026-04-19
+- Update the 2026-04-19 scan-list batch recap with leftover synthesis files and remove the aborted helper todo.
+
 ## 0.0.985 - 2026-04-19
 - Add batch recap: 2026-04-19 001511
 
