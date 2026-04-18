@@ -1,3 +1,6 @@
+## 0.0.979 - 2026-04-19
+- Process article error: https://substack.com/redirect/7d59f5e4-1003-4da3-bf98-122c5c754c6e?j=eyJ1IjoiZmhiN3IifQ.Rimg-Z30sAxa_m0qrEa9lleqPf-ne9bDZymiyHmTiPk.
+
 ## 0.0.978 - 2026-04-19
 - Process article: OpenAI is building a personal CFO in plain sight 🤖📊; Revolut GlobalHire isn’t an HR product. It’s a payments product 👥💵; Shopify just made every AI agent a Shopify Agent 🛍️🤖.
 
