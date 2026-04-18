@@ -1,3 +1,6 @@
+## 0.0.716 - 2026-04-19
+- Process article: Anthropic adds routines to redesigned Claude Code, here's how it works.
+
 ## 0.0.715 - 2026-04-19
 - Process article: GitHub - BayramAnnakov/claude-reflect: A self.
 
