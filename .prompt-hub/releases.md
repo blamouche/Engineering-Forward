@@ -1,3 +1,6 @@
+## 0.0.787 - 2026-04-19
+- Process article: Compound Engineering.
+
 ## 0.0.786 - 2026-04-19
 - Process article: When Your Vibe Coded App Goes Viral—And Then Goes Down.
 
