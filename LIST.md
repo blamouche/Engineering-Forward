@@ -1,4 +1,3 @@
-https://theregister.com/2026/04/15/national_initiative_for_american_space
 https://quodeq.ai/blog/supply-chain-attack-surface
 https://hannahritchie.substack.com/p/hpv-vaccination
 https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans

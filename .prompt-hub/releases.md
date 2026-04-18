@@ -1,3 +1,6 @@
+## 0.0.974 - 2026-04-19
+- Process article: Fission impossible: Uncle Sam wants nuclear power in space.
+
 ## 0.0.973 - 2026-04-19
 - Process article: How Elon Musk Plans to Bypass the ASML Bottleneck to Build TERAFAB.
 
