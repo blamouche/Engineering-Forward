@@ -1,4 +1,3 @@
-https://tldr.tech/ai
 https://a.tldrnewsletter.com/web-version?ep=1&lc=35f36c90-c53c-11ef-8628-79595ca5259c&p=960c5222-3a52-11f1-9174-df0e804ddee9&pt=campaign&t=1776432187&s=203e2f6d2f823d8fe664cf220924c3e9245cef56a4439d7f0b4a6da9bf635961
 https://thoughtworks.com/radar
 https://anthropic.com/news/claude-opus-4-7
