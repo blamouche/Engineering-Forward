@@ -1,4 +1,3 @@
-https://workos.com/docs/authkit/cli-installer
 https://links.tldrnewsletter.com/H1jLU5
 https://workos.com/blog/agent-experience
 https://links.tldrnewsletter.com/31E9kI
