@@ -1,3 +1,6 @@
+## 0.0.886 - 2026-04-19
+- Process article: AI Cybersecurity After Mythos: The Jagged Frontier.
+
 ## 0.0.885 - 2026-04-19
 - Process article: The Folder Is the Agent.
 
