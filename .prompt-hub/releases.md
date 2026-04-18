@@ -1,3 +1,6 @@
+## 0.0.707 - 2026-04-19
+- Process article: Anthropic co-founder confirms the company briefed the Trump administration on Mythos.
+
 ## 0.0.706 - 2026-04-19
 - Process article: Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board.
 

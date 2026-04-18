@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/
 https://open-agents.dev/
 https://claude.com/blog/introducing-routines-in-claude-code
 https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/self-improving-agent-skills
