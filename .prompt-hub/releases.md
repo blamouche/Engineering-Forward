@@ -1,3 +1,6 @@
+## 0.0.989 - 2026-04-19
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message; repo was already clean/synced; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
+
 ## 0.0.987 - 2026-04-19
 - Daily veille IA: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message; repo was restored to a clean synced state before the Gmail check; `LIST.md` stayed empty so 0 URL added, 0 URL removed, and 0 email trashed.
 

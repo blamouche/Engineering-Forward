@@ -6321,3 +6321,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260419-031100-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-19 04:02:08 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message; repo was already clean/synced; `LIST.md` stayed unchanged so 0 URL added, 0 URL removed, and 0 email trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260419-040208-veille-ia-extraire-urls-gmail.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --account b.lamouche@gmail.com`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
