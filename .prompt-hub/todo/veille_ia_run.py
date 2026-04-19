@@ -34,7 +34,13 @@ for q in queries:
         if res.stderr:
             print(res.stderr, file=sys.stderr)
         raise SystemExit(res.returncode)
-    data = json.loads(res.stdout or '[]')
+    payload = json.loads(res.stdout or '{}')
+    if isinstance(payload, dict):
+        data = payload.get('messages') or []
+    elif isinstance(payload, list):
+        data = payload
+    else:
+        data = []
     for m in data:
         mid = str(m.get('id') or m.get('messageId') or '')
         if mid and mid not in seen_ids:
