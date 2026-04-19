@@ -3046,5 +3046,8 @@
 ## 0.0.1008 - 2026-04-19
 - Commit pending local changes to restore a clean synced repo state before the 18:02 veille IA Gmail extraction run.
 
+## 0.0.1010 - 2026-04-19
+- Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
 ## 0.0.1009 - 2026-04-19
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was first restored to a clean synced state; `LIST.md` remained empty so 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed.
