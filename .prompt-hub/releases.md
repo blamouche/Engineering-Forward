@@ -1,3 +1,6 @@
+## 0.0.1001 - 2026-04-19
+- Process article: You’re the Manager Now.
+
 ## 0.0.1000 - 2026-04-19
 - Process article: Mini.
 
