@@ -6461,3 +6461,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260419-180305-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --porcelain`.
 - outcome: success
 - next_step: Commit and push all pending local changes, then rerun the veille IA add-url flow from a clean synced state.
+
+## 2026-04-19 18:04:30 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message; after the cleanup commit/push restored a clean synced repo, `LIST.md` stayed empty so 0 URLs were added, 0 URLs were removed, and 0 emails were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260419-180305-daily-veille-ia-extraire-urls-gmail.md`; `git push origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
