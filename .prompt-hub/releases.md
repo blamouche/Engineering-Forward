@@ -1,3 +1,6 @@
+## 0.0.996 - 2026-04-19
+- Initialize veille IA task log for the 14:01 scheduled Gmail URL extraction run after loading prompt-hub context, creating the run todo file, and detecting one Gmail newsletter to process.
+
 ## 0.0.995 - 2026-04-19
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
 
