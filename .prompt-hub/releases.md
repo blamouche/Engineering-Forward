@@ -1,3 +1,6 @@
+## 0.0.999 - 2026-04-19
+- Process article: The Folder Is the Agent.
+
 ## 0.0.998 - 2026-04-19
 - Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
 
