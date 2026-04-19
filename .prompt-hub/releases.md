@@ -1,3 +1,6 @@
+## 0.0.1004 - 2026-04-19
+- Add batch recap: 2026-04-19 150406
+
 ## 0.0.1003 - 2026-04-19
 - Process article: 🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?.
 
