@@ -1,3 +1,6 @@
+## 0.0.1000 - 2026-04-19
+- Process article: Mini.
+
 ## 0.0.999 - 2026-04-19
 - Process article: The Folder Is the Agent.
 
