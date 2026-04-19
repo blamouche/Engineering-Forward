@@ -1,3 +1,6 @@
+## 0.0.1006 - 2026-04-19
+- Resume and finalize the interrupted 2026-04-03 scan-list batch: add 10 missing syntheses, regenerate `README.md` statistics/articles, empty `LIST.md`, and create `synthesis/2026-04-03 - 161700 - batch recap.md`.
+
 ## 0.0.1005 - 2026-04-19
 - Daily veille IA: read 1 Gmail message, extracted 6 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 1 processed email, and committed/pushed the refreshed processing queue.
 
