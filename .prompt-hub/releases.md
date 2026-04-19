@@ -3042,3 +3042,6 @@
 
 ## 0.0.988 - 2026-04-19
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
+## 0.0.1008 - 2026-04-19
+- Commit pending local changes to restore a clean synced repo state before the 18:02 veille IA Gmail extraction run.

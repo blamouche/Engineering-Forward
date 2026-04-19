@@ -6454,3 +6454,10 @@
 - files_changed_or_commands: `src/2026-04/20260419-why-half-of-product-managers-are-in-trouble.md`; `src/2026-04/20260419-state-of-the-product-job-market-in-early-2026.md`; `src/2026-04/20260419-anthropics-1b-to-19b-growth-run.md`; `src/2026-04/20260419-claude-code-by-anthropic.md`; `src/2026-04/20260419-codex-ai-coding-agent.md`; `src/2026-04/20260419-lovable-ai-app-builder.md`; `src/2026-04/20260419-ringpop-from-uber-engineering.md`; `src/2026-04/20260419-ubers-crazy-yolo-app-rewrite-from-the-front-seat.md`; `src/2026-04/20260419-high-growth-startups-uber-and-cloudkitchens.md`; `src/2026-04/20260419-sandboxing-ai-agents-100x-faster.md`; `README.md`; `LIST.md`; `synthesis/2026-04-03 - 161700 - batch recap.md`; `.prompt-hub/todo/todo-20260403-161700-scan-list.md`.
 - outcome: success
 - next_step: Increment prompt-hub version/releases, commit the completed batch, and push.
+
+## 2026-04-19 18:03:05 +0200
+- actor: agent
+- action: Created the 18:02 veille IA task file, reviewed prompt-hub context, and prepared a cleanup commit because the repository had pending local synthesis changes and an unclean working tree before the Gmail extraction run.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260419-180305-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --porcelain`.
+- outcome: success
+- next_step: Commit and push all pending local changes, then rerun the veille IA add-url flow from a clean synced state.
