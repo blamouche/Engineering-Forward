@@ -1,3 +1,6 @@
+## 0.0.1003 - 2026-04-19
+- Process article: 🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?.
+
 ## 0.0.1002 - 2026-04-19
 - Process article: Living Software.
 

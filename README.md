@@ -10,7 +10,7 @@ Articles per month:
 2022-12 | ██ 2<br>
 2023-10 | █ 1<br>
 2024-05 | █ 1<br>
-2024-06 | █ 1<br>
+2024-06 | ██ 2<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
 2025-05 | ███ 3<br>
@@ -1063,6 +1063,7 @@ Articles per month:
 - [The 6 Hidden Productivity Killers: A Guide for Engineering Leaders](src/2025-08/20250814-gitkraken-6-hidden-productivity-killers.md)
 
 #### June (1 article)
+- [🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?](src/2024-06/20240605-is-notebooklm-google-s-research-assistant-the-ultimate-tool-for-thought.md)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
 #### May (1 articles)
