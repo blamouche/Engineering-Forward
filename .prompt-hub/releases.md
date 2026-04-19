@@ -1,3 +1,6 @@
+## 0.0.1002 - 2026-04-19
+- Process article: Living Software.
+
 ## 0.0.1001 - 2026-04-19
 - Process article: You’re the Manager Now.
 
