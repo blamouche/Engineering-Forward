@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 articles)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (413 articles)
+#### April (414 articles)
+- [The Agentic Singularity 🤖🌀](src/2026-04/20260419-the-agentic-singularity.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [tinyfish-cookbook/skills/use-tinyfish/SKILL.md at main · tinyfish-io/tinyfish](src/2026-04/20260419-tinyfish-cookbook-skills-use-tinyfish-skill-md-at-main-tinyfish-io-tinyfish.md)

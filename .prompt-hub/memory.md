@@ -6507,3 +6507,9 @@
 - outcome: success
 - next_step: none.
 
+## 2026-04-20 00:07:00 +0200
+- actor: agent
+- action: Processed scan-list article "The Agentic Singularity 🤖🌀", created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260420-000700-scan-list.md`; `https://linas.substack.com/p/agenticsingularity`; `src/2026-04/20260419-the-agentic-singularity.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create and verify the batch recap, then push all remaining changes.
