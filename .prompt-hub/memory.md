@@ -1,3 +1,10 @@
+## 2026-04-19 16:34:00 +0200
+- actor: agent
+- action: Substack recents run: stashed unrelated local changes, synced the repo, reviewed the 15 most recent README articles, wrote the new Substack essay on AI moving from interface to infrastructure, copied it to `substack/latest.md`, and prepared the final versioned release artifacts for commit/push.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260419-163400-substack-post-recents.md`; `git stash push -u -m "pre-substack-recents-20260419-1634"`; `git pull --rebase origin main`; reviewed 15 `src/2026-04/*.md` files from README; `substack/20260419-post-the-real-ai-race-is-moving-behind-the-interface.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: restore the pre-existing local stash after pushing the Substack commit.
+
 ## 2026-04-19 12:02:25 +0200
 - actor: agent
 - action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 messages; repo was already clean/synced; `LIST.md` stayed empty so 0 URLs were added, 0 URLs were removed, and 0 emails were trashed.

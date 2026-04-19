@@ -1,3 +1,6 @@
+## 0.0.1007 - 2026-04-19
+- Add substack post: The real AI race is moving behind the interface
+
 ## 0.0.1006 - 2026-04-19
 - Resume and finalize the interrupted 2026-04-03 scan-list batch: add 10 missing syntheses, regenerate `README.md` statistics/articles, empty `LIST.md`, and create `synthesis/2026-04-03 - 161700 - batch recap.md`.
 
