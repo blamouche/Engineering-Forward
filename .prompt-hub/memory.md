@@ -6500,3 +6500,10 @@
 - outcome: success
 - next_step: Commit/push the cleanup state, then extract Gmail URLs and update `LIST.md`.
 
+## 2026-04-20 00:04:26 +0200
+- actor: agent
+- action: Daily veille IA run: committed the pending task log first to restore a clean synced repo state, read 1 Gmail message from `label:0---veille-ia`, resolved newsletter redirects, added 1 new relevant URL to `LIST.md`, removed 0 off-topic queued URLs, and trashed 1 processed email.
+- files_changed_or_commands: `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `curl -Ls -o /dev/null -w '%{url_effective}' <resolved newsletter links>`; `LIST.md`; `gog gmail batch modify 19da780215cf9744 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260420-000426-daily-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none.
+

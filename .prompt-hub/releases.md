@@ -1,3 +1,6 @@
+## 0.0.1015 - 2026-04-20
+- Daily veille IA: committed the pending task log first to restore a clean synced repo state, read 1 Gmail message from `0---veille-ia`, added 1 new relevant URL to `LIST.md`, skipped already-covered/off-topic links, removed 0 queued URL(s), and trashed 1 processed email.
+
 ## 0.0.1014 - 2026-04-20
 - Initialize veille IA task log for the 00:04 scheduled Gmail URL extraction run after loading prompt-hub context, creating the run todo file, and preparing a cleanup commit to restore a clean synced repo state.
 
