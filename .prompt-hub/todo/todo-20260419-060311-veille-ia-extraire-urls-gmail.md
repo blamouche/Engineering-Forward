@@ -7,7 +7,7 @@
 - [x] Search Gmail labels `0---veille-ia` and `0 - Veille/IA`
 - [x] Inspect `LIST.md` and confirm whether queue cleanup is needed
 - [x] Update prompt-hub tracking (`memory.md`, `version.md`, `releases.md`)
-- [ ] Commit and push the no-op veille IA run
+- [x] Commit and push the no-op veille IA run
 
 ## Notes
 - 2026-04-19 06:03:11 Europe/Paris: both Gmail labels returned 0 messages.
@@ -20,3 +20,4 @@
 - URLs removed from `LIST.md`: 0
 - Emails trashed: 0
 - Repo sync: already up to date on `main`
+- Commit pushed: `Log veille IA run (no Gmail messages, LIST.md empty)`
