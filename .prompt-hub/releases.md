@@ -1,3 +1,6 @@
+## 0.0.1017 - 2026-04-20
+- Add batch recap: 2026-04-20 000700.
+
 ## 0.0.1016 - 2026-04-20
 - Process article: The Agentic Singularity 🤖🌀.
 
