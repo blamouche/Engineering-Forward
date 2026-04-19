@@ -1,3 +1,6 @@
+## 0.0.998 - 2026-04-19
+- Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
+
 ## 0.0.997 - 2026-04-19
 - Daily veille IA: read 1 Gmail message, extracted 6 relevant URL(s), removed 0 off-topic URL(s) from `LIST.md`, trashed 1 processed email thread, and committed/pushed the refreshed processing queue.
 
