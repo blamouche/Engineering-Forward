@@ -21,19 +21,21 @@ Articles per month:
 2025-10 | ██ 4<br>
 2025-11 | █ 2<br>
 2025-12 | █ 2<br>
-2026-01 | █████████████████████████████████████████████████ 101<br>
-2026-02 | ████████████████████████████████████████████████████████████████████████ 149<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 413<br>
-2026-08 | █ 1<br>
+2026-01 | ██████████████████████████████████ 101<br>
+2026-02 | ██████████████████████████████████████████████████ 149<br>
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 415<br>
+2026-08 | █ 1
+
 ## Articles
 
 ### 2026
 
-#### August (1 articles)
+#### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (414 articles)
+#### April (415 articles)
+- [Anthropic Debuts Claude Design for Creating Prototypes, Pitch Decks, and Mockups](src/2026-04/20260417-anthropic-debuts-claude-design-for-creating-prototypes-pitch-decks-and-mockups.md)
 - [The Agentic Singularity 🤖🌀](src/2026-04/20260419-the-agentic-singularity.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
@@ -1100,13 +1102,13 @@ Articles per month:
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
 - [Tinker](src/2025-09/20250916-tinker.md)
 
-#### August (1 articles)
+#### August (1 article)
 - [The 6 Hidden Productivity Killers: A Guide for Engineering Leaders](src/2025-08/20250814-gitkraken-6-hidden-productivity-killers.md)
 
-#### July (1 articles)
+#### July (1 article)
 - [🎧 Inside The Browser Company: Why They Killed Arc to Build Dia](src/2025-07/20250702-inside-the-browser-company-why-they-killed-arc-to-build-dia.md)
 
-#### June (1 articles)
+#### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
 #### May (3 articles)
@@ -1114,26 +1116,26 @@ Articles per month:
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 - [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)
 
-#### April (1 articles)
+#### April (1 article)
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
 
 
 ### 2024
 
-#### December (1 articles)
+#### December (1 article)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
 #### June (2 articles)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 - [🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?](src/2024-06/20240605-is-notebooklm-google-s-research-assistant-the-ultimate-tool-for-thought.md)
 
-#### May (1 articles)
+#### May (1 article)
 - [The Next Big Programming Language Is English](src/2024-05/20240502-the-next-big-programming-language-is-english.md)
 
 
 ### 2023
 
-#### October (1 articles)
+#### October (1 article)
 - [Kate Lee Joins Every as Editor-in](src/2023-10/20231029-kate-lee-joins-every-as-editor-in.md)
 
 

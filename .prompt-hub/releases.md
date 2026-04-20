@@ -1,3 +1,6 @@
+## 0.0.1032 - 2026-04-20
+- Process article: Anthropic Debuts Claude Design for Creating Prototypes, Pitch Decks, and Mockups.
+
 ## 0.0.1031 - 2026-04-20
 - Daily veille IA: read 1 Gmail message from `0---veille-ia`/`0 - Veille/IA`, extracted 8 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

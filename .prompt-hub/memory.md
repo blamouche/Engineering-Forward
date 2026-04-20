@@ -6621,3 +6621,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/todo/todo-20260420-120359-daily-veille-ia-extraire-urls-gmail.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-20 15:04:00 +0200
+- actor: agent
+- action: Processed scan-list article 'Anthropic Debuts Claude Design for Creating Prototypes, Pitch Decks, and Mockups', added its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://www.macrumors.com/2026/04/17/anthropic-claude-design/`; `src/2026-04/20260417-anthropic-debuts-claude-design-for-creating-prototypes-pitch-decks-and-mockups.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
