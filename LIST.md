@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.14228
 https://cursor.com/blog/better-ai-models-ambitious-work
 http://exa.ai/blog/composing-a-search-engine
 https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio

@@ -1,3 +1,6 @@
+## 0.0.1054 - 2026-04-20
+- Process article error: https://arxiv.org/abs/2604.14228.
+
 ## 0.0.1053 - 2026-04-20
 - Process article: Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross.
 
