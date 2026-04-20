@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 418<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 419<br>
 2026-08 | █ 1
 
 ## Articles
@@ -34,7 +34,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (418 articles)
+#### April (419 articles)
+- [Vercel confirms breach as hackers claim to be selling stolen data](src/2026-04/20260419-vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md)
 - [On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang](src/2026-04/20260417-on-dwarkesh-patel-s-podcast-with-nvidia-ceo-jensen-huang.md)
 - [Meta targets 20 May for 8,000 layoffs as it redirects billions toward AI infrastructure](src/2026-04/20260417-meta-targets-20-may-for-8-000-layoffs-as-it-redirects-billions-toward-ai-infrastructure.md)
 - [The Agent Stack Bet](src/2026-04/20260420-the-agent-stack-bet.md)
