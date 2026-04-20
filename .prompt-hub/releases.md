@@ -1,3 +1,6 @@
+## 0.0.1059 - 2026-04-20
+- Process article: Claude Design Just Made Design File Optional. Founder's Guide 🎨.
+
 ## 0.0.1058 - 2026-04-20
 - Process article: GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi.
 

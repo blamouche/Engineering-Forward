@@ -6804,3 +6804,10 @@
 - files_changed_or_commands: https://github.com/Tencent-Hunyuan/HY-World-2.0; src/2026-04/20260420-github-tencent-hunyuan-hy-world-2-0-hy-world-2-0-a-multi.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:09:03 +0200
+- actor: agent
+- action: Processed scan-list article 'Claude Design Just Made Design File Optional. Founder's Guide 🎨', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://linas.substack.com/p/claude-design-founders-playbook; src/2026-04/20260420-claude-design-just-made-design-file-optional-founder-s-guide.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

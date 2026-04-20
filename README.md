@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (432 articles)
+#### April (433 articles)
+- [Claude Design Just Made Design File Optional. Founder's Guide 🎨](src/2026-04/20260420-claude-design-just-made-design-file-optional-founder-s-guide.md)
 - [GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi](src/2026-04/20260420-github-tencent-hunyuan-hy-world-2-0-hy-world-2-0-a-multi.md)
 - [Google tests Google AI subscription support for AI Studio](src/2026-04/20260417-google-tests-google-ai-subscription-support-for-ai-studio.md)
 - [Composing a Search Engine](src/2026-04/20260420-composing-a-search-engine.md)
