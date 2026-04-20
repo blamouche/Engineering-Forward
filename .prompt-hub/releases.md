@@ -1,3 +1,6 @@
+## 0.0.1029 - 2026-04-20
+- Prepare clean synced repo state for the 12:03 veille IA run by tracking the new task log before Gmail URL extraction.
+
 ## 0.0.1024 - 2026-04-20
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
 
