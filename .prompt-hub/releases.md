@@ -1,3 +1,6 @@
+## 0.0.1079 - 2026-04-21
+- Process article: Scoop: NSA using Anthropic’s Mythos despite blacklist.
+
 ## 0.0.1078 - 2026-04-21
 - Process article: How to Use Google Chrome’s New AI-Powered ‘Skills’.
 
