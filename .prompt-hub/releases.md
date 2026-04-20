@@ -1,3 +1,6 @@
+## 0.0.1067 - 2026-04-20
+- Add batch recap: 2026-04-20 180907
+
 ## 0.0.1066 - 2026-04-20
 - Process article: We Need to Talk About AI Autopilot.
 
