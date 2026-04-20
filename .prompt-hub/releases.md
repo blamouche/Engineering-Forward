@@ -1,3 +1,6 @@
+## 0.0.1058 - 2026-04-20
+- Process article: GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi.
+
 ## 0.0.1057 - 2026-04-20
 - Process article: Google tests Google AI subscription support for AI Studio.
 

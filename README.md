@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (431 articles)
+#### April (432 articles)
+- [GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi](src/2026-04/20260420-github-tencent-hunyuan-hy-world-2-0-hy-world-2-0-a-multi.md)
 - [Google tests Google AI subscription support for AI Studio](src/2026-04/20260417-google-tests-google-ai-subscription-support-for-ai-studio.md)
 - [Composing a Search Engine](src/2026-04/20260420-composing-a-search-engine.md)
 - [Better AI models enable more ambitious work](src/2026-04/20260420-better-ai-models-enable-more-ambitious-work.md)

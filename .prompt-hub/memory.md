@@ -6797,3 +6797,10 @@
 - files_changed_or_commands: https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio; src/2026-04/20260417-google-tests-google-ai-subscription-support-for-ai-studio.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:09:02 +0200
+- actor: agent
+- action: Processed scan-list article 'GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://github.com/Tencent-Hunyuan/HY-World-2.0; src/2026-04/20260420-github-tencent-hunyuan-hy-world-2-0-hy-world-2-0-a-multi.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
