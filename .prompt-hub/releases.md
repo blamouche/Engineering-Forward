@@ -1,3 +1,6 @@
+## 0.0.1084 - 2026-04-21
+- Process article: Introducing Claude Opus 4.7.
+
 ## 0.0.1083 - 2026-04-21
 - Process article: Introducing Claude Design by Anthropic Labs.
 
