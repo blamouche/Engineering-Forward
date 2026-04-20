@@ -3101,4 +3101,7 @@
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo was re-synced and the prompt-hub trace was committed/pushed to restore a clean state.
 
 ## 0.0.1027 - 2026-04-20
-- Fix the prompt-hub trace formatting for the 10:01 daily veille IA run so the memory and release logs correctly reference   \ and the Gmail label.
+- Fix the prompt-hub trace formatting for the 10:01 daily veille IA run so the memory and release logs correctly reference `LIST.md` and the Gmail label.
+
+## 0.0.1028 - 2026-04-20
+- Finalize the trace cleanup for the 10:01 daily veille IA run so prompt-hub metadata is consistent after the earlier shell-escaping issue.
