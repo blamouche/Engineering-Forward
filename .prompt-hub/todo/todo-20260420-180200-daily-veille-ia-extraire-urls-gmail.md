@@ -3,12 +3,14 @@
 - [x] Read .prompt-hub/lessons.md
 - [x] Read .prompt-hub/memory.md
 - [x] Read .prompt-hub/releases.md
-- [ ] Check Gmail label(s) and extract article URLs
-- [ ] Sync repo, update LIST.md, dedupe/filter
-- [ ] Trash processed emails
-- [ ] Update prompt-hub logs/version/releases
-- [ ] Commit and push
+- [x] Check Gmail label(s) and extract article URLs
+- [x] Sync repo, update LIST.md, dedupe/filter
+- [x] Trash processed emails
+- [x] Update prompt-hub logs/version/releases
+- [x] Commit and push
 
 ## Review
 
-- Pending.
+- Extracted 7 new relevant URLs from 3 Gmail messages.
+- Removed 0 off-topic queued URLs.
+- Trashed 3 processed emails.

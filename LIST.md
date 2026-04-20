@@ -13,3 +13,10 @@ http://exa.ai/blog/composing-a-search-engine
 https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio
 https://github.com/Tencent-Hunyuan/HY-World-2.0
 https://linas.substack.com/p/claude-design-founders-playbook
+https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom
+https://www.chatprd.ai/how-i-ai/how-intercom-doubled-engineering-output-brian-scanlan-ai-workflows-for-claude-code
+https://www.chatprd.ai/how-i-ai/workflows/design-an-agent-friendly-cli-to-automate-saas-product-onboarding
+https://www.chatprd.ai/how-i-ai/workflows/build-a-self-improving-ai-agent-to-automatically-fix-flaky-tests
+https://www.chatprd.ai/how-i-ai/workflows/automate-high-quality-pull-request-descriptions-with-a-custom-ai-skill
+https://blog.bytebytego.com/p/the-security-architecture-of-github
+https://every.to/working-overtime/we-need-to-talk-about-ai-autopilot
