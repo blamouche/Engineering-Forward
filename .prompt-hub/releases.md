@@ -1,3 +1,6 @@
+## 0.0.1075 - 2026-04-21
+- Process article: Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration.
+
 ## 0.0.1074 - 2026-04-21
 - Process article: Vibe Check: Opus 4.7 Stopped Reading Between the Lines.
 
