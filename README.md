@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 415<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 416<br>
 2026-08 | █ 1
 
 ## Articles
@@ -34,7 +34,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (415 articles)
+#### April (416 articles)
+- [The Agent Stack Bet](src/2026-04/20260420-the-agent-stack-bet.md)
 - [Anthropic Debuts Claude Design for Creating Prototypes, Pitch Decks, and Mockups](src/2026-04/20260417-anthropic-debuts-claude-design-for-creating-prototypes-pitch-decks-and-mockups.md)
 - [The Agentic Singularity 🤖🌀](src/2026-04/20260419-the-agentic-singularity.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
