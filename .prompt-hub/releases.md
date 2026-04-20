@@ -1,3 +1,6 @@
+## 0.0.1062 - 2026-04-20
+- Process article error: https://www.chatprd.ai/how-i-ai/workflows/design-an-agent-friendly-cli-to-automate-saas-product-onboarding.
+
 ## 0.0.1061 - 2026-04-20
 - Process article error: https://www.chatprd.ai/how-i-ai/how-intercom-doubled-engineering-output-brian-scanlan-ai-workflows-for-claude-code.
 

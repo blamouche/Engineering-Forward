@@ -6825,3 +6825,10 @@
 - files_changed_or_commands: https://www.chatprd.ai/how-i-ai/how-intercom-doubled-engineering-output-brian-scanlan-ai-workflows-for-claude-code; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: partial
 - next_step: Continue with the next URL in LIST.md.
+
+## 2026-04-20 18:09:04 +0200
+- actor: agent
+- action: Scan-list fetch error for 'https://www.chatprd.ai/how-i-ai/workflows/design-an-agent-friendly-cli-to-automate-saas-product-onboarding'; removed URL from LIST.md and recorded the failure for the batch recap.
+- files_changed_or_commands: https://www.chatprd.ai/how-i-ai/workflows/design-an-agent-friendly-cli-to-automate-saas-product-onboarding; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: partial
+- next_step: Continue with the next URL in LIST.md.
