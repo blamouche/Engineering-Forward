@@ -1,3 +1,6 @@
+## 0.0.1046 - 2026-04-20
+- Process article: Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges.
+
 ## 0.0.1045 - 2026-04-20
 - Process article error: https://www.anthropic.com/news/claude-design-anthropic-labs.
 

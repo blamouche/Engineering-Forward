@@ -6713,3 +6713,10 @@
 - files_changed_or_commands: https://www.anthropic.com/news/claude-design-anthropic-labs; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: partial
 - next_step: Continue with the next URL in LIST.md.
+
+## 2026-04-20 18:08:56 +0200
+- actor: agent
+- action: Processed scan-list article 'Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges; src/2026-04/20260417-sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
