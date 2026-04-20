@@ -6575,17 +6575,21 @@
 
 ## 2026-04-20 10:03:04 +0200
 - actor: agent
-- action: Initialized the scheduled daily veille IA run after loading prompt-hub context, creating the task log, and preparing the mandatory cleanup commit so the repo can return to a clean synced state before updating   \.
-- files_changed_or_commands: ; read , , , ; ; .
+- action: Initialized the scheduled daily veille IA run after loading prompt-hub context, creating the task log, and preparing the mandatory cleanup commit so the repo can return to a clean synced state before updating `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260420-100242-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit/push the prompt-hub tracking, then run the Gmail extraction and queue cleanup on a clean repo.
 
 ## 2026-04-20 10:04:05 +0200
 - actor: agent
-- action: Daily veille IA run: Gmail label \ returned 0 message(s); after syncing the repo, \ remained empty so no URLs were added or removed and no email was trashed.
-- files_changed_or_commands: ; {
-  "messages": [],
-  "nextPageToken": ""
-}; ; ; ; .
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message(s); after syncing the repo, `LIST.md` remained empty so no URLs were added or removed and no email was trashed.
+- files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/todo/todo-20260420-100242-daily-veille-ia-extraire-urls-gmail.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+
+## 2026-04-20 10:04:52 +0200
+- actor: agent
+- action: Corrected the prompt-hub trace entries for the 10:01 daily veille IA run after shell escaping damaged a few logged file references.
+- files_changed_or_commands: ; ; .
 - outcome: success
 - next_step: none.

@@ -3095,7 +3095,10 @@
 - Scan-list run: synced repo, created the task log, and found   \ empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
 
 ## 0.0.1025 - 2026-04-20
-- Initialize the 10:01 daily veille IA run by loading prompt-hub context, creating the task log, and preparing the cleanup commit required to restore a clean synced repo state before touching   \.
+- Initialize the 10:01 daily veille IA run by loading prompt-hub context, creating the task log, and preparing the cleanup commit required to restore a clean synced repo state before touching `LIST.md`.
 
 ## 0.0.1026 - 2026-04-20
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo was re-synced and the prompt-hub trace was committed/pushed to restore a clean state.
+
+## 0.0.1027 - 2026-04-20
+- Fix the prompt-hub trace formatting for the 10:01 daily veille IA run so the memory and release logs correctly reference   \ and the Gmail label.
