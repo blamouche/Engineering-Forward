@@ -1,3 +1,6 @@
+## 0.0.1053 - 2026-04-20
+- Process article: Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross.
+
 ## 0.0.1052 - 2026-04-20
 - Process article error: https://x.ai/news/grok-stt-tts-api.
 

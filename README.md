@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (427 articles)
+#### April (428 articles)
+- [Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross](src/2026-04/20260420-prefill-as-a-service-kvcache-of-next-generation-models-could-go-cross.md)
 - [Experimental hybrid inference and new Gemini models for Android](src/2026-04/20260420-experimental-hybrid-inference-and-new-gemini-models-for-android.md)
 - [[AINews] The Two Sides of OpenClaw](src/2026-04/20260420-ainews-the-two-sides-of-openclaw.md)
 - [Changes in the system prompt between Claude Opus 4.6 and 4.7](src/2026-04/20260420-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.md)

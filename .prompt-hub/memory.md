@@ -6762,3 +6762,10 @@
 - files_changed_or_commands: https://x.ai/news/grok-stt-tts-api; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: partial
 - next_step: Continue with the next URL in LIST.md.
+
+## 2026-04-20 18:09:00 +0200
+- actor: agent
+- action: Processed scan-list article 'Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://arxiv.org/html/2604.15039v1; src/2026-04/20260420-prefill-as-a-service-kvcache-of-next-generation-models-could-go-cross.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
