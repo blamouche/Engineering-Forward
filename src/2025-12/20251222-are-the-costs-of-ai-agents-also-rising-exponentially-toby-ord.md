@@ -1,0 +1,19 @@
+# Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord
+
+**Source**: https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+**Date**: December 22, 2025
+**Author**: Unknown
+**Keywords**: cost, costs, time, hourly, models
+
+## Elevator pitch
+Use the form on the right to contact us.
+
+## Takeaways
+- Use the form on the right to contact us
+- You can edit the text in this area, and change where the contact form on the right submits to, by entering edit mode using the modes on the bottom right
+- You can set your address, phone number, email and site description in the settings tab
+- There is an extremely important question about the near-future of AI that almost no-one is asking
+- We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years
+
+## Synthesis
+Use the form on the right to contact us. You can edit the text in this area, and change where the contact form on the right submits to, by entering edit mode using the modes on the bottom right. You can set your address, phone number, email and site description in the settings tab. There is an extremely important question about the near-future of AI that almost no-one is asking. We’ve all seen the graphs from METR showing that the length of tasks AI agents can perform has been growing exponentially over the last 7 years. While GPT-2 could only do software engineering tasks that would take someone a few seconds, the latest models can (50% of the time) do tasks that would take a human a few hours. As this trend shows no signs of stopping, people have naturally taken to extrapolating it out, to forecast when we might expect AI to be able to do tasks that take an engineer a full work-day; or week; or year. But we are missing a key piece of information — the cost of performing this work. Over those 7 years AI systems have grown exponentially. The size of the models (parameter count) has grown by 4,000x and the number of times they are run in each task (tokens generated) has grown by about 100,000x. AI researchers have also found massive efficiencies, but it is eminently plausible that the cost for the peak performance measured by METR has been growing — and growing exponentially. For example, if the best AI agents are able to complete tasks that are 3x longer each year and the costs to do so are also increasing by 3x each year, then the cost to have an AI agent perform tasks would remain the same multiple of what it costs a human to do those tasks. Or if the costs have a longer doubling time than the time-horizons, then the AI-systems would be getting cheaper compared with humans. But what if the costs are growing more quickly than the time horizons? In that case, these cutting-edge AI systems would be getting less cost-competitive with humans over time. If so, the METR time-horizon trend could be misleading. It would be showing how the state of the art is improving, but part of this progress would be due to more and more lavish expenditure on compute so it would be diverging from what is economical. It would be becoming more like the Formula 1 of AI performance — showing what is possible, but not what is practical. So in my view, a key question we need to ask is: How is the ‘hourly’ cost of AI agents changing over time? By ‘hourly’ cost I mean the financial cost of using an LLM to complete a task right at the model’s 50% time horizon divided by the length of that time horizon. So as with the METR time horizons themselves, the durations are measured not by how long it takes the model, but how long it typically takes humans to do that task. For example, Claude 4.1 Opus’s 50% time horizon is 2 hours: it can succeed in 50% of tasks that take human software engineers 2 hours. So we can look at how much it costs for it to perform such a task and divide by 2, to find its hourly rate for this work. I’ve found that very few people are asking this question.

@@ -6720,3 +6720,10 @@
 - files_changed_or_commands: https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges; src/2026-04/20260417-sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:08:57 +0200
+- actor: agent
+- action: Processed scan-list article 'Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://www.tobyord.com/writing/hourly-costs-for-ai-agents; src/2025-12/20251222-are-the-costs-of-ai-agents-also-rising-exponentially-toby-ord.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

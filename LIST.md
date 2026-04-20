@@ -1,4 +1,3 @@
-https://www.tobyord.com/writing/hourly-costs-for-ai-agents
 https://huggingface.co/blog/nvidia/nemotron-ocr-v2
 https://simonwillison.net/2026/Apr/18/opus-system-prompt
 https://www.latent.space/p/ainews-the-two-sides-of-openclaw

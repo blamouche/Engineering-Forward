@@ -1,3 +1,6 @@
+## 0.0.1047 - 2026-04-20
+- Process article: Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord.
+
 ## 0.0.1046 - 2026-04-20
 - Process article: Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges.
 

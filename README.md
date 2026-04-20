@@ -1093,7 +1093,8 @@ Articles per month:
 
 ### 2025
 
-#### December (2 articles)
+#### December (3 articles)
+- [Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord](src/2025-12/20251222-are-the-costs-of-ai-agents-also-rising-exponentially-toby-ord.md)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 - [Two Ways to Win in the Post](src/2025-12/20251208-two-ways-to-win-in-the-post.md)
 
