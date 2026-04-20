@@ -1,3 +1,6 @@
+## 0.0.1083 - 2026-04-21
+- Process article: Introducing Claude Design by Anthropic Labs.
+
 ## 0.0.1082 - 2026-04-21
 - Process article: Codex for (almost) everything.
 
