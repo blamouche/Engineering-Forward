@@ -1,3 +1,6 @@
+## 0.0.1056 - 2026-04-20
+- Process article: Composing a Search Engine.
+
 ## 0.0.1055 - 2026-04-20
 - Process article: Better AI models enable more ambitious work.
 
