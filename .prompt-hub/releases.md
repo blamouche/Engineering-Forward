@@ -1,3 +1,6 @@
+## 0.0.1065 - 2026-04-20
+- Process article: The Security Architecture of GitHub Agentic Workflow.
+
 ## 0.0.1064 - 2026-04-20
 - Process article error: https://www.chatprd.ai/how-i-ai/workflows/automate-high-quality-pull-request-descriptions-with-a-custom-ai-skill.
 
