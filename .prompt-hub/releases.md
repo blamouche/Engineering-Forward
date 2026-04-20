@@ -1,3 +1,6 @@
+## 0.0.1080 - 2026-04-21
+- Process article: Introducing Amazon Bio Discovery.
+
 ## 0.0.1079 - 2026-04-21
 - Process article: Scoop: NSA using Anthropic’s Mythos despite blacklist.
 
