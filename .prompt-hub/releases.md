@@ -1,3 +1,6 @@
+## 0.0.1041 - 2026-04-20
+- Initialize 16:01 veille IA run: load prompt-hub context, create the task log, and commit pending tracking so the repo is clean before updating `LIST.md`.
+
 ## 0.0.1040 - 2026-04-20
 - Add batch recap: 2026-04-20 150400
 

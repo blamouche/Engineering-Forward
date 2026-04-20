@@ -6684,3 +6684,10 @@
 - files_changed_or_commands: `LIST.md`; `synthesis/2026-04-20 - 150400 - batch recap.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260420-150400-scan-list.md`
 - outcome: success
 - next_step: Push the final recap commit.
+
+## 2026-04-20 16:02:30 +0200
+- actor: agent
+- action: Initialized the 16:01 daily veille IA run by loading prompt-hub context, creating the task file, checking Gmail veille labels, and preparing a cleanup commit so the repo returns to a clean synced state before `LIST.md` updates.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260420-160100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending prompt-hub tracking first, then update `LIST.md` with the newly extracted URLs.
