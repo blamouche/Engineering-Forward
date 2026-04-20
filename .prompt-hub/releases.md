@@ -1,3 +1,6 @@
+## 0.0.1073 - 2026-04-21
+- Process article: Google Cloud’s NEXT Big Moment.
+
 ## 0.0.1072 - 2026-04-21
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean aside from the new task log, `LIST.md` stayed unchanged so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 
