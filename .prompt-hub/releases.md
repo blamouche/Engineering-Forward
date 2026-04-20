@@ -1,3 +1,6 @@
+## 0.0.1057 - 2026-04-20
+- Process article: Google tests Google AI subscription support for AI Studio.
+
 ## 0.0.1056 - 2026-04-20
 - Process article: Composing a Search Engine.
 

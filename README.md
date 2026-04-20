@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (430 articles)
+#### April (431 articles)
+- [Google tests Google AI subscription support for AI Studio](src/2026-04/20260417-google-tests-google-ai-subscription-support-for-ai-studio.md)
 - [Composing a Search Engine](src/2026-04/20260420-composing-a-search-engine.md)
 - [Better AI models enable more ambitious work](src/2026-04/20260420-better-ai-models-enable-more-ambitious-work.md)
 - [Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross](src/2026-04/20260420-prefill-as-a-service-kvcache-of-next-generation-models-could-go-cross.md)

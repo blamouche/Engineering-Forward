@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio
 https://github.com/Tencent-Hunyuan/HY-World-2.0
 https://linas.substack.com/p/claude-design-founders-playbook
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom

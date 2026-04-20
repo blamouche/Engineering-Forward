@@ -6790,3 +6790,10 @@
 - files_changed_or_commands: https://exa.ai/blog/composing-a-search-engine; src/2026-04/20260420-composing-a-search-engine.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:09:01 +0200
+- actor: agent
+- action: Processed scan-list article 'Google tests Google AI subscription support for AI Studio', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio; src/2026-04/20260417-google-tests-google-ai-subscription-support-for-ai-studio.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
