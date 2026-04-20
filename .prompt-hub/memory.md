@@ -6628,3 +6628,10 @@
 - files_changed_or_commands: `https://www.macrumors.com/2026/04/17/anthropic-claude-design/`; `src/2026-04/20260417-anthropic-debuts-claude-design-for-creating-prototypes-pitch-decks-and-mockups.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 15:04:00 +0200
+- actor: agent
+- action: FETCH_ERROR for https://www.bloomberg.com/news/newsletters/2026-04-19/apple-ios-27-siri-interface-ios-27-details-mac-studio-touch-macbook-release-mo5u23o7; removed the URL from LIST.md and recorded the failure for the final batch recap.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: partial
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
