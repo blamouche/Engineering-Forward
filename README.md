@@ -27,6 +27,7 @@ Articles per month:
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 421<br>
 2026-08 | █ 1
 
+
 ## Articles
 
 ### 2026
@@ -34,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (421 articles)
+#### April (422 articles)
+- [Introducing Claude Design by Anthropic Labs](src/2026-04/20260420-introducing-claude-design-by-anthropic-labs.md)
 - [NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.](src/2026-04/20260420-nikolays-pgque-pgque-zero-bloat-postgres-queue-one-sql-file-to-install-pg-cron-to-tick.md)
 - [Thoughts and Feelings around Claude Design](src/2026-04/20260418-thoughts-and-feelings-around-claude-design.md)
 - [Vercel confirms breach as hackers claim to be selling stolen data](src/2026-04/20260419-vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md)

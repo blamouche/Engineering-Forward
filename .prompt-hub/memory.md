@@ -6706,3 +6706,10 @@
 - outcome: success
 - next_step: Commit and push the refreshed queue, then verify `HEAD:LIST.md` contains the 15 added URL(s).
 
+
+## 2026-04-20 18:07:20 +0200
+- actor: agent
+- action: Scan-list fetch error for 'https://www.anthropic.com/news/claude-design-anthropic-labs'; removed URL from LIST.md and recorded the failure for the batch recap.
+- files_changed_or_commands: https://www.anthropic.com/news/claude-design-anthropic-labs; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: partial
+- next_step: Continue with the next URL in LIST.md.

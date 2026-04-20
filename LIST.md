@@ -1,4 +1,3 @@
-https://www.anthropic.com/news/claude-design-anthropic-labs
 https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges
 https://www.tobyord.com/writing/hourly-costs-for-ai-agents
 https://huggingface.co/blog/nvidia/nemotron-ocr-v2

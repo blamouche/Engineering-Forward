@@ -1,3 +1,9 @@
+## 0.0.1045 - 2026-04-20
+- Process article error: https://www.anthropic.com/news/claude-design-anthropic-labs.
+
+## 0.0.1044 - 2026-04-20
+- Process article: Introducing Claude Design by Anthropic Labs.
+
 ## 0.0.1043 - 2026-04-20
 - Daily veille IA: committed pending local changes to restore a clean synced repo, read 3 Gmail message(s), extracted 7 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 3 processed email(s).
 
