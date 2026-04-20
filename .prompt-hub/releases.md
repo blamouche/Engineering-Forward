@@ -1,3 +1,6 @@
+## 0.0.1035 - 2026-04-20
+- Process article: Meta targets 20 May for 8,000 layoffs as it redirects billions toward AI infrastructure.
+
 ## 0.0.1034 - 2026-04-20
 - Process article: The Agent Stack Bet.
 
