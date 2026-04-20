@@ -3072,3 +3072,6 @@
 
 ## 0.0.1009 - 2026-04-19
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was first restored to a clean synced state; `LIST.md` remained empty so 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed.
+
+## 0.0.1018 - 2026-04-20
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed empty so 0 URL(s) were added, 0 URL(s) were removed, and 0 email(s) were trashed. Logged the scheduled run and committed the new task file to keep the repo clean/synced.
