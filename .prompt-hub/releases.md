@@ -1,3 +1,6 @@
+## 0.0.1051 - 2026-04-20
+- Process article: Experimental hybrid inference and new Gemini models for Android.
+
 ## 0.0.1050 - 2026-04-20
 - Process article: [AINews] The Two Sides of OpenClaw.
 
