@@ -1,3 +1,6 @@
+## 0.0.1078 - 2026-04-21
+- Process article: How to Use Google Chrome’s New AI-Powered ‘Skills’.
+
 ## 0.0.1077 - 2026-04-21
 - Process article: ChatGPT and the Future of the Human Mind.
 

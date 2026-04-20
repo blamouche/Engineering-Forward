@@ -1,4 +1,3 @@
-https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/
 https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon
 https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/
 https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses
