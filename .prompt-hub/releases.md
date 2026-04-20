@@ -1,3 +1,6 @@
+## 0.0.1060 - 2026-04-20
+- Process article: 🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code.
+
 ## 0.0.1059 - 2026-04-20
 - Process article: Claude Design Just Made Design File Optional. Founder's Guide 🎨.
 

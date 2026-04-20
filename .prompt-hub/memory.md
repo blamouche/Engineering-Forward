@@ -6811,3 +6811,10 @@
 - files_changed_or_commands: https://linas.substack.com/p/claude-design-founders-playbook; src/2026-04/20260420-claude-design-just-made-design-file-optional-founder-s-guide.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:09:03 +0200
+- actor: agent
+- action: Processed scan-list article '🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-how-intercom; src/2026-04/20260420-this-week-on-how-i-ai-how-intercom-2xd-their-engineering-velocity-with-claude-code.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
