@@ -1,3 +1,6 @@
+## 0.0.1036 - 2026-04-20
+- Process article: On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang.
+
 ## 0.0.1035 - 2026-04-20
 - Process article: Meta targets 20 May for 8,000 layoffs as it redirects billions toward AI infrastructure.
 

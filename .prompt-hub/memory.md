@@ -6649,3 +6649,10 @@
 - files_changed_or_commands: `https://thenextweb.com/news/meta-layoffs-may-2026-ai-restructuring-thousands`; `src/2026-04/20260417-meta-targets-20-may-for-8-000-layoffs-as-it-redirects-billions-toward-ai-infrastructure.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 15:04:00 +0200
+- actor: agent
+- action: Processed scan-list article 'On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang', added its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://thezvi.substack.com/p/on-dwarkesh-patels-podcast-with-nvidia`; `src/2026-04/20260417-on-dwarkesh-patel-s-podcast-with-nvidia-ceo-jensen-huang.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
