@@ -1,3 +1,6 @@
+## 0.0.1076 - 2026-04-21
+- Process article: Your CEO Just Said ‘Use AI or Else.’ Here’s What to Do Next..
+
 ## 0.0.1075 - 2026-04-21
 - Process article: Vibe Check: Cursor 3.0 Bets Big on Agent Orchestration.
 

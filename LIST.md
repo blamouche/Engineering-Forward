@@ -1,4 +1,3 @@
-https://every.to/p/your-ceo-just-said-use-ai-or-else-here-s-what-to-do-next
 https://every.to/chain-of-thought/chatgpt-and-the-future-of-the-human-mind
 https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/
 https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon
