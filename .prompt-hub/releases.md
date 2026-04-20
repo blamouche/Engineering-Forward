@@ -1,3 +1,6 @@
+## 0.0.1066 - 2026-04-20
+- Process article: We Need to Talk About AI Autopilot.
+
 ## 0.0.1065 - 2026-04-20
 - Process article: The Security Architecture of GitHub Agentic Workflow.
 
