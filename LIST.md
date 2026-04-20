@@ -1,4 +1,3 @@
-https://cursor.com/blog/better-ai-models-ambitious-work
 http://exa.ai/blog/composing-a-search-engine
 https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio
 https://github.com/Tencent-Hunyuan/HY-World-2.0
