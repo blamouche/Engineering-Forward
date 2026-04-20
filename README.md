@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 420<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 421<br>
 2026-08 | █ 1
 
 ## Articles
@@ -34,7 +34,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (420 articles)
+#### April (421 articles)
+- [NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.](src/2026-04/20260420-nikolays-pgque-pgque-zero-bloat-postgres-queue-one-sql-file-to-install-pg-cron-to-tick.md)
 - [Thoughts and Feelings around Claude Design](src/2026-04/20260418-thoughts-and-feelings-around-claude-design.md)
 - [Vercel confirms breach as hackers claim to be selling stolen data](src/2026-04/20260419-vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data.md)
 - [On Dwarkesh Patel's Podcast With Nvidia CEO Jensen Huang](src/2026-04/20260417-on-dwarkesh-patel-s-podcast-with-nvidia-ceo-jensen-huang.md)

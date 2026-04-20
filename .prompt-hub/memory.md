@@ -6670,3 +6670,10 @@
 - files_changed_or_commands: `https://samhenri.gold/blog/20260418-claude-design/`; `src/2026-04/20260418-thoughts-and-feelings-around-claude-design.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 15:04:00 +0200
+- actor: agent
+- action: Processed scan-list article 'NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.', added its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://github.com/NikolayS/pgque`; `src/2026-04/20260420-nikolays-pgque-pgque-zero-bloat-postgres-queue-one-sql-file-to-install-pg-cron-to-tick.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

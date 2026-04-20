@@ -1,3 +1,6 @@
+## 0.0.1039 - 2026-04-20
+- Process article: NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick..
+
 ## 0.0.1038 - 2026-04-20
 - Process article: Thoughts and Feelings around Claude Design.
 
