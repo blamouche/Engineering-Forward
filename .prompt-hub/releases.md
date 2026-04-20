@@ -3093,3 +3093,6 @@
 
 ## 0.0.1019 - 2026-04-20
 - Scan-list run: synced repo, created the task log, and found   \ empty so 0 URL(s) were processed, 0 error(s) were logged, and no batch recap was needed.
+
+## 0.0.1025 - 2026-04-20
+- Initialize the 10:01 daily veille IA run by loading prompt-hub context, creating the task log, and preparing the cleanup commit required to restore a clean synced repo state before touching   \.
