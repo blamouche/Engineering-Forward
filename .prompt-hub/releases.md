@@ -1,3 +1,6 @@
+## 0.0.1070 - 2026-04-20
+- Initialize 22:01 veille IA run: load prompt-hub context, create the task log, and commit pending local tracking so the repo is clean before updating `LIST.md`.
+
 ## 0.0.1069 - 2026-04-20
 - Scan-list: repo synced, prompt-hub context loaded, task log created, and `LIST.md` was empty so 0 URL(s) were processed and no batch recap was needed.
 
