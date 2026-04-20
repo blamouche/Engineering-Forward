@@ -1,3 +1,6 @@
+## 0.0.1087 - 2026-04-21
+- Add batch recap: 2026-04-21 000517.
+
 ## 0.0.1086 - 2026-04-21
 - Process article: The Gemini app is now on Mac.
 
