@@ -1,3 +1,6 @@
+## 0.0.1050 - 2026-04-20
+- Process article: [AINews] The Two Sides of OpenClaw.
+
 ## 0.0.1049 - 2026-04-20
 - Process article: Changes in the system prompt between Claude Opus 4.6 and 4.7.
 

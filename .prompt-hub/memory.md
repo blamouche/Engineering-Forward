@@ -6741,3 +6741,10 @@
 - files_changed_or_commands: https://simonwillison.net/2026/Apr/18/opus-system-prompt; src/2026-04/20260420-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:08:58 +0200
+- actor: agent
+- action: Processed scan-list article '[AINews] The Two Sides of OpenClaw', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://www.latent.space/p/ainews-the-two-sides-of-openclaw; src/2026-04/20260420-ainews-the-two-sides-of-openclaw.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
