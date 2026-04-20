@@ -1,3 +1,6 @@
+## 0.0.1061 - 2026-04-20
+- Process article error: https://www.chatprd.ai/how-i-ai/how-intercom-doubled-engineering-output-brian-scanlan-ai-workflows-for-claude-code.
+
 ## 0.0.1060 - 2026-04-20
 - Process article: 🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code.
 
