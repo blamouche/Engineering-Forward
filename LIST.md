@@ -1,0 +1,14 @@
+https://www.bigtechnology.com/p/google-clouds-next-big-moment
+https://every.to/vibe-check/opus-4-7
+https://every.to/vibe-check/cursor
+https://every.to/p/your-ceo-just-said-use-ai-or-else-here-s-what-to-do-next
+https://every.to/chain-of-thought/chatgpt-and-the-future-of-the-human-mind
+https://www.wired.com/story/how-to-use-google-chrome-ai-powered-skills/
+https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon
+https://aws.amazon.com/blogs/industries/introducing-amazon-bio-discovery/
+https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses
+https://openai.com/index/codex-for-almost-everything/
+https://www.anthropic.com/news/claude-design-anthropic-labs
+https://www.anthropic.com/news/claude-opus-4-7
+https://www.perplexity.ai/hub/blog/personal-computer-is-here
+https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/

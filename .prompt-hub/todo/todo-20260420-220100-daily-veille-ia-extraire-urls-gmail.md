@@ -11,12 +11,12 @@
 - [x] Read `.prompt-hub/releases.md`
 - [x] Read `agents.md`
 - [x] Create this task file
-- [ ] Inspect repo status and restore clean synced state if needed
-- [ ] Search Gmail veille label(s) and collect messages
-- [ ] Extract, normalize, dedupe, and filter AI/app-dev URLs
-- [ ] Update `LIST.md` and remove off-topic URLs
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking files
+- [x] Inspect repo status and restore clean synced state if needed
+- [x] Search Gmail veille label(s) and collect messages
+- [x] Extract, normalize, dedupe, and filter AI/app-dev URLs
+- [x] Update `LIST.md` and remove off-topic URLs
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking files
 - [ ] Commit and push all changes
 
 ## Notes
@@ -24,4 +24,7 @@
 - If repo is dirty, commit/push all pending local changes before queue update.
 
 ## Review
-- Pending.
+- Added 14 URL(s) to `LIST.md`.
+- Removed 0 off-topic URL(s) from `LIST.md`.
+- Trashed 2 Gmail message(s) from veille labels.
+- Pending final commit/push for `LIST.md` + prompt-hub tracking.
