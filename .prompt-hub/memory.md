@@ -6727,3 +6727,10 @@
 - files_changed_or_commands: https://www.tobyord.com/writing/hourly-costs-for-ai-agents; src/2025-12/20251222-are-the-costs-of-ai-agents-also-rising-exponentially-toby-ord.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:08:57 +0200
+- actor: agent
+- action: Processed scan-list article 'Building a Fast Multilingual OCR Model with Synthetic Data', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://huggingface.co/blog/nvidia/nemotron-ocr-v2; src/2026-04/20260420-building-a-fast-multilingual-ocr-model-with-synthetic-data.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

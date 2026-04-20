@@ -1,3 +1,6 @@
+## 0.0.1048 - 2026-04-20
+- Process article: Building a Fast Multilingual OCR Model with Synthetic Data.
+
 ## 0.0.1047 - 2026-04-20
 - Process article: Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord.
 
