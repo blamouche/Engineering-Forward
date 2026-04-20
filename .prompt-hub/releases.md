@@ -1,3 +1,6 @@
+## 0.0.1040 - 2026-04-20
+- Add batch recap: 2026-04-20 150400
+
 ## 0.0.1039 - 2026-04-20
 - Process article: NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick..
 

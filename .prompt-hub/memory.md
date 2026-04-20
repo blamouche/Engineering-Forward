@@ -6677,3 +6677,10 @@
 - files_changed_or_commands: `https://github.com/NikolayS/pgque`; `src/2026-04/20260420-nikolays-pgque-pgque-zero-bloat-postgres-queue-one-sql-file-to-install-pg-cron-to-tick.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 15:04:00 +0200
+- actor: agent
+- action: Scan-list run processed 7 queued URLs successfully, logged 1 fetch error(s), emptied LIST.md, and created `synthesis/2026-04-20 - 150400 - batch recap.md`.
+- files_changed_or_commands: `LIST.md`; `synthesis/2026-04-20 - 150400 - batch recap.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260420-150400-scan-list.md`
+- outcome: success
+- next_step: Push the final recap commit.
