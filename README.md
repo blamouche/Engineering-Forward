@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (424 articles)
+#### April (425 articles)
+- [Changes in the system prompt between Claude Opus 4.6 and 4.7](src/2026-04/20260420-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.md)
 - [Building a Fast Multilingual OCR Model with Synthetic Data](src/2026-04/20260420-building-a-fast-multilingual-ocr-model-with-synthetic-data.md)
 - [Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](src/2026-04/20260417-sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges.md)
 - [Introducing Claude Design by Anthropic Labs](src/2026-04/20260420-introducing-claude-design-by-anthropic-labs.md)

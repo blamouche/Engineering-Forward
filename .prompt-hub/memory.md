@@ -6734,3 +6734,10 @@
 - files_changed_or_commands: https://huggingface.co/blog/nvidia/nemotron-ocr-v2; src/2026-04/20260420-building-a-fast-multilingual-ocr-model-with-synthetic-data.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-20 18:08:58 +0200
+- actor: agent
+- action: Processed scan-list article 'Changes in the system prompt between Claude Opus 4.6 and 4.7', added its synthesis, updated README stats/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: https://simonwillison.net/2026/Apr/18/opus-system-prompt; src/2026-04/20260420-changes-in-the-system-prompt-between-claude-opus-4-6-and-4-7.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

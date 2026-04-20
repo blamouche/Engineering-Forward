@@ -1,3 +1,6 @@
+## 0.0.1049 - 2026-04-20
+- Process article: Changes in the system prompt between Claude Opus 4.6 and 4.7.
+
 ## 0.0.1048 - 2026-04-20
 - Process article: Building a Fast Multilingual OCR Model with Synthetic Data.
 

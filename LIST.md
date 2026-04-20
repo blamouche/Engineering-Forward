@@ -1,4 +1,3 @@
-https://simonwillison.net/2026/Apr/18/opus-system-prompt
 https://www.latent.space/p/ainews-the-two-sides-of-openclaw
 https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html
 https://x.ai/news/grok-stt-tts-api
