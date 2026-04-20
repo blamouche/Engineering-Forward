@@ -1,3 +1,6 @@
+## 0.0.1086 - 2026-04-21
+- Process article: The Gemini app is now on Mac.
+
 ## 0.0.1085 - 2026-04-21
 - Process article: Personal Computer is Here.
 
