@@ -1,4 +1,3 @@
-https://every.to/vibe-check/opus-4-7
 https://every.to/vibe-check/cursor
 https://every.to/p/your-ceo-just-said-use-ai-or-else-here-s-what-to-do-next
 https://every.to/chain-of-thought/chatgpt-and-the-future-of-the-human-mind
