@@ -1,3 +1,10 @@
+## 2026-04-20 14:02:16 +0200
+- actor: agent
+- action: Daily veille IA run: read 1 Gmail message from `0---veille-ia`/`0 - Veille/IA`, extracted 8 relevant AI/app-dev URL(s), updated `LIST.md` after filtering/dedupe, removed 0 off-topic queued URL(s), and prepared the processed email for trash.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260420-140216-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Trash the processed email, then commit and push `LIST.md` plus prompt-hub tracking.
+
 ## 2026-04-20 09:03:06 +0200
 - actor: agent
 - action: Scan-list run: loaded prompt-hub context, synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.

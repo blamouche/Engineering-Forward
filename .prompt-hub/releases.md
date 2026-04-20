@@ -1,3 +1,6 @@
+## 0.0.1031 - 2026-04-20
+- Daily veille IA: read 1 Gmail message from `0---veille-ia`/`0 - Veille/IA`, extracted 8 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1030 - 2026-04-20
 - Daily veille IA: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message(s); after syncing the repo, `LIST.md` remained empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 
