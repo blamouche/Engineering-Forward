@@ -1,3 +1,6 @@
+## 0.0.1052 - 2026-04-20
+- Process article error: https://x.ai/news/grok-stt-tts-api.
+
 ## 0.0.1051 - 2026-04-20
 - Process article: Experimental hybrid inference and new Gemini models for Android.
 

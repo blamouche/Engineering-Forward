@@ -1,4 +1,3 @@
-https://x.ai/news/grok-stt-tts-api
 https://arxiv.org/html/2604.15039v1
 https://arxiv.org/abs/2604.14228
 https://cursor.com/blog/better-ai-models-ambitious-work
