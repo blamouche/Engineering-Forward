@@ -1,3 +1,6 @@
+## 0.0.1042 - 2026-04-20
+- Daily veille IA: read 2 Gmail message(s) from `0---veille-ia`/`0 - Veille/IA`, extracted 15 relevant AI/app-dev URL(s), removed 0 off-topic queued URL(s), updated `LIST.md`, and trashed 2 processed email threads.
+
 ## 0.0.1041 - 2026-04-20
 - Initialize 16:01 veille IA run: load prompt-hub context, create the task log, and commit pending tracking so the repo is clean before updating `LIST.md`.
 

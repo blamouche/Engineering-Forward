@@ -1,0 +1,15 @@
+https://www.anthropic.com/news/claude-design-anthropic-labs
+https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges
+https://www.tobyord.com/writing/hourly-costs-for-ai-agents
+https://huggingface.co/blog/nvidia/nemotron-ocr-v2
+https://simonwillison.net/2026/Apr/18/opus-system-prompt
+https://www.latent.space/p/ainews-the-two-sides-of-openclaw
+https://android-developers.googleblog.com/2026/04/Hybrid-inference-and-new-AI-models-are-coming-to-Android.html
+https://x.ai/news/grok-stt-tts-api
+https://arxiv.org/html/2604.15039v1
+https://arxiv.org/abs/2604.14228
+https://cursor.com/blog/better-ai-models-ambitious-work
+http://exa.ai/blog/composing-a-search-engine
+https://www.testingcatalog.com/google-tests-google-ai-subscription-support-for-ai-studio
+https://github.com/Tencent-Hunyuan/HY-World-2.0
+https://linas.substack.com/p/claude-design-founders-playbook
