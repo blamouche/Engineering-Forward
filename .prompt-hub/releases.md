@@ -1,3 +1,6 @@
+## 0.0.1021 - 2026-04-20
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed unchanged so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo only had the new task log pending, so prompt-hub tracking was committed and pushed to restore a clean synced state.
+
 ## 0.0.1020 - 2026-04-20
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed unchanged so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo only had the new task log pending, so prompt-hub tracking was committed and pushed to restore a clean synced state.
 
