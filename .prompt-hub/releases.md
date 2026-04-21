@@ -1,3 +1,6 @@
+## 0.0.1150 - 2026-04-22
+- Process article: Introducing Claude Design by Anthropic Labs
+
 ## 0.0.1149 - 2026-04-22
 - Process article: Mini-Vibe Check: Claude Design Isn’t for Designers—Yet
 
