@@ -1,3 +1,6 @@
+## 0.0.1120 - 2026-04-21
+- Daily veille IA: committed pending local changes to restore a clean synced repo, read 2 Gmail message(s), extracted 15 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 2 processed email(s).
+
 ## 0.0.1119 - 2026-04-21
 - Initialize the 16:02 veille IA run: load prompt-hub context, create the task log, and confirm Gmail access before queue refresh.
 

@@ -1,0 +1,15 @@
+https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews
+https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis
+https://qwen.ai/blog?id=qwen3.6-max-preview
+https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says
+https://developers.openai.com/codex/memories/chronicle
+https://allenai.org/blog/bar
+https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads
+https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html
+https://tessl.io/blog/google-adds-subagents-to-gemini-cli-to-handle-parallel-coding-tasks
+https://arxiv.org/abs/2604.15804
+https://gdm-tipsv2.github.io
+https://z-lab.ai/projects/flashdrive
+https://epochai.substack.com/p/openai-stargate-where-the-us-sites
+https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2
+https://www.anthropic.com/news/anthropic-amazon-compute
