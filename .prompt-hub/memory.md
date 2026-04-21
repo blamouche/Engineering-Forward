@@ -7121,3 +7121,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch`; `src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch-with-working-code.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Create the batch recap and verify that LIST.md is empty.
+
+## 2026-04-21 12:08:10 +0200
+- actor: agent
+- action: Finalized the scan-list batch by creating `synthesis/2026-04-21 - 120556 - batch recap.md`, verifying the recap includes both processed syntheses, and confirming that `LIST.md` is empty.
+- files_changed_or_commands: `synthesis/2026-04-21 - 120556 - batch recap.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push the article and recap commits to origin/main.
