@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis
 https://qwen.ai/blog?id=qwen3.6-max-preview
 https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says
 https://developers.openai.com/codex/memories/chronicle

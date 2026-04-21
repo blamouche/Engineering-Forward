@@ -1,0 +1,19 @@
+# Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs
+
+**Source**: https://www.testingcatalog.com/moonshot-ai-launches-kimi-k2-6-on-kimi-chat-and-apis/
+**Date**: April 20, 2026
+**Author**: https://www.facebook.com/nero.soares.9/
+**Keywords**: testingcatalog, moonshot, launches, kimi, chat, apis
+
+## Elevator pitch
+Kimi K2.6 brings long-context coding and agent execution support to developers and Kimi Chat users
+
+## Takeaways
+- Moonshot AI has rolled out Kimi K2.6, positioning the release as open-source state-of-the-art for coding and agentic workloads.
+- The model family arrived on kimi.com in both chat and agent modes, with weights published on Hugging Face and API access through platform.moonshot.ai .
+- Four variants are available from the model selector: K2.6 Instant for quick responses, K2.6 Thinking for deeper reasoning, K2.6 Agent for research, slides, websites, docs and sheets, and K2.6 Agent Swarm aimed at large-scale search, long-form output and batch tasks.
+- Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends.
+- 🔹 Video hero sections - cinematic aesthetic, auto-composited 🔹 WebGL shader animations - native GLSL / WGSL, liquid metal, caustics, raymarching 🔹 Motion design - GSAP + Framer Motion… pic.twitter.com/LOoym6Crtf — Kimi.ai (@Kimi_Moonshot) April 20, 2026 On benchmarks, Moonshot claims open-source leadership on Humanity's Last Exam with tools at 54.0, SWE-Bench Pro at 58.6, SWE-bench Multilingual at 76.7, BrowseComp at 83.2, Toolathlon at 50.0, Charxiv with Python at 86.7 and Math Vision with Python at 93.2.
+
+## Synthesis
+Moonshot AI has rolled out Kimi K2.6, positioning the release as open-source state-of-the-art for coding and agentic workloads. The model family arrived on kimi.com in both chat and agent modes, with weights published on Hugging Face and API access through platform.moonshot.ai . Four variants are available from the model selector: K2.6 Instant for quick responses, K2.6 Thinking for deeper reasoning, K2.6 Agent for research, slides, websites, docs and sheets, and K2.6 Agent Swarm aimed at large-scale search, long-form output and batch tasks. Meet Kimi K2.6 agent - Video hero section, WebGL shaders, real backends. 🔹 Video hero sections - cinematic aesthetic, auto-composited 🔹 WebGL shader animations - native GLSL / WGSL, liquid metal, caustics, raymarching 🔹 Motion design - GSAP + Framer Motion… pic.twitter.com/LOoym6Crtf — Kimi.ai (@Kimi_Moonshot) April 20, 2026 On benchmarks, Moonshot claims open-source leadership on Humanity's Last Exam with tools at 54.0, SWE-Bench Pro at 58.6, SWE-bench Multilingual at 76.7, BrowseComp at 83.2, Toolathlon at 50.0, Charxiv with Python at 86.7 and Math Vision with Python at 93.2. The accompanying comparison chart pits K2.6 against GPT-5.4 xhigh, Claude Opus 4.6 at max effort and Gemini 3.1 Pro thinking high, with Kimi visually leading on SWE-bench Multilingual and BrowseComp. Kimi K2.6 Benchmarks The release lands roughly a week after a K2.6 Code Preview entered beta on April 13, and follows K2.5's hybrid reasoning debut earlier this year. With Claude Opus 4.6, GPT-5.4 and Gemini 3.1 Pro now the reference points at the frontier, Moonshot is staking open weights and aggressive agent scaling as its differentiators in a tightening competitive field. Related Articles OpenAI develops platform for always-on Agents on ChatGPT 21 Apr 2026 · 2 min read Anthropics works on its always-on agent with new UI extensions 21 Apr 2026 · 2 min read OpenAI prepares 8 interactive Avatars for its Codex app 20 Apr 2026 · 2 min read Anthropic likely preparing Claude Security for broader release 18 Apr 2026 · 2 min read Google tests Google AI subscription support for AI Studio 17 Apr 2026 · 2 min read Anthropic launches Claude Design AI tool for paid plans 17 Apr 2026 · 2 min read

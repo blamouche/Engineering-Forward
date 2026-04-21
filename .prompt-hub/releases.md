@@ -1,3 +1,6 @@
+## 0.0.1123 - 2026-04-21
+- Process article: Moonshot AI launches Kimi K2.6 on Kimi Chat and APIs.
+
 ## 0.0.1122 - 2026-04-21
 - Process article: Learnings from conducting ~1,000 interviews at Amazon.
 
