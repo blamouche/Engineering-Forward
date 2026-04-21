@@ -7396,3 +7396,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260422-000200-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 00:04:00 +0200
+- actor: agent
+- action: Scan-list run processed 6 queued URL(s), reused 2 existing synthesis files, created 4 new synthesis files, emptied `LIST.md`, generated `synthesis/2026-04-22 - 000400 - batch recap.md`, and logged 1 fetch error for the missing Anthropic managed-agents URL.
+- files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `README.md`; `synthesis/2026-04-22 - 000400 - batch recap.md`; `src/2026-04/20260422-mini-vibe-check-claude-design-isnt-for-designers-yet.md`; `src/2026-04/20260420-vercel-april-2026-security-incident.md`; `src/2026-04/20260422-agent-sdk-overview.md`; `src/2026-04/20260414-cybersecurity-looks-like-proof-of-work-now.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260422-000400-scan-list.md`.
+- outcome: success
+- next_step: none.
