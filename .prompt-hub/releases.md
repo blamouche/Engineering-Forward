@@ -1,3 +1,6 @@
+## 0.0.1130 - 2026-04-21
+- Process article: Google adds subagents to Gemini CLI to handle parallel coding tasks.
+
 ## 0.0.1129 - 2026-04-21
 - Process article: Even 'Uncensored' Models Can't Say What They Want.
 
