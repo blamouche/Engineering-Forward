@@ -1,3 +1,6 @@
+## 0.0.1116 - 2026-04-21
+- Process article: Google builds elite team to close the coding gap with Anthropic.
+
 ## 0.0.1115 - 2026-04-21
 - Process article error: https://www.neowin.net/news/github-halts-new-copilot-signups-amid-soaring-usage-and-rising-costs.
 

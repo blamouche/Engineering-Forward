@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 454<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 455<br>
 2026-08 | █ 1<br>
 
 
@@ -35,7 +35,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (454 articles)
+#### April (455 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [The European robotics startups hiring the most right now](src/2026-04/20260421-the-european-robotics-startups-hiring-the-most-right-now.md)
@@ -59,6 +59,7 @@ Articles per month:
 - [Introducing Amazon Bio Discovery](src/2026-04/20260420-introducing-amazon-bio-discovery.md)
 - [How to Use Google Chrome’s New AI-Powered ‘Skills’](src/2026-04/20260420-how-to-use-google-chrome-s-new-ai-powered-skills.md)
 - [Google Cloud’s NEXT Big Moment](src/2026-04/20260420-google-cloud-s-next-big-moment.md)
+- [Google builds elite team to close the coding gap with Anthropic](src/2026-04/20260420-google-builds-elite-team-to-close-the-coding-gap-with-anthropic.md)
 - [GitHub - Tencent-Hunyuan/HY-World-2.0: HY-World 2.0: A Multi](src/2026-04/20260420-github-tencent-hunyuan-hy-world-2-0-hy-world-2-0-a-multi.md)
 - [Experimental hybrid inference and new Gemini models for Android](src/2026-04/20260420-experimental-hybrid-inference-and-new-gemini-models-for-android.md)
 - [Composing a Search Engine](src/2026-04/20260420-composing-a-search-engine.md)
