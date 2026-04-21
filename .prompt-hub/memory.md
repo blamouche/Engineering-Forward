@@ -7128,3 +7128,10 @@
 - files_changed_or_commands: `synthesis/2026-04-21 - 120556 - batch recap.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push the article and recap commits to origin/main.
+
+## 2026-04-21 14:03:30 +0200
+- actor: agent
+- action: Initialized the 14:02 daily veille IA run after loading prompt-hub context, creating the task log, and checking repo cleanliness before Gmail extraction.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-140226-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`.
+- outcome: success
+- next_step: Commit/push the pending tracking so the repo is clean, then extract and queue the relevant Gmail URLs.
