@@ -1,3 +1,6 @@
+## 0.0.1099 - 2026-04-21
+- Process article: The European robotics startups hiring the most right now.
+
 ## 0.0.1098 - 2026-04-21
 - Process article: CuspAI raising $200m at unicorn valuation, reports say.
 
