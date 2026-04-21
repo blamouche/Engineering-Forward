@@ -7114,3 +7114,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/fintechpulse1070`; `src/2026-04/20260421-coinbases-ai-agent-market-could-rewrite-saas-economics.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-21 12:07:20 +0200
+- actor: agent
+- action: Processed scan-list URL `https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch` as a duplicate using the existing synthesis, removed it from LIST.md, and updated prompt-hub tracking.
+- files_changed_or_commands: `https://linas.substack.com/p/how-to-build-an-ai-agent-from-scratch`; `src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch-with-working-code.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap and verify that LIST.md is empty.
