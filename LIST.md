@@ -1,4 +1,3 @@
-https://blog.cloudflare.com/internal-ai-engineering-stack
 https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit
 https://blog.eladgil.com/p/random-thoughts-while-gazing-at-the
 https://www.neowin.net/news/github-halts-new-copilot-signups-amid-soaring-usage-and-rising-costs

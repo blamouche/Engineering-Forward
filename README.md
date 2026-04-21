@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 451<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 452<br>
 2026-08 | █ 1<br>
 
 
@@ -35,7 +35,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (451 articles)
+#### April (452 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [The European robotics startups hiring the most right now](src/2026-04/20260421-the-european-robotics-startups-hiring-the-most-right-now.md)
@@ -48,6 +48,7 @@ Articles per month:
 - [We Need to Talk About AI Autopilot](src/2026-04/20260420-we-need-to-talk-about-ai-autopilot.md)
 - [🎙️ This week on How I AI: How Intercom 2x’d their engineering velocity with Claude Code](src/2026-04/20260420-this-week-on-how-i-ai-how-intercom-2xd-their-engineering-velocity-with-claude-code.md)
 - [The Security Architecture of GitHub Agentic Workflow](src/2026-04/20260420-the-security-architecture-of-github-agentic-workflow.md)
+- [The AI engineering stack we built internally — on the platform we ship](src/2026-04/20260420-the-ai-engineering-stack-we-built-internally-on-the-platform-we-ship.md)
 - [The Agent Stack Bet](src/2026-04/20260420-the-agent-stack-bet.md)
 - [Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross](src/2026-04/20260420-prefill-as-a-service-kvcache-of-next-generation-models-could-go-cross.md)
 - [NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.](src/2026-04/20260420-nikolays-pgque-pgque-zero-bloat-postgres-queue-one-sql-file-to-install-pg-cron-to-tick.md)
