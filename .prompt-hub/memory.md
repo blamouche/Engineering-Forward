@@ -1,3 +1,10 @@
+## 2026-04-21 08:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 4 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed the processed email.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-080100-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue.
+
 ## 2026-04-21 05:00:00 +0200
 - actor: agent
 - action: Substack recents run: stashed the new task log to sync the repo, reviewed the 15 most recent README articles, wrote a new essay on AI becoming a management system, copied it to `substack/latest.md`, and prepared the versioned release artifacts for commit/push.
@@ -35,7 +42,7 @@
 
 ## 2026-04-20 14:02:16 +0200
 - actor: agent
-- action: Daily veille IA run: read 1 Gmail message from `0---veille-ia`/`0 - Veille/IA`, extracted 8 relevant AI/app-dev URL(s), updated `LIST.md` after filtering/dedupe, removed 0 off-topic queued URL(s), and prepared the processed email for trash.
+- action: Daily veille IA run: read 1 Gmail message from `0---veille-ia`/`0 - Veille/IA`, extracted 8 relevant AI/app-dev URL(s), updated `LIST.md` after filtering/dedupe, removed 0 off-topic queued URL(s), and trashed the processed email.
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260420-140216-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Trash the processed email, then commit and push `LIST.md` plus prompt-hub tracking.
@@ -484,7 +491,7 @@
 
 ## 2026-04-10 16:05:00 +0200
 - actor: agent
-- action: Daily veille IA run: extracted 10 AI/app-dev URLs from the TLDR AI Gmail message, normalized/deduped them into `LIST.md`, removed 0 non-relevant queued URLs, and prepared the processed email for trash.
+- action: Daily veille IA run: extracted 10 AI/app-dev URLs from the TLDR AI Gmail message, normalized/deduped them into `LIST.md`, removed 0 non-relevant queued URLs, and trashed the processed email.
 - files_changed_or_commands: `gog gmail get 19d778ffdaf8263b --json --format=full --no-input`; `curl -Ls -o /dev/null -w '%{url_effective}' <TLDR shortlinks>`; `LIST.md`; `gog gmail batch modify 19d778ffdaf8263b --add TRASH --no-input --force`.
 - outcome: success
 - next_step: Commit and push the queue update.

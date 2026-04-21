@@ -1,3 +1,6 @@
+## 0.0.1095 - 2026-04-21
+- Daily veille IA: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 4 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1094 - 2026-04-21
 - Daily veille IA: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message(s); after restoring a clean synced repo state, `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 
