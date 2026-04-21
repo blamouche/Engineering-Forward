@@ -7389,3 +7389,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260421-220100-daily-veille-ia.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19db1952aefd787a --add TRASH --remove UNREAD,Label_7327459726325540681,CATEGORY_UPDATES --force --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 00:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed the new task log to restore a clean synced repo, Gmail label `0---veille-ia` returned 0 message(s), removed 1 off-topic queued URL from `LIST.md`, added 0 URL(s), and trashed 0 email(s).
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260422-000200-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `git commit -m "Add URL(s) to processing queue"`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
