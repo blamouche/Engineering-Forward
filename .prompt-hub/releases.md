@@ -1,3 +1,6 @@
+## 0.0.1098 - 2026-04-21
+- Process article: CuspAI raising $200m at unicorn valuation, reports say.
+
 ## 0.0.1097 - 2026-04-21
 - Process article: Lovable denies mass data breach.
 

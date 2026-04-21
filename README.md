@@ -36,6 +36,7 @@ Articles per month:
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (449 articles)
+- [CuspAI raising $200m at unicorn valuation, reports say](src/2026-04/20260421-cuspai-raising-200m-at-unicorn-valuation-reports-say.md)
 - [Lovable denies mass data breach](src/2026-04/20260421-lovable-denies-mass-data-breach.md)
 - [Europe is a digital colony: Startups wrestle with tech sovereignty demands](src/2026-04/20260421-europe-is-a-digital-colony-startups-wrestle-with-tech-sovereignty-demands.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
