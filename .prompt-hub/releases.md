@@ -1,3 +1,6 @@
+## 0.0.1152 - 2026-04-22
+- Process article error: https://www.anthropic.com/news/managed-agents
+
 ## 0.0.1151 - 2026-04-22
 - Process article: Vercel April 2026 security incident
 
