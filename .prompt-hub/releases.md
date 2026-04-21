@@ -1,3 +1,6 @@
+## 0.0.1100 - 2026-04-21
+- Add batch recap: 2026-04-21 090332.
+
 ## 0.0.1099 - 2026-04-21
 - Process article: The European robotics startups hiring the most right now.
 
