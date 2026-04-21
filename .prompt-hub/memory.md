@@ -1,9 +1,9 @@
 ## 2026-04-21 02:01:00 +0200
 - actor: agent
-- action: Initialized the scheduled veille IA run after loading prompt-hub context, creating the task log, and preparing a cleanup commit so the repo returns to a clean synced state before Gmail extraction.
-- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-020100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`, `LIST.md`.
+- action: Initialized the scheduled veille IA run after loading prompt-hub context, created the task log, committed pending prompt-hub tracking to restore a clean synced repo state, then checked Gmail veille labels and confirmed there were no messages to process.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-020100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`, `LIST.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`.
 - outcome: success
-- next_step: Commit/push the prompt-hub tracking, then search Gmail veille labels and update `LIST.md`.
+- next_step: Update prompt-hub version/release metadata for the no-op run, commit, and push.
 
 ## 2026-04-20 18:02:00 +0200
 - actor: agent
