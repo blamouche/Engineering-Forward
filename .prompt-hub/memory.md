@@ -7214,3 +7214,17 @@
 - next_step: none.
 
 ## 2026-04-21 18:02 Europe/Paris | agent | Initialized daily veille IA task, ensured .prompt-hub files exist, created todo file | files: .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md, .prompt-hub/todo/todo-20260421-180200-daily-veille-ia.md | success | next: inspect message content and repo state
+
+## 2026-04-21 18:08:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 2 Gmail message(s), extracted 1 relevant AI/app-dev URL from ByteByteGo, skipped the Lenny subscriber-offer email as non-article noise, removed 0 off-topic URL(s) from `LIST.md`, and prepared both processed emails for trash.
+- files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 20 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Trash the 2 processed Gmail messages, verify the new URL exists in `LIST.md`, then commit and push the queue refresh.
+
+## 2026-04-21 18:10:00 +0200
+- actor: agent
+- action: Trashed the 2 processed Gmail messages, verified the new ByteByteGo URL is present in LIST.md, and finalized the queue refresh for commit/push.
+- files_changed_or_commands: `gog gmail batch modify 19db0ab86cbb0e65 19db0971c224f254 --add TRASH --no-input --force`; `LIST.md`; `.prompt-hub/todo/todo-20260421-180200-daily-veille-ia.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue.
