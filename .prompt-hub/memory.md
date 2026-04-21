@@ -7170,3 +7170,10 @@
 - files_changed_or_commands: src/2026-04/20260421-random-thoughts-while-gazing-at-the-misty-ai-frontier.md; README.md; LIST.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md
 - outcome: success
 - next_step: Continue with the next queued URL.
+
+## 2026-04-21 15:09:14 +0200
+- actor: agent
+- action: Scan-list: removed a failed URL after fetch error and logged it for the batch recap (https://www.neowin.net/news/github-halts-new-copilot-signups-amid-soaring-usage-and-rising-costs).
+- files_changed_or_commands: LIST.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md
+- outcome: success
+- next_step: Continue with the next queued URL.
