@@ -7361,3 +7361,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19db0e7ea480bec7 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-21 21:05:58 +02:00
+- actor: agent
+- action: Processed article "How I Use Claude Code to Ship Like a Team of Five"; created synthesis, updated README stats/list, removed URL from LIST.md, and bumped version/releases.
+- files_changed_or_commands: `src/2026-04/20260421-how-i-use-claude-code-to-ship-like-a-team-of-five.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit changes and continue with next URL.
