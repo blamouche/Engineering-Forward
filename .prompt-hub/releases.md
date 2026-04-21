@@ -1,3 +1,6 @@
+## 0.0.1088 - 2026-04-21
+- Initialize 02:01 veille IA run: load prompt-hub context, create the task log, and restore a clean synced repo state before Gmail extraction.
+
 ## 0.0.1087 - 2026-04-21
 - Add batch recap: 2026-04-21 000517.
 
