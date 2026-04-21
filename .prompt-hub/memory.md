@@ -7100,3 +7100,10 @@
 - files_changed_or_commands: `synthesis/2026-04-21 - 090332 - batch recap.md`; `.prompt-hub/todo/todo-20260421-090332-scan-list.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all remaining changes to origin/main.
+
+## 2026-04-21 12:02:41 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and prepared the processed email for trash.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-120241-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Trash the processed email, then commit and push the refreshed queue.
