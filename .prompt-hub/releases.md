@@ -1,3 +1,6 @@
+## 0.0.1153 - 2026-04-22
+- Process article: What I Learned Onboarding Our AI Project Manager
+
 ## 0.0.1152 - 2026-04-22
 - Process article error: https://www.anthropic.com/news/managed-agents
 
