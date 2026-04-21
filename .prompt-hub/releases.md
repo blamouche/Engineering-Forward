@@ -1,3 +1,6 @@
+## 0.0.1154 - 2026-04-22
+- Process article: Agent SDK overview
+
 ## 0.0.1153 - 2026-04-22
 - Process article: What I Learned Onboarding Our AI Project Manager
 
