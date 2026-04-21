@@ -1,4 +1,3 @@
-https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html
 https://tessl.io/blog/google-adds-subagents-to-gemini-cli-to-handle-parallel-coding-tasks
 https://arxiv.org/abs/2604.15804
 https://gdm-tipsv2.github.io
