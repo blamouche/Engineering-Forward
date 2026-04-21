@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says
 https://developers.openai.com/codex/memories/chronicle
 https://allenai.org/blog/bar
 https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads

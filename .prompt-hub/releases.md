@@ -1,3 +1,6 @@
+## 0.0.1125 - 2026-04-21
+- Process article error: https://www.bloomberg.com/news/articles/2026-04-21/jeff-bezos-nears-10-billion-funding-round-for-ai-lab-ft-says.
+
 ## 0.0.1124 - 2026-04-21
 - Process article: Qwen Studio.
 
