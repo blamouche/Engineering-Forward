@@ -4,13 +4,13 @@
 - [x] Read .prompt-hub/memory.md
 - [x] Read .prompt-hub/releases.md
 - [x] Review repo agents instructions
-- [ ] Inspect git status and sync state
-- [ ] Fetch Gmail messages from veille labels
-- [ ] Extract and filter AI/app-dev URLs
-- [ ] Update LIST.md with dedupe and cleanup
-- [ ] Trash processed emails
-- [ ] Update prompt-hub tracking, version, releases
+- [x] Inspect git status and sync state
+- [x] Fetch Gmail messages from veille labels
+- [x] Extract and filter AI/app-dev URLs
+- [x] Update LIST.md with dedupe and cleanup
+- [x] Trash processed emails
+- [x] Update prompt-hub tracking, version, releases
 - [ ] Commit and push changes
 
 ## Review
-- Pending
+- Added 7 normalized AI/app-dev URLs from 1 Gmail message, removed 0 off-topic queued URLs, trashed 1 processed email, pending final commit/push.
