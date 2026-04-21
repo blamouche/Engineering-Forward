@@ -1,3 +1,6 @@
+## 0.0.1133 - 2026-04-21
+- Process article: FlashDrive: Flash Vision-Language-Action Inference For Autonomous Driving.
+
 ## 0.0.1132 - 2026-04-21
 - Process article: TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch.
 
