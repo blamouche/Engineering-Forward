@@ -35,7 +35,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (445 articles)
+#### April (449 articles)
+- [Europe is a digital colony: Startups wrestle with tech sovereignty demands](src/2026-04/20260421-europe-is-a-digital-colony-startups-wrestle-with-tech-sovereignty-demands.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [ChatGPT and the Future of the Human Mind](src/2026-04/20260421-chatgpt-and-the-future-of-the-human-mind.md)

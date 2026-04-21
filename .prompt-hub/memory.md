@@ -7051,3 +7051,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260421-061600-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: commit and push the no-op daily veille IA tracking.
+
+## 2026-04-21 09:03:32 +0200
+- actor: agent
+- action: Processed scan-list article ‘Europe is a digital colony: Startups wrestle with tech sovereignty demands’, created its synthesis, updated README April listing/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260421-europe-is-a-digital-colony-startups-wrestle-with-tech-sovereignty-demands.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md.
