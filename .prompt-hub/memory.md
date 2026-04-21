@@ -7142,3 +7142,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19daf9075cbe1656 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260421-140226-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: Commit and push the refreshed queue, then verify the new HEAD contains the 7 added URLs.
+
+## 2026-04-21 15:09:13 +0200
+- actor: agent
+- action: Scan-list: synthesized 'Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal', updated README/stats, removed the processed URL from LIST.md, and staged the per-article commit.
+- files_changed_or_commands: src/2026-04/20260420-amazon-to-invest-up-to-another-25-billion-in-anthropic-as-part-of-ai-infrastructure-deal.md; README.md; LIST.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md
+- outcome: success
+- next_step: Continue with the next queued URL.
