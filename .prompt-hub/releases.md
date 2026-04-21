@@ -1,3 +1,6 @@
+## 0.0.1149 - 2026-04-22
+- Process article: Mini-Vibe Check: Claude Design Isn’t for Designers—Yet
+
 ## 0.0.1148 - 2026-04-22
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); after syncing the repo and cleaning `LIST.md`, 0 URL(s) were added, 1 off-topic URL was removed, and 0 email(s) were trashed.
 
