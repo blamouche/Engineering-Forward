@@ -1,3 +1,6 @@
+## 0.0.1118 - 2026-04-21
+- Add batch recap: 2026-04-21 150520.
+
 ## 0.0.1117 - 2026-04-21
 - Process article: posit-dev/ggsql: A SQL extension for declarative data visualization based on the Grammar of Graphics..
 
