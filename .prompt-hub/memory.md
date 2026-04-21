@@ -7228,3 +7228,10 @@
 - files_changed_or_commands: `gog gmail batch modify 19db0ab86cbb0e65 19db0971c224f254 --add TRASH --no-input --force`; `LIST.md`; `.prompt-hub/todo/todo-20260421-180200-daily-veille-ia.md`.
 - outcome: success
 - next_step: Commit and push the refreshed queue.
+## 2026-04-21 18:05:42 +0200
+- actor: agent
+- action: Processed scan-list URL `https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews` into synthesis `src/2026-04/20260421-learnings-from-conducting-1-000-interviews-at-amazon.md`.
+- files_changed_or_commands: `src/2026-04/20260421-learnings-from-conducting-1-000-interviews-at-amazon.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next queued URL.
+
