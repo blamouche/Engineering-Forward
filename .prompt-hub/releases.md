@@ -1,3 +1,6 @@
+## 0.0.1136 - 2026-04-21
+- Process article: Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute.
+
 ## 0.0.1135 - 2026-04-21
 - Process article: Exclusive: Microsoft To Shift GitHub Copilot Users To Token.
 
