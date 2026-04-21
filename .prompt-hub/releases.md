@@ -1,3 +1,6 @@
+## 0.0.1097 - 2026-04-21
+- Process article: Lovable denies mass data breach.
+
 ## 0.0.1096 - 2026-04-21
 - Process article: Europe is a digital colony: Startups wrestle with tech sovereignty demands.
 
