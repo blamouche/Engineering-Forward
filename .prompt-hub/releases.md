@@ -1,3 +1,6 @@
+## 0.0.1135 - 2026-04-21
+- Process article: Exclusive: Microsoft To Shift GitHub Copilot Users To Token.
+
 ## 0.0.1134 - 2026-04-21
 - Process article: OpenAI Stargate: where the US sites stand.
 
