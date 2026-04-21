@@ -1,3 +1,6 @@
+## 0.0.1151 - 2026-04-22
+- Process article: Vercel April 2026 security incident
+
 ## 0.0.1150 - 2026-04-22
 - Process article: Introducing Claude Design by Anthropic Labs
 
