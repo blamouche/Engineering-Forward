@@ -1,3 +1,6 @@
+## 0.0.1117 - 2026-04-21
+- Process article: posit-dev/ggsql: A SQL extension for declarative data visualization based on the Grammar of Graphics..
+
 ## 0.0.1116 - 2026-04-21
 - Process article: Google builds elite team to close the coding gap with Anthropic.
 
