@@ -1,3 +1,6 @@
+## 0.0.1142 - 2026-04-21
+- Process article: How OpenAI’s Codex Team Uses Their Coding Agent.
+
 ## 0.0.1141 - 2026-04-21
 - Process article: How I Use Claude Code to Ship Like a Team of Five.
 

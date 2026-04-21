@@ -7368,3 +7368,10 @@
 - files_changed_or_commands: `src/2026-04/20260421-how-i-use-claude-code-to-ship-like-a-team-of-five.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit changes and continue with next URL.
+
+## 2026-04-21 21:06:37 +02:00
+- actor: agent
+- action: Processed article "How OpenAI’s Codex Team Uses Their Coding Agent"; created synthesis, updated README stats/list, removed URL from LIST.md, and bumped version/releases.
+- files_changed_or_commands: `src/2026-04/20260421-how-openais-codex-team-uses-their-coding-agent.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap, verify it, and push all remaining changes.

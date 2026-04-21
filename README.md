@@ -8,7 +8,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2026-08 | █ 1<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 472<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 473<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-01 | ██████████████████████████████████ 101<br>
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (472 articles)
+#### April (473 articles)
+- [How OpenAI’s Codex Team Uses Their Coding Agent](src/2026-04/20260421-how-openais-codex-team-uses-their-coding-agent.md)
 - [How I Use Claude Code to Ship Like a Team of Five](src/2026-04/20260421-how-i-use-claude-code-to-ship-like-a-team-of-five.md)
 - [How DoorDash Launches a New Country in One Week](src/2026-04/20260421-how-doordash-launches-a-new-country-in-one-week.md)
 - [Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute](src/2026-04/20260421-anthropic-and-amazon-expand-collaboration-for-up-to-5-gigawatts-of-new-compute.md)
