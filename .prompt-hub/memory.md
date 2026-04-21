@@ -7347,3 +7347,10 @@
 - outcome: success
 - next_step: Commit recap changes, then push all local commits.
 
+
+## 2026-04-21 20:01:00 +0200
+- actor: agent
+- action: Initialized the 20:01 veille IA run after loading prompt-hub context, creating the task log, and preparing a cleanup commit so the repo is clean before updating `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-200100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
