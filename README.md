@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 452<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 453<br>
 2026-08 | █ 1<br>
 
 
@@ -35,11 +35,12 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (452 articles)
+#### April (453 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [The European robotics startups hiring the most right now](src/2026-04/20260421-the-european-robotics-startups-hiring-the-most-right-now.md)
 - [Lovable denies mass data breach](src/2026-04/20260421-lovable-denies-mass-data-breach.md)
+- [Jujutsu megamerges for fun and profit](src/2026-04/20260421-jujutsu-megamerges-for-fun-and-profit.md)
 - [Europe is a digital colony: Startups wrestle with tech sovereignty demands](src/2026-04/20260421-europe-is-a-digital-colony-startups-wrestle-with-tech-sovereignty-demands.md)
 - [CuspAI raising $200m at unicorn valuation, reports say](src/2026-04/20260421-cuspai-raising-200m-at-unicorn-valuation-reports-say.md)
 - [Coinbase’s AI Agent Market Could Rewrite SaaS Economics](src/2026-04/20260421-coinbases-ai-agent-market-could-rewrite-saas-economics.md)

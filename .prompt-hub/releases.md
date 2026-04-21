@@ -1,3 +1,6 @@
+## 0.0.1113 - 2026-04-21
+- Process article: Jujutsu megamerges for fun and profit.
+
 ## 0.0.1112 - 2026-04-21
 - Process article: The AI engineering stack we built internally — on the platform we ship.
 

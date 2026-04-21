@@ -7156,3 +7156,10 @@
 - files_changed_or_commands: src/2026-04/20260420-the-ai-engineering-stack-we-built-internally-on-the-platform-we-ship.md; README.md; LIST.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md
 - outcome: success
 - next_step: Continue with the next queued URL.
+
+## 2026-04-21 15:09:13 +0200
+- actor: agent
+- action: Scan-list: synthesized 'Jujutsu megamerges for fun and profit', updated README/stats, removed the processed URL from LIST.md, and staged the per-article commit.
+- files_changed_or_commands: src/2026-04/20260421-jujutsu-megamerges-for-fun-and-profit.md; README.md; LIST.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md
+- outcome: success
+- next_step: Continue with the next queued URL.
