@@ -7198,3 +7198,10 @@
 - files_changed_or_commands: synthesis/2026-04-21 - 150520 - batch recap.md; .prompt-hub/todo/todo-20260421-150520-scan-list.md; LIST.md
 - outcome: success
 - next_step: Push all scan-list commits to origin/main.
+
+## 2026-04-21 16:02:26 +0200
+- actor: agent
+- action: Initialized the 16:02 veille IA run after loading prompt-hub context, reading repo agent rules, creating the task log, and confirming Gmail access before extracting URLs.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260421-160226-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog auth list`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`.
+- outcome: success
+- next_step: Restore a clean synced repo state if needed, then update `LIST.md` from the Gmail results.

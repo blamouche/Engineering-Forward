@@ -1,3 +1,6 @@
+## 0.0.1119 - 2026-04-21
+- Initialize the 16:02 veille IA run: load prompt-hub context, create the task log, and confirm Gmail access before queue refresh.
+
 ## 0.0.1118 - 2026-04-21
 - Add batch recap: 2026-04-21 150520.
 
