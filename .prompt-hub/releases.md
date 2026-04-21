@@ -1,3 +1,6 @@
+## 0.0.1093 - 2026-04-21
+- Chore: sync pending local changes before veille IA
+
 ## 0.0.1092 - 2026-04-21
 - Add substack post: AI is becoming a management system
 
