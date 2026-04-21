@@ -1,4 +1,3 @@
-https://developers.openai.com/codex/memories/chronicle
 https://allenai.org/blog/bar
 https://pytorch.org/blog/optimizing-effective-training-time-for-metas-internal-recommendation-ranking-workloads
 https://morgin.ai/articles/even-uncensored-models-cant-say-what-they-want.html
