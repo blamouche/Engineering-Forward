@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.15804
 https://gdm-tipsv2.github.io
 https://z-lab.ai/projects/flashdrive
 https://epochai.substack.com/p/openai-stargate-where-the-us-sites

@@ -1,3 +1,6 @@
+## 0.0.1131 - 2026-04-21
+- Process article: Qwen3.5.
+
 ## 0.0.1130 - 2026-04-21
 - Process article: Google adds subagents to Gemini CLI to handle parallel coding tasks.
 
