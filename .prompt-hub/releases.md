@@ -1,3 +1,6 @@
+## 0.0.1198 - 2026-04-22
+- Process article: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
+
 ## 0.0.1197 - 2026-04-22
 - Process article: Deep Research Max: a step change for autonomous research agents
 
