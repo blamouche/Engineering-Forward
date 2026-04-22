@@ -7446,3 +7446,10 @@
 - outcome: success
 - next_step: none.
 
+
+## 2026-04-22 16:03:00 +0200
+- actor: agent
+- action: Scan-list run processed 3 queued Sifted URLs, created 3 synthesis files from accessible previews, updated README statistics/listing, emptied LIST.md, and generated the 2026-04-22 160300 batch recap.
+- files_changed_or_commands: `git pull --rebase`; `LIST.md`; `src/2026-04/20260422-these-are-the-top-10-physical-ai-hubs-in-europe.md`; `src/2026-04/20260422-synthesia-announces-major-hiring-push-opens-three-new-offices.md`; `src/2026-04/20260422-are-europes-fintechs-ready-for-mythos.md`; `README.md`; `synthesis/2026-04-22 - 160300 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260422-160300-scan-list.md`.
+- outcome: success
+- next_step: none.
