@@ -5,6 +5,13 @@
 - outcome: success
 - next_step: Commit and push the pending local tracking, then pull/rebase before updating `LIST.md`.
 
+## 2026-04-22 16:08:30 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo first, extracted 14 normalized AI/app-dev URLs from the TLDR AI email, updated `LIST.md`, and moved the processed thread to trash.
+- files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `LIST.md`; `gog gmail thread modify 19db55acf96c25f4 --add TRASH --remove UNREAD,INBOX,'0 - Veille/IA',CATEGORY_UPDATES --json --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue update.
+
 ## 2026-04-22 06:04:00 +0200
 - actor: agent
 - action: Scan-list run: loaded prompt-hub context, synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.

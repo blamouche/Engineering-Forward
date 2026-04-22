@@ -1,0 +1,14 @@
+https://workos.com/docs/authkit/cli-installer
+https://workos.com/blog/agent-experience
+https://openai.com/index/introducing-chatgpt-images-2-0/
+https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/
+https://www.alphaxiv.org/abs/2604.15804
+https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide
+https://salmanrahman.net/rlvr-weak-supervision
+https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/
+https://mkimhi.github.io/DNL/
+https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9
+https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/
+https://www.testingcatalog.com/anthropics-works-on-its-always-on-agent-with-new-ui-extensions/
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research
+https://agent-tars-world.github.io/-/
