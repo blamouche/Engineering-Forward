@@ -1,3 +1,6 @@
+## 0.0.1160 - 2026-04-22
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1159 - 2026-04-22
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was already clean and synced, `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 
