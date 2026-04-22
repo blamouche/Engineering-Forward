@@ -7806,3 +7806,10 @@
 - files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Create the batch recap.
+
+## 2026-04-23 00:11:05 +0200
+- actor: agent
+- action: Created the scan-list batch recap for 8 processed URLs, verified the recap contains all syntheses, confirmed LIST.md is empty, and prepared the final push.
+- files_changed_or_commands: synthesis/2026-04-23 - 001038 - batch recap.md; LIST.md; .prompt-hub/todo/todo-20260423-000737-scan-list.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Push all remaining scan-list commits to origin/main.
