@@ -1,3 +1,6 @@
+## 0.0.1199 - 2026-04-22
+- Add batch recap: 2026-04-22 180501
+
 ## 0.0.1198 - 2026-04-22
 - Process article: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
 
