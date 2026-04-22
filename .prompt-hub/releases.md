@@ -1,3 +1,6 @@
+## 0.0.1207 - 2026-04-23
+- Daily veille IA: committed prompt-hub tracking to restore a clean synced repo, read 1 Gmail message, extracted 8 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1206 - 2026-04-23
 - Initialize the 00:02 veille IA run: load prompt-hub context, create the task log, and inspect the new Gmail message before restoring a clean synced repo state.
 

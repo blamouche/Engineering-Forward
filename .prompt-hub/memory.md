@@ -19,6 +19,13 @@
 - outcome: success
 - next_step: Commit pending prompt-hub tracking first so the repo is clean, then update `LIST.md` and trash the processed email.
 
+## 2026-04-23 00:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed prompt-hub tracking to restore a clean synced repo, extracted 8 relevant AI/app-dev URLs from the Every email, updated `LIST.md`, and trashed the processed Gmail message.
+- files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `LIST.md`; `gog gmail batch modify 19db6c9e40fc20b6 --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260423-000200-daily-veille-ia-extraire-urls-gmail.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue update.
+
 ## 2026-04-22 06:04:00 +0200
 - actor: agent
 - action: Scan-list run: loaded prompt-hub context, synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
