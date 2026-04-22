@@ -7554,3 +7554,10 @@
 - files_changed_or_commands: `https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150`; `src/2026-04/20260421-mozilla-anthropics-mythos-found-271-security-vulnerabilities-in-firefox-150.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+
+## 2026-04-22 15:06:27 +0200
+- actor: agent
+- action: Processed scan-list article 'AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md
+- files_changed_or_commands: `https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3`; `src/2026-04/20260421-aws-lambda-functions-can-now-mount-amazon-s3-buckets-as-file-systems-with-s3-files.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue scan-list queue.

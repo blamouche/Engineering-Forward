@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 488<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 489<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (488 articles)
+#### April (489 articles)
+- [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](src/2026-04/20260421-aws-lambda-functions-can-now-mount-amazon-s3-buckets-as-file-systems-with-s3-files.md)
 - [Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150](src/2026-04/20260421-mozilla-anthropics-mythos-found-271-security-vulnerabilities-in-firefox-150.md)
 - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](src/2026-04/20260422-is-claude-code-going-to-cost-100-month-probably-not-its-all-very-confusing.md)
 - [Report: Meta will train AI agents by tracking employees' mouse, keyboard use](src/2026-04/20260421-report-meta-will-train-ai-agents-by-tracking-employees-mouse-keyboard-use.md)
