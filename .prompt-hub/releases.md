@@ -3651,3 +3651,6 @@
 
 ## 0.0.1211 - 2026-04-23
 - Process article: What Is Taste, Really?
+
+## 0.0.1212 - 2026-04-23
+- Process article: What I Learned Onboarding Our AI Project Manager (duplicate using existing synthesis)
