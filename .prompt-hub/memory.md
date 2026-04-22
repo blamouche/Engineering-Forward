@@ -7722,3 +7722,10 @@
 - files_changed_or_commands: `https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications`; `src/2026-04/20260422-designing-data-intensive-applications-with-martin-kleppmann.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Create the batch recap, verify the queue is empty, then push the remaining changes.
+
+## 2026-04-22 21:04:11 +0200
+- actor: agent
+- action: Created the scan-list batch recap, verified the processed synthesis link, and confirmed LIST.md is empty before the final push.
+- files_changed_or_commands: `synthesis/2026-04-22 - 210411 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `LIST.md`.
+- outcome: success
+- next_step: Push the article and recap commits to origin/main.
