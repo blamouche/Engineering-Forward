@@ -1,3 +1,6 @@
+## 0.0.1177 - 2026-04-22
+- Process article: Is Claude Code going to cost $100/month? Probably not—it’s all very confusing
+
 ## 0.0.1176 - 2026-04-22
 - Process article: Report: Meta will train AI agents by tracking employees' mouse, keyboard use
 
