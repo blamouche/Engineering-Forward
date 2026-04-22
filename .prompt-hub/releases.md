@@ -1,3 +1,6 @@
+## 0.0.1203 - 2026-04-22
+- Process article: Designing Data-intensive Applications with Martin Kleppmann
+
 ## 0.0.1202 - 2026-04-22
 - Finalize the 20:01 veille IA task tracking after trashing the processed Gmail message and pushing the refreshed queue.
 

@@ -7715,3 +7715,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260422-200100-daily-veille-ia-extraire-urls-gmail.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `git commit`; `git push origin main`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 21:03:27 +0200
+- actor: agent
+- action: Processed scan-list article "Designing Data-intensive Applications with Martin Kleppmann", created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications`; `src/2026-04/20260422-designing-data-intensive-applications-with-martin-kleppmann.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap, verify the queue is empty, then push the remaining changes.
