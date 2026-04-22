@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 484<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 485<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (484 articles)
+#### April (485 articles)
+- [Agents with Taste](src/2026-04/20260422-agents-with-taste.md)
 - [Announcing TypeScript 7.0 Beta](src/2026-04/20260421-announcing-typescript-7-0-beta.md)
 - [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](src/2026-04/20260421-chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text.md)
 - [SpaceX says it can buy Cursor later this year for $60 billion or pay $10 billion for 'our work together'](src/2026-04/20260421-spacex-says-it-can-buy-cursor-later-this-year-for-60-billion-or-pay-10-billion-for-our-work-together.md)

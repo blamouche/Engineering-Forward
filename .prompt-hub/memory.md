@@ -7526,3 +7526,10 @@
 - files_changed_or_commands: `https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta`; `src/2026-04/20260421-announcing-typescript-7-0-beta.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+
+## 2026-04-22 15:06:27 +0200
+- actor: agent
+- action: Processed scan-list article 'Agents with Taste', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md
+- files_changed_or_commands: `https://emilkowal.ski/ui/agents-with-taste`; `src/2026-04/20260422-agents-with-taste.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue scan-list queue.

@@ -1,3 +1,6 @@
+## 0.0.1175 - 2026-04-22
+- Process article: Agents with Taste
+
 ## 0.0.1174 - 2026-04-22
 - Process article: Announcing TypeScript 7.0 Beta
 
