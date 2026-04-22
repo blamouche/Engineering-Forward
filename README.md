@@ -7,25 +7,25 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2026-08 | █ 1<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 473<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-02 | ██████████████████████████████████████████████████ 149<br>
-2026-01 | ██████████████████████████████████ 101<br>
-2025-12 | █ 3<br>
-2025-11 | █ 2<br>
-2025-10 | ██ 4<br>
-2025-09 | █ 2<br>
-2025-08 | █ 1<br>
-2025-07 | █ 1<br>
-2025-06 | █ 1<br>
-2025-05 | █ 3<br>
-2025-04 | █ 1<br>
-2024-12 | █ 1<br>
-2024-06 | █ 2<br>
-2024-05 | █ 1<br>
+2022-12 | █ 2<br>
 2023-10 | █ 1<br>
-2022-12 | █ 2
+2024-05 | █ 1<br>
+2024-06 | █ 2<br>
+2024-12 | █ 1<br>
+2025-04 | █ 1<br>
+2025-05 | █ 3<br>
+2025-06 | █ 1<br>
+2025-07 | █ 1<br>
+2025-08 | █ 1<br>
+2025-09 | █ 2<br>
+2025-10 | ██ 4<br>
+2025-11 | █ 2<br>
+2025-12 | █ 3<br>
+2026-01 | ██████████████████████████████████ 101<br>
+2026-02 | ██████████████████████████████████████████████████ 149<br>
+2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 478<br>
+2026-08 | █ 1
 ## Articles
 
 ### 2026
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (477 articles)
+#### April (478 articles)
+- [These are the top 10 physical AI hubs in Europe](src/2026-04/20260422-these-are-the-top-10-physical-ai-hubs-in-europe.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [Mini-Vibe Check: Claude Design Isn’t for Designers—Yet](src/2026-04/20260422-mini-vibe-check-claude-design-isnt-for-designers-yet.md)
