@@ -1,3 +1,6 @@
+## 0.0.1191 - 2026-04-22
+- Process article: When Can LLMs Learn to Reason with Weak Supervision?
+
 ## 0.0.1190 - 2026-04-22
 - Process article: GPT Image Generation Models Prompting Guide
 

@@ -1,4 +1,3 @@
-https://salmanrahman.net/rlvr-weak-supervision
 https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/
 https://mkimhi.github.io/DNL/
 https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9
