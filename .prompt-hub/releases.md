@@ -1,3 +1,6 @@
+## 0.0.1190 - 2026-04-22
+- Process article: GPT Image Generation Models Prompting Guide
+
 ## 0.0.1189 - 2026-04-22
 - Process article: Qwen3.5-Omni Technical Report
 

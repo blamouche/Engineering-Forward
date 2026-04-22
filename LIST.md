@@ -1,4 +1,3 @@
-https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide
 https://salmanrahman.net/rlvr-weak-supervision
 https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/
 https://mkimhi.github.io/DNL/
