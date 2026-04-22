@@ -12,6 +12,13 @@
 - outcome: success
 - next_step: Commit and push the refreshed queue update.
 
+## 2026-04-23 00:02:00 +0200
+- actor: agent
+- action: Initialized the scheduled veille IA run after loading prompt-hub context, checking repo state, creating the task log, and fetching the new Gmail message from label `0---veille-ia` for URL extraction.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260423-000200-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`.
+- outcome: success
+- next_step: Commit pending prompt-hub tracking first so the repo is clean, then update `LIST.md` and trash the processed email.
+
 ## 2026-04-22 06:04:00 +0200
 - actor: agent
 - action: Scan-list run: loaded prompt-hub context, synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
