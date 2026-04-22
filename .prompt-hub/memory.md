@@ -7673,3 +7673,10 @@
 - files_changed_or_commands: `src/2026-04/20260421-anthropics-works-on-its-always-on-agent-with-ui-extensions.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit `Process article: Anthropics works on its always-on agent with UI extensions` and continue with the next queued URL.
+
+## 2026-04-22 18:13:06 +0200
+- actor: agent
+- action: Processed article from LIST.md, wrote the synthesis, updated README/stats, and removed the URL from the queue.
+- files_changed_or_commands: `src/2026-04/20260421-deep-research-max-a-step-change-for-autonomous-research-agents.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit `Process article: Deep Research Max: a step change for autonomous research agents` and continue with the next queued URL.

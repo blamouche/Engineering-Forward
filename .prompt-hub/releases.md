@@ -1,3 +1,6 @@
+## 0.0.1197 - 2026-04-22
+- Process article: Deep Research Max: a step change for autonomous research agents
+
 ## 0.0.1196 - 2026-04-22
 - Process article: Anthropics works on its always-on agent with UI extensions
 
