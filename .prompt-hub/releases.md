@@ -1,3 +1,6 @@
+## 0.0.1196 - 2026-04-22
+- Process article: Anthropics works on its always-on agent with UI extensions
+
 ## 0.0.1195 - 2026-04-22
 - Process article: Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’
 
