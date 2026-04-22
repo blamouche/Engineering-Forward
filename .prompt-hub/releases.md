@@ -1,3 +1,6 @@
+## 0.0.1168 - 2026-04-22
+- Process article: The Ultimate Guide to Claude Managed Agents.
+
 ## 0.0.1167 - 2026-04-22
 - Daily veille IA: repo restored to a clean synced state first, read 1 Gmail message, extracted 1 relevant AI/app-dev URL, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

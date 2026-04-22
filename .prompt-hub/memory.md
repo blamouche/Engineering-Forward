@@ -7475,3 +7475,10 @@
 - files_changed_or_commands: `git push origin main`; `git pull --rebase origin main`; `gog gmail get 19db47648c884945 --json --format=full --no-input`; `LIST.md`; `gog gmail batch modify 19db47648c884945 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260422-120300-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 12:08:26 +0200
+- actor: agent
+- action: Processed scan-list article "The Ultimate Guide to Claude Managed Agents"; created the synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260422-the-ultimate-guide-to-claude-managed-agents.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260422-120826-scan-list.md`.
+- outcome: success
+- next_step: Create the batch recap, verify it, then push remaining changes.
