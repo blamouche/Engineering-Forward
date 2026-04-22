@@ -3642,3 +3642,6 @@
 
 ## 0.0.1208 - 2026-04-23
 - Process article: You’re the Bread in the AI Sandwich
+
+## 0.0.1209 - 2026-04-23
+- Process article: Compound Engineering: The Definitive Guide (duplicate using existing synthesis)
