@@ -3657,3 +3657,6 @@
 
 ## 0.0.1213 - 2026-04-23
 - Process article: Your CEO Just Said ‘Use AI or Else.’ Here’s What to Do Next. (duplicate using existing synthesis)
+
+## 0.0.1214 - 2026-04-23
+- Process article: The Next Chapter of Every Consulting
