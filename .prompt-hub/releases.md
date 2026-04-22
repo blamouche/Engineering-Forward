@@ -1,3 +1,6 @@
+## 0.0.1169 - 2026-04-22
+- Add batch recap: 2026-04-22 120826.
+
 ## 0.0.1168 - 2026-04-22
 - Process article: The Ultimate Guide to Claude Managed Agents.
 

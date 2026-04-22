@@ -7482,3 +7482,10 @@
 - files_changed_or_commands: `src/2026-04/20260422-the-ultimate-guide-to-claude-managed-agents.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260422-120826-scan-list.md`.
 - outcome: success
 - next_step: Create the batch recap, verify it, then push remaining changes.
+
+## 2026-04-22 12:08:26 +0200
+- actor: agent
+- action: Finalized the scan-list run by creating and verifying `synthesis/2026-04-22 - 120826 - batch recap.md` after processing the only queued URL; `LIST.md` is now empty.
+- files_changed_or_commands: `synthesis/2026-04-22 - 120826 - batch recap.md`; verification of recap contents against processed syntheses; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260422-120826-scan-list.md`.
+- outcome: success
+- next_step: Push the two scan-list commits to origin/main.
