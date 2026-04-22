@@ -1,3 +1,6 @@
+## 0.0.1187 - 2026-04-22
+- Process article: Introducing ChatGPT Images 2.0
+
 ## 0.0.1186 - 2026-04-22
 - Process article: Agent Experience: Build without leaving your terminal
 

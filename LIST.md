@@ -1,4 +1,3 @@
-https://openai.com/index/introducing-chatgpt-images-2-0/
 https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/
 https://www.alphaxiv.org/abs/2604.15804
 https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide
