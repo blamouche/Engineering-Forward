@@ -7533,3 +7533,10 @@
 - files_changed_or_commands: `https://emilkowal.ski/ui/agents-with-taste`; `src/2026-04/20260422-agents-with-taste.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+
+## 2026-04-22 15:06:27 +0200
+- actor: agent
+- action: Processed scan-list article 'Report: Meta will train AI agents by tracking employees' mouse, keyboard use', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md
+- files_changed_or_commands: `https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report`; `src/2026-04/20260421-report-meta-will-train-ai-agents-by-tracking-employees-mouse-keyboard-use.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue scan-list queue.
