@@ -7403,3 +7403,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `README.md`; `synthesis/2026-04-22 - 000400 - batch recap.md`; `src/2026-04/20260422-mini-vibe-check-claude-design-isnt-for-designers-yet.md`; `src/2026-04/20260420-vercel-april-2026-security-incident.md`; `src/2026-04/20260422-agent-sdk-overview.md`; `src/2026-04/20260414-cybersecurity-looks-like-proof-of-work-now.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260422-000400-scan-list.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 02:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 message(s); repo only had the new task log pending, so prompt-hub tracking was updated to keep a clean synced state, and `LIST.md` stayed empty with 0 URL(s) added, 0 off-topic URL(s) removed, and 0 email(s) trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260422-020100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
