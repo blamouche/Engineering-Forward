@@ -7453,3 +7453,11 @@
 - files_changed_or_commands: `git pull --rebase`; `LIST.md`; `src/2026-04/20260422-these-are-the-top-10-physical-ai-hubs-in-europe.md`; `src/2026-04/20260422-synthesia-announces-major-hiring-push-opens-three-new-offices.md`; `src/2026-04/20260422-are-europes-fintechs-ready-for-mythos.md`; `README.md`; `synthesis/2026-04-22 - 160300 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260422-160300-scan-list.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 10:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message(s); after loading prompt-hub context and creating the task log, the repo was restored to a clean synced state, `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260422-100100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `git status --short --branch`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+
