@@ -1,3 +1,6 @@
+## 0.0.1205 - 2026-04-22
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message; `LIST.md` stayed empty so 0 URL added, 0 URL removed, and 0 email trashed.
+
 ## 0.0.1204 - 2026-04-22
 - Add batch recap: 2026-04-22 210411
 
