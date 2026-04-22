@@ -3639,3 +3639,6 @@
 
 ## 0.0.1165 - 2026-04-22
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo was restored to a clean synced state, `LIST.md` stayed empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
+
+## 0.0.1208 - 2026-04-23
+- Process article: You’re the Bread in the AI Sandwich

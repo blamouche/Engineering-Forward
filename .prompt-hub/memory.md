@@ -7750,3 +7750,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260422-220216-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: commit and push the no-op task tracking.
+
+## 2026-04-23 00:09:10 +0200
+- actor: agent
+- action: Processed scan-list article “You’re the Bread in the AI Sandwich”, created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: src/2026-04/20260423-you-re-the-bread-in-the-ai-sandwich.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

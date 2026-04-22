@@ -1,4 +1,3 @@
-https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
 https://every.to/source-code/compound-engineering-the-definitive-guide
 https://every.to/source-code/compound-engineering-camp-every-step-from-scratch
 https://every.to/p/what-is-taste-really
