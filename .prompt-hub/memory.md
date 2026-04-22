@@ -7547,3 +7547,10 @@
 - files_changed_or_commands: `https://simonwillison.net/2026/Apr/22/claude-code-confusion`; `src/2026-04/20260422-is-claude-code-going-to-cost-100-month-probably-not-its-all-very-confusing.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue scan-list queue.
+
+## 2026-04-22 15:06:27 +0200
+- actor: agent
+- action: Processed scan-list article 'Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150', added its synthesis, updated README April stats/listing, and removed the source URL from LIST.md
+- files_changed_or_commands: `https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150`; `src/2026-04/20260421-mozilla-anthropics-mythos-found-271-security-vulnerabilities-in-firefox-150.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue scan-list queue.

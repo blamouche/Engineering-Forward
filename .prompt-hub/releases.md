@@ -1,3 +1,6 @@
+## 0.0.1178 - 2026-04-22
+- Process article: Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150
+
 ## 0.0.1177 - 2026-04-22
 - Process article: Is Claude Code going to cost $100/month? Probably not—it’s all very confusing
 
