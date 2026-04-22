@@ -1,3 +1,6 @@
+## 0.0.1195 - 2026-04-22
+- Process article: Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’
+
 ## 0.0.1194 - 2026-04-22
 - Process article: OpenAI Is Working With Consultants to Sell Codex
 
