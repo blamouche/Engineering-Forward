@@ -3645,3 +3645,6 @@
 
 ## 0.0.1209 - 2026-04-23
 - Process article: Compound Engineering: The Definitive Guide (duplicate using existing synthesis)
+
+## 0.0.1210 - 2026-04-23
+- Process article: Compound Engineering Camp: Every Step, From Scratch (duplicate using existing synthesis)

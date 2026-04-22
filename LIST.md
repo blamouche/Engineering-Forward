@@ -1,4 +1,3 @@
-https://every.to/source-code/compound-engineering-camp-every-step-from-scratch
 https://every.to/p/what-is-taste-really
 https://every.to/p/what-i-learned-onboarding-our-ai-project-manager
 https://every.to/p/your-ceo-just-said-use-ai-or-else-here-s-what-to-do-next
