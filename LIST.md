@@ -1,4 +1,3 @@
-https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta
 https://emilkowal.ski/ui/agents-with-taste
 https://arstechnica.com/ai/2026/04/meta-will-use-employee-tracking-software-to-help-train-ai-agents-report
 https://simonwillison.net/2026/Apr/22/claude-code-confusion
