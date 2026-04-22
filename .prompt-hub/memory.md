@@ -7117,7 +7117,7 @@
 
 ## 2026-04-21 12:02:41 +0200
 - actor: agent
-- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and prepared the processed email for trash.
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed the processed email.
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260421-120241-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Trash the processed email, then commit and push the refreshed queue.
@@ -7438,3 +7438,11 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260422-060200-daily-veille-ia-extraire-urls-gmail.md`; `git status --short --branch`; `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 08:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: synced the repo, read 1 Gmail message from label `0---veille-ia`, extracted 3 relevant AI/app-dev URL(s), removed 17 non-relevant/tracking URL(s) from `LIST.md`, and trashed the processed email.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260422-080100-daily-veille-ia-extraire-urls-gmail.md`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+

@@ -1,3 +1,6 @@
+## 0.0.1163 - 2026-04-22
+- Daily veille IA: Gmail label `0---veille-ia` returned 1 message(s); extracted 3 relevant AI/app-dev URL(s), removed 17 non-relevant/tracking URL(s) from `LIST.md`, and prepared 1 processed email for trash.
+
 ## 0.0.1162 - 2026-04-22
 - Scan-list run: synced repo, created the task log, and found `LIST.md` empty so 0 URL(s) were processed and no batch recap was needed.
 
