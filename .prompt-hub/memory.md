@@ -7771,3 +7771,10 @@
 - files_changed_or_commands: LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-23 00:09:47 +0200
+- actor: agent
+- action: Processed scan-list article “What Is Taste, Really?”, created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: src/2026-04/20260423-what-is-taste-really.md; README.md; LIST.md; .prompt-hub/version.md; .prompt-hub/releases.md
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
