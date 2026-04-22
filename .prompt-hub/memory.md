@@ -7582,3 +7582,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `LIST.md`; `synthesis/2026-04-22 - 150627 - batch recap.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260422-150627-scan-list.md`.
 - outcome: success
 - next_step: Push the final recap commit.
+
+## 2026-04-22 18:03:29 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` stayed unchanged so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260422-180329-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
