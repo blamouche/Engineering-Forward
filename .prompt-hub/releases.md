@@ -1,3 +1,6 @@
+## 0.0.1193 - 2026-04-22
+- Process article: Sign-Bit Flips in Neural Networks
+
 ## 0.0.1192 - 2026-04-22
 - Process article: Stitch’s DESIGN.md format is now open-source so you can use it across platforms.
 
