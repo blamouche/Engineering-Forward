@@ -1,4 +1,3 @@
-https://workos.com/docs/authkit/cli-installer
 https://workos.com/blog/agent-experience
 https://openai.com/index/introducing-chatgpt-images-2-0/
 https://www.testingcatalog.com/openai-develops-platform-for-always-on-agents-on-chatgpt/

@@ -7589,3 +7589,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260422-180329-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-22 18:12:14 +0200
+- actor: agent
+- action: Processed article from LIST.md, wrote the synthesis, updated README/stats, and removed the URL from the queue.
+- files_changed_or_commands: `src/2026-04/20260422-ai-installer-cli-authkit-workos-docs.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit `Process article: AI Installer & CLI – AuthKit – WorkOS Docs` and continue with the next queued URL.
