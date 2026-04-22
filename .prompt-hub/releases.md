@@ -1,3 +1,6 @@
+## 0.0.1186 - 2026-04-22
+- Process article: Agent Experience: Build without leaving your terminal
+
 ## 0.0.1185 - 2026-04-22
 - Process article: AI Installer & CLI – AuthKit – WorkOS Docs
 
