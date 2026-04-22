@@ -1,3 +1,6 @@
+## 0.0.1192 - 2026-04-22
+- Process article: Stitch’s DESIGN.md format is now open-source so you can use it across platforms.
+
 ## 0.0.1191 - 2026-04-22
 - Process article: When Can LLMs Learn to Reason with Weak Supervision?
 

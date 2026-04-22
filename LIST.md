@@ -1,4 +1,3 @@
-https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-design-md/
 https://mkimhi.github.io/DNL/
 https://www.wsj.com/cio-journal/openai-is-working-with-consultants-to-sell-codex-f355b1b9
 https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/
