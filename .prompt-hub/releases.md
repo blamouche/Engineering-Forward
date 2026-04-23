@@ -1,3 +1,6 @@
+## 0.0.1265 - 2026-04-23
+- Process article: Anker made its own chip to bring AI to all its products
+
 ## 0.0.1264 - 2026-04-23
 - Process article: Nvidia backs AI company Vast Data at $30 billion valuation
 
