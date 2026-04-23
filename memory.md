@@ -58,3 +58,10 @@
 - files_changed_or_commands: `https://openai.com/index/introducing-gpt-5-5/`; `src/2026-04/20260423-introducing-gpt-5-5.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Create the batch recap because LIST.md is now empty.
+
+## 2026-04-24 00:05:47 +0200
+- actor: agent
+- action: Scan-list run processed 2 queued URLs from LIST.md, created 2 synthesis files, emptied LIST.md, generated `synthesis/2026-04-24 - 000547 - batch recap.md`, and verified the recap contains all processed syntheses.
+- files_changed_or_commands: `LIST.md`; `src/2026-04/20260423-gpt-5-5.md`; `src/2026-04/20260423-introducing-gpt-5-5.md`; `README.md`; `synthesis/2026-04-24 - 000547 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260424-000547-scan-list.md`
+- outcome: success
+- next_step: Push the recap commit and keep LIST.md empty until the next queue refresh.

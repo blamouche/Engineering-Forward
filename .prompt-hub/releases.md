@@ -1,3 +1,6 @@
+## 0.0.1289 - 2026-04-24
+- Add batch recap: 2026-04-24 000547
+
 ## 0.0.1288 - 2026-04-24
 - Process article: Introducing GPT-5.5
 
