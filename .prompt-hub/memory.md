@@ -8255,3 +8255,10 @@
 - files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: partial
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created and verified `synthesis/2026-04-23 - 181200 - batch recap.md` after processing 27 URL(s) with 1 error(s).
+- files_changed_or_commands: `synthesis/2026-04-23 - 181200 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Push all remaining commits.
