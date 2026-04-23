@@ -1,3 +1,6 @@
+## 0.0.1288 - 2026-04-24
+- Process article: Introducing GPT-5.5
+
 ## 0.0.1287 - 2026-04-24
 - Process article: GPT 5.5
 

@@ -51,3 +51,10 @@
 - files_changed_or_commands: `https://every.to/p/gpt-5-5`; `src/2026-04/20260423-gpt-5-5.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-24 00:05:47 +0200
+- actor: agent
+- action: Processed scan-list article 'Introducing GPT-5.5', created the synthesis, updated README statistics/April listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://openai.com/index/introducing-gpt-5-5/`; `src/2026-04/20260423-introducing-gpt-5-5.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Create the batch recap because LIST.md is now empty.
