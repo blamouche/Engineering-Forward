@@ -8066,3 +8066,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-ai-infrastructure-at-next-26.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-our-eighth-generation-tpus-two-chips-for-the-agentic-era.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
