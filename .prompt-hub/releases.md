@@ -1,3 +1,6 @@
+## 0.0.1245 - 2026-04-23
+- Add batch recap: 2026-04-23 150300
+
 ## 0.0.1244 - 2026-04-23
 - Process article error: https://www.anthropic.com/news/managed-agents
 
