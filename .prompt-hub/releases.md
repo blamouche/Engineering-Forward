@@ -1,3 +1,6 @@
+## 0.0.1221 - 2026-04-23
+- Add Substack post: The real AI bottleneck is operational judgment.
+
 ## 0.0.1220 - 2026-04-23
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); repo only had the new task log pending, `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 

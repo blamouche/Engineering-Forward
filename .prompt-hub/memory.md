@@ -7841,3 +7841,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260423-040224-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`, `LIST.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-23 05:00:00 +0200
+- actor: agent
+- action: Substack recents run: loaded prompt-hub context, created the required task log, read the 15 most recent README articles, and drafted a new Substack essay on operational judgment as the real AI bottleneck before preparing repo metadata for commit/push.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260423-050000-substack-post-recents.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `.prompt-hub/version.md`, `agents.md`, `README.md`; reviewed 15 `src/**/*.md` files from README; `substack/20260423-post-the-real-ai-bottleneck-is-operational-judgment.md`; `substack/latest.md`.
+- outcome: success
+- next_step: Sync with origin if needed, then commit and push the new Substack post plus prompt-hub tracking.
