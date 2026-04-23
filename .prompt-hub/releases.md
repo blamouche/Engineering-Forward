@@ -1,3 +1,6 @@
+## 0.0.1272 - 2026-04-23
+- Process article: Building eval systems that improve your AI product
+
 ## 0.0.1271 - 2026-04-23
 - Process article: Beyond vibe checks: A PM’s complete guide to evals
 
