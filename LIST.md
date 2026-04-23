@@ -1,4 +1,3 @@
-https://www.digitalocean.com/blog/llm-inference-tradeoffs
 https://linas.substack.com/p/fintechpulse1071
 https://linas.substack.com/p/aistartupmarket
 https://linas.substack.com/p/top10aistartups2026
