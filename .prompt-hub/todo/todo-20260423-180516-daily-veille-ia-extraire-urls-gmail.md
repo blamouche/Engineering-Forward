@@ -15,3 +15,9 @@ Exécuter la veille quotidienne Gmail label `0---veille-ia` et maintenir `LIST.m
 ## Notes
 - Si le repo n'est pas clean, commiter/pusher toutes les modifs locales non synchronisées avant de toucher `LIST.md`.
 - Conserver `LIST.md` en texte brut, une URL par ligne.
+
+## Review
+- Repo cleaned and synced before touching `LIST.md`.
+- 11 relevant URLs added from Gmail.
+- 0 off-topic URLs removed from queue.
+- 2 processed emails moved to trash.
