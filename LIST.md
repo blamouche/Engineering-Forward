@@ -4,11 +4,9 @@ https://maggieappleton.com/zero-alignment
 https://kwokchain.com/2026/04/23/cursor-and-spacex-in-search-of-a-complete-loop
 https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more
 https://www.digitalocean.com/blog/llm-inference-tradeoffs
-https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability
 https://linas.substack.com/p/fintechpulse1071
 https://linas.substack.com/p/aistartupmarket
 https://linas.substack.com/p/top10aistartups2026
 https://linas.substack.com/p/claude-managed-agents-guide
 https://linas.substack.com/p/fintechpulse1043
-https://linas.substack.com/action/disable_email?token=eyJ1c2VyX2lkIjoyNjAwMTkyNywicG9zdF9pZCI6MTk1MjA3NDA0LCJpYXQiOjE3NzY5Mzk0NzQsImV4cCI6MTgwODQ3NTQ3NCwiaXNzIjoicHViLTgxODE5Iiwic3ViIjoiZGlzYWJsZV9lbWFpbCJ9.ptuDqks-3Tr1PmfptbsHHEZNsykTiFA0CSvyAUMU2ic
 https://www.anthropic.com/news/managed-agents

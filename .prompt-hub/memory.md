@@ -7918,3 +7918,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail get 19db9e0767675787 --format=full --json --no-input`; `gog gmail get 19db9d8a3f3db433 --format=full --json --no-input`; `LIST.md`; `gog gmail batch modify 19db9e0767675787 19db9d8a3f3db433 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260423-140100-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-23 14:06:00 +0200
+- actor: agent
+- action: Daily veille IA correction: removed 2 off-topic/non-article URLs from `LIST.md` (Substack unsubscribe link and Firefox/Tor privacy post) and deleted the temporary extraction artifact.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/todo/veille_ia_last_result.json`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none.

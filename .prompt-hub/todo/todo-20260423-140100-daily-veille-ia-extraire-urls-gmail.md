@@ -16,6 +16,6 @@
 
 ## Review
 - Repo resynchronisé.
-- URLs ajoutées: 14.
-- URLs supprimées de `LIST.md`: 0.
+- URLs ajoutées: 12.
+- URLs supprimées de `LIST.md`: 2.
 - Emails mis à la corbeille: 2.
