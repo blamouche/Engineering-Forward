@@ -1,3 +1,6 @@
+## 0.0.1276 - 2026-04-23
+- Process article: Claude Mythos Preview
+
 ## 0.0.1275 - 2026-04-23
 - Process article: Head of Claude Code: What Happens After Coding Is Solved | Boris Cherny
 
