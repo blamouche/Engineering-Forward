@@ -8038,3 +8038,10 @@
 - outcome: success
 - next_step: none.
 
+
+## 2026-04-23 18:05:16 +0200
+- actor: agent
+- action: Initialized the 18:05 veille IA run after loading prompt-hub context, creating the task log, checking repo state, and fetching Gmail messages from the veille labels before restoring a clean synced repo state.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260423-180516-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --porcelain`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `gog gmail messages search 'label:"0 - Veille/IA"' --max 100 --json --include-body --no-input`.
+- outcome: success
+- next_step: Commit pending local tracking first so the repo is clean, then update `LIST.md`, remove off-topic URLs, and trash the processed emails.
