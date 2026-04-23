@@ -1,3 +1,6 @@
+## 0.0.1256 - 2026-04-23
+- Process article: Advancing Search-Augmented Language Models
+
 ## 0.0.1255 - 2026-04-23
 - Process article: Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world
 

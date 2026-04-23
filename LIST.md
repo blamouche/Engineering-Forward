@@ -1,4 +1,3 @@
-https://research.perplexity.ai/articles/advancing-search-augmented-language-models
 https://www.appliedcompute.com/research/inference-benchmark
 https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files
 https://simonwillison.net/2026/Apr/22/qwen36-27b
