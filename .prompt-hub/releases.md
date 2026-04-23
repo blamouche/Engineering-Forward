@@ -1,3 +1,6 @@
+## 0.0.1275 - 2026-04-23
+- Process article: Head of Claude Code: What Happens After Coding Is Solved | Boris Cherny
+
 ## 0.0.1274 - 2026-04-23
 - Process article: You’re the Bread in the AI Sandwich
 
