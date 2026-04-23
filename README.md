@@ -10,7 +10,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 509<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 510<br>
 2026-05 | ██ 4<br>
 2026-06 | █ 3<br>
 2026-07 | █ 1<br>
@@ -26,7 +26,8 @@ Articles per month:
 #### August (2 articles)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (509 articles)
+#### April (510 articles)
+- [11 AI operators to watch in Europe](src/2026-04/20260423-11-ai-operators-to-watch-in-europe.md)
 - [Lovable CEO apologises after security scare: ‘I take accountability’](src/2026-04/20260423-lovable-ceo-apologises-after-security-scare-i-take-accountability.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
@@ -1199,7 +1200,7 @@ Articles per month:
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 - [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)
 
-#### April (509 articles)
+#### April (510 articles)
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
 
 #### December (6 articles)

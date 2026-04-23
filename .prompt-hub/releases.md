@@ -1,3 +1,6 @@
+## 0.0.1224 - 2026-04-23
+- Process article: 11 AI operators to watch in Europe
+
 ## 0.0.1223 - 2026-04-23
 - Process article: Lovable CEO apologises after security scare: ‘I take accountability’
 
