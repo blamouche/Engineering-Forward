@@ -3872,4 +3872,6 @@
 - Add batch recap: 2026-04-23 001038
 ## 0.0.1285 - 2026-04-24
 - Chore: sync pending local changes before veille IA.
+## 0.0.1286 - 2026-04-24
+- Daily veille IA: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

@@ -8298,3 +8298,10 @@
 - outcome: success
 - next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
 
+## 2026-04-24 00:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message from `0---veille-ia`, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+- files_changed_or_commands: `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dbb8a5fbd5974a --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+
