@@ -1,3 +1,6 @@
+## 0.0.1247 - 2026-04-23
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1246 - 2026-04-23
 - Finalize scan-list task artifacts and prepare the repo for push after processing 11 URL(s) with 1 fetch error.
 
