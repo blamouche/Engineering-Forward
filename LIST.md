@@ -3,4 +3,3 @@ https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-m
 https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
 https://red.anthropic.com/2026/mythos-preview
 https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
-https://www.lennysnewsletter.com/p/experts-writing-ai-evals-brendan-foody
