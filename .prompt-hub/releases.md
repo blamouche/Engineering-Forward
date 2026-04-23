@@ -1,3 +1,6 @@
+## 0.0.1274 - 2026-04-23
+- Process article: You’re the Bread in the AI Sandwich
+
 ## 0.0.1273 - 2026-04-23
 - Process article: Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)
 

@@ -8220,3 +8220,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-why-experts-writing-ai-evals-is-creating-the-fastest-growing-companies-in-history-brendan-foody.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list reused existing synthesis for `https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich` and removed it from the queue.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
