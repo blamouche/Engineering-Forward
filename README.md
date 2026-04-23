@@ -7,26 +7,34 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2026-01 | ██████████████████████████████████ 101<br>
-2026-02 | ██████████████████████████████████████████████████ 149<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 510<br>
-2026-05 | ██ 4<br>
-2026-06 | █ 3<br>
-2026-07 | █ 1<br>
-2026-08 | █ 2<br>
-2026-09 | █ 2<br>
-2026-10 | ██ 5<br>
-2026-11 | █ 2<br>
-2026-12 | ██ 6
+2022-12 | ██ 2<br>
+2023-10 | █ 1<br>
+2024-05 | █ 1<br>
+2024-06 | ██ 2<br>
+2024-12 | █ 1<br>
+2025-04 | █ 1<br>
+2025-05 | ███ 3<br>
+2025-06 | █ 1<br>
+2025-07 | █ 1<br>
+2025-08 | █ 1<br>
+2025-09 | ██ 2<br>
+2025-10 | ████ 4<br>
+2025-11 | ██ 2<br>
+2025-12 | ███ 3<br>
+2026-01 | █████████████████████████████████████████████████████████████████████████████████████████████████████ 101<br>
+2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 510<br>
+2026-08 | █ 1<br>
 ## Articles
 
 ### 2026
 
-#### August (2 articles)
+#### August (1 articles)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (510 articles)
+#### April (1 articles)
+- [Google unveils two new TPUs designed for the "agentic era"](src/2026-04/20260423-google-unveils-two-new-tpus-designed-for-the-agentic-era.md)
 - [11 AI operators to watch in Europe](src/2026-04/20260423-11-ai-operators-to-watch-in-europe.md)
 - [Lovable CEO apologises after security scare: ‘I take accountability’](src/2026-04/20260423-lovable-ceo-apologises-after-security-scare-i-take-accountability.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
@@ -1167,7 +1175,7 @@ Articles per month:
 - [18 Predictions for 2026](src/2026-01/20260115-18-predictions-for-2026.md)
 - [Speeding up GPU kernels by 38% with a multi-agent system](src/2026-01/20260114-speeding-up-gpu-kernels-by-38-with-a-multi-agent-system.md)
 
-#### December (6 articles)
+#### December (2 articles)
 - [Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord](src/2025-12/20251222-are-the-costs-of-ai-agents-also-rising-exponentially-toby-ord.md)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 - [Two Ways to Win in the Post](src/2025-12/20251208-two-ways-to-win-in-the-post.md)
@@ -1176,7 +1184,7 @@ Articles per month:
 - [The AI Browsers That Made It Into Our Daily Workflow](src/2025-11/20251125-the-ai-browsers-that-made-it-into-our-daily-workflow.md)
 - [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
 
-#### October (5 articles)
+#### October (1 articles)
 - [Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma](src/2025-10/20251030-introducing-figma-weave-the-next-generation-of-ai-native-creation-at-figma.md)
 - [Mercor quintuples valuation to $10B with $350M Series C](src/2025-10/20251027-mercor-quintuples-valuation-to-10b-with-350m-series-c.md)
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)
@@ -1186,36 +1194,36 @@ Articles per month:
 - [GPT-5-Codex Prompting Guide](src/2025-09/20250923-gpt-5-codex-prompting-guide.md)
 - [Tinker](src/2025-09/20250916-tinker.md)
 
-#### August (2 articles)
+#### August (1 articles)
 - [The 6 Hidden Productivity Killers: A Guide for Engineering Leaders](src/2025-08/20250814-gitkraken-6-hidden-productivity-killers.md)
 
 #### July (1 article)
 - [🎧 Inside The Browser Company: Why They Killed Arc to Build Dia](src/2025-07/20250702-inside-the-browser-company-why-they-killed-arc-to-build-dia.md)
 
-#### June (3 articles)
+#### June (2 articles)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (4 articles)
+#### May (1 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 - [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)
 
-#### April (510 articles)
+#### April (1 articles)
 - [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
 
-#### December (6 articles)
+#### December (2 articles)
 - [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
 
-#### June (3 articles)
+#### June (2 articles)
 - [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
 - [🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?](src/2024-06/20240605-is-notebooklm-google-s-research-assistant-the-ultimate-tool-for-thought.md)
 
-#### May (4 articles)
+#### May (1 articles)
 - [The Next Big Programming Language Is English](src/2024-05/20240502-the-next-big-programming-language-is-english.md)
 
-#### October (5 articles)
+#### October (1 articles)
 - [Kate Lee Joins Every as Editor-in](src/2023-10/20231029-kate-lee-joins-every-as-editor-in.md)
 
-#### December (6 articles)
+#### December (2 articles)
 - [Performance Calibrations at Tech Companies: Part 2](src/2022-12/20221213-performance-calibrations-part-2.md)
 - [Performance Calibrations at Tech Companies: Part 1](src/2022-12/20221206-performance-calibrations-part-1.md)

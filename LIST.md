@@ -1,4 +1,3 @@
-https://arstechnica.com/ai/2026/04/google-unveils-two-new-tpus-designed-for-the-agentic-era
 https://sierra.ai/blog/the-ai-native-interview
 https://maggieappleton.com/zero-alignment
 https://kwokchain.com/2026/04/23/cursor-and-spacex-in-search-of-a-complete-loop

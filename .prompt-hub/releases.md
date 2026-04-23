@@ -1,3 +1,6 @@
+## 0.0.1233 - 2026-04-23
+- Process article: Google unveils two new TPUs designed for the "agentic era"
+
 ## 0.0.1232 - 2026-04-23
 - Daily veille IA correction: removed 2 off-topic/non-article URLs from `LIST.md` (Substack unsubscribe link and Firefox/Tor privacy post) and deleted the temporary extraction artifact.
 
