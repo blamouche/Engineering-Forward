@@ -1,3 +1,6 @@
+## 0.0.1237 - 2026-04-23
+- Process article: OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more
+
 ## 0.0.1236 - 2026-04-23
 - Process article: Cursor and SpaceX: In search of a complete loop
 

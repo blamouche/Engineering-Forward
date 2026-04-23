@@ -1,4 +1,3 @@
-https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more
 https://www.digitalocean.com/blog/llm-inference-tradeoffs
 https://linas.substack.com/p/fintechpulse1071
 https://linas.substack.com/p/aistartupmarket
