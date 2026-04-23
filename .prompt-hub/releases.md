@@ -1,3 +1,6 @@
+## 0.0.1253 - 2026-04-23
+- Process article: Introducing workspace agents in ChatGPT
+
 ## 0.0.1252 - 2026-04-23
 - Process article: Our eighth generation TPUs: two chips for the agentic era
 
