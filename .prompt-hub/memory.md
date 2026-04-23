@@ -7904,3 +7904,10 @@
 - files_changed_or_commands: `synthesis/2026-04-23 - 061202 - batch recap.md`; `LIST.md`; `.prompt-hub/todo/todo-20260423-061202-scan-list.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Push all commits to origin/main.
+
+## 2026-04-23 14:01:00 +0200
+- actor: agent
+- action: Initialized the 14:01 veille IA run after loading prompt-hub context, inspecting the Gmail veille label, creating the task log, and preparing the repo cleanup required before updating LIST.md.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260423-140100-daily-veille-ia-extraire-urls-gmail.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input`.
+- outcome: success
+- next_step: Commit and push any pending local changes so the repo is clean, then extract/filter Gmail URLs and refresh `LIST.md`.
