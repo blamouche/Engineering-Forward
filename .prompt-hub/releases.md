@@ -1,3 +1,6 @@
+## 0.0.1268 - 2026-04-23
+- Process article: OpenClaw: The complete guide to building, training, and living with your personal AI agent
+
 ## 0.0.1267 - 2026-04-23
 - Process article: How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)
 

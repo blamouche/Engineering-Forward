@@ -8178,3 +8178,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-how-anthropics-product-team-moves-faster-than-anyone-else-cat-wu-head-of-product-claude-code.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-openclaw-the-complete-guide-to-building-training-and-living-with-your-personal-ai-agent.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
