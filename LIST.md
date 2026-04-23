@@ -1,4 +1,3 @@
-https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world
 https://research.perplexity.ai/articles/advancing-search-augmented-language-models
 https://www.appliedcompute.com/research/inference-benchmark
 https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files

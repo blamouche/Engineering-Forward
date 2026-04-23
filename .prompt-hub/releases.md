@@ -1,3 +1,6 @@
+## 0.0.1255 - 2026-04-23
+- Process article: Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world
+
 ## 0.0.1254 - 2026-04-23
 - Process article: Google debuts Workspace Intelligence for Gemini Workspace
 
