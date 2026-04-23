@@ -1,3 +1,6 @@
+## 0.0.1258 - 2026-04-23
+- Process article: A good AGENTS.md is a model upgrade. A bad one is worse than no docs at all.
+
 ## 0.0.1257 - 2026-04-23
 - Process article: Benchmarking Inference Engines on Agentic Workloads
 

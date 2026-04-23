@@ -8108,3 +8108,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-benchmarking-inference-engines-on-agentic-workloads.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-a-good-agents-md-is-a-model-upgrade-a-bad-one-is-worse-than-no-docs-at-all.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
