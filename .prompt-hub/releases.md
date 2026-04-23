@@ -1,3 +1,6 @@
+## 0.0.1222 - 2026-04-23
+- Daily veille IA: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1221 - 2026-04-23
 - Add Substack post: The real AI bottleneck is operational judgment.
 

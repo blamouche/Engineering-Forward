@@ -7848,3 +7848,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260423-050000-substack-post-recents.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `.prompt-hub/version.md`, `agents.md`, `README.md`; reviewed 15 `src/**/*.md` files from README; `substack/20260423-post-the-real-ai-bottleneck-is-operational-judgment.md`; `substack/latest.md`.
 - outcome: success
 - next_step: Sync with origin if needed, then commit and push the new Substack post plus prompt-hub tracking.
+
+## 2026-04-23 06:07:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URLs from the Sifted Daily email, updated `LIST.md`, and trashed the processed email.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260423-060700-daily-veille-ia-extraire-urls-gmail.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19db880fa75714a1 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue update.
