@@ -1,3 +1,6 @@
+## 0.0.1260 - 2026-04-23
+- Process article: Introducing Gemini Enterprise Agent Platform
+
 ## 0.0.1259 - 2026-04-23
 - Process article: Flagship-Level Coding in a 27B Dense Model
 
