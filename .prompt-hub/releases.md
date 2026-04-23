@@ -1,3 +1,6 @@
+## 0.0.1267 - 2026-04-23
+- Process article: How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)
+
 ## 0.0.1266 - 2026-04-23
 - Process article: B-Trees vs LSM Trees: Comparison and Trade-Offs
 
