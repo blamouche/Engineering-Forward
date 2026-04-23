@@ -1,3 +1,6 @@
+## 0.0.1234 - 2026-04-23
+- Process article: The AI-native interview
+
 ## 0.0.1233 - 2026-04-23
 - Process article: Google unveils two new TPUs designed for the "agentic era"
 
