@@ -1,3 +1,6 @@
+## 0.0.1284 - 2026-04-23
+- Daily veille IA: committed the new task log first to restore a clean synced repo, read 1 Gmail message from `0---veille-ia`, extracted 0 relevant AI/app-dev article URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1283 - 2026-04-23
 - Chore: sync pending local changes before veille IA.
 
