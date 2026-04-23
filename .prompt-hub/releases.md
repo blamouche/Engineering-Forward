@@ -1,3 +1,6 @@
+## 0.0.1257 - 2026-04-23
+- Process article: Benchmarking Inference Engines on Agentic Workloads
+
 ## 0.0.1256 - 2026-04-23
 - Process article: Advancing Search-Augmented Language Models
 
