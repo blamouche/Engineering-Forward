@@ -1,4 +1,3 @@
-https://maggieappleton.com/zero-alignment
 https://kwokchain.com/2026/04/23/cursor-and-spacex-in-search-of-a-complete-loop
 https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more
 https://www.digitalocean.com/blog/llm-inference-tradeoffs

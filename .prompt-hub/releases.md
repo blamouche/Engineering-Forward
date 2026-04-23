@@ -1,3 +1,6 @@
+## 0.0.1235 - 2026-04-23
+- Process article: One Developer, Two Dozen Agents, Zero Alignment
+
 ## 0.0.1234 - 2026-04-23
 - Process article: The AI-native interview
 
