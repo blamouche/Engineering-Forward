@@ -1,6 +1,5 @@
 https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
 https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same
-https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and
 https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves
 https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
 https://red.anthropic.com/2026/mythos-preview
