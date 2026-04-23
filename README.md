@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 543<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 544<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (543 articles)
+#### April (544 articles)
+- [GPT 5.5](src/2026-04/20260423-gpt-5-5.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [You’re the Bread in the AI Sandwich](src/2026-04/20260423-you-re-the-bread-in-the-ai-sandwich.md)
