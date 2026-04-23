@@ -1,3 +1,6 @@
+## 0.0.1223 - 2026-04-23
+- Process article: Lovable CEO apologises after security scare: ‘I take accountability’
+
 ## 0.0.1222 - 2026-04-23
 - Daily veille IA: committed pending local changes to restore a clean synced repo, read 1 Gmail message, extracted 2 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
