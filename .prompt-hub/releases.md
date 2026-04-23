@@ -1,3 +1,6 @@
+## 0.0.1262 - 2026-04-23
+- Process article: Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June
+
 ## 0.0.1261 - 2026-04-23
 - Process article: Building agents that reach production systems with MCP
 

@@ -1,4 +1,3 @@
-https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june
 https://joshbudman.substack.com/p/when-llms-get-personal
 https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
 https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html
