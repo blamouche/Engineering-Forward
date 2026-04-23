@@ -7981,3 +7981,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-these-ai-startups-just-raised-187m-and-they-reveal-exactly-where-the-market-is-headed.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 15:03:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://linas.substack.com/p/top10aistartups2026` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-top-10-ai-startups-to-watch-in-2026.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
