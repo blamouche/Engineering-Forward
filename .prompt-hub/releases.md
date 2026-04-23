@@ -1,3 +1,6 @@
+## 0.0.1244 - 2026-04-23
+- Process article error: https://www.anthropic.com/news/managed-agents
+
 ## 0.0.1243 - 2026-04-23
 - Process article: Robinhood: the $4.5 billion revenue dark horse Wall Street still underestimates; Shopify is the commerce OS that prints cash while building the rails for AI’s shopping revolution
 

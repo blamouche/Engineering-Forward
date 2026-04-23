@@ -8002,3 +8002,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-robinhood-the-4-5-billion-revenue-dark-horse-wall-street-still-underestimates-shopify-is-t.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 15:03:00 +0200
+- actor: agent
+- action: scan-list removed `https://www.anthropic.com/news/managed-agents` after article fetch failed with 404.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: partial
+- next_step: Continue with next URL in LIST.md.
