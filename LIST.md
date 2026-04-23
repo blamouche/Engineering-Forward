@@ -1,5 +1,4 @@
 https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
-https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html
 https://www.theverge.com/tech/916463/anker-thus-chip-announcement
 https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same
 https://blog.bytebytego.com/p/b-trees-vs-lsm-trees-comparison-and
