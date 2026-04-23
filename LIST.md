@@ -1,0 +1,17 @@
+https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
+https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era
+https://openai.com/index/introducing-workspace-agents-in-chatgpt
+https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace
+https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world
+https://research.perplexity.ai/articles/advancing-search-augmented-language-models
+https://www.appliedcompute.com/research/inference-benchmark
+https://www.augmentcode.com/blog/how-to-write-good-agents-dot-md-files
+https://simonwillison.net/2026/Apr/22/qwen36-27b
+https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
+https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp
+https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june
+https://joshbudman.substack.com/p/when-llms-get-personal
+https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
+https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html
+https://www.theverge.com/tech/916463/anker-thus-chip-announcement
+https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-market-will-never-be-the-same
