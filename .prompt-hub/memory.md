@@ -8269,3 +8269,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dbb4825ddd980e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260423-200100-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-23 21:04:22 +0200
+- actor: agent
+- action: Processed scan-list article 'The Pulse: ‘Tokenmaxxing’ as a weird new trend', created its synthesis, rebuilt README statistics/article index, removed the URL from LIST.md, and prepared the per-article commit.
+- files_changed_or_commands: `https://newsletter.pragmaticengineer.com/p/the-pulse-tokenmaxxing-as-a-weird-6b2`; `src/2026-04/20260423-the-pulse-tokenmaxxing-as-a-weird-new-trend.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260423-210422-scan-list.md`.
+- outcome: success
+- next_step: Create the batch recap, verify it includes the processed synthesis, then push remaining changes.

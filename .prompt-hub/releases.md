@@ -1,3 +1,6 @@
+## 0.0.1281 - 2026-04-23
+- Process article: The Pulse: ‘Tokenmaxxing’ as a weird new trend.
+
 ## 0.0.1280 - 2026-04-23
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 1 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
