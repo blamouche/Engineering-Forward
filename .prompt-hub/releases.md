@@ -1,3 +1,6 @@
+## 0.0.1263 - 2026-04-23
+- Process article: When LLMs Get Personal
+
 ## 0.0.1262 - 2026-04-23
 - Process article: Exclusive: Microsoft Moving All GitHub Copilot Subscribers To Token-Based Billing In June
 

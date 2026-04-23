@@ -1,4 +1,3 @@
-https://joshbudman.substack.com/p/when-llms-get-personal
 https://every.to/context-window/you-re-the-bread-in-the-ai-sandwich
 https://www.cnbc.com/2026/04/22/nvidia-backs-ai-company-vast-data.html
 https://www.theverge.com/tech/916463/anker-thus-chip-announcement

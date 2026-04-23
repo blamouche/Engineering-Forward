@@ -8143,3 +8143,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Continue with next URL in LIST.md.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://joshbudman.substack.com/p/when-llms-get-personal` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-when-llms-get-personal.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
