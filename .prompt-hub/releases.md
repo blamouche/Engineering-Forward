@@ -1,3 +1,6 @@
+## 0.0.1261 - 2026-04-23
+- Process article: Building agents that reach production systems with MCP
+
 ## 0.0.1260 - 2026-04-23
 - Process article: Introducing Gemini Enterprise Agent Platform
 
