@@ -1,3 +1,6 @@
+## 0.0.1254 - 2026-04-23
+- Process article: Google debuts Workspace Intelligence for Gemini Workspace
+
 ## 0.0.1253 - 2026-04-23
 - Process article: Introducing workspace agents in ChatGPT
 
