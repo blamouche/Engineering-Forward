@@ -1,3 +1,6 @@
+## 0.0.1270 - 2026-04-23
+- Process article: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)
+
 ## 0.0.1269 - 2026-04-23
 - Process article: Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann
 
