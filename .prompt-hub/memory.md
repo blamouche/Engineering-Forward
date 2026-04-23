@@ -8262,3 +8262,10 @@
 - files_changed_or_commands: `synthesis/2026-04-23 - 181200 - batch recap.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Push all remaining commits.
+
+## 2026-04-23 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo state, extracted 1 relevant Pragmatic Engineer article URL from Gmail label `0---veille-ia`/`0 - Veille/IA`, updated `LIST.md`, and prepared the processed email for trash.
+- files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dbb4825ddd980e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260423-200100-daily-veille-ia-extraire-urls-gmail.md`.
+- outcome: success
+- next_step: none.
