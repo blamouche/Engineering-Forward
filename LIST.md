@@ -1,4 +1,3 @@
-https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26
 https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era
 https://openai.com/index/introducing-workspace-agents-in-chatgpt
 https://www.testingcatalog.com/google-debuts-workspace-intelligence-for-gemini-workspace

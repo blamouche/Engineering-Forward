@@ -1,3 +1,6 @@
+## 0.0.1251 - 2026-04-23
+- Process article: AI infrastructure at Next ‘26
+
 ## 0.0.1250 - 2026-04-23
 - Daily veille IA: synced the repo, read 2 Gmail message(s), extracted 11 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 2 processed email(s).
 

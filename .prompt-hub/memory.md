@@ -8052,3 +8052,17 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail batch modify 19dbaf9bb966b288 19dbae19dc346b06 --add TRASH --no-input --force`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260423-180516-daily-veille-ia-extraire-urls-gmail.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-23 18:17:55 +0200
+- actor: agent
+- action: Started scan-list run from cron; synced repo, inspected LIST.md, prepared dedicated todo file.
+- files_changed_or_commands: `git pull --rebase`, `.prompt-hub/todo/todo-20260423-181755-scan-list.md`
+- outcome: success
+- next_step: Process each URL in LIST.md sequentially, commit after each article, then create batch recap and push.
+
+## 2026-04-23 18:12:00 +0200
+- actor: agent
+- action: scan-list created synthesis for `https://cloud.google.com/blog/products/compute/ai-infrastructure-at-next26` and removed it from the queue.
+- files_changed_or_commands: `src/2026-04/20260423-ai-infrastructure-at-next-26.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next URL in LIST.md.
