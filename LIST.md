@@ -3,7 +3,6 @@ https://techbullion.com/openai-is-quietly-testing-gpt-image-2-and-the-ai-image-m
 https://www.lennysnewsletter.com/p/head-of-claude-code-what-happens
 https://red.anthropic.com/2026/mythos-preview
 https://www.lennysnewsletter.com/p/anthropics-1b-to-19b-growth-run
-https://www.lennysnewsletter.com/p/anthropic-co-founder-benjamin-mann
 https://www.lennysnewsletter.com/p/why-ai-evals-are-the-hottest-new-skill
 https://www.lennysnewsletter.com/p/beyond-vibe-checks-a-pms-complete
 https://www.lennysnewsletter.com/p/building-eval-systems-that-improve

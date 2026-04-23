@@ -1,3 +1,6 @@
+## 0.0.1269 - 2026-04-23
+- Process article: Anthropic co-founder on quitting OpenAI, AGI predictions, $100M talent wars, 20% unemployment, and the nightmare scenarios keeping him up at night | Ben Mann
+
 ## 0.0.1268 - 2026-04-23
 - Process article: OpenClaw: The complete guide to building, training, and living with your personal AI agent
 
