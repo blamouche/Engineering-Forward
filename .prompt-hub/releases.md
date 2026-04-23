@@ -1,3 +1,6 @@
+## 0.0.1271 - 2026-04-23
+- Process article: Beyond vibe checks: A PM’s complete guide to evals
+
 ## 0.0.1270 - 2026-04-23
 - Process article: Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)
 
