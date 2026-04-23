@@ -1,3 +1,6 @@
+## 0.0.1239 - 2026-04-23
+- Process article: AngelList USVC Review: 2.5% Fees for Retail VC
+
 ## 0.0.1238 - 2026-04-23
 - Process article: The LLM Inference Trilemma: Throughput, Latency, Cost
 
