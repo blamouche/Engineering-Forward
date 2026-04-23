@@ -1,4 +1,3 @@
-https://simonwillison.net/2026/Apr/22/qwen36-27b
 https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
 https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp
 https://www.wheresyoured.at/exclusive-microsoft-moving-all-github-copilot-subscribers-to-token-based-billing-in-june
