@@ -1,3 +1,6 @@
+## 0.0.1337 - 2026-04-24
+- Process article: Email for agents
+
 ## 0.0.1336 - 2026-04-24
 - Process article error: https://openai.com/index/codex-for-almost-everything
 

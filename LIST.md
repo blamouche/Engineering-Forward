@@ -1,4 +1,3 @@
-https://blog.cloudflare.com/email-for-agents
 https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
 https://openai.com/index/introducing-workspace-agents-in-chatgpt
 https://github.com/google/agents-cli
