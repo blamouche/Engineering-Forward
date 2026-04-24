@@ -1,3 +1,6 @@
+## 0.0.1361 - 2026-04-25
+- Add batch recap: 2026-04-25 000600
+
 ## 0.0.1360 - 2026-04-25
 - Process article: OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a Compute-Powered Economy
 
