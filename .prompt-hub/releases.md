@@ -1,3 +1,6 @@
+## 0.0.1306 - 2026-04-24
+- Process article: OpenAI announces GPT-5.5, its latest artificial intelligence model
+
 ## 0.0.1305 - 2026-04-24
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 6 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
