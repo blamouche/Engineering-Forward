@@ -1,3 +1,6 @@
+## 0.0.1340 - 2026-04-24
+- Process article: GitHub - google/agents
+
 ## 0.0.1339 - 2026-04-24
 - Process article error: https://openai.com/index/introducing-workspace-agents-in-chatgpt
 
