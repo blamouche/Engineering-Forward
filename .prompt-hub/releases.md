@@ -1,3 +1,6 @@
+## 0.0.1360 - 2026-04-25
+- Process article: OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a Compute-Powered Economy
+
 ## 0.0.1358 - 2026-04-24
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 1 relevant AI/app-dev URL, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
