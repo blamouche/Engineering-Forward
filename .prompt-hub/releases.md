@@ -1,3 +1,6 @@
+## 0.0.1338 - 2026-04-24
+- Process article: Introducing Gemini Enterprise Agent Platform
+
 ## 0.0.1337 - 2026-04-24
 - Process article: Email for agents
 
