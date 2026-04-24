@@ -8383,3 +8383,10 @@
 - outcome: success
 - next_step: none.
 
+## 2026-04-24 10:02:36 +0200
+- actor: agent
+- action: Initialized the scheduled veille IA run, created the task log, detected the repo was dirty because of the new prompt-hub todo file, and prepared the mandatory cleanup commit/push before touching LIST.md.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260424-100236-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
+
