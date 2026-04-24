@@ -3901,3 +3901,6 @@
 
 ## 0.0.1295 - 2026-04-24
 - Initialize the 08:01 veille IA run: loaded prompt-hub context, created the task log, and prepared the repo cleanup commit so add-url can start from a clean synced state.
+
+## 0.0.1296 - 2026-04-24
+- Daily veille IA: committed the new task log first to restore a clean synced repo, read 1 Gmail message from `0---veille-ia`, found 0 usable AI/app-dev article URL(s) because the newsletter only exposed tracking wrappers and non-relevant links, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
