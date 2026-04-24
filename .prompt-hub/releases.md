@@ -1,3 +1,6 @@
+## 0.0.1328 - 2026-04-24
+- Process article: Agents can't choose between structure and flexibility
+
 ## 0.0.1327 - 2026-04-24
 - Process article error: https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749
 
