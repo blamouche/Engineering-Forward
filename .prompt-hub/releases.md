@@ -1,3 +1,6 @@
+## 0.0.1302 - 2026-04-24
+- Process article: ChatGPT Images 2.0 + Claude Design: Your AI Designer
+
 ## 0.0.1301 - 2026-04-24
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 1 relevant AI/app-dev URL, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

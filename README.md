@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 545<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 546<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (545 articles)
+#### April (546 articles)
+- [ChatGPT Images 2.0 + Claude Design: Your AI Designer](src/2026-04/20260424-chatgpt-images-2-0-claude-design-your-ai-designer.md)
 - [Introducing GPT-5.5](src/2026-04/20260423-introducing-gpt-5-5.md)
 - [GPT 5.5](src/2026-04/20260423-gpt-5-5.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
