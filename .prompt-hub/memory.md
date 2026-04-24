@@ -8404,3 +8404,10 @@
 - outcome: success
 - next_step: Commit and push the pending local tracking first, then pull/rebase before updating `LIST.md`.
 
+## 2026-04-24 12:04:45 +0200
+- actor: agent
+- action: Daily veille IA run: synced the repo, read 1 Gmail message from `0---veille-ia`, extracted 1 relevant AI/app-dev URL from the Linas Substack article on ChatGPT Images 2.0 and Claude Design, kept `LIST.md` clean with 0 off-topic removals, and trashed 1 processed email.
+- files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `web_fetch https://linas.substack.com/p/chatgpt-images-2-claude-design-guide`; `LIST.md`; `gog gmail batch modify 19dbec49658e6286 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue update.
+

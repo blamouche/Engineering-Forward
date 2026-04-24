@@ -6,11 +6,11 @@
 - [x] Vérifier `agents.md`
 - [x] Vérifier l'état git et synchroniser le dépôt selon les règles
 - [x] Chercher les emails Gmail `label:0---veille-ia`
-- [ ] Extraire et filtrer les URLs IA / développement applicatif
-- [ ] Mettre à jour `LIST.md` (dedupe + nettoyage)
-- [ ] Supprimer les URLs hors sujet de `LIST.md`
-- [ ] Mettre à la corbeille les emails traités
-- [ ] Mettre à jour version, releases et memory
+- [x] Extraire et filtrer les URLs IA / développement applicatif
+- [x] Mettre à jour `LIST.md` (dedupe + nettoyage)
+- [x] Supprimer les URLs hors sujet de `LIST.md`
+- [x] Mettre à la corbeille les emails traités
+- [x] Mettre à jour version, releases et memory
 - [ ] Commit + push
 
 ## Notes
