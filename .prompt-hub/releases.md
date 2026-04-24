@@ -1,3 +1,6 @@
+## 0.0.1303 - 2026-04-24
+- Add batch recap: 2026-04-24 120623
+
 ## 0.0.1302 - 2026-04-24
 - Process article: ChatGPT Images 2.0 + Claude Design: Your AI Designer
 
