@@ -1,3 +1,6 @@
+## 0.0.1348 - 2026-04-24
+- Process article: Vibe Check: Claude Cowork Is Claude Code for the Rest of Us
+
 ## 0.0.1347 - 2026-04-24
 - Process article: How I Use Claude Code to Ship Like a Team of Five
 
