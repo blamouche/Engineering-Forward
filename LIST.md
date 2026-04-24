@@ -1,4 +1,3 @@
-https://openai.com/index/introducing-workspace-agents-in-chatgpt
 https://github.com/google/agents-cli
 https://github.com/cosmicstack-labs/mercury-agent
 https://github.com/Shubhamsaboo/awesome-llm-apps
