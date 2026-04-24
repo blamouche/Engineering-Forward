@@ -8446,3 +8446,10 @@
 - files_changed_or_commands: `src/2026-04/20260423-openai-announces-gpt-5-5-its-latest-artificial-intelligence-model.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue with the next URL in LIST.md.
+
+## 2026-04-24 15:08:00 +0200
+- actor: agent
+- action: Removed the Pragmatic Engineer blog URL from LIST.md after confirming the article had already been synthesized in the repository, and kept the existing synthesis for recap linking.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Continue with the next URL in LIST.md.
