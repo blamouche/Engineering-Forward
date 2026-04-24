@@ -1,3 +1,6 @@
+## 0.0.1320 - 2026-04-24
+- Process article: Anthropic just overtook OpenAI with $1 trillion valuation
+
 ## 0.0.1319 - 2026-04-24
 - Process article: Tencent, Alibaba to back DeepSeek at $20B+ valuation: report — TFN
 

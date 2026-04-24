@@ -1,4 +1,3 @@
-https://finance.yahoo.com/markets/stocks/articles/anthropic-just-overtook-openai-1-155312239.html
 https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai
 https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still
 https://www.anthropic.com/engineering/april-23-postmortem
