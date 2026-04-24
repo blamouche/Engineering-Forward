@@ -8474,3 +8474,10 @@
 - files_changed_or_commands: `src/2026-04/20260422-i-am-building-a-cloud.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Continue with the next URL in LIST.md.
+
+## 2026-04-24 15:12:00 +0200
+- actor: agent
+- action: Removed the Bloomberg DeepSeek URL from LIST.md after WebFetch returned a 403 anti-bot page, and logged it for the batch recap errors section.
+- files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: partial
+- next_step: Finish processing the remaining URLs, then include the fetch error in the batch recap.
