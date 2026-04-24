@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work
 https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure
 https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft
 https://allenai.org/blog/olmoearth-embeddings

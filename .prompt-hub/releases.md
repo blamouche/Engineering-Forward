@@ -1,3 +1,6 @@
+## 0.0.1329 - 2026-04-24
+- Process article: AI Overviews are coming to your Gmail at work
+
 ## 0.0.1328 - 2026-04-24
 - Process article: Agents can't choose between structure and flexibility
 
