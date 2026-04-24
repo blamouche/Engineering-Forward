@@ -8361,3 +8361,11 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260424-040100-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-24 08:01:00 +0200
+- actor: agent
+- action: Initialized the scheduled veille IA run after loading prompt-hub context, creating the task log, fetching the Gmail message from `0---veille-ia`, and preparing the mandatory cleanup commit to restore a clean synced repo state before touching `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260424-080100-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the prompt-hub tracking so the repo is clean, then update `LIST.md` and trash the processed email.
+

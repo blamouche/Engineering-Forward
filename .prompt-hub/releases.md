@@ -3898,3 +3898,6 @@
 
 ## 0.0.1292 - 2026-04-24
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo only had the new task log pending, so it was committed and pushed to restore a clean synced state.
+
+## 0.0.1295 - 2026-04-24
+- Initialize the 08:01 veille IA run: loaded prompt-hub context, created the task log, and prepared the repo cleanup commit so add-url can start from a clean synced state.
