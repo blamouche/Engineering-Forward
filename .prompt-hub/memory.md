@@ -8509,3 +8509,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260424-180200-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `.prompt-hub/version.md`, `agents.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `git status --short`.
 - outcome: success
 - next_step: Commit and push the pending local task tracking, then pull/rebase before updating `LIST.md`.
+
+## 2026-04-24 18:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo, read 1 Gmail message from `0---veille-ia`, extracted 12 relevant AI/app-dev article URL(s), removed 2 off-topic/non-article URL(s) from `LIST.md`, normalized 8 existing queued URL(s), and prepared the processed email for trash.
+- files_changed_or_commands: `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/todo/todo-20260424-180200-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Trash the processed Gmail message, then commit and push the refreshed queue.
