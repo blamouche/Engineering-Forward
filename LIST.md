@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/how-to-run-a-24-7-ai-agent-that-grows-with-you
 https://openai.com/index/codex-for-almost-everything
 https://blog.cloudflare.com/email-for-agents
 https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform
