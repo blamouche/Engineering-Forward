@@ -1,4 +1,3 @@
-https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749
 https://frontierai.substack.com/p/agents-cant-choose-between-structure
 https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work
 https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure

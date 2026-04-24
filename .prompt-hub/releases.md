@@ -1,3 +1,6 @@
+## 0.0.1327 - 2026-04-24
+- Process article error: https://www.wsj.com/tech/ai/oracle-ai-demand-debt-04977749
+
 ## 0.0.1326 - 2026-04-24
 - Process article error: https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value
 
