@@ -8481,3 +8481,10 @@
 - files_changed_or_commands: `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: partial
 - next_step: Finish processing the remaining URLs, then include the fetch error in the batch recap.
+
+## 2026-04-24 15:13:00 +0200
+- actor: agent
+- action: Created and verified the 15:06:21 batch recap for the completed scan-list run, updated the task review, and prepared the final commit for push.
+- files_changed_or_commands: `synthesis/2026-04-24 - 150621 - batch recap.md`; `.prompt-hub/todo/todo-20260424-150621-scan-list.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push the full scan-list commit series to origin/main.
