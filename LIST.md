@@ -1,4 +1,3 @@
-https://github.com/cosmicstack-labs/mercury-agent
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://every.to/context-window/model-wars
 https://every.to/vibe-check/opus-4-7
