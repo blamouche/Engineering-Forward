@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 101<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 548<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 549<br>
 2026-08 | █ 1
 ## Articles
 
@@ -34,6 +34,7 @@ Articles per month:
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 article)
+- [Coding is a Meta-Task](src/2026-04/20260421-coding-is-a-meta-task.md)
 - [An update on recent Claude Code quality reports](src/2026-04/20260423-an-update-on-recent-claude-code-quality-reports.md)
 - [OpenAI announces GPT-5.5, its latest artificial intelligence model](src/2026-04/20260423-openai-announces-gpt-5-5-its-latest-artificial-intelligence-model.md)
 - [ChatGPT Images 2.0 + Claude Design: Your AI Designer](src/2026-04/20260424-chatgpt-images-2-0-claude-design-your-ai-designer.md)
