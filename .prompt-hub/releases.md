@@ -1,3 +1,6 @@
+## 0.0.1333 - 2026-04-24
+- Process article: Agents that remember: introducing Agent Memory
+
 ## 0.0.1332 - 2026-04-24
 - Process article: Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
 

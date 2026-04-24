@@ -1,4 +1,3 @@
-https://blog.cloudflare.com/introducing-agent-memory
 https://www.kimi.com/blog/kimi-k2-6
 https://www.theunwindai.com/p/how-to-run-a-24-7-ai-agent-that-grows-with-you
 https://openai.com/index/codex-for-almost-everything
