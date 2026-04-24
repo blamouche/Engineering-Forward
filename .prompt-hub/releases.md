@@ -1,3 +1,6 @@
+## 0.0.1308 - 2026-04-24
+- Process article: An update on recent Claude Code quality reports
+
 ## 0.0.1307 - 2026-04-24
 - Process article: The Pulse: ‘Tokenmaxxing’ as a weird new trend
 
