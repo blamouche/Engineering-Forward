@@ -1,3 +1,6 @@
+## 0.0.1347 - 2026-04-24
+- Process article: How I Use Claude Code to Ship Like a Team of Five
+
 ## 0.0.1346 - 2026-04-24
 - Process article: Flat
 

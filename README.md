@@ -15,7 +15,7 @@ Articles per month:
 2025-04 | █ 1<br>
 2025-05 | ███ 3<br>
 2025-06 | █ 1<br>
-2025-07 | █ 1<br>
+2025-07 | ██ 2<br>
 2025-08 | █ 1<br>
 2025-09 | ██ 2<br>
 2025-10 | ████ 4<br>
@@ -1260,6 +1260,7 @@ Articles per month:
 - [The 6 Hidden Productivity Killers: A Guide for Engineering Leaders](src/2025-08/20250814-gitkraken-6-hidden-productivity-killers.md)
 
 #### July (1 article)
+- [How I Use Claude Code to Ship Like a Team of Five](src/2025-07/20250716-how-i-use-claude-code-to-ship-like-a-team-of-five.md)
 - [🎧 Inside The Browser Company: Why They Killed Arc to Build Dia](src/2025-07/20250702-inside-the-browser-company-why-they-killed-arc-to-build-dia.md)
 
 #### June (2 articles)
