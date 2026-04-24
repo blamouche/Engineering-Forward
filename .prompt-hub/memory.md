@@ -8396,3 +8396,11 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260424-100236-daily-veille-ia-extraire-urls.md`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-24 12:02:10 +0200
+- actor: agent
+- action: Initialized the 12:02 daily veille IA run, loaded prompt-hub context, created the task log, detected the repo was not clean because the new task file was untracked, and prepared the mandatory cleanup commit before touching `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260424-120200-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending local tracking first, then pull/rebase before updating `LIST.md`.
+
