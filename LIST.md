@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-04-24/deepseek-unveils-newest-flagship-a-year-after-ai-breakthrough
 https://techfundingnews.com/deepseek-20b-valuation-tencent-alibaba-first-funding-round
 https://finance.yahoo.com/markets/stocks/articles/anthropic-just-overtook-openai-1-155312239.html
 https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai
