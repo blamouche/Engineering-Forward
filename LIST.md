@@ -1,4 +1,3 @@
-https://www.anthropic.com/engineering/april-23-postmortem
 https://openai.com/index/introducing-openai-privacy-filter
 https://github.com/amazon-science/expert-upcycling
 https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value
