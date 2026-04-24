@@ -1,3 +1,6 @@
+## 0.0.1322 - 2026-04-24
+- Process article: Agentics: AI enablement requires managed agent runtimes
+
 ## 0.0.1321 - 2026-04-24
 - Process article error: https://www.perplexity.ai/hub/blog/how-perplexity-builds-accuracy-into-frontier-ai
 

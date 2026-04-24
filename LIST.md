@@ -1,4 +1,3 @@
-https://12gramsofcarbon.com/p/agentics-configuring-agents-is-still
 https://www.anthropic.com/engineering/april-23-postmortem
 https://openai.com/index/introducing-openai-privacy-filter
 https://github.com/amazon-science/expert-upcycling
