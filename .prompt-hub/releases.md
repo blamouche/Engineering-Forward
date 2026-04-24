@@ -1,3 +1,6 @@
+## 0.0.1326 - 2026-04-24
+- Process article error: https://www.bloomberg.com/news/articles/2026-04-23/ai-coding-firm-cognition-in-funding-talks-at-25-billion-value
+
 ## 0.0.1325 - 2026-04-24
 - Process article: GitHub - amazon-science/expert
 
