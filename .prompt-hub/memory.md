@@ -8516,3 +8516,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/todo/todo-20260424-180200-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Trash the processed Gmail message, then commit and push the refreshed queue.
+## 2026-04-24 18:08:07 +0200
+- actor: agent
+- action: Failed to synthesize `https://openai.com/index/introducing-gpt-5-5`; removed it from `LIST.md` and logged the failure.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: failed
+- next_step: Continue with next queued URL.
+
