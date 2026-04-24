@@ -1,3 +1,6 @@
+## 0.0.1351 - 2026-04-24
+- Process article error: https://www.barrons.com/articles/ai-corporate-communications-shareholders-red-flag-63211618
+
 ## 0.0.1350 - 2026-04-24
 - Process article: OpenAI slams Anthropic in memo to shareholders as its leading AI rival gains momentum
 
