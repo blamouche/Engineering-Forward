@@ -1,3 +1,6 @@
+## 0.0.1324 - 2026-04-24
+- Process article error: https://openai.com/index/introducing-openai-privacy-filter
+
 ## 0.0.1323 - 2026-04-24
 - Process article: An update on recent Claude Code quality reports
 
