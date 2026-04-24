@@ -1,3 +1,6 @@
+## 0.0.1332 - 2026-04-24
+- Process article: Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis
+
 ## 0.0.1331 - 2026-04-24
 - Process article: The US just told China to stop copying its AI. Enforcing that is the hard part.
 
