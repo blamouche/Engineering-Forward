@@ -1,4 +1,3 @@
-https://every.to/context-window/model-wars
 https://every.to/vibe-check/opus-4-7
 https://every.to/vibe-check/gpt-5-5
 https://www.pcworld.com/article/3121542/anthropic-considers-pulling-claude-code-from-its-20-pro-plan.html

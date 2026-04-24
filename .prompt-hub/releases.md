@@ -1,3 +1,6 @@
+## 0.0.1343 - 2026-04-24
+- Process article: Model Wars
+
 ## 0.0.1342 - 2026-04-24
 - Process article: GitHub - Shubhamsaboo/awesome-llm
 
