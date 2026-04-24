@@ -1,3 +1,6 @@
+## 0.0.1349 - 2026-04-24
+- Process article: A looming crisis could limit some of your favorite AI tools
+
 ## 0.0.1348 - 2026-04-24
 - Process article: Vibe Check: Claude Cowork Is Claude Code for the Rest of Us
 
