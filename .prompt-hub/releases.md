@@ -1,3 +1,6 @@
+## 0.0.1331 - 2026-04-24
+- Process article: The US just told China to stop copying its AI. Enforcing that is the hard part.
+
 ## 0.0.1330 - 2026-04-24
 - Process article error: https://seekingalpha.com/news/4578419-microsoft-to-invest-18b-in-australia-to-expand-ai-cloud-and-digital-infrastructure
 

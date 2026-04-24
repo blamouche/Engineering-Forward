@@ -1,4 +1,3 @@
-https://thenextweb.com/news/us-white-house-ai-model-distillation-china-theft
 https://allenai.org/blog/olmoearth-embeddings
 https://blog.cloudflare.com/introducing-agent-memory
 https://www.kimi.com/blog/kimi-k2-6
