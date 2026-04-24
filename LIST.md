@@ -1,4 +1,3 @@
-https://www.pcworld.com/article/3121542/anthropic-considers-pulling-claude-code-from-its-20-pro-plan.html
 https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five
 https://every.to/vibe-check/vibe-check-claude-cowork-is-claude-code-for-the-rest-of-us
 https://www.businessinsider.com/ai-compute-limits-anthropic-github-2026-4
