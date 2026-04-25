@@ -1,3 +1,6 @@
+## 0.0.1365 - 2026-04-25
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1364 - 2026-04-25
 - Add substack post: AI is becoming a memory and governance problem
 
