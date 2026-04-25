@@ -8858,3 +8858,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260425-061700-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
+
+## 2026-04-25 06:17:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo stayed clean and synced.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260425-061700-daily-veille-ia-extraire-urls.md`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
