@@ -1,4 +1,11 @@
 
+## 2026-04-28 15:02:00 +0200
+- actor: agent
+- action: Scan-list run: synced the repo, processed 8 queued URLs from `LIST.md`, created 8 synthesis files, updated `README.md` and statistics, emptied `LIST.md`, and created `synthesis/2026-04-28 - 150200 - batch recap.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260428-150200-scan-list.md`; `git pull --rebase origin main`; `LIST.md`; created 8 `src/2026-04/*.md` synthesis files; updated `README.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`; created `synthesis/2026-04-28 - 150200 - batch recap.md`; committed each article with `Process article: [Title]`.
+- outcome: success
+- next_step: Commit recap artifacts and push all remaining changes.
+
 ## 2026-04-28 12:02:00 +0200
 - actor: agent
 - action: Daily veille IA run: committed prompt-hub tracking first to restore a clean synced repo, read 1 Gmail message from `0---veille-ia`, extracted 5 new relevant AI/app-dev URL(s) after dedupe, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.

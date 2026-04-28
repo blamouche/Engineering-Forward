@@ -1,3 +1,6 @@
+## 0.0.1432 - 2026-04-08
+- Add batch recap: 2026-04-28 150200
+
 ## 0.0.1431 - 2026-04-08
 - Process article: The Moat or the Commons
 
