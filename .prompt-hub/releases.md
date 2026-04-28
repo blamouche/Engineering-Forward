@@ -1,3 +1,6 @@
+## 0.0.1384 - 2026-04-28
+- Process article: Your AI Might be Lying to Your Boss
+
 ## 0.0.1383 - 2026-04-28
 - Process article: Google prepares credit system for Gemini and new image tools
 
