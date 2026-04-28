@@ -1,0 +1,14 @@
+https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273
+https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe
+https://openai.com/index/next-phase-of-microsoft-partnership
+https://www.tanayj.com/p/to-train-or-not-to-train
+https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent
+https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card
+https://arkaung.github.io/interactive-turboquant
+https://openai.com/index/open-source-codex-orchestration-symphony
+https://arxiv.org/abs/2604.22119
+https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons
+https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent
+https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases
+https://mimo.xiaomi.com/mimo-v2-5-pro
+https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html
