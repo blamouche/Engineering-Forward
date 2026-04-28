@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 613<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 614<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (613 articles)
+#### April (614 articles)
+- [The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol](src/2026-04/20260428-the-browser-died-today-openai-and-stripe-launch-instant-checkout-the-agentic-commerce-protocol.md)
 - [Leopold Aschenbrenner's $5.5B Situational Awareness Fund](src/2026-04/20260428-leopold-aschenbrenner-s-5-5b-situational-awareness-fund.md)
 - [Amex Agentic Commerce: Betting on AI Risk](src/2026-04/20260428-amex-agentic-commerce-betting-on-ai-risk.md)
 - [The Android of Commerce - How Google Is Building the Interface Between AI & Money](src/2026-04/20260428-the-android-of-commerce-how-google-is-building-the-interface-between-ai-money.md)

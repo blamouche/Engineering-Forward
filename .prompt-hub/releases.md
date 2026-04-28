@@ -1,3 +1,6 @@
+## 0.0.1420 - 2026-04-28
+- Process article: The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol
+
 ## 0.0.1419 - 2026-04-28
 - Process article: Leopold Aschenbrenner's $5.5B Situational Awareness Fund
 
