@@ -1,3 +1,6 @@
+## 0.0.1392 - 2026-04-28
+- Process article: Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips
+
 ## 0.0.1391 - 2026-04-28
 - Process article: Cohere Aleph Alpha Join Forces
 

@@ -1,4 +1,3 @@
-https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership
 https://www.testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection/
 https://github.com/nex-crm/wuphf
 https://github.com/openclaw/clawsweeper
