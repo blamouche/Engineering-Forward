@@ -1,3 +1,6 @@
+## 0.0.1388 - 2026-04-28
+- Process article: Efficient Video Intelligence in 2026
+
 ## 0.0.1387 - 2026-04-28
 - Process article: GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
 
