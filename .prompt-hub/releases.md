@@ -1,3 +1,6 @@
+## 0.0.1393 - 2026-04-28
+- Process article: Anthropic tests new Bugcrawl tool for Claude Code
+
 ## 0.0.1392 - 2026-04-28
 - Process article: Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips
 

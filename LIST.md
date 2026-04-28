@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/anthropic-tests-new-bugcrawl-tool-for-claude-code-bug-detection/
 https://github.com/nex-crm/wuphf
 https://github.com/openclaw/clawsweeper
 https://www.theunwindai.com/p/how-to-run-a-24-7-ai-agent-that-grows-with-you
