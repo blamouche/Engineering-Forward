@@ -1,3 +1,6 @@
+## 0.0.1403 - 2026-04-28
+- Process article: Agentic Engineering Management
+
 ## 0.0.1402 - 2026-04-28
 - Process article: Slack for AI Employees
 

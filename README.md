@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 602<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 603<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (602 articles)
+#### April (603 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -76,6 +76,7 @@ Articles per month:
 - [An update on recent Claude Code quality reports](src/2026-04/20260424-an-update-on-recent-claude-code-quality-reports.md)
 - [Agents can't choose between structure and flexibility](src/2026-04/20260424-agents-can-t-choose-between-structure-and-flexibility.md)
 - [Agentics: AI enablement requires managed agent runtimes](src/2026-04/20260424-agentics-ai-enablement-requires-managed-agent-runtimes.md)
+- [Agentic Engineering Management](src/2026-04/20260424-agentic-engineering-management.md)
 - [You’re the Bread in the AI Sandwich](src/2026-04/20260423-you-re-the-bread-in-the-ai-sandwich.md)
 - [Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)](src/2026-04/20260423-why-experts-writing-ai-evals-is-creating-the-fastest-growing-companies-in-history-brendan-foody.md)
 - [Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)](src/2026-04/20260423-why-ai-evals-are-the-hottest-new-skill-for-product-builders-hamel-husain-shreya-shankar-creator.md)
