@@ -9357,3 +9357,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-28 18:08:50 +0200
+- actor: agent
+- action: Failed to synthesize `https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons`; removed it from `LIST.md` and logged the failure.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: failed
+- next_step: Continue with next queued URL.
+

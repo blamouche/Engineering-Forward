@@ -1,3 +1,6 @@
+## 0.0.1446 - 2026-04-28
+- Process article error: https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons
+
 ## 0.0.1445 - 2026-04-28
 - Process article: Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework
 
