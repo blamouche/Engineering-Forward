@@ -1,3 +1,6 @@
+## 0.0.1447 - 2026-04-28
+- Process article: DeepSeek cuts V4-Pro prices by 75%
+
 ## 0.0.1446 - 2026-04-28
 - Process article error: https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons
 

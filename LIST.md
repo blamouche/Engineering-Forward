@@ -1,4 +1,3 @@
-https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent
 https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases
 https://mimo.xiaomi.com/mimo-v2-5-pro
 https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html
