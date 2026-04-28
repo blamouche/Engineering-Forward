@@ -89,3 +89,5 @@
 - 2026-04-28 09:11:51 | agent: openclaw | action: processed scan-list article 'Google prepares credit system for Gemini and new image tools' and updated README/LIST.md | files: src/2026-04/20260425-google-prepares-credit-system-for-gemini-and-new-image-tools.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:11:51 | agent: openclaw | action: processed scan-list article 'Your AI Might be Lying to Your Boss' and updated README/LIST.md | files: src/2026-04/20260425-your-ai-might-be-lying-to-your-boss.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:11:52 | agent: openclaw | action: scan-list fetch failed for https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs; removed URL from LIST.md and recorded error for recap | files: LIST.md | status: failed | next: continue queue

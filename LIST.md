@@ -1,4 +1,3 @@
-https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs
 https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns/
 https://github.com/alash3al/stash
 https://v-chandra.github.io/efficient-video-intelligence/

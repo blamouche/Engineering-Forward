@@ -9000,3 +9000,10 @@
 - files_changed_or_commands: `https://williamoconnell.me/blog/post/ai-ide`; `src/2026-04/20260425-your-ai-might-be-lying-to-your-boss.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:11:52 
+- actor: agent
+- action: Removed a queued URL from `LIST.md` after article fetch failed during scan-list processing.
+- files_changed_or_commands: `https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Continue processing the next queued URL and record this failure in the batch recap.
