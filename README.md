@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 581<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 582<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (581 articles)
+#### April (582 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -118,6 +118,7 @@ Articles per month:
 - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](src/2026-04/20260422-is-claude-code-going-to-cost-100-month-probably-not-its-all-very-confusing.md)
 - [Introducing ChatGPT Images 2.0](src/2026-04/20260422-introducing-chatgpt-images-2-0.md)
 - [I am building a cloud](src/2026-04/20260422-i-am-building-a-cloud.md)
+- [How I Put Claude Design and GPT Images 2.0 to the Test: Building Landing Pages, Slides, and Brand Kits](src/2026-04/20260422-how-i-put-claude-design-and-gpt-images-2-0-to-the-test-building-landing-pages-slides-and-b.md)
 - [Designing Data-intensive Applications with Martin Kleppmann](src/2026-04/20260422-designing-data-intensive-applications-with-martin-kleppmann.md)
 - [Are Europe’s fintechs ready for Mythos?](src/2026-04/20260422-are-europes-fintechs-ready-for-mythos.md)
 - [AI Overviews are coming to your Gmail at work](src/2026-04/20260422-ai-overviews-are-coming-to-your-gmail-at-work.md)
