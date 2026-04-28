@@ -71,3 +71,5 @@
 - 2026-04-28 09:11:44 | agent: openclaw | action: processed scan-list article 'How Stripe Detects Fraudulent Transactions Within 100 ms' and updated README/LIST.md | files: src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:11:44 | agent: openclaw | action: processed scan-list article 'What Elon Musk and OpenAI's High-Profile Court Case Is Actually About' and updated README/LIST.md | files: src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:11:45 | agent: openclaw | action: processed scan-list article 'How Amazon Uses LLMs to Recommend Products' and updated README/LIST.md | files: src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md, README.md, LIST.md | status: success | next: continue queue

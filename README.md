@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 578<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 579<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,11 +33,12 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (578 articles)
+#### April (579 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
 - [How Stripe Detects Fraudulent Transactions Within 100 ms](src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md)
+- [How Amazon Uses LLMs to Recommend Products](src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md)
 - [OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a Compute-Powered Economy](src/2026-04/20260424-openai-president-greg-brockman-on-gpt-5-5-spud-ai-model-moats-and-a-compute-powered-economy.md)
 - [Model Wars](src/2026-04/20260424-model-wars.md)
 - [Kimi K2.6 Tech Blog: Advancing Open](src/2026-04/20260424-kimi-k2-6-tech-blog-advancing-open.md)

@@ -1,3 +1,6 @@
+## 0.0.1376 - 2026-04-28
+- Process article: How Amazon Uses LLMs to Recommend Products
+
 ## 0.0.1375 - 2026-04-28
 - Process article: What Elon Musk and OpenAI's High-Profile Court Case Is Actually About
 
