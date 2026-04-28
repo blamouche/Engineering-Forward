@@ -9161,3 +9161,10 @@
 - files_changed_or_commands: `https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake`; `src/2026-04/20260428-ep212-data-warehouse-vs-data-lake-vs-data-mesh.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:12:10 
+- actor: agent
+- action: Scan-list run processed 31 queued URL(s), logged 3 fetch error(s), created `synthesis/2026-04-28 - 091143 - batch recap.md`, verified the recap contents, and confirmed `LIST.md` is empty.
+- files_changed_or_commands: `LIST.md`; `README.md`; `synthesis/2026-04-28 - 091143 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260428-090853-scan-list.md`.
+- outcome: success
+- next_step: Push all remaining scan-list commits to origin/main.
