@@ -4,14 +4,16 @@
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
 - [x] Check repo state and current `LIST.md`
-- [ ] Sync repo and ensure clean working tree
-- [ ] Search Gmail label `0---veille-ia`
-- [ ] Extract and filter AI/app-dev article URLs
-- [ ] Update `LIST.md` with dedupe and off-topic cleanup
-- [ ] Trash processed emails
-- [ ] Update prompt-hub memory/version/releases
-- [ ] Commit and push changes
+- [x] Sync repo and ensure clean working tree
+- [x] Search Gmail label `0---veille-ia`
+- [x] Extract and filter AI/app-dev article URLs
+- [x] Update `LIST.md` with dedupe and off-topic cleanup
+- [x] Trash processed emails
+- [x] Update prompt-hub memory/version/releases
+- [x] Commit and push changes
 
 ## Review
 
-- Pending.
+- Gmail label `0---veille-ia` returned 0 message(s).
+- `LIST.md` was already empty, so 0 URL(s) were added and 0 removed.
+- No email was trashed.
