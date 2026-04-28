@@ -1,3 +1,6 @@
+## 0.0.1443 - 2026-04-28
+- Process article: TurboQuant: A First-Principles Walkthrough
+
 ## 0.0.1442 - 2026-04-28
 - Process article: GPT 5.5: The System Card
 
