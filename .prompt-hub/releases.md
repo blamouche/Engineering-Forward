@@ -1,3 +1,6 @@
+## 0.0.1438 - 2026-04-28
+- Process article: China blocks Meta’s $2B Manus deal after months-long probe
+
 ## 0.0.1437 - 2026-04-28
 - Process article error: https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273
 

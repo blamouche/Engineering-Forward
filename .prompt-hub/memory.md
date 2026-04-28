@@ -9301,3 +9301,10 @@
 - outcome: failed
 - next_step: Continue with next queued URL.
 
+## 2026-04-28 18:08:50 +0200
+- actor: agent
+- action: Processed scan-list URL `https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe` into synthesis `src/2026-04/20260427-china-blocks-meta-s-2b-manus-deal-after-months-long-probe.md`.
+- files_changed_or_commands: `src/2026-04/20260427-china-blocks-meta-s-2b-manus-deal-after-months-long-probe.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next queued URL.
+
