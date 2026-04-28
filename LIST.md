@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.22119
 https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons
 https://thenextweb.com/news/deepseek-v4-pro-price-cut-75-percent
 https://tomtunguz.com/b200-gpu-pricing-spot-market-model-releases
