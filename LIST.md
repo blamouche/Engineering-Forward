@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude
 https://www.chatprd.ai/how-i-ai/openai-gpt-5.5-review
 https://www.chatprd.ai/how-i-ai/claude-design-and-gpt-images-2-building-landing-pages-slides-and-brand-kits
 https://every.to/also-true-for-humans/you-are-the-most-expensive-model
