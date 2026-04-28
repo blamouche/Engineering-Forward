@@ -9294,3 +9294,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dd4bb15df63f45 19dd47deaeda3b5e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+## 2026-04-28 18:08:50 +0200
+- actor: agent
+- action: Failed to synthesize `https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273`; removed it from `LIST.md` and logged the failure.
+- files_changed_or_commands: `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: failed
+- next_step: Continue with next queued URL.
+

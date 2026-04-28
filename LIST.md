@@ -1,4 +1,3 @@
-https://www.wsj.com/tech/ai/openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo-94a95273
 https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe
 https://openai.com/index/next-phase-of-microsoft-partnership
 https://www.tanayj.com/p/to-train-or-not-to-train
