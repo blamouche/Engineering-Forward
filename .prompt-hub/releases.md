@@ -1,3 +1,6 @@
+## 0.0.1374 - 2026-04-28
+- Process article: How Stripe Detects Fraudulent Transactions Within 100 ms
+
 ## 0.0.1373 - 2026-04-28
 - Daily veille IA: synced the repo, extracted 34 relevant AI/app-dev URL(s) from 15 Gmail message(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 15 processed email(s).
 

@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions
 https://www.bigtechnology.com/p/what-elon-musk-and-openais-high-profile
 https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude

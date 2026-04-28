@@ -8916,3 +8916,17 @@
 - outcome: success
 - next_step: Commit and push the refreshed queue update.
 
+
+## 2026-04-28 09:11:43 
+- actor: agent
+- action: Started the scheduled scan-list run, loaded prompt-hub context, created the task log, and began sequential processing of queued URLs from `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260428-090853-scan-list.md`; `git pull --rebase`; `LIST.md`; `README.md`; `src/*`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process each queued URL, then create and verify the batch recap before the final push.
+
+## 2026-04-28 09:11:44 
+- actor: agent
+- action: Processed scan-list article 'How Stripe Detects Fraudulent Transactions Within 100 ms', created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://blog.bytebytego.com/p/how-stripe-detects-fraudulent-transactions`; `src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next queued URL or create the batch recap if the queue is empty.
