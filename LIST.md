@@ -1,4 +1,3 @@
-https://9to5mac.com/2026/04/27/openai-is-making-its-own-phone-to-compete-with-the-iphone-report/
 https://github.com/openai/symphony
 https://timkellogg.me/blog/2026/04/27/memory-patterns
 https://www.wsj.com/tech/ai/openai-and-microsoft-strike-truce-redrawing-once-tense-partnership-9ae22700

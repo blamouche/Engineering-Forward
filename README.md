@@ -7,25 +7,25 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 
 Articles per month:
 
-2022-12 | █ 2<br>
+2022-12 | ██ 2<br>
 2023-10 | █ 1<br>
 2024-05 | █ 1<br>
-2024-06 | █ 2<br>
+2024-06 | ██ 2<br>
 2024-12 | █ 1<br>
 2025-04 | █ 1<br>
-2025-05 | █ 3<br>
+2025-05 | ███ 3<br>
 2025-06 | █ 1<br>
-2025-07 | █ 2<br>
+2025-07 | ██ 2<br>
 2025-08 | █ 1<br>
-2025-09 | █ 2<br>
-2025-10 | ██ 4<br>
-2025-11 | █ 2<br>
-2025-12 | █ 3<br>
-2026-01 | ██████████████████████████████████ 102<br>
-2026-02 | ██████████████████████████████████████████████████ 149<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 614<br>
-2026-08 | █ 1
+2025-09 | ██ 2<br>
+2025-10 | ████ 4<br>
+2025-11 | ██ 2<br>
+2025-12 | ███ 3<br>
+2026-01 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 102<br>
+2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 615<br>
+2026-08 | █ 1<br>
 ## Articles
 
 ### 2026
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (614 articles)
+#### April (1 articles)
+- [OpenAI is making its own phone to compete with the iPhone: report](src/2026-04/20260427-openai-is-making-its-own-phone-to-compete-with-the-iphone-report.md)
 - [The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol](src/2026-04/20260428-the-browser-died-today-openai-and-stripe-launch-instant-checkout-the-agentic-commerce-protocol.md)
 - [Leopold Aschenbrenner's $5.5B Situational Awareness Fund](src/2026-04/20260428-leopold-aschenbrenner-s-5-5b-situational-awareness-fund.md)
 - [Amex Agentic Commerce: Betting on AI Risk](src/2026-04/20260428-amex-agentic-commerce-betting-on-ai-risk.md)
@@ -1283,7 +1284,7 @@ Articles per month:
 
 ### 2025
 
-#### December (3 articles)
+#### December (2 articles)
 - [Are the Costs of AI Agents Also Rising Exponentially? — Toby Ord](src/2025-12/20251222-are-the-costs-of-ai-agents-also-rising-exponentially-toby-ord.md)
 - [Let Your Coding Agent Debug Your Browser Session with Chrome DevTools MCP](src/2025-12/20251211-chrome-devtools-mcp.md)
 - [Two Ways to Win in the Post](src/2025-12/20251208-two-ways-to-win-in-the-post.md)
@@ -1292,7 +1293,7 @@ Articles per month:
 - [The AI Browsers That Made It Into Our Daily Workflow](src/2025-11/20251125-the-ai-browsers-that-made-it-into-our-daily-workflow.md)
 - [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
 
-#### October (4 articles)
+#### October (1 articles)
 - [Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma](src/2025-10/20251030-introducing-figma-weave-the-next-generation-of-ai-native-creation-at-figma.md)
 - [Mercor quintuples valuation to $10B with $350M Series C](src/2025-10/20251027-mercor-quintuples-valuation-to-10b-with-350m-series-c.md)
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)
@@ -1312,7 +1313,7 @@ Articles per month:
 #### June (1 article)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
 
-#### May (3 articles)
+#### May (1 articles)
 - [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
 - [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
 - [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)

@@ -1,3 +1,6 @@
+## 0.0.1424 - 2026-04-08
+- Process article: OpenAI is making its own phone to compete with the iPhone: report
+
 ## 0.0.1423 - 2026-04-28
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 8 new relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
