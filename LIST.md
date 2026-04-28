@@ -1,4 +1,3 @@
-https://mimo.xiaomi.com/mimo-v2-5-pro
 https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html
 https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai
 https://newsletter.pragmaticengineer.com/p/ubuntu-and-ai

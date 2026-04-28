@@ -1,3 +1,6 @@
+## 0.0.1449 - 2026-04-28
+- Process article: MiMo-V2.5-Pro
+
 ## 0.0.1448 - 2026-04-28
 - Process article: GPU Spot Prices Surge 114% in Six Weeks
 
