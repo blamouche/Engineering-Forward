@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 605<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 606<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (605 articles)
+#### April (606 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -72,6 +72,7 @@ Articles per month:
 - [GitHub - google/agents](src/2026-04/20260424-github-google-agents.md)
 - [GitHub - cosmicstack-labs/mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi](src/2026-04/20260424-github-cosmicstack-labs-mercury-agent-soul-driven-ai-agent-with-permission-hardened-tools-.md)
 - [GitHub - amazon-science/expert](src/2026-04/20260424-github-amazon-science-expert.md)
+- [Codex Moves Beyond Coding](src/2026-04/20260424-codex-moves-beyond-coding.md)
 - [Chronicle – Codex](src/2026-04/20260424-chronicle-codex.md)
 - [ChatGPT Images 2.0 + Claude Design: Your AI Designer](src/2026-04/20260424-chatgpt-images-2-0-claude-design-your-ai-designer.md)
 - [Anthropic launches Memory in Claude Agents for enterprise](src/2026-04/20260424-anthropic-launches-memory-in-claude-agents-for-enterprise.md)
