@@ -1,3 +1,6 @@
+## 0.0.1390 - 2026-04-28
+- Process article: Cursor's $60 Billion Escape Hatch
+
 ## 0.0.1389 - 2026-04-28
 - Process article: Scaling Test-Time Compute for Agentic Coding
 

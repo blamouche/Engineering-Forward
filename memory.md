@@ -99,3 +99,5 @@
 - 2026-04-28 09:11:55 | agent: openclaw | action: processed scan-list article 'Efficient Video Intelligence in 2026' and updated README/LIST.md | files: src/2026-04/20260428-efficient-video-intelligence-in-2026.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:11:55 | agent: openclaw | action: processed scan-list article 'Scaling Test-Time Compute for Agentic Coding' and updated README/LIST.md | files: src/2026-04/20260428-scaling-test-time-compute-for-agentic-coding.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:11:56 | agent: openclaw | action: processed scan-list article 'Cursor's $60 Billion Escape Hatch' and updated README/LIST.md | files: src/2026-04/20260428-cursor-s-60-billion-escape-hatch.md, README.md, LIST.md | status: success | next: continue queue
