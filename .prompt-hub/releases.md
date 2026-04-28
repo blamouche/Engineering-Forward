@@ -1,3 +1,6 @@
+## 0.0.1401 - 2026-04-28
+- Process article: GitHub - Shubhamsaboo/awesome-llm-apps: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+
 ## 0.0.1400 - 2026-04-28
 - Process article: claude-code-templates/cli-tool/components/hooks/monitoring at main · davila7/claude-code-templates
 
