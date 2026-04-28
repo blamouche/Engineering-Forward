@@ -1,4 +1,11 @@
 
+## 2026-04-28 12:02:00 +0200
+- actor: agent
+- action: Started the 12:02 daily veille IA run, loaded prompt-hub context, created the task log, fetched 1 Gmail message from label `0---veille-ia`, and prepared the required cleanup commit so the repo is clean before updating `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260428-120200-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending local tracking, then pull/rebase before updating `LIST.md`.
+
 ## 2026-04-25 12:02:00 +0200
 - actor: agent
 - action: Daily veille IA run: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed. The repo only had the new task log pending, so it was finalized for commit/push to restore a clean synced state.
