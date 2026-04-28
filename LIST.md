@@ -1,4 +1,3 @@
-https://openai.com/index/introducing-openai-privacy-filter/
 https://github.com/stainlu/hermes-labyrinth
 https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/hooks/monitoring
 https://github.com/Shubhamsaboo/awesome-llm-apps

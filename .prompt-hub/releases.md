@@ -1,3 +1,6 @@
+## 0.0.1398 - 2026-04-28
+- Process article error: https://openai.com/index/introducing-openai-privacy-filter
+
 ## 0.0.1397 - 2026-04-28
 - Process article: Building agents that reach production systems with MCP | Claude
 

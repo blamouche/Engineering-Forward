@@ -9091,3 +9091,10 @@
 - files_changed_or_commands: `https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp`; `src/2026-04/20260428-building-agents-that-reach-production-systems-with-mcp-claude.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:12:02 
+- actor: agent
+- action: Removed a queued URL from `LIST.md` after article fetch failed during scan-list processing.
+- files_changed_or_commands: `https://openai.com/index/introducing-openai-privacy-filter`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Continue processing the next queued URL and record this failure in the batch recap.
