@@ -1,4 +1,3 @@
-https://openai.com/index/next-phase-of-microsoft-partnership
 https://www.tanayj.com/p/to-train-or-not-to-train
 https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent
 https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card
