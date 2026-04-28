@@ -12,4 +12,8 @@
 - [ ] Commit and push all changes
 
 ## Review
-- Pending
+- Repo local state was committed first to restore a clean synced tree.
+- Gmail label returned 1 message.
+- Added 2 new relevant AI/app-dev article URL(s) to LIST.md after historical duplicate filtering.
+- Removed 0 off-topic URL(s) from LIST.md.
+- Trashed 1 processed email.
