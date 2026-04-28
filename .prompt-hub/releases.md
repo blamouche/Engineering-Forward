@@ -1,3 +1,6 @@
+## 0.0.1391 - 2026-04-28
+- Process article: Cohere Aleph Alpha Join Forces
+
 ## 0.0.1390 - 2026-04-28
 - Process article: Cursor's $60 Billion Escape Hatch
 

@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 591<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 592<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (591 articles)
+#### April (592 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -44,6 +44,7 @@ Articles per month:
 - [GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.](src/2026-04/20260428-github-alash3al-stash-stash-persistent-memory-layer-for-ai-agents-episodes-facts-and-worki.md)
 - [Efficient Video Intelligence in 2026](src/2026-04/20260428-efficient-video-intelligence-in-2026.md)
 - [Cursor's $60 Billion Escape Hatch](src/2026-04/20260428-cursor-s-60-billion-escape-hatch.md)
+- [Cohere Aleph Alpha Join Forces](src/2026-04/20260428-cohere-aleph-alpha-join-forces.md)
 - [You Are the Most Expensive Model](src/2026-04/20260427-you-are-the-most-expensive-model.md)
 - [How I AI: My GPT-5.5 Review—A 6-Hour Autonomous Task and the Bluetooth Hack No Other Model Could Solve](src/2026-04/20260426-how-i-ai-my-gpt-5-5-reviewa-6-hour-autonomous-task-and-the-bluetooth-hack-no-other-model-c.md)
 - [Your AI Might be Lying to Your Boss](src/2026-04/20260425-your-ai-might-be-lying-to-your-boss.md)
