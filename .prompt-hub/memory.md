@@ -9217,3 +9217,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/fintechpulse1072`; `src/2026-04/20260428-google-ucp-wins-agentic-commerce-protocol-war.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md.
+
+## 2026-04-28 12:11:00 +0200
+- actor: agent
+- action: Processed scan-list article 'The Android of Commerce - How Google Is Building the Interface Between AI & Money', created its synthesis, updated README statistics/listing, removed the source URL from LIST.md, and prepared the per-article commit.
+- files_changed_or_commands: `https://linas.substack.com/p/fintechpulse1045`; `src/2026-04/20260428-the-android-of-commerce-how-google-is-building-the-interface-between-ai-money.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md.
