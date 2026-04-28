@@ -1,2 +1,1 @@
-https://linas.substack.com/p/leopold-aschenbrenner-situational-awareness-fund-portfolio-playbook
 https://linas.substack.com/p/fintechpulse979
