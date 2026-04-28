@@ -1,4 +1,3 @@
-https://eran.sandler.co.il/post/2026-04-27-batch-api-is-terrible-for-one-agent
 https://thezvi.wordpress.com/2026/04/27/gpt-5-5-the-system-card
 https://arkaung.github.io/interactive-turboquant
 https://openai.com/index/open-source-codex-orchestration-symphony

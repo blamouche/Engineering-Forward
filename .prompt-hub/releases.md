@@ -1,3 +1,6 @@
+## 0.0.1441 - 2026-04-28
+- Process article: Batch API is terrible for one agent. It might be great for a fleet.
+
 ## 0.0.1440 - 2026-04-28
 - Process article: To Train or Not to Train
 
