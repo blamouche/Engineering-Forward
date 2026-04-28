@@ -1,3 +1,6 @@
+## 0.0.1409 - 2026-04-28
+- Chore: remove temporary scan-list automation helper.
+
 ## 0.0.1408 - 2026-04-28
 - Add batch recap: 2026-04-28 091143
 

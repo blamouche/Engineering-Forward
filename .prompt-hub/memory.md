@@ -9168,3 +9168,10 @@
 - files_changed_or_commands: `LIST.md`; `README.md`; `synthesis/2026-04-28 - 091143 - batch recap.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260428-090853-scan-list.md`.
 - outcome: success
 - next_step: Push all remaining scan-list commits to origin/main.
+
+## 2026-04-28 09:12:42 
+- actor: agent
+- action: Removed the temporary scan-list automation helper after the successful scheduled run and prepared the cleanup commit.
+- files_changed_or_commands: `.prompt-hub/tmp_scan_list.py`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push the cleanup commit so the repo stays free of temporary tooling.
