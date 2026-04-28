@@ -1,3 +1,6 @@
+## 0.0.1455 - 2026-04-28
+- Add batch recap: 2026-04-28 180850
+
 ## 0.0.1454 - 2026-04-28
 - Process article: A guide to AI TOPS and NPU performance metrics
 

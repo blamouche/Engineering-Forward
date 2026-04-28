@@ -9420,3 +9420,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-28 18:08:50 +0200
+- actor: agent
+- action: Created and verified batch recap `synthesis/2026-04-28 - 180850 - batch recap.md` after processing 14 URL(s) with 4 error(s).
+- files_changed_or_commands: `synthesis/2026-04-28 - 180850 - batch recap.md`, `.prompt-hub/todo/todo-20260428-180626-scan-list.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Commit recap changes, then push all local commits.
+
