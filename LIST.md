@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/how-to-run-a-24-7-ai-agent-that-grows-with-you
 https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp
 https://openai.com/index/introducing-openai-privacy-filter/
 https://github.com/stainlu/hermes-labyrinth

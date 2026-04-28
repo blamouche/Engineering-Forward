@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 596<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 597<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,12 +33,13 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (596 articles)
+#### April (597 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
 - [🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord](src/2026-04/20260428-this-week-on-how-i-ai-gpt-5-5-claude-design-and-gpt-images-2-0-hands-on-reviewsplus-an-ins.md)
 - [Scaling Test-Time Compute for Agentic Coding](src/2026-04/20260428-scaling-test-time-compute-for-agentic-coding.md)
+- [How to Run a 24/7 AI Agent that Grows with You](src/2026-04/20260428-how-to-run-a-24-7-ai-agent-that-grows-with-you.md)
 - [How Stripe Detects Fraudulent Transactions Within 100 ms](src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md)
 - [How Amazon Uses LLMs to Recommend Products](src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md)
 - [GitHub - openclaw/clawsweeper: ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.](src/2026-04/20260428-github-openclaw-clawsweeper-clawsweeper-scans-all-issues-and-prs-and-suggest-what-we-can-c.md)
