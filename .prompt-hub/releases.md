@@ -1,3 +1,6 @@
+## 0.0.1440 - 2026-04-28
+- Process article: To Train or Not to Train
+
 ## 0.0.1439 - 2026-04-28
 - Process article error: https://openai.com/index/next-phase-of-microsoft-partnership
 
