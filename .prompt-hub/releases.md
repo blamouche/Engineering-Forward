@@ -1,3 +1,6 @@
+## 0.0.1431 - 2026-04-08
+- Process article: The Moat or the Commons
+
 ## 0.0.1430 - 2026-04-08
 - Process article: Microsoft Claws Away 'The Clause' as OpenAI Claws Back Some Independence
 
