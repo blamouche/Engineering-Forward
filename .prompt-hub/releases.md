@@ -1,3 +1,6 @@
+## 0.0.1387 - 2026-04-28
+- Process article: GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
+
 ## 0.0.1386 - 2026-04-28
 - Process article error: https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
 
