@@ -1,4 +1,3 @@
-https://www.bigtechnology.com/p/what-elon-musk-and-openais-high-profile
 https://blog.bytebytego.com/p/how-amazon-uses-llms-to-recommend
 https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude
 https://www.chatprd.ai/how-i-ai/openai-gpt-5.5-review
