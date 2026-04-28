@@ -1,3 +1,6 @@
+## 0.0.1454 - 2026-04-28
+- Process article: A guide to AI TOPS and NPU performance metrics
+
 ## 0.0.1453 - 2026-04-28
 - Process article: What is inference engineering? Deepdive
 

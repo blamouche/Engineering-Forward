@@ -9413,3 +9413,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-28 18:08:50 +0200
+- actor: agent
+- action: Processed scan-list URL `https://www.qualcomm.com/news/onq/2024/04/a-guide-to-ai-tops-and-npu-performance-metrics` into synthesis `src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md`.
+- files_changed_or_commands: `src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next queued URL.
+
