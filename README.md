@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 595<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 596<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (595 articles)
+#### April (596 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -41,6 +41,7 @@ Articles per month:
 - [Scaling Test-Time Compute for Agentic Coding](src/2026-04/20260428-scaling-test-time-compute-for-agentic-coding.md)
 - [How Stripe Detects Fraudulent Transactions Within 100 ms](src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md)
 - [How Amazon Uses LLMs to Recommend Products](src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md)
+- [GitHub - openclaw/clawsweeper: ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.](src/2026-04/20260428-github-openclaw-clawsweeper-clawsweeper-scans-all-issues-and-prs-and-suggest-what-we-can-c.md)
 - [GitHub - nex-crm/wuphf: Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.](src/2026-04/20260428-github-nex-crm-wuphf-slack-for-ai-employees-that-build-and-maintain-their-own-wiki-get-cla.md)
 - [GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.](src/2026-04/20260428-github-alash3al-stash-stash-persistent-memory-layer-for-ai-agents-episodes-facts-and-worki.md)
 - [Efficient Video Intelligence in 2026](src/2026-04/20260428-efficient-video-intelligence-in-2026.md)

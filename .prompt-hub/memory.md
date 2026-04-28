@@ -9070,3 +9070,10 @@
 - files_changed_or_commands: `https://github.com/nex-crm/wuphf`; `src/2026-04/20260428-github-nex-crm-wuphf-slack-for-ai-employees-that-build-and-maintain-their-own-wiki-get-cla.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:12:00 
+- actor: agent
+- action: Processed scan-list article 'GitHub - openclaw/clawsweeper: ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.', created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://github.com/openclaw/clawsweeper`; `src/2026-04/20260428-github-openclaw-clawsweeper-clawsweeper-scans-all-issues-and-prs-and-suggest-what-we-can-c.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next queued URL or create the batch recap if the queue is empty.
