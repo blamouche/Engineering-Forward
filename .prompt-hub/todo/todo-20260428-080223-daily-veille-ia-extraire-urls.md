@@ -4,14 +4,14 @@
 - [x] Read `.prompt-hub/memory.md`
 - [x] Read `.prompt-hub/releases.md`
 - [x] Check repo state and agent rules
-- [ ] Fetch Gmail messages from `label:0---veille-ia`
-- [ ] Extract relevant AI/app-dev article URLs
-- [ ] Clean/sync repo as needed before editing `LIST.md`
-- [ ] Update `LIST.md` with normalized deduped URLs and remove off-topic URLs
+- [x] Fetch Gmail messages from `label:0---veille-ia`
+- [x] Extract relevant AI/app-dev article URLs
+- [x] Clean/sync repo as needed before editing `LIST.md`
+- [x] Update `LIST.md` with normalized deduped URLs and remove off-topic URLs
 - [ ] Commit and push repo changes
-- [ ] Trash processed emails
-- [ ] Append prompt-hub memory/release/version updates
+- [x] Trash processed emails
+- [x] Append prompt-hub memory/release/version updates
 
 ## Review
 
-- Pending.
+- Added 34 relevant AI/app-dev URL(s) to `LIST.md` from 15 processed Gmail messages, removed 0 off-topic URL(s) from the queue because `LIST.md` started empty, and trashed all 15 processed emails. Final commit/push pending.

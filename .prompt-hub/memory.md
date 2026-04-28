@@ -8909,3 +8909,10 @@
 - outcome: success
 - next_step: Commit and push the pending prompt-hub tracking, then pull/rebase before updating `LIST.md`.
 
+## 2026-04-28 08:11:30 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo first, extracted 34 relevant AI/app-dev URLs from 15 Gmail messages into `LIST.md`, removed 0 off-topic URLs because the queue was empty, and moved all 15 processed emails to trash.
+- files_changed_or_commands: `LIST.md`; `gog gmail batch modify 19dd2506c543d506 19dd20c8ee508d40 19dd04393ca94fab 19dcf9319165753c 19dcf7b7cf4b3d20 19dcf759eb6167db 19dcf3b85ef2925f 19dceec77e3fb3e0 19dce79aa895a991 19dce6fc45a6f46c 19dcd2d3a36d5453 19dcb128d7e4ca9b 19dc9c97ae7f392d 19dc9aa65ea1d54e 19dc546bf96f8f65 --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260428-080223-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue update.
+
