@@ -1,3 +1,6 @@
+## 0.0.1421 - 2026-04-28
+- Add batch recap: 2026-04-28 120700
+
 ## 0.0.1420 - 2026-04-28
 - Process article: The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol
 
