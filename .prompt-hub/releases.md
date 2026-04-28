@@ -1,3 +1,6 @@
+## 0.0.1451 - 2026-04-28
+- Process article: Your Couch-to-5K for AI
+
 ## 0.0.1450 - 2026-04-28
 - Process article: Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence
 
