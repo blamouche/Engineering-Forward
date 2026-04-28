@@ -133,3 +133,5 @@
 - 2026-04-28 09:12:08 | agent: openclaw | action: processed scan-list article 'He Got Fired From OpenAI at 22. Then He Turned $225M Into $5.5B by Betting on the AI Infrastructure No One Else Was Watching 💸' and updated README/LIST.md | files: src/2026-04/20260428-he-got-fired-from-openai-at-22-then-he-turned-225m-into-5-5b-by-betting-on-the-ai-infrastr.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:12:10 | agent: openclaw | action: processed scan-list article 'Codex Moves Beyond Coding' and updated README/LIST.md | files: src/2026-04/20260424-codex-moves-beyond-coding.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:12:10 | agent: openclaw | action: processed scan-list article 'EP212: Data Warehouse vs Data Lake vs Data Mesh' and updated README/LIST.md | files: src/2026-04/20260428-ep212-data-warehouse-vs-data-lake-vs-data-mesh.md, README.md, LIST.md | status: success | next: continue queue
