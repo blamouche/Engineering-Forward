@@ -1,3 +1,6 @@
+## 0.0.1404 - 2026-04-28
+- Process article: Today's harness is Tomorrow's Prompt
+
 ## 0.0.1403 - 2026-04-28
 - Process article: Agentic Engineering Management
 

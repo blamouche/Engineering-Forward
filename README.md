@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 603<br>
+2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 604<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (603 articles)
+#### April (604 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -56,6 +56,7 @@ Articles per month:
 - [You Are the Most Expensive Model](src/2026-04/20260427-you-are-the-most-expensive-model.md)
 - [How I AI: My GPT-5.5 Review—A 6-Hour Autonomous Task and the Bluetooth Hack No Other Model Could Solve](src/2026-04/20260426-how-i-ai-my-gpt-5-5-reviewa-6-hour-autonomous-task-and-the-bluetooth-hack-no-other-model-c.md)
 - [Your AI Might be Lying to Your Boss](src/2026-04/20260425-your-ai-might-be-lying-to-your-boss.md)
+- [Today's harness is Tomorrow's Prompt](src/2026-04/20260425-today-s-harness-is-tomorrow-s-prompt.md)
 - [Google prepares credit system for Gemini and new image tools](src/2026-04/20260425-google-prepares-credit-system-for-gemini-and-new-image-tools.md)
 - [Anthropic tests new Bugcrawl tool for Claude Code](src/2026-04/20260425-anthropic-tests-new-bugcrawl-tool-for-claude-code.md)
 - [OpenAI President Greg Brockman on GPT-5.5 “Spud,” AI Model Moats, and a Compute-Powered Economy](src/2026-04/20260424-openai-president-greg-brockman-on-gpt-5-5-spud-ai-model-moats-and-a-compute-powered-economy.md)
