@@ -1,4 +1,3 @@
-https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/hooks/monitoring
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://www.theunwindai.com/p/slack-for-ai-employees
 https://peterszasz.com/agentic-engineering-management/
