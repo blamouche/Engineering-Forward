@@ -1,3 +1,6 @@
+## 0.0.1389 - 2026-04-28
+- Process article: Scaling Test-Time Compute for Agentic Coding
+
 ## 0.0.1388 - 2026-04-28
 - Process article: Efficient Video Intelligence in 2026
 

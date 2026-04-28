@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.16529
 https://contraryresearch.substack.com/p/cursors-60-billion-escape-hatch
 https://cohere.com/blog/cohere-alephalpha-join-forces
 https://www.aboutamazon.com/news/aws/meta-aws-graviton-ai-partnership
