@@ -1,4 +1,3 @@
-https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns/
 https://github.com/alash3al/stash
 https://v-chandra.github.io/efficient-video-intelligence/
 https://arxiv.org/abs/2604.16529

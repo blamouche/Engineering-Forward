@@ -1,3 +1,6 @@
+## 0.0.1386 - 2026-04-28
+- Process article error: https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns
+
 ## 0.0.1385 - 2026-04-28
 - Process article error: https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs
 

@@ -9007,3 +9007,10 @@
 - files_changed_or_commands: `https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: failed
 - next_step: Continue processing the next queued URL and record this failure in the batch recap.
+
+## 2026-04-28 09:11:52 
+- actor: agent
+- action: Removed a queued URL from `LIST.md` after article fetch failed during scan-list processing.
+- files_changed_or_commands: `https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Continue processing the next queued URL and record this failure in the batch recap.
