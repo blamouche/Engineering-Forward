@@ -9252,3 +9252,10 @@
 - files_changed_or_commands: `LIST.md`; `synthesis/2026-04-28 - 120700 - batch recap.md`; `README.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/memory.md`; `.prompt-hub/todo/todo-20260428-120700-scan-list.md`
 - outcome: success
 - next_step: Push the final recap commit.
+
+## 2026-04-28 14:02:39 +0200
+- actor: agent
+- action: Started the 14:01 daily veille IA run, loaded prompt-hub context, created the task log, inspected the Gmail message, and prepared the required cleanup commit before touching `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260428-140239-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --no-input`; `gog gmail get 19dd39d6abf9e738 --json --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending prompt-hub tracking so the repo is clean, then update `LIST.md` and trash the processed email.
