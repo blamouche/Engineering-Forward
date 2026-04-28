@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 609<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 610<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,8 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (609 articles)
+#### April (610 articles)
+- [Google UCP Wins Agentic Commerce Protocol War](src/2026-04/20260428-google-ucp-wins-agentic-commerce-protocol-war.md)
 - [Inside Asseta AI's pitch deck: how AI-powered family office startup is targeting the $4B market gap](src/2026-04/20260428-inside-asseta-ai-s-pitch-deck-how-ai-powered-family-office-startup-is-targeting-the-4b-market-gap.md)
 - [The Agentic Singularity](src/2026-04/20260428-the-agentic-singularity.md)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
