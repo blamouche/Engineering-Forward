@@ -113,3 +113,5 @@
 - 2026-04-28 09:12:00 | agent: openclaw | action: processed scan-list article 'GitHub - openclaw/clawsweeper: ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.' and updated README/LIST.md | files: src/2026-04/20260428-github-openclaw-clawsweeper-clawsweeper-scans-all-issues-and-prs-and-suggest-what-we-can-c.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:12:01 | agent: openclaw | action: processed scan-list article 'How to Run a 24/7 AI Agent that Grows with You' and updated README/LIST.md | files: src/2026-04/20260428-how-to-run-a-24-7-ai-agent-that-grows-with-you.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:12:02 | agent: openclaw | action: processed scan-list article 'Building agents that reach production systems with MCP | Claude' and updated README/LIST.md | files: src/2026-04/20260428-building-agents-that-reach-production-systems-with-mcp-claude.md, README.md, LIST.md | status: success | next: continue queue

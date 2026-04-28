@@ -1,3 +1,6 @@
+## 0.0.1397 - 2026-04-28
+- Process article: Building agents that reach production systems with MCP | Claude
+
 ## 0.0.1396 - 2026-04-28
 - Process article: How to Run a 24/7 AI Agent that Grows with You
 

@@ -1,4 +1,3 @@
-https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp
 https://openai.com/index/introducing-openai-privacy-filter/
 https://github.com/stainlu/hermes-labyrinth
 https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/hooks/monitoring
