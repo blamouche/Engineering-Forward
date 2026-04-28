@@ -1,3 +1,6 @@
+## 0.0.1410 - 2026-04-28
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1409 - 2026-04-28
 - Chore: remove temporary scan-list automation helper.
 
