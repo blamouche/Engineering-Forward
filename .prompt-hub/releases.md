@@ -1,3 +1,6 @@
+## 0.0.1452 - 2026-04-28
+- Process article: How will AI change operating systems? Part 1: Ubuntu and Linux
+
 ## 0.0.1451 - 2026-04-28
 - Process article: Your Couch-to-5K for AI
 
