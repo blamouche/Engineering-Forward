@@ -1,4 +1,3 @@
-https://every.to/also-true-for-humans/you-are-the-most-expensive-model
 https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/
 https://www.testingcatalog.com/anthropic-launches-memory-in-claude-agents-for-enterprise/
 https://www.testingcatalog.com/google-prepares-credit-system-for-gemini-and-new-image-tools-2/

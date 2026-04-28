@@ -1,3 +1,6 @@
+## 0.0.1380 - 2026-04-28
+- Process article: You Are the Most Expensive Model
+
 ## 0.0.1379 - 2026-04-28
 - Process article: How I Put Claude Design and GPT Images 2.0 to the Test: Building Landing Pages, Slides, and Brand Kits
 
