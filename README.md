@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 637<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 638<br>
 2026-08 | █ 1
 ## Articles
 
@@ -34,6 +34,7 @@ Articles per month:
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 article)
+- [GPT-5.3 Codex vs. Opus 4.6: The Great Convergence](src/2026-04/20260428-gpt-5-3-codex-vs-opus-4-6-the-great-convergence.md)
 - [One App to Rule All Knowledge Work](src/2026-04/20260428-one-app-to-rule-all-knowledge-work.md)
 - [A guide to AI TOPS and NPU performance metrics](src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md)
 - [What is inference engineering? Deepdive](src/2026-04/20260428-what-is-inference-engineering-deepdive.md)
