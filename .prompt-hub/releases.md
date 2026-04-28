@@ -1,3 +1,6 @@
+## 0.0.1415 - 2026-04-28
+- Process article: Inside Asseta AI's pitch deck: how AI-powered family office startup is targeting the $4B market gap
+
 ## 0.0.1414 - 2026-04-28
 - Process article: The Agentic Singularity
 

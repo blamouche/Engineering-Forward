@@ -9203,3 +9203,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/agenticsingularity`; `src/2026-04/20260428-the-agentic-singularity.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
 - outcome: success
 - next_step: Process the next URL in LIST.md.
+
+## 2026-04-28 12:09:00 +0200
+- actor: agent
+- action: Processed scan-list article 'Inside Asseta AI's pitch deck: how AI-powered family office startup is targeting the $4B market gap', created its synthesis, updated README statistics/listing, removed the source URL from LIST.md, and prepared the per-article commit.
+- files_changed_or_commands: `https://linas.substack.com/p/assetaaipitchdeck`; `src/2026-04/20260428-inside-asseta-ai-s-pitch-deck-how-ai-powered-family-office-startup-is-targeting-the-4b-market-gap.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Process the next URL in LIST.md.
