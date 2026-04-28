@@ -1,3 +1,6 @@
+## 0.0.1394 - 2026-04-28
+- Process article: GitHub - nex-crm/wuphf: Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.
+
 ## 0.0.1393 - 2026-04-28
 - Process article: Anthropic tests new Bugcrawl tool for Claude Code
 

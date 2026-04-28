@@ -107,3 +107,5 @@
 - 2026-04-28 09:11:57 | agent: openclaw | action: processed scan-list article 'Meta signs agreement with AWS to power agentic AI on Amazon's Graviton chips' and updated README/LIST.md | files: src/2026-04/20260424-meta-signs-agreement-with-aws-to-power-agentic-ai-on-amazon-s-graviton-chips.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:11:58 | agent: openclaw | action: processed scan-list article 'Anthropic tests new Bugcrawl tool for Claude Code' and updated README/LIST.md | files: src/2026-04/20260425-anthropic-tests-new-bugcrawl-tool-for-claude-code.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:11:59 | agent: openclaw | action: processed scan-list article 'GitHub - nex-crm/wuphf: Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.' and updated README/LIST.md | files: src/2026-04/20260428-github-nex-crm-wuphf-slack-for-ai-employees-that-build-and-maintain-their-own-wiki-get-cla.md, README.md, LIST.md | status: success | next: continue queue
