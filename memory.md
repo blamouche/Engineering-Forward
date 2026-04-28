@@ -83,3 +83,5 @@
 - 2026-04-28 09:11:49 | agent: openclaw | action: processed scan-list article 'You Are the Most Expensive Model' and updated README/LIST.md | files: src/2026-04/20260427-you-are-the-most-expensive-model.md, README.md, LIST.md | status: success | next: continue queue
 
 - 2026-04-28 09:11:50 | agent: openclaw | action: processed scan-list article 'Google will invest as much as $40 billion in Anthropic' and updated README/LIST.md | files: src/2026-04/20260424-google-will-invest-as-much-as-40-billion-in-anthropic.md, README.md, LIST.md | status: success | next: continue queue
+
+- 2026-04-28 09:11:50 | agent: openclaw | action: processed scan-list article 'Anthropic launches Memory in Claude Agents for enterprise' and updated README/LIST.md | files: src/2026-04/20260424-anthropic-launches-memory-in-claude-agents-for-enterprise.md, README.md, LIST.md | status: success | next: continue queue

@@ -1,3 +1,6 @@
+## 0.0.1382 - 2026-04-28
+- Process article: Anthropic launches Memory in Claude Agents for enterprise
+
 ## 0.0.1381 - 2026-04-28
 - Process article: Google will invest as much as $40 billion in Anthropic
 

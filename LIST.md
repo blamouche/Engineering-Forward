@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/anthropic-launches-memory-in-claude-agents-for-enterprise/
 https://www.testingcatalog.com/google-prepares-credit-system-for-gemini-and-new-image-tools-2/
 https://williamoconnell.me/blog/post/ai-ide/
 https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs
