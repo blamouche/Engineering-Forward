@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/slack-for-ai-employees
 https://peterszasz.com/agentic-engineering-management/
 https://tanay.co.in/blog/todays-harness-is-tomorrows-prompt
 https://linas.substack.com/p/leopold-aschenbrenner-situational-awareness-fund-portfolio-playbook

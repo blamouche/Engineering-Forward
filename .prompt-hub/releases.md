@@ -1,3 +1,6 @@
+## 0.0.1402 - 2026-04-28
+- Process article: Slack for AI Employees
+
 ## 0.0.1401 - 2026-04-28
 - Process article: GitHub - Shubhamsaboo/awesome-llm-apps: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 
