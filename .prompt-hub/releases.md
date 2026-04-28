@@ -1,3 +1,6 @@
+## 0.0.1458 - 2026-04-28
+- Process article: One App to Rule All Knowledge Work
+
 ## 0.0.1457 - 2026-04-28
 - Daily veille IA: committed pending local changes first to restore a clean synced repo, read 1 Gmail message, extracted 2 new relevant AI/app-dev article URL(s) after historical duplicate filtering, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

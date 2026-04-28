@@ -9434,3 +9434,10 @@
 - outcome: success
 - next_step: none.
 
+
+## 2026-04-28 21:05:00 +0200
+- actor: agent
+- action: Processed scan-list article "One App to Rule All Knowledge Work", created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `src/2026-04/20260428-one-app-to-rule-all-knowledge-work.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md.
