@@ -9140,3 +9140,10 @@
 - files_changed_or_commands: `https://tanay.co.in/blog/todays-harness-is-tomorrows-prompt`; `src/2026-04/20260425-today-s-harness-is-tomorrow-s-prompt.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:12:08 
+- actor: agent
+- action: Processed scan-list article 'He Got Fired From OpenAI at 22. Then He Turned $225M Into $5.5B by Betting on the AI Infrastructure No One Else Was Watching 💸', created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://linas.substack.com/p/leopold-aschenbrenner-situational-awareness-fund-portfolio-playbook`; `src/2026-04/20260428-he-got-fired-from-openai-at-22-then-he-turned-225m-into-5-5b-by-betting-on-the-ai-infrastr.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next queued URL or create the batch recap if the queue is empty.
