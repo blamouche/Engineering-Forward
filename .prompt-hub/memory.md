@@ -8972,3 +8972,10 @@
 - files_changed_or_commands: `https://every.to/also-true-for-humans/you-are-the-most-expensive-model`; `src/2026-04/20260427-you-are-the-most-expensive-model.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next queued URL or create the batch recap if the queue is empty.
+
+## 2026-04-28 09:11:50 
+- actor: agent
+- action: Processed scan-list article 'Google will invest as much as $40 billion in Anthropic', created its synthesis, updated README statistics/listing, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic`; `src/2026-04/20260424-google-will-invest-as-much-as-40-billion-in-anthropic.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next queued URL or create the batch recap if the queue is empty.

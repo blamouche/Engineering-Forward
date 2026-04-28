@@ -24,7 +24,7 @@ Articles per month:
 2026-01 | ██████████████████████████████████ 102<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 583<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 584<br>
 2026-08 | █ 1
 ## Articles
 
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (583 articles)
+#### April (584 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
@@ -48,6 +48,7 @@ Articles per month:
 - [Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis](src/2026-04/20260424-introducing-olmoearth-embeddings-custom-embedding-exports-from-olmoearth-studio-for-downst.md)
 - [Introducing Gemini Enterprise Agent Platform](src/2026-04/20260424-introducing-gemini-enterprise-agent-platform.md)
 - [How to Run a 24/7 AI Agent that Grows with You](src/2026-04/20260424-how-to-run-a-24-7-ai-agent-that-grows-with-you.md)
+- [Google will invest as much as $40 billion in Anthropic](src/2026-04/20260424-google-will-invest-as-much-as-40-billion-in-anthropic.md)
 - [GitHub - Shubhamsaboo/awesome-llm](src/2026-04/20260424-github-shubhamsaboo-awesome-llm.md)
 - [GitHub - google/agents](src/2026-04/20260424-github-google-agents.md)
 - [GitHub - cosmicstack-labs/mercury-agent: Soul-driven AI agent with permission-hardened tools, token budgets, and multi](src/2026-04/20260424-github-cosmicstack-labs-mercury-agent-soul-driven-ai-agent-with-permission-hardened-tools-.md)
