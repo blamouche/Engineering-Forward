@@ -1,3 +1,6 @@
+## 0.0.1514 - 2026-04-29
+- Process article: The Tech Stack Powering Wise
+
 ## 0.0.1513 - 2026-04-29
 - Process article: Compute Is the New Cash
 
