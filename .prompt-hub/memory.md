@@ -9574,3 +9574,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/claude-code-routines-guide`; `src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-29 12:06:15 +0200
+- actor: agent
+- action: Processed scan-list duplicate article "The Ultimate Guide to Claude Managed Agents" by reusing the existing synthesis and removing the queued URL from LIST.md.
+- files_changed_or_commands: `https://linas.substack.com/p/claude-managed-agents-guide`; `src/2026-04/20260422-the-ultimate-guide-to-claude-managed-agents.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

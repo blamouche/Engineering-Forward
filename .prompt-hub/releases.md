@@ -1,3 +1,6 @@
+## 0.0.1479 - 2026-04-29
+- Process article: The Ultimate Guide to Claude Managed Agents
+
 ## 0.0.1478 - 2026-04-29
 - Process article: Claude Code Routines: 8 Prompts + What Breaks (2026)
 
