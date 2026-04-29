@@ -1,3 +1,6 @@
+## 0.0.1487 - 2026-04-29
+- Process article: GitHub Actions is the weakest link
+
 ## 0.0.1486 - 2026-04-29
 - Process article: Long-running Agents
 
