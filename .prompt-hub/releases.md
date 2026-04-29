@@ -1,3 +1,6 @@
+## 0.0.1492 - 2026-04-29
+- Add batch recap: 2026-04-29 150200
+
 ## 0.0.1491 - 2026-04-29
 - Process article: AI rewards strict APIs
 
