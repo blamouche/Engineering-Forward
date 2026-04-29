@@ -9588,3 +9588,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/claude-design-founders-playbook`; `src/2026-04/20260420-claude-design-just-made-design-file-optional-founder-s-guide.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Create the batch recap, verify coverage, and push all remaining changes.
+
+## 2026-04-29 12:06:15 +0200
+- actor: agent
+- action: Finalized the 12:06 scan-list run, refreshed README statistics/month counts, verified `LIST.md` is empty, and created `synthesis/2026-04-29 - 120615 - batch recap.md`.
+- files_changed_or_commands: `README.md`; `LIST.md`; `synthesis/2026-04-29 - 120615 - batch recap.md`; `.prompt-hub/todo/todo-20260429-120615-scan-list.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Push all remaining commits to origin/main.
