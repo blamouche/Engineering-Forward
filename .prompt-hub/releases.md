@@ -1,3 +1,6 @@
+## 0.0.1515 - 2026-04-29
+- Process article: Building Pi, and what makes self-modifying software so fascinating
+
 ## 0.0.1514 - 2026-04-29
 - Process article: The Tech Stack Powering Wise
 
