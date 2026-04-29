@@ -9581,3 +9581,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/claude-managed-agents-guide`; `src/2026-04/20260422-the-ultimate-guide-to-claude-managed-agents.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-29 12:06:15 +0200
+- actor: agent
+- action: Processed scan-list duplicate article "Claude Design Just Made Design File Optional. Founder's Guide 🎨" by reusing the existing synthesis and removing the queued URL from LIST.md.
+- files_changed_or_commands: `https://linas.substack.com/p/claude-design-founders-playbook`; `src/2026-04/20260420-claude-design-just-made-design-file-optional-founder-s-guide.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Create the batch recap, verify coverage, and push all remaining changes.

@@ -1,3 +1,6 @@
+## 0.0.1480 - 2026-04-29
+- Process article: Claude Design Just Made Design File Optional. Founder's Guide 🎨
+
 ## 0.0.1479 - 2026-04-29
 - Process article: The Ultimate Guide to Claude Managed Agents
 
