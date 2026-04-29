@@ -9846,3 +9846,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260429-200222-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push all pending local changes, then pull/rebase before Gmail extraction.
+
+## 2026-04-29 20:03:00 +0200
+- actor: agent
+- action: Daily veille IA run: synced the repo, read 1 Gmail message from `0---veille-ia`, found 0 relevant AI/app-dev article URL(s) because the only candidate was a product-career transition post, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+- files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `web_fetch https://www.lennysnewsletter.com/cp/195894129`; `LIST.md`; `gog gmail batch modify 19dda346413b187b --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260429-200222-daily-veille-ia-extraire-urls.md`.
+- outcome: success
+- next_step: Commit and push the finalized task tracking.
