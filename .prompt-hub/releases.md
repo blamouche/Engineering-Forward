@@ -1,3 +1,6 @@
+## 0.0.1516 - 2026-04-29
+- Add batch recap: 2026-04-29 180800
+
 ## 0.0.1515 - 2026-04-29
 - Process article: Building Pi, and what makes self-modifying software so fascinating
 
