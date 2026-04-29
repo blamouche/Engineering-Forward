@@ -9651,3 +9651,10 @@
 - files_changed_or_commands: src/2026-04/20260428-how-chatgpt-serves-ads-here-s-the-full-attribution-loop.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
 - outcome: success
 - next_step: Process the Before GitHub article next.
+
+## 2026-04-29 15:02:00 +0200
+- actor: agent
+- action: Processed the Ronacher article into a new synthesis, updated the index and stats, and removed the queued URL.
+- files_changed_or_commands: src/2026-04/20260428-before-github.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
+- outcome: success
+- next_step: Process the Ghostty article next.

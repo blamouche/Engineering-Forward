@@ -1,3 +1,6 @@
+## 0.0.1489 - 2026-04-29
+- Process article: Before GitHub
+
 ## 0.0.1488 - 2026-04-29
 - Process article: How ChatGPT serves ads. Here's the full attribution loop.
 

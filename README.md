@@ -8,7 +8,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2026-08 | █ 1<br>
-2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 643<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 644<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-01 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 102<br>
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (643 articles)
+#### April (644 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Long-running Agents](src/2026-04/20260429-long-running-agents.md)
 - [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
@@ -79,6 +79,7 @@ Articles per month:
 - [Cohere Aleph Alpha Join Forces](src/2026-04/20260428-cohere-aleph-alpha-join-forces.md)
 - [claude-code-templates/cli-tool/components/hooks/monitoring at main · davila7/claude-code-templates](src/2026-04/20260428-claude-code-templates-cli-tool-components-hooks-monitoring-at-main-davila7-claude-code-tem.md)
 - [Building agents that reach production systems with MCP | Claude](src/2026-04/20260428-building-agents-that-reach-production-systems-with-mcp-claude.md)
+- [Before GitHub](src/2026-04/20260428-before-github.md)
 - [Batch API is terrible for one agent. It might be great for a fleet.](src/2026-04/20260428-batch-api-is-terrible-for-one-agent-it-might-be-great-for-a-fleet.md)
 - [Amex Agentic Commerce: Betting on AI Risk](src/2026-04/20260428-amex-agentic-commerce-betting-on-ai-risk.md)
 - [A guide to AI TOPS and NPU performance metrics](src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md)
