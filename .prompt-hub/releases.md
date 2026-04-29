@@ -1,3 +1,6 @@
+## 0.0.1494 - 2026-04-29
+- Daily veille IA: synced the repo, read 1 Gmail message, extracted 15 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+
 ## 0.0.1493 - 2026-04-29
 - Chore: sync pending local changes before veille IA.
 

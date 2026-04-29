@@ -10,3 +10,9 @@
 
 ## Notes
 - Cron run requested: sync dirty repo first if needed, then queue relevant URLs only.
+
+## Review
+- Repo synced and kept clean before updating `LIST.md`.
+- Added 15 relevant AI/app-dev URLs from 1 TLDR AI email.
+- Removed 0 off-topic URLs from the queue.
+- Trashed the processed Gmail message.

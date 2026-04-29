@@ -1,0 +1,15 @@
+https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
+https://www.anthropic.com/news/claude-for-creative-work
+https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents.html
+https://openrouter.ai/announcements/opus-47-tokenizer-analysis
+https://davefriedman.substack.com/p/openais-q4-2026-ipo-might-not-happen
+https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
+https://poolside.ai/blog/laguna-a-deeper-dive
+https://www.alphaxiv.org/abs/2604.21215
+https://www.wsj.com/tech/ai-worries-have-returned-to-wall-street-now-come-earnings-d680e19c
+https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html
+https://decisionai.substack.com/p/why-your-multi-agent-network-works
+https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc
+https://www.testingcatalog.com/elevenlabs-launches-agent-templates-for-faster-bootstrapping/
+https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/
+https://github.com/facebookresearch/sapiens2
