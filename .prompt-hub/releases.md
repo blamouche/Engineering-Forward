@@ -1,3 +1,6 @@
+## 0.0.1488 - 2026-04-29
+- Process article: How ChatGPT serves ads. Here's the full attribution loop.
+
 ## 0.0.1487 - 2026-04-29
 - Process article: GitHub Actions is the weakest link
 

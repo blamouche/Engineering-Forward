@@ -8,7 +8,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2026-08 | █ 1<br>
-2026-04 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 642<br>
+2026-04 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 643<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-01 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 102<br>
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (642 articles)
+#### April (643 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Long-running Agents](src/2026-04/20260429-long-running-agents.md)
 - [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
@@ -61,6 +61,7 @@ Articles per month:
 - [How will AI change operating systems? Part 1: Ubuntu and Linux](src/2026-04/20260428-how-will-ai-change-operating-systems-part-1-ubuntu-and-linux.md)
 - [How to Run a 24/7 AI Agent that Grows with You](src/2026-04/20260428-how-to-run-a-24-7-ai-agent-that-grows-with-you.md)
 - [How Stripe Detects Fraudulent Transactions Within 100 ms](src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md)
+- [How ChatGPT serves ads. Here's the full attribution loop.](src/2026-04/20260428-how-chatgpt-serves-ads-here-s-the-full-attribution-loop.md)
 - [How Amazon Uses LLMs to Recommend Products](src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md)
 - [He Got Fired From OpenAI at 22. Then He Turned $225M Into $5.5B by Betting on the AI Infrastructure No One Else Was Watching 💸](src/2026-04/20260428-he-got-fired-from-openai-at-22-then-he-turned-225m-into-5-5b-by-betting-on-the-ai-infrastr.md)
 - [GPT-5.3 Codex vs. Opus 4.6: The Great Convergence](src/2026-04/20260428-gpt-5-3-codex-vs-opus-4-6-the-great-convergence.md)
