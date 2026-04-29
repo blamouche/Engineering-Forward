@@ -10,7 +10,7 @@
 - [x] Update `LIST.md` with dedupe and remove off-topic URLs
 - [x] Trash processed emails
 - [x] Update prompt-hub memory/version/releases
-- [ ] Commit and push all changes
+- [x] Commit and push all changes
 
 ## Review
 

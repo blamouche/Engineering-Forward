@@ -1,3 +1,6 @@
+## 0.0.1497 - 2026-04-29
+- Finalize the 18:02 veille IA task tracking after pushing the refreshed queue.
+
 ## 0.0.1496 - 2026-04-29
 - Daily veille IA: synced the repo, read 3 Gmail message(s), extracted 3 relevant AI/app-dev article URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 3 processed email(s).
 
