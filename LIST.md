@@ -1,4 +1,3 @@
-https://poolside.ai/blog/laguna-a-deeper-dive
 https://www.alphaxiv.org/abs/2604.21215
 https://www.wsj.com/tech/ai-worries-have-returned-to-wall-street-now-come-earnings-d680e19c
 https://www.cnbc.com/2026/04/28/meta-muse-spark-has-promise-wall-street-wants-zuckerberg-ai-strategy.html

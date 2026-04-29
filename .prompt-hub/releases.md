@@ -1,3 +1,6 @@
+## 0.0.1504 - 2026-04-29
+- Process article: Laguna XS.2 andÂ M.1: A Deeper Dive
+
 ## 0.0.1503 - 2026-04-29
 - Process article: Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents
 
