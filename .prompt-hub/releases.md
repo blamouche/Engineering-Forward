@@ -1,3 +1,6 @@
+## 0.0.1511 - 2026-04-29
+- Process article: Google expands Pentagon's access to its AI after Anthropic's refusal
+
 ## 0.0.1510 - 2026-04-29
 - Process article: ElevenLabs launches Agent Templates for faster bootstrapping
 
