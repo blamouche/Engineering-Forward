@@ -1,3 +1,6 @@
+## 0.0.1474 - 2026-04-29
+- Scan-list run: synced repo, created the task log, checked `LIST.md`, and found it empty so 0 URL(s) were processed and no batch recap was needed.
+
 ## 0.0.1473 - 2026-04-29
 - Daily veille IA: synced the repo, read 1 Gmail message from `0---veille-ia`, found 0 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
