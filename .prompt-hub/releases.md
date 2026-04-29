@@ -1,3 +1,6 @@
+## 0.0.1490 - 2026-04-29
+- Process article: Ghostty Is Leaving GitHub
+
 ## 0.0.1489 - 2026-04-29
 - Process article: Before GitHub
 

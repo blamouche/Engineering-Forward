@@ -8,7 +8,7 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2026-08 | █ 1<br>
-2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 644<br>
+2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 645<br>
 2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
 2026-01 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 102<br>
@@ -33,7 +33,7 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (644 articles)
+#### April (645 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
 - [Long-running Agents](src/2026-04/20260429-long-running-agents.md)
 - [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
@@ -72,6 +72,7 @@ Articles per month:
 - [GitHub - nex-crm/wuphf: Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.](src/2026-04/20260428-github-nex-crm-wuphf-slack-for-ai-employees-that-build-and-maintain-their-own-wiki-get-cla.md)
 - [GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.](src/2026-04/20260428-github-alash3al-stash-stash-persistent-memory-layer-for-ai-agents-episodes-facts-and-worki.md)
 - [GitHub Actions is the weakest link](src/2026-04/20260428-github-actions-is-the-weakest-link.md)
+- [Ghostty Is Leaving GitHub](src/2026-04/20260428-ghostty-is-leaving-github.md)
 - [EP212: Data Warehouse vs Data Lake vs Data Mesh](src/2026-04/20260428-ep212-data-warehouse-vs-data-lake-vs-data-mesh.md)
 - [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](src/2026-04/20260428-emergent-strategic-reasoning-risks-in-ai-a-taxonomy-driven-evaluation-framework.md)
 - [Efficient Video Intelligence in 2026](src/2026-04/20260428-efficient-video-intelligence-in-2026.md)
