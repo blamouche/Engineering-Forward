@@ -9679,3 +9679,10 @@
 - files_changed_or_commands: `synthesis/2026-04-29 - 150200 - batch recap.md`; `.prompt-hub/todo/todo-20260429-150200-scan-list.md`; verification script for recap coverage and empty `LIST.md`; removed temporary helper files.
 - outcome: success
 - next_step: Commit the recap and tracking files, then push all remaining changes.
+
+## 2026-04-29 16:01:00 +0200
+- actor: agent
+- action: Initialized the 16:01 veille IA run, loaded prompt-hub context, created the task log, and prepared the required cleanup commit so the repo is clean before touching `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260429-160100-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
