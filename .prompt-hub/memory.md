@@ -9833,3 +9833,10 @@
 - outcome: success
 - next_step: Commit recap changes, then push all local commits.
 
+## 2026-04-29 18:08:44 +0200
+- actor: agent
+- action: Removed the untracked failed synthesis artifact left by the OpenRouter URL so the scan-list repo ends clean after push.
+- files_changed_or_commands: `src/2026-04/20260429-opus-4-7-s-new-tokenizer-what-it-actually-costs.md` (deleted), `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Commit and push the cleanup so the repo is fully clean.
+

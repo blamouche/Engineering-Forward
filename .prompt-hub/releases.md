@@ -1,3 +1,6 @@
+## 0.0.1517 - 2026-04-29
+- Chore: remove failed scan-list synthesis artifact.
+
 ## 0.0.1516 - 2026-04-29
 - Add batch recap: 2026-04-29 180800
 
