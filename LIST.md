@@ -1,4 +1,3 @@
-https://www.anthropic.com/news/claude-for-creative-work
 https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents.html
 https://openrouter.ai/announcements/opus-47-tokenizer-analysis
 https://davefriedman.substack.com/p/openais-q4-2026-ipo-might-not-happen
