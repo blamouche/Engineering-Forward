@@ -9749,3 +9749,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-29 18:08:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://www.alphaxiv.org/abs/2604.21215` into synthesis `src/2026-04/20260429-the-recurrent-transformer-greater-effective-depth-and-efficient-decoding.md`.
+- files_changed_or_commands: `src/2026-04/20260429-the-recurrent-transformer-greater-effective-depth-and-efficient-decoding.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next queued URL.
+

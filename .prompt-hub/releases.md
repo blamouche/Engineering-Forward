@@ -1,3 +1,6 @@
+## 0.0.1505 - 2026-04-29
+- Process article: The Recurrent Transformer: Greater Effective Depth and Efficient Decoding
+
 ## 0.0.1504 - 2026-04-29
 - Process article: Laguna XS.2 andÂ M.1: A Deeper Dive
 
