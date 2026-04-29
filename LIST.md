@@ -1,4 +1,3 @@
-https://www.cnbc.com/2026/04/28/openai-brings-models-to-aws-after-ending-exclusivity-with-microsoft.html
 https://addyosmani.com/blog/long-running-agents
 https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html
 https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop

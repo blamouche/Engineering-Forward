@@ -8,25 +8,24 @@ Get the weekly recap and deeper analyses at https://engineeringforward.substack.
 Articles per month:
 
 2026-08 | █ 1<br>
-2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 639<br>
-2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
-2026-02 | ██████████████████████████████████████████████████ 149<br>
-2026-01 | ██████████████████████████████████ 102<br>
-2025-12 | █ 3<br>
-2025-11 | █ 2<br>
-2025-10 | ██ 4<br>
-2025-09 | █ 2<br>
+2026-04 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 640<br>
+2026-03 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
+2026-02 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 149<br>
+2026-01 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 102<br>
+2025-12 | ███ 3<br>
+2025-11 | ██ 2<br>
+2025-10 | ████ 4<br>
+2025-09 | ██ 2<br>
 2025-08 | █ 1<br>
-2025-07 | █ 2<br>
+2025-07 | ██ 2<br>
 2025-06 | █ 1<br>
-2025-05 | █ 3<br>
+2025-05 | ███ 3<br>
 2025-04 | █ 1<br>
 2024-12 | █ 1<br>
-2024-06 | █ 2<br>
+2024-06 | ██ 2<br>
 2024-05 | █ 1<br>
 2023-10 | █ 1<br>
-2022-12 | █ 2
-
+2022-12 | ██ 2<br>
 ## Articles
 
 ### 2026
@@ -34,61 +33,62 @@ Articles per month:
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (639 articles)
-- [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
-- [GPT-5.3 Codex vs. Opus 4.6: The Great Convergence](src/2026-04/20260428-gpt-5-3-codex-vs-opus-4-6-the-great-convergence.md)
-- [One App to Rule All Knowledge Work](src/2026-04/20260428-one-app-to-rule-all-knowledge-work.md)
-- [A guide to AI TOPS and NPU performance metrics](src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md)
-- [What is inference engineering? Deepdive](src/2026-04/20260428-what-is-inference-engineering-deepdive.md)
-- [How will AI change operating systems? Part 1: Ubuntu and Linux](src/2026-04/20260428-how-will-ai-change-operating-systems-part-1-ubuntu-and-linux.md)
-- [Your Couch-to-5K for AI](src/2026-04/20260428-your-couch-to-5k-for-ai.md)
-- [Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence](src/2026-04/20260427-former-google-deepmind-researcher-s-ai-startup-raises-record-1-1-billion-seed-funding-to-p.md)
-- [MiMo-V2.5-Pro](src/2026-04/20260427-mimo-v2-5-pro.md)
-- [GPU Spot Prices Surge 114% in Six Weeks](src/2026-04/20260427-gpu-spot-prices-surge-114-in-six-weeks.md)
-- [DeepSeek cuts V4-Pro prices by 75%](src/2026-04/20260427-deepseek-cuts-v4-pro-prices-by-75.md)
-- [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](src/2026-04/20260428-emergent-strategic-reasoning-risks-in-ai-a-taxonomy-driven-evaluation-framework.md)
-- [TurboQuant: A First-Principles Walkthrough](src/2026-04/20260428-turboquant-a-first-principles-walkthrough.md)
-- [GPT 5.5: The System Card](src/2026-04/20260427-gpt-5-5-the-system-card.md)
-- [Batch API is terrible for one agent. It might be great for a fleet.](src/2026-04/20260428-batch-api-is-terrible-for-one-agent-it-might-be-great-for-a-fleet.md)
-- [To Train or Not to Train](src/2026-04/20260428-to-train-or-not-to-train.md)
-- [China blocks Meta’s $2B Manus deal after months-long probe](src/2026-04/20260427-china-blocks-meta-s-2b-manus-deal-after-months-long-probe.md)
-- [The Moat or the Commons](src/2026-04/20260427-the-moat-or-the-commons.md)
-- [Microsoft Claws Away 'The Clause' as OpenAI Claws Back Some Independence](src/2026-04/20260428-microsoft-claws-away-the-clause-as-openai-claws-back-some-independence.md)
-- [The task is not the job](src/2026-04/20260428-the-task-is-not-the-job.md)
-- [OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO](src/2026-04/20260428-openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo.md)
-- [OpenAI and Microsoft Reach Deal to Give Startup New Freedom](src/2026-04/20260428-openai-and-microsoft-reach-deal-to-give-startup-new-freedom.md)
-- [Agent Memory Patterns](src/2026-04/20260427-agent-memory-patterns.md)
-- [openai/symphony](src/2026-04/20260428-openai-symphony.md)
-- [OpenAI is making its own phone to compete with the iPhone: report](src/2026-04/20260427-openai-is-making-its-own-phone-to-compete-with-the-iphone-report.md)
-- [The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol](src/2026-04/20260428-the-browser-died-today-openai-and-stripe-launch-instant-checkout-the-agentic-commerce-protocol.md)
-- [Leopold Aschenbrenner's $5.5B Situational Awareness Fund](src/2026-04/20260428-leopold-aschenbrenner-s-5-5b-situational-awareness-fund.md)
-- [Amex Agentic Commerce: Betting on AI Risk](src/2026-04/20260428-amex-agentic-commerce-betting-on-ai-risk.md)
-- [The Android of Commerce - How Google Is Building the Interface Between AI & Money](src/2026-04/20260428-the-android-of-commerce-how-google-is-building-the-interface-between-ai-money.md)
-- [Google UCP Wins Agentic Commerce Protocol War](src/2026-04/20260428-google-ucp-wins-agentic-commerce-protocol-war.md)
-- [Inside Asseta AI's pitch deck: how AI-powered family office startup is targeting the $4B market gap](src/2026-04/20260428-inside-asseta-ai-s-pitch-deck-how-ai-powered-family-office-startup-is-targeting-the-4b-market-gap.md)
-- [The Agentic Singularity](src/2026-04/20260428-the-agentic-singularity.md)
+#### April (640 articles)
 - [Agent Lightning: Framework-Agnostic AI Agent Training and Optimization](src/2026-04/20260618-agent-lightning-framework-agnostic-ai-agent-training.md)
+- [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
 - [Awesome LLM Apps: A Collection of RAG, AI Agents, Multi-agent Teams, MCP, and Voice Agents](src/2026-04/20260429-awesome-llm-apps-collection-rag-agents-mcp.md)
+- [Your Couch-to-5K for AI](src/2026-04/20260428-your-couch-to-5k-for-ai.md)
+- [What is inference engineering? Deepdive](src/2026-04/20260428-what-is-inference-engineering-deepdive.md)
 - [What Elon Musk and OpenAI's High-Profile Court Case Is Actually About](src/2026-04/20260428-what-elon-musk-and-openai-s-high-profile-court-case-is-actually-about.md)
+- [TurboQuant: A First-Principles Walkthrough](src/2026-04/20260428-turboquant-a-first-principles-walkthrough.md)
+- [To Train or Not to Train](src/2026-04/20260428-to-train-or-not-to-train.md)
 - [🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord](src/2026-04/20260428-this-week-on-how-i-ai-gpt-5-5-claude-design-and-gpt-images-2-0-hands-on-reviewsplus-an-ins.md)
+- [The task is not the job](src/2026-04/20260428-the-task-is-not-the-job.md)
+- [The browser died today: OpenAI and Stripe launch Instant Checkout & the Agentic Commerce Protocol](src/2026-04/20260428-the-browser-died-today-openai-and-stripe-launch-instant-checkout-the-agentic-commerce-protocol.md)
+- [The Android of Commerce - How Google Is Building the Interface Between AI & Money](src/2026-04/20260428-the-android-of-commerce-how-google-is-building-the-interface-between-ai-money.md)
+- [The Agentic Singularity](src/2026-04/20260428-the-agentic-singularity.md)
 - [Slack for AI Employees](src/2026-04/20260428-slack-for-ai-employees.md)
 - [Scaling Test-Time Compute for Agentic Coding](src/2026-04/20260428-scaling-test-time-compute-for-agentic-coding.md)
+- [openai/symphony](src/2026-04/20260428-openai-symphony.md)
+- [OpenAI Misses Key Revenue, User Targets in High-Stakes Sprint Toward IPO](src/2026-04/20260428-openai-misses-key-revenue-user-targets-in-high-stakes-sprint-toward-ipo.md)
+- [OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft](src/2026-04/20260428-openai-brings-its-models-to-amazon-s-cloud-after-ending-exclusivity-with-microsoft.md)
+- [OpenAI and Microsoft Reach Deal to Give Startup New Freedom](src/2026-04/20260428-openai-and-microsoft-reach-deal-to-give-startup-new-freedom.md)
+- [One App to Rule All Knowledge Work](src/2026-04/20260428-one-app-to-rule-all-knowledge-work.md)
+- [Microsoft Claws Away 'The Clause' as OpenAI Claws Back Some Independence](src/2026-04/20260428-microsoft-claws-away-the-clause-as-openai-claws-back-some-independence.md)
+- [Leopold Aschenbrenner's $5.5B Situational Awareness Fund](src/2026-04/20260428-leopold-aschenbrenner-s-5-5b-situational-awareness-fund.md)
+- [Inside Asseta AI's pitch deck: how AI-powered family office startup is targeting the $4B market gap](src/2026-04/20260428-inside-asseta-ai-s-pitch-deck-how-ai-powered-family-office-startup-is-targeting-the-4b-market-gap.md)
+- [How will AI change operating systems? Part 1: Ubuntu and Linux](src/2026-04/20260428-how-will-ai-change-operating-systems-part-1-ubuntu-and-linux.md)
 - [How to Run a 24/7 AI Agent that Grows with You](src/2026-04/20260428-how-to-run-a-24-7-ai-agent-that-grows-with-you.md)
 - [How Stripe Detects Fraudulent Transactions Within 100 ms](src/2026-04/20260428-how-stripe-detects-fraudulent-transactions-within-100-ms.md)
 - [How Amazon Uses LLMs to Recommend Products](src/2026-04/20260428-how-amazon-uses-llms-to-recommend-products.md)
 - [He Got Fired From OpenAI at 22. Then He Turned $225M Into $5.5B by Betting on the AI Infrastructure No One Else Was Watching 💸](src/2026-04/20260428-he-got-fired-from-openai-at-22-then-he-turned-225m-into-5-5b-by-betting-on-the-ai-infrastr.md)
+- [GPT-5.3 Codex vs. Opus 4.6: The Great Convergence](src/2026-04/20260428-gpt-5-3-codex-vs-opus-4-6-the-great-convergence.md)
+- [Google UCP Wins Agentic Commerce Protocol War](src/2026-04/20260428-google-ucp-wins-agentic-commerce-protocol-war.md)
 - [GitHub - stainlu/hermes-labyrinth](src/2026-04/20260428-github-stainlu-hermes-labyrinth.md)
 - [GitHub - Shubhamsaboo/awesome-llm-apps: 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.](src/2026-04/20260428-github-shubhamsaboo-awesome-llm-apps-100-ai-agent-rag-apps-you-can-actually-run-clone-cust.md)
 - [GitHub - openclaw/clawsweeper: ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.](src/2026-04/20260428-github-openclaw-clawsweeper-clawsweeper-scans-all-issues-and-prs-and-suggest-what-we-can-c.md)
 - [GitHub - nex-crm/wuphf: Slack for AI employees that build and maintain their own wiki. Get Claudes, Codexes, OpenClaws and local LLMs to collaborate and do your work autonomously while never losing context.](src/2026-04/20260428-github-nex-crm-wuphf-slack-for-ai-employees-that-build-and-maintain-their-own-wiki-get-cla.md)
 - [GitHub - alash3al/stash: Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.](src/2026-04/20260428-github-alash3al-stash-stash-persistent-memory-layer-for-ai-agents-episodes-facts-and-worki.md)
 - [EP212: Data Warehouse vs Data Lake vs Data Mesh](src/2026-04/20260428-ep212-data-warehouse-vs-data-lake-vs-data-mesh.md)
+- [Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework](src/2026-04/20260428-emergent-strategic-reasoning-risks-in-ai-a-taxonomy-driven-evaluation-framework.md)
 - [Efficient Video Intelligence in 2026](src/2026-04/20260428-efficient-video-intelligence-in-2026.md)
 - [Cursor's $60 Billion Escape Hatch](src/2026-04/20260428-cursor-s-60-billion-escape-hatch.md)
 - [Cohere Aleph Alpha Join Forces](src/2026-04/20260428-cohere-aleph-alpha-join-forces.md)
 - [claude-code-templates/cli-tool/components/hooks/monitoring at main · davila7/claude-code-templates](src/2026-04/20260428-claude-code-templates-cli-tool-components-hooks-monitoring-at-main-davila7-claude-code-tem.md)
 - [Building agents that reach production systems with MCP | Claude](src/2026-04/20260428-building-agents-that-reach-production-systems-with-mcp-claude.md)
+- [Batch API is terrible for one agent. It might be great for a fleet.](src/2026-04/20260428-batch-api-is-terrible-for-one-agent-it-might-be-great-for-a-fleet.md)
+- [Amex Agentic Commerce: Betting on AI Risk](src/2026-04/20260428-amex-agentic-commerce-betting-on-ai-risk.md)
+- [A guide to AI TOPS and NPU performance metrics](src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md)
 - [You Are the Most Expensive Model](src/2026-04/20260427-you-are-the-most-expensive-model.md)
+- [The Moat or the Commons](src/2026-04/20260427-the-moat-or-the-commons.md)
+- [OpenAI is making its own phone to compete with the iPhone: report](src/2026-04/20260427-openai-is-making-its-own-phone-to-compete-with-the-iphone-report.md)
+- [MiMo-V2.5-Pro](src/2026-04/20260427-mimo-v2-5-pro.md)
+- [GPU Spot Prices Surge 114% in Six Weeks](src/2026-04/20260427-gpu-spot-prices-surge-114-in-six-weeks.md)
+- [GPT 5.5: The System Card](src/2026-04/20260427-gpt-5-5-the-system-card.md)
+- [Former Google DeepMind researcher's AI startup raises record $1.1 billion seed funding to pursue superintelligence](src/2026-04/20260427-former-google-deepmind-researcher-s-ai-startup-raises-record-1-1-billion-seed-funding-to-p.md)
+- [DeepSeek cuts V4-Pro prices by 75%](src/2026-04/20260427-deepseek-cuts-v4-pro-prices-by-75.md)
+- [China blocks Meta’s $2B Manus deal after months-long probe](src/2026-04/20260427-china-blocks-meta-s-2b-manus-deal-after-months-long-probe.md)
+- [Agent Memory Patterns](src/2026-04/20260427-agent-memory-patterns.md)
 - [How I AI: My GPT-5.5 Review—A 6-Hour Autonomous Task and the Bluetooth Hack No Other Model Could Solve](src/2026-04/20260426-how-i-ai-my-gpt-5-5-reviewa-6-hour-autonomous-task-and-the-bluetooth-hack-no-other-model-c.md)
 - [Your AI Might be Lying to Your Boss](src/2026-04/20260425-your-ai-might-be-lying-to-your-boss.md)
 - [Today's harness is Tomorrow's Prompt](src/2026-04/20260425-today-s-harness-is-tomorrow-s-prompt.md)

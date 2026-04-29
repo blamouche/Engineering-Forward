@@ -1,3 +1,6 @@
+## 0.0.1485 - 2026-04-29
+- Process article: OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft
+
 ## 0.0.1484 - 2026-04-29
 - Process article error: https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission
 
