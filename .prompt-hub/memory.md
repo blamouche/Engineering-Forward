@@ -9525,3 +9525,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260429-060433-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-29 08:02:45 +0200
+- actor: agent
+- action: Started the 08:01 daily veille IA run, loaded prompt-hub context, created the required task log, and prepared the cleanup commit needed to keep the repo clean before touching `LIST.md`.
+- files_changed_or_commands: ".prompt-hub/todo/todo-20260429-080217-daily-veille-ia-extraire-urls.md"; read ".prompt-hub/lessons.md", ".prompt-hub/memory.md", ".prompt-hub/releases.md", "agents.md"; "git status --short"; ".prompt-hub/version.md"; ".prompt-hub/releases.md".
+- outcome: success
+- next_step: Commit and push the local tracking changes, then pull/rebase before Gmail extraction.

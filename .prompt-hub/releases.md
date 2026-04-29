@@ -1,3 +1,6 @@
+## 0.0.1472 - 2026-04-29
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1471 - 2026-04-29
 - Scan-list run: synced repo, created the task log, checked `LIST.md`, and found it empty so 0 URL(s) were processed and no batch recap was needed.
 
