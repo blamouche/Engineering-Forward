@@ -1,4 +1,3 @@
-https://davefriedman.substack.com/p/openais-q4-2026-ipo-might-not-happen
 https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
 https://poolside.ai/blog/laguna-a-deeper-dive
 https://www.alphaxiv.org/abs/2604.21215
