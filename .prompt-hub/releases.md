@@ -1,3 +1,6 @@
+## 0.0.1518 - 2026-04-29
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1517 - 2026-04-29
 - Chore: remove failed scan-list synthesis artifact.
 
