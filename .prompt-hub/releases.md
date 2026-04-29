@@ -1,3 +1,6 @@
+## 0.0.1510 - 2026-04-29
+- Process article: ElevenLabs launches Agent Templates for faster bootstrapping
+
 ## 0.0.1509 - 2026-04-29
 - Process article error: https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc
 
