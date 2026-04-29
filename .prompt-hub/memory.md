@@ -9693,3 +9693,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dd9677cc3b542e --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-29 18:02:00 +0200
+- actor: agent
+- action: Daily veille IA run: committed pending local tracking first to restore a clean synced repo, read 3 Gmail message(s), extracted 3 relevant AI/app-dev article URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 3 processed email(s).
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260429-180200-daily-veille-ia-extraire-urls.md`; `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dd9f12c11a8ead 19dd9e0f40c7b25b 19dd9a89e2f05ad1 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
