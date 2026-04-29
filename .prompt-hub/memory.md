@@ -9630,3 +9630,10 @@
 - files_changed_or_commands: src/2026-04/20260428-openai-brings-its-models-to-amazon-s-cloud-after-ending-exclusivity-with-microsoft.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
 - outcome: success
 - next_step: Process the Addy Osmani article next.
+
+## 2026-04-29 15:02:00 +0200
+- actor: agent
+- action: Processed the Addy Osmani article into a new synthesis, updated the index and stats, and removed the queued URL.
+- files_changed_or_commands: src/2026-04/20260429-long-running-agents.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
+- outcome: success
+- next_step: Process the GitHub Actions article next.

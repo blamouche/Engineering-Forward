@@ -1,3 +1,6 @@
+## 0.0.1486 - 2026-04-29
+- Process article: Long-running Agents
+
 ## 0.0.1485 - 2026-04-29
 - Process article: OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft
 
