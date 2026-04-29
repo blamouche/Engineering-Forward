@@ -1,3 +1,6 @@
+## 0.0.1500 - 2026-04-29
+- Process article: Can agents replace the search stack?
+
 ## 0.0.1499 - 2026-04-29
 - Process article: Claude for Creative Work
 
