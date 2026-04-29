@@ -9609,3 +9609,17 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dd8c307d99cbad --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260429-140223-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-29 15:02:00 +0200
+- actor: agent
+- action: Started the scheduled scan-list run, loaded repo context, synced the repository, created the task log, and prepared the queued URLs for sequential processing.
+- files_changed_or_commands: `git pull --rebase`; `.prompt-hub/todo/todo-20260429-150200-scan-list.md`; `LIST.md`; created temporary helpers `.prompt-hub/todo/bump_version.py` and `.prompt-hub/todo/rebuild_readme.py`.
+- outcome: success
+- next_step: Process each queued URL in order, commit each result, then create the batch recap and push.
+
+## 2026-04-29 15:02:00 +0200
+- actor: agent
+- action: Removed the Bloomberg URL after a fetch failure (403 robot check) and kept the queue moving.
+- files_changed_or_commands: `LIST.md`; Bloomberg web fetch returned 403; `python3 .prompt-hub/todo/bump_version.py`.
+- outcome: success
+- next_step: Process the CNBC article next.

@@ -1,3 +1,6 @@
+## 0.0.1484 - 2026-04-29
+- Process article error: https://www.bloomberg.com/news/articles/2026-04-28/musk-lawyer-says-altman-made-mockery-of-openai-public-mission
+
 ## 0.0.1483 - 2026-04-29
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 8 relevant AI/app-dev article URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 
