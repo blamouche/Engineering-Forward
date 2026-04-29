@@ -1,3 +1,6 @@
+## 0.0.1478 - 2026-04-29
+- Process article: Claude Code Routines: 8 Prompts + What Breaks (2026)
+
 ## 0.0.1477 - 2026-04-29
 - Daily veille IA: synced the repo, read 1 Gmail message, extracted 3 relevant AI/app-dev article URL(s), removed 1 off-topic URL from `LIST.md`, and trashed 1 processed email.
 

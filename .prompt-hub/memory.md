@@ -9567,3 +9567,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19dd886a9b5a7770 --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260429-120300-daily-veille-ia-extraire-urls.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-29 12:06:15 +0200
+- actor: agent
+- action: Processed scan-list article "Claude Code Routines: 8 Prompts + What Breaks (2026)", created its synthesis, updated README/stat sources, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://linas.substack.com/p/claude-code-routines-guide`; `src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.

@@ -34,6 +34,7 @@ Articles per month:
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 article)
+- [Claude Code Routines: 8 Prompts + What Breaks (2026)](src/2026-04/20260429-claude-code-routines-8-prompts-what-breaks-2026.md)
 - [GPT-5.3 Codex vs. Opus 4.6: The Great Convergence](src/2026-04/20260428-gpt-5-3-codex-vs-opus-4-6-the-great-convergence.md)
 - [One App to Rule All Knowledge Work](src/2026-04/20260428-one-app-to-rule-all-knowledge-work.md)
 - [A guide to AI TOPS and NPU performance metrics](src/2026-04/20260428-a-guide-to-ai-tops-and-npu-performance-metrics.md)
