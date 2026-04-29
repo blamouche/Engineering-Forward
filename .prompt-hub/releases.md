@@ -1,3 +1,6 @@
+## 0.0.1512 - 2026-04-29
+- Process article: GitHub - facebookresearch/sapiens2: [ICLR 26] 1K resolution vision transformers pretrained on 1B human images.
+
 ## 0.0.1511 - 2026-04-29
 - Process article: Google expands Pentagon's access to its AI after Anthropic's refusal
 
