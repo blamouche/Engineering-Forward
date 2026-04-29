@@ -9665,3 +9665,10 @@
 - files_changed_or_commands: src/2026-04/20260428-ghostty-is-leaving-github.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
 - outcome: success
 - next_step: Process the strict APIs article next.
+
+## 2026-04-29 15:02:00 +0200
+- actor: agent
+- action: Processed the Buytaert article into a new synthesis, updated the index and stats, and removed the final queued URL.
+- files_changed_or_commands: src/2026-04/20260429-ai-rewards-strict-apis.md, `README.md`, `LIST.md`, `python3 .prompt-hub/todo/rebuild_readme.py`, `python3 .prompt-hub/todo/bump_version.py`.
+- outcome: success
+- next_step: Create and verify the batch recap.

@@ -1,3 +1,6 @@
+## 0.0.1491 - 2026-04-29
+- Process article: AI rewards strict APIs
+
 ## 0.0.1490 - 2026-04-29
 - Process article: Ghostty Is Leaving GitHub
 
