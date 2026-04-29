@@ -1,3 +1,6 @@
+## 0.0.1503 - 2026-04-29
+- Process article: Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents
+
 ## 0.0.1502 - 2026-04-29
 - Process article: OpenAI’s Q4 2026 IPO Might not Happen
 

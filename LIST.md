@@ -1,4 +1,3 @@
-https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
 https://poolside.ai/blog/laguna-a-deeper-dive
 https://www.alphaxiv.org/abs/2604.21215
 https://www.wsj.com/tech/ai-worries-have-returned-to-wall-street-now-come-earnings-d680e19c
