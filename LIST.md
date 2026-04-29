@@ -1,4 +1,3 @@
-https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/
 https://www.anthropic.com/news/claude-for-creative-work
 https://softwaredoug.com/blog/2026/04/28/search-apis-replaced-by-agents.html
 https://openrouter.ai/announcements/opus-47-tokenizer-analysis

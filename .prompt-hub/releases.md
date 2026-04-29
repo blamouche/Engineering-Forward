@@ -1,3 +1,6 @@
+## 0.0.1498 - 2026-04-29
+- Process article: An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents
+
 ## 0.0.1497 - 2026-04-29
 - Finalize the 18:02 veille IA task tracking after pushing the refreshed queue.
 
