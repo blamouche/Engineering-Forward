@@ -1,3 +1,6 @@
+## 0.0.1508 - 2026-04-29
+- Process article: Why Your Multi-Agent Network Works in Demo but Falls Apart in the Wild
+
 ## 0.0.1507 - 2026-04-29
 - Process article: Meta's new AI model shows early promise, but investors want to see Zuckerberg's strategy
 

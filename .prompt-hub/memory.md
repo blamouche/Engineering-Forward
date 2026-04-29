@@ -9770,3 +9770,10 @@
 - outcome: success
 - next_step: Continue with next queued URL.
 
+## 2026-04-29 18:08:00 +0200
+- actor: agent
+- action: Processed scan-list URL `https://decisionai.substack.com/p/why-your-multi-agent-network-works` into synthesis `src/2026-04/20260429-why-your-multi-agent-network-works-in-demo-but-falls-apart-in-the-wild.md`.
+- files_changed_or_commands: `src/2026-04/20260429-why-your-multi-agent-network-works-in-demo-but-falls-apart-in-the-wild.md`, `README.md`, `LIST.md`, `.prompt-hub/version.md`, `.prompt-hub/releases.md`
+- outcome: success
+- next_step: Continue with next queued URL.
+

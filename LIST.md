@@ -1,4 +1,3 @@
-https://decisionai.substack.com/p/why-your-multi-agent-network-works
 https://www.wsj.com/cio-journal/ex-twitter-ceos-ai-startup-raises-funds-at-2-billion-valuation-63c927fc
 https://www.testingcatalog.com/elevenlabs-launches-agent-templates-for-faster-bootstrapping/
 https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/
