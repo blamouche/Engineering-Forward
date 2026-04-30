@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (664 articles)
+#### April (665 articles)
+- [stripe/link-cli: Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.](src/2026-04/20260430-stripe-link-cli-let-your-agents-spend-on-your-behalf-your-payment-credentials-are-never-exposed-you-approve-every-purcha.md)
 - [Build programmatic agents with the Cursor SDK](src/2026-04/20260430-build-programmatic-agents-with-the-cursor-sdk.md)
 - [Help! My boss is addicted to ChatGPT and Claude](src/2026-04/20260429-help-my-boss-is-addicted-to-chatgpt-and-claude.md)
 - [Meet the startups using AI to discover new materials](src/2026-04/20260430-meet-the-startups-using-ai-to-discover-new-materials.md)

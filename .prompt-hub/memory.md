@@ -10041,3 +10041,10 @@
 - files_changed_or_commands: `https://cursor.com/blog/typescript-sdk`; `src/2026-04/20260430-build-programmatic-agents-with-the-cursor-sdk.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-30 15:04:58 +0200
+- actor: agent
+- action: Processed scan-list article 'stripe/link-cli: Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.', created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://github.com/stripe/link-cli`; `src/2026-04/20260430-stripe-link-cli-let-your-agents-spend-on-your-behalf-your-payment-credentials-are-never-exposed-you-approve-every-purcha.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
