@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (1 article)
+#### April (664 articles)
+- [Build programmatic agents with the Cursor SDK](src/2026-04/20260430-build-programmatic-agents-with-the-cursor-sdk.md)
 - [Help! My boss is addicted to ChatGPT and Claude](src/2026-04/20260429-help-my-boss-is-addicted-to-chatgpt-and-claude.md)
 - [Meet the startups using AI to discover new materials](src/2026-04/20260430-meet-the-startups-using-ai-to-discover-new-materials.md)
 - [Building Pi, and what makes self-modifying software so fascinating](src/2026-04/20260422-building-pi-and-what-makes-self-modifying-software-so-fascinating.md)
@@ -693,7 +694,6 @@ P22-12 | █ 2<br>
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-04/20260212-autonomous-ai-agent-team-24-7.md)
 - [AIO Sandbox: All-in-One Sandbox Environment for AI Agents](src/2026-04/20250806-agent-infra-sandbox-all-in-one-agent-sandbox.md)
 - [Transformers.js v4.0.0: New WebGPU Backend and Standalone Tokenizers](src/2026-04/20250330-transformers-js-v4-webgpu-backend.md)
-
 #### March (374 articles)
 - [From skeptic to true believer: How OpenClaw changed my life | Claire Vo](src/2026-03/20260329-from-skeptic-to-true-believer-how-openclaw-changed-my-life.md)
 - [Everyone Gets a Sidekick](src/2026-03/20260329-everyone-gets-a-sidekick.md)

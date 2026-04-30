@@ -10034,3 +10034,10 @@
 - files_changed_or_commands: `LIST.md`; `web_fetch https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: failed
 - next_step: Continue with the next queued URL.
+
+## 2026-04-30 15:04:58 +0200
+- actor: agent
+- action: Processed scan-list article 'Build programmatic agents with the Cursor SDK', created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://cursor.com/blog/typescript-sdk`; `src/2026-04/20260430-build-programmatic-agents-with-the-cursor-sdk.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
