@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [Remote agents in Vibe. Powered by Mistral Medium 3.5.](src/2026-04/20260430-remote-agents-in-vibe-powered-by-mistral-medium-3-5.md)
 - [Google to sell TPU chips to 'select' customers in latest shot at Nvidia](src/2026-04/20260429-google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia.md)
 - [PRAGMA Deep Dive: Revolut's AI Foundation Model](src/2026-04/20260429-pragma-deep-dive-revolut-s-ai-foundation-model.md)
 - [Stripe Is Building Visa for AI Agents](src/2026-04/20260430-stripe-is-building-visa-for-ai-agents.md)
