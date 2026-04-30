@@ -1,4 +1,3 @@
-https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term
 https://huggingface.co/blog/evaleval/eval-costs-bottleneck
 https://pytorch.org/blog/introducing-autosp
 https://huggingface.co/blog/ibm-granite/granite-4-1

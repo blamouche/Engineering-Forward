@@ -1,3 +1,6 @@
+## 0.0.1564 - 2026-04-30
+- Process article: OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals — company now prefers to lease compute and says Stargate is an umbrella term
+
 ## 0.0.1563 - 2026-04-30
 - Process article: Remote agents in Vibe. Powered by Mistral Medium 3.5.
 
