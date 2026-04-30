@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [Granite 4.1 LLMs: How They’re Built](src/2026-04/20260430-granite-4-1-llms-how-they-re-built.md)
 - [Introducing AutoSP – PyTorch](src/2026-04/20260430-introducing-autosp-pytorch.md)
 - [AI evals are becoming the new compute bottleneck](src/2026-04/20260430-ai-evals-are-becoming-the-new-compute-bottleneck.md)
 - [OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals — company now prefers to lease compute and says Stargate is an umbrella term](src/2026-04/20260429-openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexib.md)

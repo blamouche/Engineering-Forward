@@ -1,4 +1,3 @@
-https://huggingface.co/blog/ibm-granite/granite-4-1
 https://taoofmac.com/space/blog/2026/04/29/2341
 https://machinelearning.apple.com/research/ladir
 https://microsoft.github.io/World-R1
