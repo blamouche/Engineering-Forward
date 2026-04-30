@@ -1,4 +1,3 @@
-https://huggingface.co/blog/evaleval/eval-costs-bottleneck
 https://pytorch.org/blog/introducing-autosp
 https://huggingface.co/blog/ibm-granite/granite-4-1
 https://taoofmac.com/space/blog/2026/04/29/2341

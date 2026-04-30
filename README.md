@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [AI evals are becoming the new compute bottleneck](src/2026-04/20260430-ai-evals-are-becoming-the-new-compute-bottleneck.md)
 - [OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals — company now prefers to lease compute and says Stargate is an umbrella term](src/2026-04/20260429-openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexib.md)
 - [Remote agents in Vibe. Powered by Mistral Medium 3.5.](src/2026-04/20260430-remote-agents-in-vibe-powered-by-mistral-medium-3-5.md)
 - [Google to sell TPU chips to 'select' customers in latest shot at Nvidia](src/2026-04/20260429-google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia.md)

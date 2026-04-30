@@ -1,3 +1,6 @@
+## 0.0.1565 - 2026-04-30
+- Process article: AI evals are becoming the new compute bottleneck
+
 ## 0.0.1564 - 2026-04-30
 - Process article: OpenAI has effectively abandoned first-party Stargate data centers in favor of more flexible deals — company now prefers to lease compute and says Stargate is an umbrella term
 
