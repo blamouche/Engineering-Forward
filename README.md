@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (667 articles)
+#### April (668 articles)
+- [Agents can now create Cloudflare accounts, buy domains, and deploy](src/2026-04/20260430-agents-can-now-create-cloudflare-accounts-buy-domains-and-deploy.md)
 - [White House Opposes Anthropic’s Plan to Expand Access to Mythos Model](src/2026-04/20260430-white-house-opposes-anthropic-s-plan-to-expand-access-to-mythos-model.md)
 - [The $112 Billion Quarter](src/2026-04/20260429-the-112-billion-quarter.md)
 - [stripe/link-cli: Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.](src/2026-04/20260430-stripe-link-cli-let-your-agents-spend-on-your-behalf-your-payment-credentials-are-never-exposed-you-approve-every-purcha.md)

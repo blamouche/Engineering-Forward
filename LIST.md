@@ -1,4 +1,3 @@
-https://blog.cloudflare.com/agents-stripe-projects
 https://dbushell.com/2026/04/29/github-is-sinking
 https://simonwillison.net/2026/Apr/30/zig-anti-ai
 https://www.theregister.com/2026/04/29/amazon_chips_20b_business
