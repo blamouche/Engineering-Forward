@@ -1,3 +1,6 @@
+## 0.0.1574 - 2026-04-30
+- Process article: GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation.
+
 ## 0.0.1573 - 2026-04-30
 - Process article: OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
 
