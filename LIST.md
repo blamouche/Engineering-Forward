@@ -1,4 +1,3 @@
-https://machinelearning.apple.com/research/ladir
 https://microsoft.github.io/World-R1
 https://arxiv.org/abs/2604.24198
 https://tomtunguz.com/inference-market-segmentation

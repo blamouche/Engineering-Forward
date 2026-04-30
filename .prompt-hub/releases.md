@@ -1,3 +1,6 @@
+## 0.0.1569 - 2026-04-30
+- Process article: LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning
+
 ## 0.0.1568 - 2026-04-30
 - Process article: Lessons on Building MCP Servers
 
