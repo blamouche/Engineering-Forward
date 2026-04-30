@@ -10076,3 +10076,10 @@
 - files_changed_or_commands: `https://dbushell.com/2026/04/29/github-is-sinking`; `src/2026-04/20260429-github-is-sinking.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-30 15:04:58 +0200
+- actor: agent
+- action: Processed scan-list article 'The Zig project's rationale for their firm anti-AI contribution policy', created its synthesis, updated README/statistics, and removed the source URL from LIST.md.
+- files_changed_or_commands: `https://simonwillison.net/2026/Apr/30/zig-anti-ai`; `src/2026-04/20260430-the-zig-project-s-rationale-for-their-firm-anti-ai-contribution-policy.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Process the next URL in LIST.md or create the batch recap if none remain.
