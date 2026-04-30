@@ -1,3 +1,6 @@
+## 0.0.1558 - 2026-04-30
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1557 - 2026-04-30
 - Finalize scan-list task log after recap verification and push.
 
