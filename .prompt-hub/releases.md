@@ -1,3 +1,6 @@
+## 0.0.1538 - 2026-04-30
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1537 - 2026-04-30
 - Add batch recap: 2026-04-30 090313
 
