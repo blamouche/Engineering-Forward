@@ -1,3 +1,6 @@
+## 0.0.1566 - 2026-04-30
+- Process article: Introducing AutoSP – PyTorch
+
 ## 0.0.1565 - 2026-04-30
 - Process article: AI evals are becoming the new compute bottleneck
 
