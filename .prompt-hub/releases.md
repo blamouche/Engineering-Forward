@@ -1,3 +1,6 @@
+## 0.0.1579 - 2026-04-30
+- Process article: The Pulse: token spend breaks budgets – what next?
+
 ## 0.0.1578 - 2026-04-30
 - Process article: Compound Engineering: The Definitive Guide
 

@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [The Pulse: token spend breaks budgets – what next?](src/2026-04/20260430-the-pulse-token-spend-breaks-budgets-what-next.md)
 - [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [Who Isn't Using GPT 5.5](src/2026-04/20260430-who-isn-t-using-gpt-5-5.md)
 - [A Beginner’s Guide to Kubernetes](src/2026-04/20260430-a-beginner-s-guide-to-kubernetes.md)
