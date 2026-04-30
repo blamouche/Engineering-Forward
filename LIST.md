@@ -1,4 +1,3 @@
-https://tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai
 https://www.wsj.com/tech/ai/white-house-opposes-anthropics-plan-to-expand-access-to-mythos-model-dc281ab5
 https://blog.cloudflare.com/agents-stripe-projects
 https://dbushell.com/2026/04/29/github-is-sinking

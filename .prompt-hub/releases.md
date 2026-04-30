@@ -1,3 +1,6 @@
+## 0.0.1547 - 2026-04-30
+- Process article: The $112 Billion Quarter
+
 ## 0.0.1546 - 2026-04-30
 - Process article: stripe/link-cli: Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 
