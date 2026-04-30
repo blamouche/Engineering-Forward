@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/a-beginners-guide-to-kubernetes
 https://every.to/context-window/who-isnt-using-gpt-55
 https://every.to/vibe-check/gpt-5-5
 https://every.to/source-code/compound-engineering-the-definitive-guide

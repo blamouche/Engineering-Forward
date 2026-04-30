@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [A Beginner’s Guide to Kubernetes](src/2026-04/20260430-a-beginner-s-guide-to-kubernetes.md)
 - [GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation.](src/2026-04/20260430-github-google-deepmind-proeval-proactive-failure-discovery-and-efficient-performance-estim.md)
 - [OpenAI Codex system prompt includes explicit directive to "never talk about goblins"](src/2026-04/20260429-openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins.md)
 - [Darwinian Specialization in AI](src/2026-04/20260429-darwinian-specialization-in-ai.md)
