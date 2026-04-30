@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [World-R1](src/2026-04/20260430-world-r1.md)
 - [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](src/2026-04/20260430-ladir-latent-diffusion-enhances-llms-for-text-reasoning.md)
 - [Lessons on Building MCP Servers](src/2026-04/20260429-lessons-on-building-mcp-servers.md)
 - [Granite 4.1 LLMs: How They’re Built](src/2026-04/20260430-granite-4-1-llms-how-they-re-built.md)

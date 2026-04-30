@@ -1,3 +1,6 @@
+## 0.0.1570 - 2026-04-30
+- Process article: World-R1
+
 ## 0.0.1569 - 2026-04-30
 - Process article: LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning
 
