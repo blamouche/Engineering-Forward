@@ -1,3 +1,6 @@
+## 0.0.1578 - 2026-04-30
+- Process article: Compound Engineering: The Definitive Guide
+
 ## 0.0.1577 - 2026-04-30
 - Process article: Vibe Check: GPT-5.5 Has It All
 

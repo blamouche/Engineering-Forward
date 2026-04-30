@@ -1095,7 +1095,8 @@ P22-12 | █ 2<br>
 - [How I Built an Autonomous AI Agent Team That Runs 24/7](src/2026-03/20260212-how-i-built-an-autonomous-ai-agent-team-that-runs-24-7.md)
 - [Marc Andreessen: The Real AI Boom Hasn't Even Started Yet](src/2026-03/20260129-marc-andreessen-the-real-ai-boom.md)
 
-#### February (149 articles)
+#### February (150 articles)
+- [Compound Engineering: The Definitive Guide](src/2026-02/20260209-compound-engineering-the-definitive-guide.md)
 - [Perplexity Computer and the rise of the digital worker](src/2026-02/20260228-perplexity-computer-and-the-rise-of-digital-worker.md)
 - [MCP Is Dead, Long Live the CLI](src/2026-02/20260228-mcp-is-dead-long-live-the-cli.md)
 - [DeerFlow: ByteDance's Open-Source Super Agent Harness](src/2026-02/20260228-deerflow-bytedance-super-agent.md)
