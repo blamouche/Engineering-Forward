@@ -1,3 +1,6 @@
+## 0.0.1536 - 2026-04-30
+- Process article: Help! My boss is addicted to ChatGPT and Claude
+
 ## 0.0.1535 - 2026-04-30
 - Process article: Meet the startups using AI to discover new materials
 
