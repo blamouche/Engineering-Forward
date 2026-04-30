@@ -10027,3 +10027,10 @@
 - files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; resolved TLDR/Substack links with `curl -Ls -o /dev/null -w`; `LIST.md`; `gog gmail batch modify 19dddec74678bd34 19ddde47e3678fee --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the refreshed queue and prompt-hub tracking.
+
+## 2026-04-30 15:04:58 +0200
+- actor: agent
+- action: Scan-list article fetch failed for the Bloomberg iOS/macOS AI photo editing story because Bloomberg returned a bot-check page, so the URL was removed from LIST.md and recorded for the batch recap.
+- files_changed_or_commands: `LIST.md`; `web_fetch https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: failed
+- next_step: Continue with the next queued URL.

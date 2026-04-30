@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe
 https://cursor.com/blog/typescript-sdk
 https://github.com/stripe/link-cli
 https://tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai

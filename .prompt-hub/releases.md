@@ -1,3 +1,6 @@
+## 0.0.1544 - 2026-04-30
+- Process article error: https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe
+
 ## 0.0.1543 - 2026-04-30
 - Daily veille IA: synced the repo, read 2 Gmail message(s), extracted 12 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 2 processed email(s).
 
