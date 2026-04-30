@@ -9950,3 +9950,10 @@
 - files_changed_or_commands: .prompt-hub/todo/todo-20260430-080214-daily-veille-ia-extraire-urls.md; read .prompt-hub/lessons.md, .prompt-hub/memory.md, .prompt-hub/releases.md, agents.md
 - outcome: success
 - next_step: Ensure the repo is clean/synced, then fetch Gmail bodies and update LIST.md.
+
+## 2026-04-30 08:05:39 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo first, processed 1 Gmail message from the veille label, extracted 2 relevant Sifted article URLs, removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+- files_changed_or_commands: `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19ddc9b39146806c --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260430-080214-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
