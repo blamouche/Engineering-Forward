@@ -1,3 +1,6 @@
+## 0.0.1552 - 2026-04-30
+- Process article: Amazon chips no longer just a side dish, they're a $20B biz
+
 ## 0.0.1551 - 2026-04-30
 - Process article: The Zig project's rationale for their firm anti-AI contribution policy
 

@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (670 articles)
+#### April (671 articles)
+- [Amazon chips no longer just a side dish, they're a $20B biz](src/2026-04/20260429-amazon-chips-no-longer-just-a-side-dish-they-re-a-20b-biz.md)
 - [The Zig project's rationale for their firm anti-AI contribution policy](src/2026-04/20260430-the-zig-project-s-rationale-for-their-firm-anti-ai-contribution-policy.md)
 - [GitHub is sinking](src/2026-04/20260429-github-is-sinking.md)
 - [Agents can now create Cloudflare accounts, buy domains, and deploy](src/2026-04/20260430-agents-can-now-create-cloudflare-accounts-buy-domains-and-deploy.md)
