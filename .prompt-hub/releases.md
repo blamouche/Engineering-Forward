@@ -1,3 +1,6 @@
+## 0.0.1580 - 2026-04-30
+- Add batch recap: 2026-04-30 180652
+
 ## 0.0.1579 - 2026-04-30
 - Process article: The Pulse: token spend breaks budgets – what next?
 
