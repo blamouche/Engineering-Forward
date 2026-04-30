@@ -1,3 +1,6 @@
+## 0.0.1555 - 2026-04-30
+- Process article: PRAGMA Deep Dive: Revolut's AI Foundation Model
+
 ## 0.0.1554 - 2026-04-30
 - Process article: Google UCP Wins Agentic Commerce Protocol War
 
