@@ -1,3 +1,6 @@
+## 0.0.1568 - 2026-04-30
+- Process article: Lessons on Building MCP Servers
+
 ## 0.0.1567 - 2026-04-30
 - Process article: Granite 4.1 LLMs: How They’re Built
 
