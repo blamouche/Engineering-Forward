@@ -10020,3 +10020,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260430-140219-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.
+
+## 2026-04-30 14:02:19 +0200
+- actor: agent
+- action: Daily veille IA run: restored a clean synced repo state, read 2 Gmail message(s), extracted 12 relevant AI/app-dev URL(s), updated `LIST.md` with normalization and dedupe, removed 0 off-topic URL(s), and trashed 2 processed email(s).
+- files_changed_or_commands: `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; resolved TLDR/Substack links with `curl -Ls -o /dev/null -w`; `LIST.md`; `gog gmail batch modify 19dddec74678bd34 19ddde47e3678fee --add TRASH --no-input --force`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the refreshed queue and prompt-hub tracking.
