@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (671 articles)
+#### April (672 articles)
+- [Stripe Is Building Visa for AI Agents](src/2026-04/20260430-stripe-is-building-visa-for-ai-agents.md)
 - [Amazon chips no longer just a side dish, they're a $20B biz](src/2026-04/20260429-amazon-chips-no-longer-just-a-side-dish-they-re-a-20b-biz.md)
 - [The Zig project's rationale for their firm anti-AI contribution policy](src/2026-04/20260430-the-zig-project-s-rationale-for-their-firm-anti-ai-contribution-policy.md)
 - [GitHub is sinking](src/2026-04/20260429-github-is-sinking.md)
