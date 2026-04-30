@@ -9923,3 +9923,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260430-050000-substack-post-recents.md`; reviewed 15 `src/**/*.md` files from `README.md`; `substack/20260430-post-the-agent-stack-is-colliding-with-reality.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: commit and push the Substack post.
+
+## 2026-04-30 06:07:50 +0200
+- actor: agent
+- action: Initialized the scheduled veille IA run, loaded prompt-hub context, created the task log, and prepared the cleanup commit required before touching LIST.md because the repo was no longer clean.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260430-060738-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`.
+- outcome: success
+- next_step: Commit and push the pending local tracking, then pull/rebase before Gmail extraction.

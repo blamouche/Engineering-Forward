@@ -1,3 +1,6 @@
+## 0.0.1530 - 2026-04-30
+- Chore: sync pending local changes before veille IA.
+
 ## 0.0.1529 - 2026-04-30
 - Add substack post: The agent stack is colliding with reality
 
