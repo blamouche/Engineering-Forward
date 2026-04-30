@@ -9916,3 +9916,10 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-30 05:00:00 +0200
+- actor: agent
+- action: Substack recents run: reviewed the 15 most recent README articles, wrote a new essay on agents hitting production reality, synced `substack/latest.md`, and prepared the versioned prompt-hub artifacts for the final commit/push.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260430-050000-substack-post-recents.md`; reviewed 15 `src/**/*.md` files from `README.md`; `substack/20260430-post-the-agent-stack-is-colliding-with-reality.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: commit and push the Substack post.
