@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [Who Isn't Using GPT 5.5](src/2026-04/20260430-who-isn-t-using-gpt-5-5.md)
 - [A Beginner’s Guide to Kubernetes](src/2026-04/20260430-a-beginner-s-guide-to-kubernetes.md)
 - [GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation.](src/2026-04/20260430-github-google-deepmind-proeval-proactive-failure-discovery-and-efficient-performance-estim.md)
