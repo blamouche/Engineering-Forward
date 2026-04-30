@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### April (1 articles)
+- [Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis](src/2026-04/20260430-rewarding-the-scientific-process-process-level-reward-modeling-for-agentic-data-analysis.md)
 - [World-R1](src/2026-04/20260430-world-r1.md)
 - [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](src/2026-04/20260430-ladir-latent-diffusion-enhances-llms-for-text-reasoning.md)
 - [Lessons on Building MCP Servers](src/2026-04/20260429-lessons-on-building-mcp-servers.md)

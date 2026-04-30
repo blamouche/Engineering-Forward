@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2604.24198
 https://tomtunguz.com/inference-market-segmentation
 https://arstechnica.com/ai/2026/04/openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins
 https://github.com/google-deepmind/proeval

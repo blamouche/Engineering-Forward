@@ -1,3 +1,6 @@
+## 0.0.1571 - 2026-04-30
+- Process article: Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis
+
 ## 0.0.1570 - 2026-04-30
 - Process article: World-R1
 
