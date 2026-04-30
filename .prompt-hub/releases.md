@@ -1,3 +1,6 @@
+## 0.0.1573 - 2026-04-30
+- Process article: OpenAI Codex system prompt includes explicit directive to "never talk about goblins"
+
 ## 0.0.1572 - 2026-04-30
 - Process article: Darwinian Specialization in AI
 
