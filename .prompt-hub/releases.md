@@ -1,3 +1,6 @@
+## 0.0.1572 - 2026-04-30
+- Process article: Darwinian Specialization in AI
+
 ## 0.0.1571 - 2026-04-30
 - Process article: Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis
 
