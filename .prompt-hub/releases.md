@@ -1,3 +1,6 @@
+## 0.0.1557 - 2026-04-30
+- Finalize scan-list task log after recap verification and push.
+
 ## 0.0.1556 - 2026-04-30
 - Add batch recap: 2026-04-30 150458
 
