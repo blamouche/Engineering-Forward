@@ -10111,3 +10111,10 @@
 - files_changed_or_commands: `https://linas.substack.com/p/revolut-pragma-foundation-model`; `src/2026-04/20260429-pragma-deep-dive-revolut-s-ai-foundation-model.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: Process the next URL in LIST.md or create the batch recap if none remain.
+
+## 2026-04-30 15:04:58 +0200
+- actor: agent
+- action: Scan-list run: synced the repo, processed 12 queued URLs from LIST.md with 11 successful syntheses and 1 fetch error, emptied LIST.md, and created synthesis/2026-04-30 - 150458 - batch recap.md.
+- files_changed_or_commands: .prompt-hub/todo/todo-20260430-150458-scan-list.md; LIST.md; created 11 src/2026-04/*.md synthesis files; updated README.md, .prompt-hub/version.md, .prompt-hub/releases.md, .prompt-hub/memory.md; created synthesis/2026-04-30 - 150458 - batch recap.md.
+- outcome: success
+- next_step: Verify the recap and push all remaining scan-list commits.
