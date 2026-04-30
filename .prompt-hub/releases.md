@@ -1,3 +1,6 @@
+## 0.0.1535 - 2026-04-30
+- Process article: Meet the startups using AI to discover new materials
+
 ## 0.0.1534 - 2026-04-30
 - Daily veille IA: synced the repo, processed 1 Gmail message, extracted 2 relevant AI/app-dev article URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
 

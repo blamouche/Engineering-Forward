@@ -9957,3 +9957,17 @@
 - files_changed_or_commands: `git add -A`; `git commit -m "Chore: sync pending local changes before veille IA"`; `git push origin main`; `git pull --rebase origin main`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md`; `gog gmail batch modify 19ddc9b39146806c --add TRASH --no-input --force`; `.prompt-hub/todo/todo-20260430-080214-daily-veille-ia-extraire-urls.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: none.
+
+## 2026-04-30 09:03:13 +0200
+- actor: agent
+- action: Initialized the 09:03 scan-list run after loading prompt-hub context, syncing the repo, creating the task log, and reading the 2 queued Sifted URLs from `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260430-090313-scan-list.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git pull --rebase`; `LIST.md`.
+- outcome: success
+- next_step: Process each queued URL in order, then create and verify the batch recap.
+
+## 2026-04-30 09:08:00 +0200
+- actor: agent
+- action: Processed the first queued scan-list URL, created the Sifted materials-discovery synthesis, updated `README.md` statistics/listing, and removed the source URL from `LIST.md`.
+- files_changed_or_commands: `https://sifted.eu/articles/meet-the-startups-using-ai-to-discover-new-materials`; `src/2026-04/20260430-meet-the-startups-using-ai-to-discover-new-materials.md`; `README.md`; `LIST.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `.prompt-hub/todo/todo-20260430-090313-scan-list.md`.
+- outcome: success
+- next_step: Process the remaining Sifted URL, then create the batch recap.
