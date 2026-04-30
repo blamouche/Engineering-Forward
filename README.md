@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### April (673 articles)
+#### April (1 articles)
+- [Google to sell TPU chips to 'select' customers in latest shot at Nvidia](src/2026-04/20260429-google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia.md)
 - [PRAGMA Deep Dive: Revolut's AI Foundation Model](src/2026-04/20260429-pragma-deep-dive-revolut-s-ai-foundation-model.md)
 - [Stripe Is Building Visa for AI Agents](src/2026-04/20260430-stripe-is-building-visa-for-ai-agents.md)
 - [Amazon chips no longer just a side dish, they're a $20B biz](src/2026-04/20260429-amazon-chips-no-longer-just-a-side-dish-they-re-a-20b-biz.md)

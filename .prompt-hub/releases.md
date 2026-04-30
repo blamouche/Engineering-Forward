@@ -1,3 +1,6 @@
+## 0.0.1562 - 2026-04-30
+- Process article: Google to sell TPU chips to 'select' customers in latest shot at Nvidia
+
 ## 0.0.1561 - 2026-04-30
 - Daily veille IA: synced the repo, read 3 Gmail message(s), extracted 5 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from `LIST.md`, and trashed 3 processed email(s).
 

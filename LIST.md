@@ -1,4 +1,3 @@
-https://finance.yahoo.com/markets/stocks/article/google-to-sell-tpu-chips-to-select-customers-in-latest-shot-at-nvidia-214900221.html
 https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
 https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-has-effectively-abandoned-first-party-stargate-data-centers-in-favor-of-more-flexible-deals-company-now-prefers-to-lease-compute-and-says-stargate-is-an-umbrella-term
 https://huggingface.co/blog/evaleval/eval-costs-bottleneck
