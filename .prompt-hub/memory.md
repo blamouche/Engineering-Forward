@@ -10301,3 +10301,10 @@
 - outcome: success
 - next_step: Commit recap changes, then push all local commits.
 
+
+## 2026-05-11 21:36:38 +0200
+- actor: agent
+- action: Initialized the 21:36 daily veille IA run after loading prompt-hub context, creating the task log, and detecting a dirty repo state that must be committed/pushed before updating `LIST.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260511-213638-daily-veille-ia-extraire-urls.md`; read `.prompt-hub/lessons.md`, `.prompt-hub/memory.md`, `.prompt-hub/releases.md`, `agents.md`; `git status --short --branch`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: Commit and push the prompt-hub tracking, then pull/rebase before Gmail extraction.
