@@ -1,3 +1,6 @@
+## 0.0.1585 - 2026-05-11
+- Add substack post: The next AI race is about operational discipline
+
 ## 0.0.1584 - 2026-05-11
 - Daily veille IA: synced the repo, processed Gmail label `0---veille-ia`, extracted 203 relevant AI/app-dev URL(s), removed 0 off-topic queued URL(s), and trashed processed email(s).
 
