@@ -1,4 +1,3 @@
-https://antirez.com/news/164
 https://ankitg.me/blog/2026/05/04/fuzzy_api.html
 https://basti.io/blog/agentic_work_mental_model
 https://blog.bytebytego.com/p/connecting-llms-to-the-real-world
