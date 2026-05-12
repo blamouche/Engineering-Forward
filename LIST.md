@@ -1,5 +1,3 @@
-https://openai.com/index/gpt-5-5-instant
-https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4
 https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag
 https://allenai.org/blog/molmoact2
 https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model
