@@ -1,4 +1,3 @@
-https://boristane.com/blog/slop-creep-enshittification-of-software
 https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
 https://www.testingcatalog.com/meta-prepares-hatch-agent-under-waitlist-and-social-media-skills
 https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows
