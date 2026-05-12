@@ -1,5 +1,3 @@
-https://openai.com/index/introducing-workspace-agents-in-chatgpt
-https://www.testingcatalog.com/anthropic-tests-jupiter-v1-p-before-potential-launch-on-may-6
 https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o
 https://www.testingcatalog.com/openai-adds-animated-pets-and-config-imports-to-codex
 https://simonwillison.net/2026/Apr/24/deepseek-v4
