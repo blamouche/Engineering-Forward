@@ -1,4 +1,3 @@
-https://simonwillison.net/2026/May/4/redis-array
 https://www.nytimes.com/2026/05/06/technology/anthropic-ceo-ai-growth.html?unlocked_article_code=1.glA.9i7R.Tn3bT1gTdXLl&smid=url-share
 https://wil.to/posts/googles-prompt-api
 https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code
