@@ -1,5 +1,3 @@
-https://openai.com/index/running-codex-safely
-https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai
 https://workos.com/blog/writing-my-first-evals
 https://workos.com/docs/authkit/cli-installer
 https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html?unlocked_article_code=1.hlA.e7db.KEPn-Z5TrBJl&smid=url-share
