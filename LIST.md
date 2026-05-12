@@ -1,4 +1,3 @@
-https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code
 https://github.com/modem-works/dream-recorder
 https://openai.com/index/gpt-5-5-instant
 https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4
