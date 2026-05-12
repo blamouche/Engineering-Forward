@@ -1,4 +1,3 @@
-https://nrehiew.github.io/blog/sft_rl_opd
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
 https://allenai.org/blog/emo
 https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro
