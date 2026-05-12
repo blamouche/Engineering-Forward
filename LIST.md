@@ -1,4 +1,3 @@
-https://crawshaw.io/blog/agent-principal-agent
 https://claude.com/blog/new-in-claude-managed-agents
 https://newsletter.pragmaticengineer.com/p/the-pulse-ai-load-breaks-github-why
 https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0?st=HGz7fS&reflink=desktopwebshare_permalink
