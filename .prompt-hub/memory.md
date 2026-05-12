@@ -10322,3 +10322,10 @@
 - files_changed_or_commands: `.prompt-hub/todo/todo-20260511-215800-substack-post-recents.md`; `git stash push -u -m 'pre-substack-recents-20260511-215800'`; `git pull --rebase origin main`; reviewed 15 `src/**/*.md` files from README; `substack/20260511-post-the-next-ai-race-is-about-operational-discipline.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
 - outcome: success
 - next_step: commit and push the Substack post.
+
+## 2026-05-12 22:33:00 +0200
+- actor: agent
+- action: Scan-list run: synced repo, processed 185 queued URLs from `LIST.md`, created 159 synthesis files, emptied `LIST.md`, created `synthesis/2026-05-12 - 223030 - batch recap.md`. 26 fetch errors (HTTP 401/403/429 from paywalled sites).
+- files_changed_or_commands: `git pull --rebase origin main`; 159 new `src/2026-05/*.md` synthesis files; updated `README.md`; emptied `LIST.md`; created batch recap at `synthesis/2026-05-12 - 223030 - batch recap.md`; updated `.prompt-hub/version.md` (0.0.1586), `.prompt-hub/releases.md`, `.prompt-hub/memory.md`.
+- outcome: success
+- next_step: none.

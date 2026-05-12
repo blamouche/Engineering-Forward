@@ -4771,3 +4771,6 @@
 
 ## 0.0.1359 - 2026-04-25
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); no new URL was added, `LIST.md` kept its existing relevant AI URL unchanged, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
+
+## 0.0.1586 - 2026-05-12
+- Scan-list run: processed 185 URLs, created 159 synthesis files (+ 26 FETCH_ERROR), emptied LIST.md, created synthesis/2026-05-12 - 223030 - batch recap.md
