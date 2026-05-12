@@ -1,4 +1,3 @@
-https://www.anthropic.com/research/natural-language-autoencoders
 https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs
 https://1984.substack.com/p/long-ai-short-agi
 https://openai.com/index/introducing-trusted-contact-in-chatgpt
