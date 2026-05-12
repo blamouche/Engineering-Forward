@@ -1,6 +1,3 @@
-https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html?unlocked_article_code=1.hlA.e7db.KEPn-Z5TrBJl&smid=url-share
-https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd?st=U6xP3h&reflink=desktopwebshare_permalink
-https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
 https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
 https://www.proofofconcept.pub/p/escape-from-agentic-loop
 https://arthurcornil.com/blog/ship-it-to-the-user
