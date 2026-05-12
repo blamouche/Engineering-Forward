@@ -1,5 +1,3 @@
-https://www.wsj.com/business/openai-sam-altman-ipo-sarah-friar-392c582b?mod=e2tw
-https://yiblet.com/posts/prompt-engineering-is-permanent
 https://acai.sh/blog/specsmaxxing
 https://linas.substack.com/p/anthropic-claude-study-ai-startup-playbook
 https://workos.com/lenny
