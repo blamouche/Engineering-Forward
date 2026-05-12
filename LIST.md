@@ -1,5 +1,3 @@
-https://openai.com/index/where-the-goblins-came-from
-https://blog.latch.bio/p/new-frontier-models-are-faster-not?triedRedirect=true
 https://qwen.ai/blog?id=qwen-scope
 https://pytorch.org/blog/lightseek-smg
 https://www.wsj.com/tech/ai-has-made-memory-chips-one-of-the-worlds-most-profitable-products-b062b5ba?st=BPfExk&reflink=desktopwebshare_permalink
