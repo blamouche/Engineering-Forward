@@ -1,4 +1,3 @@
-https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs
 https://1984.substack.com/p/long-ai-short-agi
 https://openai.com/index/introducing-trusted-contact-in-chatgpt
 https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
