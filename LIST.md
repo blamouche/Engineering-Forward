@@ -1,4 +1,3 @@
-https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai
 https://stratechery.com/2026/the-inference-shift/
 https://arxiv.org/abs/2605.08078
 https://github.com/zhengkid/AutoTTS
