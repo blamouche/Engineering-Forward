@@ -1,4 +1,3 @@
-https://linas.substack.com/p/agenticsingularity
 https://linas.substack.com/p/claudecodesource
 https://linas.substack.com/p/claudemd
 https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves
