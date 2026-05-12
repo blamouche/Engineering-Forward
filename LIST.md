@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/open-source-claude-design
 https://www.wsj.com/tech/ai/mark-zuckerberg-blames-slower-sales-on-war-layoffs-on-ai-costs-in-meeting-2e9f8cac?st=4p5AGA&reflink=desktopwebshare_permalink&mod=tldr
 https://www.axios.com/2026/04/29/zuckerberg-chan-biohub-philanthropy-ai-disease
 https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html?unlocked_article_code=1.e1A.zFGe.sWGP3oHShI4x
