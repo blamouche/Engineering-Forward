@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks
 https://claude.com/blog/claude-security-public-beta
 https://openai.com/index/where-the-goblins-came-from
 https://blog.latch.bio/p/new-frontier-models-are-faster-not?triedRedirect=true
