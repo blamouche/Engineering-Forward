@@ -1,4 +1,3 @@
-https://github.com/Manavarya09/design-extract
 https://www.theunwindai.com/p/anatomy-of-agent-skills
 https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 https://github.com/Shubhamsaboo/awesome-llm-apps
