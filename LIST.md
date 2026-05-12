@@ -1,4 +1,3 @@
-https://www.greaterwrong.com/posts/gcKhnqysxj9bBvbWD/how-did-large-language-models-get-that-way-the-role-of
 https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity
 https://github.com/intel/auto-round
 https://www.turingpost.com/p/clem-delangue-hugging-face-ai-builders
