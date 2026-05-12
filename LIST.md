@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-04-28/fda-plans-to-speed-up-drug-trials-with-real-time-data-ai
 https://github.com/EveryInc/compound-engineering-plugin
 https://github.com/blazickjp/arxiv-mcp-server
 https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks
