@@ -1,5 +1,3 @@
-https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof
-https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt
 https://openai.com/index/frontier-alliance-partners
 https://www.anthropic.com/news/enterprise-ai-services-company
 https://blog.bytebytego.com/p/how-instacart-built-a-search-for
