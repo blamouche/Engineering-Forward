@@ -1,4 +1,3 @@
-https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing
 https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof
 https://newsletter.pragmaticengineer.com/p/designing-data-intensive-applications-book-excerpt
 https://openai.com/index/frontier-alliance-partners
