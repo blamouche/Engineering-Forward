@@ -1,4 +1,3 @@
-https://lightfield.app/blog/introducing-skills
 https://sherwood.news/markets/akamai-anthropic-report-billion-dollar-cloud-deal-ai-compute
 https://www.testingcatalog.com/google-launches-gemini-3-1-flash-lite-in-general-availability
 https://productify.substack.com/p/why-mistralai-grows-faster-than-openaianthropic
