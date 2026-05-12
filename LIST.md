@@ -1,4 +1,3 @@
-https://allenai.org/blog/molmoact2
 https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model
 https://sherwood.news/markets/alphabet-gains-on-report-that-anthropics-committed-to-spending-200-billion-on-cloud-services-over-the-next-five-years
 https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models
