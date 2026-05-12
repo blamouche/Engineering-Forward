@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-personal-knowledge-management-with-an-ai-gardener
 https://www.chatprd.ai/how-i-ai/ryan-nystrom-notion-workflows-for-engineering-velocity
 https://www.chatprd.ai/how-i-ai/workflows/implement-features-using-spec-first-development-and-an-ai-coding-agent
 https://www.chatprd.ai/how-i-ai/workflows/from-notion-task-to-github-pull-request-in-20-minutes-with-a-coding-agent
