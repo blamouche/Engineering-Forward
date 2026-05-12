@@ -1,4 +1,3 @@
-https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla
 https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github
 https://crawshaw.io/blog/agent-principal-agent
 https://claude.com/blog/new-in-claude-managed-agents
