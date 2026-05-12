@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/build-a-personal-ai-app-to-track-purchases-and-user-manuals
 https://openai.com/index/introducing-workspace-agents-in-chatgpt
 https://www.testingcatalog.com/anthropic-tests-jupiter-v1-p-before-potential-launch-on-may-6
 https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o
