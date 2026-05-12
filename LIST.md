@@ -1,4 +1,3 @@
-https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
 https://thenextweb.com/news/google-blackstone-kkr-omnibus-ai-licensing-private-equity
 https://www.theregister.com/software/2026/05/04/ai-inference-just-plays-by-different-rules/5223647
 https://weightythoughts.com/p/world-models-can-change-everything
