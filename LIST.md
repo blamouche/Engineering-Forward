@@ -1,4 +1,3 @@
-https://www.bloomberg.com/news/articles/2026-05-05/ios-27-features-apple-plans-to-let-users-swap-models-across-apple-intelligence?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODAzOTcwNSwiZXhwIjoxNzc4NjQ0NTA1LCJhcnRpY2xlSWQiOiJURTg2MkhLSkg2VjQwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.eegzozjcbqpduzNbjCJzJF1A8VxioyR7jsnW5UBMCNs
 https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027
 https://ethanding.substack.com/p/claude-code-is-not-making-your-product
 https://eugeneyan.com/writing/working-with-ai
