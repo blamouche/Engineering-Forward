@@ -1,4 +1,3 @@
-https://pytorch.org/blog/lightseek-smg
 https://www.wsj.com/tech/ai-has-made-memory-chips-one-of-the-worlds-most-profitable-products-b062b5ba?st=BPfExk&reflink=desktopwebshare_permalink
 https://www.perplexity.ai/hub/blog/computer-at-work
 https://cursor.com/blog/continually-improving-agent-harness
