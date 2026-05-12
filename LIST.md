@@ -1,4 +1,3 @@
-https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base
 https://sites.google.com/view/llmwritingdistortion/home
 https://www.digitalocean.com/blog/powering-the-inference-era
 https://antirez.com/news/164
