@@ -1,4 +1,3 @@
-https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference
 https://www.anthropic.com/research/natural-language-autoencoders
 https://www.interconnects.ai/p/notes-from-inside-chinas-ai-labs
 https://1984.substack.com/p/long-ai-short-agi
