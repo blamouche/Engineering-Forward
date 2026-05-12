@@ -1,4 +1,3 @@
-https://github.com/onyx-dot-app/EnterpriseRAG-Bench
 https://www.testingcatalog.com/openai-launches-new-realtime-voice-and-translation-ai-models
 https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla
 https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github
