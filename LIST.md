@@ -1,4 +1,3 @@
-https://linas.substack.com/p/fintechpulse1077
 https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion
 https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the
 
