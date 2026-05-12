@@ -1,4 +1,3 @@
-https://weightythoughts.com/p/world-models-can-change-everything
 https://turbopuffer.com/blog/ann-v3
 https://openai.com/index/mrc-supercomputer-networking
 https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais
