@@ -1,4 +1,3 @@
-https://www.anthropic.com/news/finance-agents
 https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize
 https://github.com/Manavarya09/design-extract
 https://www.theunwindai.com/p/anatomy-of-agent-skills
