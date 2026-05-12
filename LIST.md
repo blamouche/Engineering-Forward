@@ -1,4 +1,3 @@
-https://1984.substack.com/p/long-ai-short-agi
 https://openai.com/index/introducing-trusted-contact-in-chatgpt
 https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users
 https://www.bloomberg.com/news/features/2026-05-07/three-mile-island-restart-moves-ahead-with-microsoft-ai-deal?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc3ODIxMTAzNCwiZXhwIjoxNzc4ODE1ODM0LCJhcnRpY2xlSWQiOiJURU9RRDZLSVVQWVAwMCIsImJjb25uZWN0SWQiOiJCMzZENUE5QzIxMDQ0NjU4OTFBMTc1MTVDRDNBQkZFNiJ9.c3S5dbsnrKEpaz9t6SU4PSlSaoYzQ4wgi37bcuf11nQ
