@@ -1,4 +1,3 @@
-https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
 https://www.testingcatalog.com/google-tests-screen-sharing-and-custom-agents-in-antigravity-ide
 https://www.macrumors.com/2026/05/06/google-search-ai-mode-expert-advice
 https://simonwillison.net/2026/May/4/redis-array
