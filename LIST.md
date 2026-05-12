@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/multi-agent-kanban-board-in-hermes-agent
 https://addyosmani.com/blog/agent-skills
 https://github.com/nexu-io/open-design
 https://www.wsj.com/business/openai-sam-altman-ipo-sarah-friar-392c582b?mod=e2tw
