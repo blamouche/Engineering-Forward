@@ -1,5 +1,3 @@
-https://openai.com/index/mrc-supercomputer-networking
-https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais
 https://webdirections.org/blog/the-problem-with-mathematically-proven-claims-about-llms
 https://thefinancialengineer.substack.com/p/the-april-every-ai-plan-broke
 https://www.harvey.ai/blog/introducing-harveys-legal-agent-benchmark
