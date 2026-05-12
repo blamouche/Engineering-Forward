@@ -1,4 +1,3 @@
-https://allenai.org/blog/emo
 https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro
 https://airbyte.com/blog/airbyte-agents
 https://openai.com/index/running-codex-safely
