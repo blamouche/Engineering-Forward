@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/anthropic-is-working-on-orbit-its-upcoming-proactive-assistant
 https://openrouter.ai/announcements/gpt55-cost-analysis
 https://openai.com/index/delivering-low-latency-voice-ai-at-scale
 https://github.com/facebookresearch/tuna-2
