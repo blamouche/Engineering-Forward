@@ -1,4 +1,3 @@
-https://www.macrumors.com/2026/05/05/openai-fast-tracking-ai-phone-2027
 https://ethanding.substack.com/p/claude-code-is-not-making-your-product
 https://eugeneyan.com/writing/working-with-ai
 https://www.testingcatalog.com/openai-launches-gpt-5-5-instant-as-new-chatgpt-default
