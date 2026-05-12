@@ -1,4 +1,3 @@
-https://airbyte.com/blog/airbyte-agents
 https://openai.com/index/running-codex-safely
 https://adlrocha.substack.com/p/adlrocha-in-a-quest-to-becoming-ai
 https://workos.com/blog/writing-my-first-evals
