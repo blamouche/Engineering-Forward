@@ -27,7 +27,6 @@ https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html?u
 https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd?st=U6xP3h&reflink=desktopwebshare_permalink
 https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs
 https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
-https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it
 https://www.proofofconcept.pub/p/escape-from-agentic-loop
 https://arthurcornil.com/blog/ship-it-to-the-user
 https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409
@@ -171,7 +170,6 @@ https://github.com/ammaarreshi/gemma-chat
 https://www.theunwindai.com/p/open-source-claude-design
 https://www.wsj.com/tech/ai/mark-zuckerberg-blames-slower-sales-on-war-layoffs-on-ai-costs-in-meeting-2e9f8cac?st=4p5AGA&reflink=desktopwebshare_permalink&mod=tldr
 https://www.axios.com/2026/04/29/zuckerberg-chan-biohub-philanthropy-ai-disease
-https://www.theregister.com/2026/04/30/mozilla_pushes_back_against_googles
 https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html?unlocked_article_code=1.e1A.zFGe.sWGP3oHShI4x
 https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models
 https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai
@@ -184,3 +182,5 @@ https://www.michaelnygard.com/blog/2026/05/ai-versus-microservices/
 https://linas.substack.com/p/fintechpulse1077
 https://www.bloomberg.com/news/articles/2026-05-11/sutskever-says-his-openai-stake-worth-about-7-billion
 https://newsletter.pragmaticengineer.com/p/revisiting-no-silver-bullets-in-the
+
+https://every.to/context-window/the-fallacy-of-the-16-hour-agent
