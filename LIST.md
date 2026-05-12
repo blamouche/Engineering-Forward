@@ -1,4 +1,3 @@
-https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity
 https://github.com/intel/auto-round
 https://www.turingpost.com/p/clem-delangue-hugging-face-ai-builders
 https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78?st=wk1err&reflink=desktopwebshare_permalink&mod=tldr
