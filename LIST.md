@@ -1,4 +1,3 @@
-https://turbopuffer.com/blog/ann-v3
 https://openai.com/index/mrc-supercomputer-networking
 https://drtompollak.substack.com/p/all-the-demons-hiding-in-your-ais
 https://webdirections.org/blog/the-problem-with-mathematically-proven-claims-about-llms
