@@ -1,4 +1,3 @@
-https://cursor.com/blog/typescript-sdk
 https://github.com/supermemoryai/smfs
 https://openai.com/index/open-source-codex-orchestration-symphony
 https://github.com/ammaarreshi/gemma-chat
