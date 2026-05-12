@@ -1,4 +1,3 @@
-https://github.com/EveryInc/compound-engineering-plugin
 https://github.com/blazickjp/arxiv-mcp-server
 https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks
 https://claude.com/blog/claude-security-public-beta
