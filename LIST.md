@@ -1,4 +1,3 @@
-https://linas.substack.com/p/claude-cowork-commands-automations-playbook
 https://linas.substack.com/p/claude-usage-limits-system
 https://linas.substack.com/p/agenticsingularity
 https://linas.substack.com/p/claudecodesource
