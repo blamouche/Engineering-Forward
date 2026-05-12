@@ -1,4 +1,3 @@
-https://workos.com/blog/writing-my-first-evals
 https://workos.com/docs/authkit/cli-installer
 https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html?unlocked_article_code=1.hlA.e7db.KEPn-Z5TrBJl&smid=url-share
 https://www.wsj.com/tech/openai-employee-stock-sales-71ed10bd?st=U6xP3h&reflink=desktopwebshare_permalink
