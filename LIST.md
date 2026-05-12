@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/john-kims-playbook-for-ai-transformation
 https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-personal-ai-generated-learning-center-on-any-topic
 https://www.chatprd.ai/how-i-ai/workflows/how-to-automate-personal-knowledge-management-with-an-ai-gardener
 https://www.chatprd.ai/how-i-ai/ryan-nystrom-notion-workflows-for-engineering-velocity
