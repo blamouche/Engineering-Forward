@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2605.08078
 https://github.com/zhengkid/AutoTTS
 https://github.com/openclaw/Peekaboo
 https://openai.com/daybreak/
