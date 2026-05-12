@@ -1,4 +1,3 @@
-https://ethanding.substack.com/p/claude-code-is-not-making-your-product
 https://eugeneyan.com/writing/working-with-ai
 https://www.testingcatalog.com/openai-launches-gpt-5-5-instant-as-new-chatgpt-default
 https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing
