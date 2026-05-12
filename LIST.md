@@ -1,6 +1,3 @@
-https://www.wsj.com/tech/ai-has-made-memory-chips-one-of-the-worlds-most-profitable-products-b062b5ba?st=BPfExk&reflink=desktopwebshare_permalink
-https://www.perplexity.ai/hub/blog/computer-at-work
-https://cursor.com/blog/continually-improving-agent-harness
 https://cursor.com/blog/typescript-sdk
 https://github.com/supermemoryai/smfs
 https://openai.com/index/open-source-codex-orchestration-symphony
