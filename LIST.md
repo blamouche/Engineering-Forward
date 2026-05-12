@@ -1,4 +1,3 @@
-https://acai.sh/blog/specsmaxxing
 https://linas.substack.com/p/anthropic-claude-study-ai-startup-playbook
 https://workos.com/lenny
 https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
