@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/automate-daily-standup-preparation-with-a-custom-notion-ai-agent
 https://blog.bytebytego.com/p/how-pinterest-built-a-production
 https://lightfield.app/blog/introducing-skills
 https://sherwood.news/markets/akamai-anthropic-report-billion-dollar-cloud-deal-ai-compute
