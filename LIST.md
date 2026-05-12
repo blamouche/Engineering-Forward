@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/google-is-testing-new-omni-model-for-video-generation-ahead-of-i-o
 https://www.testingcatalog.com/openai-adds-animated-pets-and-config-imports-to-codex
 https://simonwillison.net/2026/Apr/24/deepseek-v4
 https://sites.diy/blog/2026-05-01-coding-plan-comparisons
