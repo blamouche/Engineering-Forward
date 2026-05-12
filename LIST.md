@@ -1,7 +1,3 @@
-https://www.wsj.com/tech/ai/mark-zuckerberg-blames-slower-sales-on-war-layoffs-on-ai-costs-in-meeting-2e9f8cac?st=4p5AGA&reflink=desktopwebshare_permalink&mod=tldr
-https://www.axios.com/2026/04/29/zuckerberg-chan-biohub-philanthropy-ai-disease
-https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html?unlocked_article_code=1.e1A.zFGe.sWGP3oHShI4x
-https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models
 https://danielmiessler.com/blog/the-main-path-to-truly-creative-ai
 https://stratechery.com/2026/the-inference-shift/
 https://arxiv.org/abs/2605.08078
