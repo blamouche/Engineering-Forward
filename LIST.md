@@ -1,4 +1,3 @@
-https://github.com/lahfir/agent-desktop
 https://github.com/heardlabs/heard
 https://www.theunwindai.com/p/multi-agent-kanban-board-in-hermes-agent
 https://addyosmani.com/blog/agent-skills
