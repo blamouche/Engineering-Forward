@@ -1,6 +1,3 @@
-https://www.wsj.com/tech/ai/top-ai-companies-agree-to-pentagon-deals-for-classified-work-9c621e78?st=wk1err&reflink=desktopwebshare_permalink&mod=tldr
-https://www.wsj.com/business/deals/anthropic-nears-1-5-billion-joint-venture-with-wall-street-firms-8f5448ee?st=aQK9fx&reflink=desktopwebshare_permalink&mod=tldr
-https://avkcode.github.io/blog/how-vllm-works.html
 https://github.com/JuliusBrussee/caveman
 https://github.com/browser-use/browser-harness
 https://github.com/aattaran/deepclaude
