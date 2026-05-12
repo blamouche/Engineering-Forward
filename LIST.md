@@ -1,4 +1,3 @@
-https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github
 https://crawshaw.io/blog/agent-principal-agent
 https://claude.com/blog/new-in-claude-managed-agents
 https://newsletter.pragmaticengineer.com/p/the-pulse-ai-load-breaks-github-why
