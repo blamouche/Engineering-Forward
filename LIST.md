@@ -1,4 +1,3 @@
-https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory
 https://boristane.com/blog/slop-creep-enshittification-of-software
 https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
 https://www.testingcatalog.com/meta-prepares-hatch-agent-under-waitlist-and-social-media-skills
