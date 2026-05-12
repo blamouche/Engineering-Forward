@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts
 https://developers.openai.com/cookbook/examples/voice_solutions/realtime_translation_guide
 https://nrehiew.github.io/blog/sft_rl_opd
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
