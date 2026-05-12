@@ -1,4 +1,3 @@
-https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures
 https://www.proofofconcept.pub/p/escape-from-agentic-loop
 https://arthurcornil.com/blog/ship-it-to-the-user
 https://www.theregister.com/oses/2026/05/10/both-fedora-and-ubuntu-will-get-ai-support-soon/5237409
