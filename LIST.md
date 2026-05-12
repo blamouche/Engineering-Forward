@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves
 https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design
 https://www.danshapiro.com/blog/2026/01/the-five-levels-from-spicy-autocomplete-to-the-software-factory
 https://boristane.com/blog/slop-creep-enshittification-of-software
