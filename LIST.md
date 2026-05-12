@@ -1,4 +1,3 @@
-https://www.chatprd.ai/how-i-ai/workflows/how-to-connect-a-design-system-to-an-ai-code-editor-for-high-fidelity-prototypes
 https://www.chatprd.ai/how-i-ai/workflows/streamline-design-reviews-with-an-ai-powered-prototyping-studio
 https://www.chatprd.ai/how-i-ai/workflows/build-a-personal-ai-app-to-track-purchases-and-user-manuals
 https://openai.com/index/introducing-workspace-agents-in-chatgpt
