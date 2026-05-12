@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/the-pulse-ai-load-breaks-github-why
 https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0?st=HGz7fS&reflink=desktopwebshare_permalink
 https://lightseek.org/blog/lightseek-tokenspeed.html
 https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections

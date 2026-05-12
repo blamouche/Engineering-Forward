@@ -1,5 +1,5 @@
 # The Pulse: AI load breaks GitHub
-**Source**: https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github
+**Source**: https://newsletter.pragmaticengineer.com/p/the-pulse-ai-load-breaks-github-why
 **Date**: Unknown
 **Author**: Unknown
 **Keywords**: AI, technology
@@ -15,4 +15,4 @@ GitHub’s leadership blames the 3.5x increase in service load as the cause of d
 - The material has relevance for decision-makers evaluating technology strategy
 
 ## Synthesis
-This article from the original source at https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github covers important developments. The content addresses key themes including technology evolution, practical implementation strategies, and implications for the engineering community. Readers will find value in understanding how these developments fit into the broader context of AI advancement and organizational adaptation.
+This article from the original source at https://newsletter.pragmaticengineer.com/p/the-pulse-ai-load-breaks-github-why covers important developments. The content addresses key themes including technology evolution, practical implementation strategies, and implications for the engineering community. Readers will find value in understanding how these developments fit into the broader context of AI advancement and organizational adaptation.
