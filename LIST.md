@@ -1,4 +1,3 @@
-https://developers.openai.com/cookbook/examples/voice_solutions/realtime_translation_guide
 https://nrehiew.github.io/blog/sft_rl_opd
 https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
 https://allenai.org/blog/emo
