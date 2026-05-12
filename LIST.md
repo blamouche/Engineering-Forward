@@ -1,4 +1,3 @@
-https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag
 https://allenai.org/blog/molmoact2
 https://www.testingcatalog.com/google-prepares-new-upgrades-for-gemini-flash-model
 https://sherwood.news/markets/alphabet-gains-on-report-that-anthropics-committed-to-spending-200-billion-on-cloud-services-over-the-next-five-years
