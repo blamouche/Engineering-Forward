@@ -1,4 +1,3 @@
-https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://www.theunwindai.com/
 https://www.theunwindai.com/p/llm-with-12m-context-window
