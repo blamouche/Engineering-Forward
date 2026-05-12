@@ -1,4 +1,3 @@
-https://openrouter.ai/announcements/gpt55-cost-analysis
 https://openai.com/index/delivering-low-latency-voice-ai-at-scale
 https://github.com/facebookresearch/tuna-2
 https://vercel.com/blog/introducing-deepsec-find-and-fix-vulnerabilities-in-your-code-base
