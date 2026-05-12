@@ -1,4 +1,3 @@
-https://tectontide.com/en/blog/codex-goal-six-hour-run
 https://www.seancai.com/philosophy/good_qc_rl_data
 https://deepmind.google/blog/alphaevolve-impact
 https://github.com/antirez/ds4
