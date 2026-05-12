@@ -1,4 +1,3 @@
-https://deepmind.google/blog/alphaevolve-impact
 https://github.com/antirez/ds4
 https://pytorch.org/blog/in-kernel-broadcast-optimization-co-designing-kernels-for-recsys-inference
 https://www.anthropic.com/research/natural-language-autoencoders
