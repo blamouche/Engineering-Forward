@@ -1,4 +1,3 @@
-https://github.com/browser-use/browser-harness
 https://github.com/aattaran/deepclaude
 https://github.com/browser-use/desktop-app
 https://github.com/lahfir/agent-desktop
