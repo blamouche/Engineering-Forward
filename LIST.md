@@ -1,4 +1,3 @@
-https://github.com/aattaran/deepclaude
 https://github.com/browser-use/desktop-app
 https://github.com/lahfir/agent-desktop
 https://github.com/heardlabs/heard
