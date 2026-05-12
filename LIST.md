@@ -1,4 +1,3 @@
-https://workos.com/lenny
 https://www.lennysnewsletter.com/p/he-saved-openai-bret-taylor
 https://www.lennysnewsletter.com/p/why-humans-are-ais-biggest-bottleneck
 https://www.bloomberg.com/news/articles/2026-04-28/fda-plans-to-speed-up-drug-trials-with-real-time-data-ai
