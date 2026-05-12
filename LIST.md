@@ -1,4 +1,3 @@
-https://www.theunwindai.com/p/anatomy-of-agent-skills
 https://github.com/yizhiyanhua-ai/fireworks-tech-graph
 https://github.com/Shubhamsaboo/awesome-llm-apps
 https://www.theunwindai.com/
