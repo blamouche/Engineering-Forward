@@ -36,7 +36,7 @@ P22-12 | █ 2<br>
 - [The $725 Billion AI Spending Surge Is Missing the Real Bottleneck](src/2026-04/20260430-the-725-billion-ai-spending-surge-real-bottleneck.md)- [The Pulse: token spend breaks budgets – what next?](src/2026-04/20260430-the-pulse-token-spend-breaks-budgets-what-next.md)
 - [Musk Loses Myth, Cloud Buys Time, Agents Pay Rent](src/2026-04/20260430-musk-loses-myth-cloud-buys-time-agents-pay-rent.md)- [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [OpenAI Has Already Created 300+ Decamillionaires Before Going Public](src/2026-04/20260430-openai-300-decamilionaires-before-ipo.md)- [Who Isn't Using GPT 5.5](src/2026-04/20260430-who-isn-t-using-gpt-5-5.md)
-- [A Beginner’s Guide to Kubernetes](src/2026-04/20260430-a-beginner-s-guide-to-kubernetes.md)
+- [Google Ran Out of Cloud: Big Tech $130B Q1 AI Spending Spree](src/2026-04/20260430-google-ran-out-of-cloud-big-tech-ai-earnings.md)- [A Beginner’s Guide to Kubernetes](src/2026-04/20260430-a-beginner-s-guide-to-kubernetes.md)
 - [GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation.](src/2026-04/20260430-github-google-deepmind-proeval-proactive-failure-discovery-and-efficient-performance-estim.md)
 - [OpenAI Codex system prompt includes explicit directive to "never talk about goblins"](src/2026-04/20260429-openai-codex-system-prompt-includes-explicit-directive-to-never-talk-about-goblins.md)
 - [Darwinian Specialization in AI](src/2026-04/20260429-darwinian-specialization-in-ai.md)
