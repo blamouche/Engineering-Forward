@@ -29,6 +29,9 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
+#### May (1 article)
+- [The 90 Day Disclosure Policy Is Dead](src/2026-05/20260509-the-90-day-disclosure-policy-is-dead.md)
+
 #### April (1 articles)
 - [The Pulse: token spend breaks budgets – what next?](src/2026-04/20260430-the-pulse-token-spend-breaks-budgets-what-next.md)
 - [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
