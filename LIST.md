@@ -1,4 +1,3 @@
-https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google
 https://vercel.com/blog/ai-gateway-production-index
 https://www.alphaxiv.org/blog/reinforcement-learning-for-rlms
 https://www.anthropic.com/news/claude-for-small-business
