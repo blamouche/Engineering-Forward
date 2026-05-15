@@ -1,26 +1,26 @@
-# DeepMind Spinout Isomorphic Labs Raises $2.1bn
+# DeepMind spinout Isomorphic Labs raises $2.1bn
 **Source**: https://sifted.eu/articles/isomorphic-labs-2-1bn
 **Date**: May 12, 2026
 **Author**: Freya Pratty
-**Keywords**: Isomorphic Labs, AI drug discovery, DeepMind, AlphaFold, biotech funding, Thrive Capital, UK Sovereign AI fund, Series B
+**Keywords**: Isomorphic Labs, DeepMind, AlphaFold, drug discovery, AI biotech, fundraising, Thrive Capital
 
 ## Elevator pitch
-Isomorphic Labs, the DeepMind spinout using AlphaFold technology for AI-designed drugs, has raised a $2.1 billion Series B led by Thrive Capital, with participation from the UK's Sovereign AI fund, Abu Dhabi's MGX, GV, and Temasek, marking one of Europe's largest AI biotech funding rounds.
+DeepMind's drug discovery spinout Isomorphic Labs has raised a $2.1 billion Series B led by Thrive Capital, with participation from the UK's Sovereign AI fund, MGX, GV, and Temasek, marking a major escalation in AI-powered pharmaceutical research funding.
 
 ## Takeaways
-- The $2.1bn round comes just one year after Isomorphic's first external capital raise of $600m, both led by Thrive Capital and GV, signaling explosive growth in investor appetite for AI-driven drug discovery.
-- Isomorphic spun out from Google DeepMind in 2021 because drug discovery requires a fundamentally different workforce (chemists, pharmacologists, biologists) that DeepMind's ML researcher/engineer career ladder couldn't support.
-- The company competes with other AI drug discovery players including OpenAI, which released its own life sciences model earlier this year.
-- Isomorphic has signed pharmaceutical partnerships with Eli Lilly and Novartis and has entered pre-clinical trials, with founder Demis Hassabis having previously indicated ambitions for clinical trials.
-- The involvement of the UK's Sovereign AI fund highlights the strategic national importance placed on AI-powered biotech capabilities.
+- The $2.1bn raise follows a $600m round in May 2025, both led by Thrive Capital, signaling rapid valuation growth for the AlphaFold-powered drug discovery platform.
+- UK's Sovereign AI fund, Abu Dhabi's MGX, Alphabet's GV, and Singapore's Temasek all participated, reflecting broad sovereign and strategic interest in AI biotech.
+- Isomorphic competes directly with OpenAI, which released its own life sciences model earlier in 2026.
+- The company has signed deals with Eli Lilly and Novartis and has started pre-clinical trials, with founder Demis Hassabis having indicated initial clinical trial ambitions.
+- Isomorphic spun out from DeepMind in 2021 specifically to build a different talent mix — chemists, pharmacologists, and biologists alongside ML researchers — and create a distinct culture optimized for drug discovery.
 
 ## Synthesis
-The $2.1 billion Series B raise by Isomorphic Labs represents a watershed moment for AI-powered drug discovery in Europe. Led by US venture firm Thrive Capital with participation from sovereign and state-backed funds including the UK's Sovereign AI fund, Abu Dhabi's MGX, Alphabet's GV, and Singapore's Temasek, the round underscores both the commercial promise and the geopolitical significance of applying artificial intelligence to pharmaceutical development.
+Isomorphic Labs, the AI-powered drug discovery company spun out of Google DeepMind, has secured a massive $2.1 billion Series B round, cementing its position as one of Europe's most heavily funded AI biotech ventures. The round was led by US venture firm Thrive Capital, with additional investment from the UK's Sovereign AI fund, Abu Dhabi's MGX, Alphabet's GV, and Singapore's Temasek.
 
-Isomorphic Labs was founded in 2021 as a spinout from Google DeepMind, the brainchild of DeepMind founder Demis Hassabis and former Isomorphic president Colin Murdoch. The company's technological foundation rests on AlphaFold, DeepMind's revolutionary AI system for predicting protein structures—a breakthrough that earned Hassabis and John Jumper the 2024 Nobel Prize in Chemistry. By building a drug discovery platform atop this capability, Isomorphic aims to dramatically accelerate and improve the traditionally slow, expensive, and failure-prone process of developing new medicines.
+The raise represents a dramatic escalation from the company's $600 million raise in May 2025, which was also led by Thrive Capital and GV. The rapid succession of large rounds reflects both the perceived potential of AI-designed drugs and the intense competition emerging in the space — OpenAI released its own life sciences model earlier in 2026, directly competing with Isomorphic's platform.
 
-The rationale for spinning out rather than housing drug discovery within DeepMind is instructive. As Murdoch explained in a previous Sifted interview, effective drug design requires chemists, pharmacologists, and biologists—disciplines for which DeepMind, fundamentally an ML research lab, had no career progression path. The spinout structure allowed Isomorphic to establish a distinct mission, culture, and talent pipeline tailored to pharmaceutical R&D while maintaining deep ties to DeepMind's AI capabilities.
+Isomorphic was founded in 2021 as a spinout from DeepMind, the brainchild of Colin Murdoch (former president) and Demis Hassabis (DeepMind founder and CEO). The company builds its drug discovery platform on top of DeepMind's groundbreaking AlphaFold technology, which predicts protein structures with unprecedented accuracy.
 
-The competitive landscape is intensifying rapidly. OpenAI entered the life sciences space with its own model earlier in 2026, positioning AI drug discovery as one of the most commercially significant battlegrounds for foundation model companies. Isomorphic's partnerships with pharmaceutical giants Eli Lilly and Novartis provide both validation and revenue pathways, while the progression into pre-clinical trials represents a crucial step toward demonstrating real-world therapeutic impact.
+The rationale for spinning out rather than keeping the work within DeepMind was deliberately strategic. As Murdoch explained to Sifted, drug discovery requires a fundamentally different talent mix — chemists, pharmacologists, and biologists — for whom DeepMind's ML researcher career ladder made little sense. The spinout enabled a clearer mission and distinct culture.
 
-The $2.1bn round, following a $600m raise just twelve months prior, suggests both the capital intensity of AI-biotech convergence and investor conviction that the returns justify the investment. The UK Sovereign AI fund's participation carries particular weight—it signals that governments view AI-powered life sciences as a domain of strategic autonomy, where domestic capability in both AI and drug discovery confers national resilience. As Isomorphic advances toward clinical trials, its progress will serve as a bellwether for whether AI can truly deliver on the promise of faster, cheaper, and more effective drug development.
+Isomorphic has already signed partnerships with major pharmaceutical companies including Eli Lilly and Novartis. Hassabis had previously indicated that Isomorphic would enter clinical trials with proposed drugs by end of 2025, later clarifying these are pre-clinical trials, which the company has now started. The $2.1bn raise positions Isomorphic to accelerate toward actual clinical trials while competing against well-funded rivals including OpenAI's life sciences initiative.

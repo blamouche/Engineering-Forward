@@ -1,4 +1,3 @@
-https://sifted.eu/articles/isomorphic-labs-2-1bn
 https://sifted.eu/articles/europe-ai-startup-hiring-big-tech
 https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools
 https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026
