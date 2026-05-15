@@ -1,4 +1,3 @@
-https://linas.substack.com/p/claude-cowork-commands-automations-playbook
 https://linas.substack.com/p/claudecowork
 https://newsletter.pragmaticengineer.com/p/ai-tooling-2026?open=false
 https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development
