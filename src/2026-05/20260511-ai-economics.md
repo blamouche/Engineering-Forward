@@ -1,28 +1,35 @@
-# AI economics
+# AI Economics
 **Source**: https://sriramkrishnan.substack.com/p/ai-economics
 **Date**: 2026-05-11
 **Author**: Sriram Krishnan
-**Keywords**: AI economics, OpenAI, Anthropic, xAI, Meta, Google, Microsoft, Amazon, GPU infrastructure, token economics, inference costs, training costs, cloud providers, AI business models
+**Keywords**: AI economics, OpenAI, Anthropic, xAI, Meta, Google, Microsoft, Amazon, tokens per watt, revenue per token, inference, training, GPU, cloud infrastructure
 
 ## Elevator pitch
-Each major AI lab faces a structurally different economic challenge—OpenAI struggles with low-revenue consumer usage mix, Anthropic with GPU supply constraints, and xAI with massive capacity but zero demand—while the fundamental question of who will fund the next training cluster remains unanswered for every lab.
+Sriram Krishnan deconstructs the AI industry's emerging economic framework, mapping each major lab's strategic position around the core tension between supply-side efficiency (tokens per watt) and demand-side monetization (revenue per token), with no lab yet reaching the self-funding threshold for their next training cluster.
 
 ## Takeaways
-- OpenAI's 900M monthly active users create a usage mix problem: high consumer volume means low revenue per token and compounding inference costs from free/low-value prompts
-- Anthropic's enterprise-heavy base (300K+ businesses, 1,000+ spending over $1M/year) gives great revenue per token but creates a persistent GPU supply shortage and constant rate-limiting
-- xAI built massive GPU supply through Colossus but has no model utilization—leading to the Cursor partnership/acquisition and leasing Colossus capacity to Anthropic
-- Meta's open-source Llama strategy is an economic weapon: one-time training cost with zero ongoing inference cost, designed to pressure competitors' pricing downward
-- The core metrics that determine AI lab viability are tokens per watt-year (supply efficiency), revenue per token (demand quality), and revenue per watt-year (the single number that determines self-funding capability)
+- OpenAI has massive consumer volume but suffers from low revenue per token due to free/paid user mix; Anthropic has premium enterprise demand but lacks sufficient GPU capacity
+- xAI has enormous GPU supply via Colossus but zero demand—a cautionary tale that building infrastructure doesn't automatically generate revenue
+- Meta's open-source Llama strategy is an economic weapon: one-time training cost, zero inference cost for Meta, designed to pressure competitors' pricing
+- The key metric is revenue per watt-year—the intersection of tokens per watt (supply efficiency) and revenue per token (demand quality)—which determines whether a lab can self-fund its next cluster
+- Microsoft and Amazon are structurally indifferent to which model wins, having invested in multiple labs and secured cloud compute deals that pay them regardless
 
 ## Synthesis
-Sriram Krishnan's analysis of AI industry economics provides a clear, deconstructed framework for understanding the radically different business positions of each major AI player. His central insight is that despite surface similarities—everyone is building large models and competing for users—each lab's economic structure creates fundamentally different strategic problems and constraints.
 
-OpenAI's 900 million monthly active users, predominantly consumers, create what Krishnan terms a "usage mix problem." High volumes of free and low-value prompts generate low revenue per token while consuming massive inference compute. Every ChatGPT query that could have been a Google search represents both a cost center for OpenAI and a lost ad impression for Google. This structural dynamic—high volume, low yield—shapes everything from OpenAI's pricing strategy to its infrastructure planning.
+Sriram Krishnan's framework for AI economics is one of the clearest attempts yet to map the strategic landscape of the foundation model race. He begins by profiling each major lab through the lens of a single organizing tension: supply versus demand.
 
-Anthropic sits at the opposite pole. With 300,000 business customers and over 1,000 enterprises spending more than $1 million annually, Anthropic enjoys excellent revenue-per-token economics and predictable usage patterns. But this same enterprise concentration creates a GPU supply problem: demand consistently exceeds capacity, resulting in the constant rate-limiting that frustrates developers. Anthropic's need for more GPUs was made concrete by its deal to lease capacity from xAI's Colossus infrastructure.
+OpenAI commands 900M+ monthly active users—a staggering consumer footprint—but that volume creates a usage mix problem. Free users and casual consumers generate enormous inference costs with low revenue per token. The compounding effect of millions of low-value prompts means OpenAI burns cash serving demand that doesn't pay its way. This is fundamentally a demand quality problem, not a demand quantity problem.
 
-xAI represents the most precarious position: massive GPU supply via the Colossus supercomputing cluster but effectively zero model utilization. This explains the aggressive moves toward acquiring Cursor (to generate developer demand) and leasing excess capacity to competitors like Anthropic. It's a vivid illustration that infrastructure without demand is just expensive idle hardware.
+Anthropic sits at the opposite pole. With 300K+ business customers and over a thousand spending more than $1M annually, Anthropic has the usage mix every lab dreams of: high revenue per token, predictable enterprise patterns, paid inference that justifies its cost. But this creates a GPU supply crisis—Anthropic is constantly rate-limited, unable to serve all the premium demand it has. Hence the headline deal with xAI/SpaceX to lease Colossus capacity.
 
-The platform companies play different games entirely. Google owns the full stack—TPUs, data centers, cloud, and applications—giving it the lowest AI cost structure, but every query deflected to ChatGPT or Claude is a lost ad impression. Meta uses its GPU investment for internal ad optimization and deploys open-source Llama as an economic pressure tactic: if Llama is 60-90% as good as proprietary models at zero inference cost, it forces competitors to lower prices. Microsoft and Amazon operate as cloud infrastructure providers, invested in both OpenAI and Anthropic with multi-billion dollar cloud deals that ensure they profit regardless of who wins the model race.
+xAI is the cautionary tale. The Colossus supercluster represents enormous GPU supply, but without competitive models to utilize it, the supply sits idle. xAI's pivot to acquiring Cursor and leasing capacity to Anthropic reflects the hard truth that compute without demand is just stranded capital.
 
-The core economic framework boils down to two metrics: tokens per watt-year (how efficiently you convert infrastructure into output) and revenue per token (how much you earn from that output). Their product—revenue per watt-year—determines whether a lab can self-fund its next training cluster or must return to outside capital. Krishnan's sobering conclusion: no major AI lab has yet crossed the self-funding threshold, making the question of who funds the next generation of compute one of the industry's most consequential unanswered questions.
+The second tier of players—Meta, Google, Microsoft, Amazon—operate with different incentives entirely. Meta's open-source Llama strategy is perhaps the most cunning: a one-time training cost with zero ongoing inference expense for Meta itself, while the mere existence of a free, competent model creates downward pricing pressure on OpenAI and Anthropic. It's economic warfare by open source. The tradeoff is talent retention—researchers want frontier-scale compute, not ad optimization.
+
+Google owns the full stack (TPUs, data centers, cloud, applications) giving it the lowest AI cost structure, but faces an existential threat: every query that goes to ChatGPT or Claude is a lost Search ad impression. Its strategy is defensive (Gemini protecting Search) and offensive (TPUs and Cloud monetizing AI infrastructure demand).
+
+Microsoft and Amazon have the most structurally elegant positions. Both are cloud infrastructure providers that invested billions in AI labs (Microsoft in OpenAI, Amazon in both OpenAI and Anthropic) with multi-billion dollar cloud compute commitments baked in. They get paid regardless of who wins the model race. Amazon is building custom Titanium chips with Anthropic, deepening the lock-in.
+
+The economic framework Krishnan proposes rests on two metrics. Tokens per watt-year captures supply-side efficiency—how much output you squeeze from physical infrastructure through better hardware, smarter batching, and efficient inference stacks. Revenue per token captures demand quality—price times utilization times usage mix. Revenue per watt-year, the intersection of both, is the single number that determines whether a lab can self-fund its next training cluster.
+
+No lab has crossed the self-funding threshold yet. Every new model generation requires more compute than the last, and every lab still relies on outside capital—investors, IPOs, cloud partners, sovereign funds. The race to be first to self-funding profitability is the quiet war beneath the public model benchmarks. It may determine the industry's structure more than any technical breakthrough.

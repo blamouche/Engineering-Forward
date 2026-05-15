@@ -1,4 +1,3 @@
-https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash
 https://econlab.substack.com/p/anthropic-beats-openai
 https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers
 https://linas.substack.com/p/anthropic-claude-study-ai-startup-playbook
