@@ -1,26 +1,26 @@
-# xAI-Anthropic Compute Partnership: Is xAI a Neocloud Now?
-**Source**: https://x.ai/news/anthropic-compute-partnership (blocked; sourced via https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
-**Date**: May 6, 2026
-**Author**: Russell Brandom (TechCrunch) / xAI press release
-**Keywords**: xAI, Anthropic, compute partnership, Colossus, data centers, neocloud, Grok, Elon Musk, SpaceX, Claude, AI infrastructure, GPU
+# xAI and Anthropic's Compute Partnership: Is xAI Becoming a Neocloud?
+**Source**: https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/
+**Date**: 2026-05-06
+**Author**: Russell Brandom (TechCrunch)
+**Keywords**: xAI, Anthropic, neocloud, data center, Colossus, compute partnership, Elon Musk, SpaceX, Grok, GPU, IPO
 
 ## Elevator pitch
-xAI and Anthropic announced a surprise partnership in which Anthropic buys all compute capacity at xAI's Colossus 1 data center (~300MW), immediately raising Claude usage limits and suggesting xAI's real business pivot from AI model development to compute infrastructure provision.
+xAI's surprise deal to sell all compute capacity at its Colossus 1 data center to Anthropic signals a strategic pivot from AI model developer to neocloud provider, raising questions about whether Elon Musk's AI ambitions are shifting from software to infrastructure.
 
 ## Takeaways
-- Anthropic acquired the full ~300MW compute capacity of xAI's Colossus 1 data center, a deal likely worth billions, enabling immediate Claude usage limit increases
-- xAI had already moved its own model training to a newer facility (Colossus 2), making Colossus 1 surplus to its internal needs
-- The deal comes as Grok usage is plummeting following image generation controversies, making the compute-as-a-service revenue stream strategically important ahead of a planned SpaceX IPO
-- The partnership positions xAI more as a neocloud provider (like CoreWeave) than an AI model company, raising questions about its long-term software ambitions
-- Major tech companies (Google, Meta) consistently prioritize internal AI development over renting out GPUs, making xAI's willingness to sell compute to a direct competitor unusual
+- Anthropic is buying all ~300MW of compute capacity at xAI's Colossus 1 data center in Tennessee, enabling immediate usage limit increases
+- Musk says xAI moved training to the newer Colossus 2 data center and "simply didn't need them both"
+- The deal comes as Grok usage has been plummeting following image generation controversies earlier in 2026
+- Renting compute to competitors contradicts the strategy of Google and Meta, who prioritize internal AI development over cloud revenue when capacity is constrained
+- xAI's pivot toward a neocloud model raises questions about the viability of long-horizon software projects like coding agents and digital twins
 
 ## Synthesis
-The May 2026 compute partnership between xAI and Anthropic is one of those deals that, once announced, seemed both surprising and inevitable. Anthropic, perpetually compute-constrained as Claude adoption surges, needed massive GPU capacity immediately. xAI, having built out infrastructure far beyond what Grok's shrinking user base required, had excess capacity and a looming IPO to dress up. The result: Anthropic bought out "all of the compute capacity" at Colossus 1, xAI's ~300MW data center in Tennessee.
+When xAI and Anthropic announced their compute partnership in early May 2026, it sent shockwaves through the AI industry. The deal is straightforward in its mechanics — Anthropic buys all capacity at Colossus 1, a ~300MW data center in Tennessee — but its strategic implications are anything but. The arrangement effectively turns xAI from a competitor into a supplier for one of its chief rivals.
 
-The strategic calculus is revealing. Elon Musk framed the deal pragmatically—xAI had already migrated training to Colossus 2, a newer gigawatt-scale facility, and simply didn't need both. But the move represents a fundamental shift in xAI's identity. The company began as a consumer AI play with Grok, but declining usage numbers and product controversies have made the model business harder to defend. The Anthropic deal effectively transforms xAI into a neocloud: buying GPUs from Nvidia (and eventually from its own Terafab chip efforts) and renting them to model developers.
+Elon Musk's explanation — that xAI had already moved training to the newer, larger Colossus 2 facility and no longer needed the first data center — is plausible on its face but raises deeper questions. If xAI truly has more compute than it needs, why not use the surplus to accelerate its own product development? The standard playbook, exemplified by Google and Meta, is to hoard compute for internal AI development even when it means turning away cloud revenue. Sundar Pichai recently admitted Google Cloud revenue suffered from capacity constraints because the company prioritized AI product development. Mark Zuckerberg called compute infrastructure a "strategic advantage."
 
-This is an unusual posture for a major AI company. As TechCrunch's Russell Brandom notes, when Google and Meta face the choice between renting out GPUs or reserving them for internal AI development, they consistently choose internal development. Google's Sundar Pichai admitted cloud revenue was "capacity constrained" because GPUs were prioritized for AI products. Meta's Zuckerberg described compute infrastructure as a "strategic advantage." For these companies, compute isn't a commodity to be sold—it's the foundation of future AI dominance.
+The context for xAI's decision matters. Grok, its flagship product, has seen plummeting usage through 2026, partly driven by image generation debacles that eroded user trust. xAI's software ambitions — coding agents, digital twins, computer-use capabilities — remain largely unrealized. Against this backdrop, monetizing a data center through an Anthropic partnership adds billions to the balance sheet at a time when the combined SpaceX/xAI entity is reportedly speeding toward an IPO.
 
-xAI's willingness to sell compute to a direct competitor (Anthropic's Claude competes with Grok) sends a signal about where Musk's priorities lie. The company's $230 billion valuation already dwarfs neocloud peers like CoreWeave (worth less than a third of that), and the SpaceX merger, orbital data center ambitions, and Terafab chip manufacturing paint a picture of infrastructure-scale ambition. But as Brandom argues, the deal also casts doubt on xAI's software ambitions—the coding tools, digital twin projects, and computer use features teased at the February all-hands seem harder to sustain when the company is selling the compute they'd need to a rival.
+The deal also reframes what kind of company xAI actually is. By renting compute to model developers, xAI is positioning itself as a neocloud — a business that buys GPUs from Nvidia and sells access to AI developers. It's a fundamentally different business model with different economics. Neoclouds are squeezed between chip suppliers and demand cycles, and their valuations reflect that fragility: xAI was valued at $230 billion in January, while CoreWeave, which manages a comparable compute footprint, trades at less than a third of that.
 
-For Anthropic, the deal is straightforward: survival-grade compute access. Claude's enterprise and consumer growth has outstripped available capacity, and the Colossus 1 deal immediately raised usage limits. In a market where frontier model development is increasingly gated by infrastructure rather than algorithmic innovation, guaranteed access to 300MW of purpose-built AI compute is worth whatever xAI charged for it. The partnership also fits a broader pattern of Anthropic's aggressive compute acquisition strategy, which has included joint ventures with cloud providers and now direct deals with rival AI companies.
+Musk's version of a neocloud is more ambitious — orbital data centers, custom chips at the Terafab — but the core economics don't change. Selling compute to competitors fundamentally limits how aggressively xAI can pursue its own software ambitions. For a company that once touted plans for coding agents and full-scale digital twins, the Anthropic deal may signal that the real business was always about building the infrastructure, not the intelligence that runs on it.
