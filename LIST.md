@@ -1,4 +1,3 @@
-https://arstechnica.com/gadgets/2026/05/google-says-android-is-getting-a-big-ai-overhaul-in-2026
 https://arxiv.org/abs/2605.10730
 https://arxiviq.substack.com/p/compute-optimal-tokenization
 https://blog.bytebytego.com/p/a-guide-to-event-driven-architectural
