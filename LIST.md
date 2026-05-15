@@ -1,4 +1,3 @@
-https://arxiv.org/abs/2605.10730
 https://arxiviq.substack.com/p/compute-optimal-tokenization
 https://blog.bytebytego.com/p/a-guide-to-event-driven-architectural
 https://blog.bytebytego.com/p/high-performance-rate-limiting-at
