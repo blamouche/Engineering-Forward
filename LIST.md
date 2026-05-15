@@ -1,4 +1,3 @@
-https://linas.substack.com/p/anthropic-claude-study-ai-startup-playbook
 https://linas.substack.com/p/claude-cowork-commands-automations-playbook
 https://linas.substack.com/p/claudecowork
 https://newsletter.pragmaticengineer.com/p/ai-tooling-2026?open=false
