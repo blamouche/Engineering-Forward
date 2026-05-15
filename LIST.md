@@ -1,4 +1,3 @@
-https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers
 https://linas.substack.com/p/anthropic-claude-study-ai-startup-playbook
 https://linas.substack.com/p/claude-cowork-commands-automations-playbook
 https://linas.substack.com/p/claudecowork
