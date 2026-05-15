@@ -1,6 +1,3 @@
-https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
-https://thenextweb.com/news/microsoft-startup-deals-life-after-openai
-https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html
 https://letsdatascience.com/news/igor-babuschkin-seeks-up-to-1-billion-for-river-ai-8c36ce09
 https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/
 https://www.datadoghq.com/blog/ai/toto-2/
