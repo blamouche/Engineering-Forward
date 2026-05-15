@@ -1,6 +1,3 @@
-https://www.anthropic.com/research/2028-ai-leadership
-https://blog.sentry.io/introducing-seer-agent/
-https://threadreaderapp.com/thread/2055032115964870838.html
 https://github.com/raindrop-ai/workshop
 https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/
 https://huggingface.co/blog/continuous_async
