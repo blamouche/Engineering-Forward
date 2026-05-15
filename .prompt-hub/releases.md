@@ -4774,3 +4774,6 @@
 
 ## 0.0.1586 - 2026-05-12
 - Scan-list run: processed 185 URLs, created 159 synthesis files (+ 26 FETCH_ERROR), emptied LIST.md, created synthesis/2026-05-12 - 223030 - batch recap.md
+## 0.0.1587 - 2026-05-15
+- Add batch recap: 2026-05-15 181200
+- Process 16 articles (scan-list batch): Development environments for cloud agents, OpenAI vs Apple legal action, 2028 AI leadership scenarios, Seer Agent, Codex Hooks, Raindrop Workshop, Genkit Middleware, async continuous batching, SpaceXAI staff exodus, Microsoft OpenAI replacement, Nvidia-Ineffable, River AI, OpenSquilla, Toto 2.0, Netflix INKubator, Figure Helix-02
