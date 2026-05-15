@@ -1,4 +1,3 @@
-https://linas.substack.com/p/claudecowork
 https://newsletter.pragmaticengineer.com/p/ai-tooling-2026?open=false
 https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development
 https://newsletter.pragmaticengineer.com/p/the-pulse-159-long-running-agents?open=false
