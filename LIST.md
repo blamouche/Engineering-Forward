@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/a-guide-to-event-driven-architectural
 https://blog.bytebytego.com/p/high-performance-rate-limiting-at
 https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash
 https://econlab.substack.com/p/anthropic-beats-openai
