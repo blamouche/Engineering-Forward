@@ -36,7 +36,6 @@ https://www.sans.org/mlp/2026-ai-security-maturity-model-ebook
 https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents
 https://www.testingcatalog.com/meta-to-release-muse-spark-in-voice-mode-and-meta-glasses
 https://x.ai/news/anthropic-compute-partnership
-
 https://sifted.eu/articles/meryem-arik-doubleword-interview
 https://every.to/context-window/opus-4-7-reels-us-back-in
-
+https://linas.substack.com/p/the-complete-claude-goal-guide
