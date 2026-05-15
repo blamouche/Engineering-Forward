@@ -16,12 +16,3 @@ https://www.alphaxiv.org/blog/reinforcement-learning-for-rlms
 https://www.anthropic.com/news/claude-for-small-business
 https://www.cnbc.com/2026/05/13/amazon-ditches-rufus-ai-chatbot-in-favor-of-alexa-shopping-agent.html
 https://www.corememory.com/p/metas-ai-chief-alex-wang-muse-spark-ai-wars
-https://www.datadoghq.com/resources/state-of-ai-engineering
-https://www.glean.com/blog/cowork-mcp-eval
-https://www.sans.org/mlp/2026-ai-security-maturity-model-ebook
-https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents
-https://www.testingcatalog.com/meta-to-release-muse-spark-in-voice-mode-and-meta-glasses
-https://x.ai/news/anthropic-compute-partnership
-https://sifted.eu/articles/meryem-arik-doubleword-interview
-https://every.to/context-window/opus-4-7-reels-us-back-in
-https://linas.substack.com/p/the-complete-claude-goal-guide
