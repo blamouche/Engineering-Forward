@@ -1,6 +1,3 @@
-https://github.com/raindrop-ai/workshop
-https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/
-https://huggingface.co/blog/continuous_async
 https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
 https://thenextweb.com/news/microsoft-startup-deals-life-after-openai
 https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html
