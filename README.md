@@ -29,10 +29,11 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (28 articles)
+#### May (29 articles)
 - [We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.](src/2026-05/20260515-we-gave-every-employee-an-ai-agent.md)
 - [Every Is Half Agent Now](src/2026-05/20260408-every-is-half-agent-now.md)
 - [You're the Manager Now](src/2026-05/20260416-you-re-the-manager-now.md)
+- [What I Learned Onboarding Our AI Project Manager](src/2026-05/20260331-what-i-learned-onboarding-our-ai-project-manager.md)
 - [Development environments for your cloud agents](src/2026-05/20260513-development-environments-for-your-cloud-agents.md)
 - [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260501-chinese-grey-market-claude-api-access-proxy.md)- [Google Announces Its First-Ever Discovery of a Zero-Day Exploit Made With AI](src/2026-05/20260511-google-first-ai-zero-day-exploit-discovery.md)- [OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own](src/2026-05/20260511-openai-debuts-4b-ai-services-company.md)- [Building a Growth Engine from Zero: How One COO Boosted ARR 38% Using Claude Code](src/2026-05/20260511-building-a-growth-engine-from-zero-claude-code.md)- [Teaching Claude Why: How Anthropic Eliminated Agentic Misalignment](src/2026-05/20260508-teaching-claude-why-anthropic-alignment.md)- [How Frontier Firms Are Pulling Ahead: OpenAI B2B Signals](src/2026-05/20260506-how-frontier-firms-are-pulling-ahead-openai-b2b-signals.md)- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Organizations](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)- [Meta Acquires Assured Robot Intelligence, Redrawing AI Spending Plans](src/2026-05/20260509-meta-acquires-assured-robot-intelligence-redrawing-ai-spending-plans.md)- [The 90 Day Disclosure Policy Is Dead](src/2026-05/20260509-the-90-day-disclosure-policy-is-dead.md)
 
