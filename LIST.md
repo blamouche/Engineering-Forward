@@ -1,4 +1,3 @@
-https://cursor.com/blog/cloud-agent-development-environments
 https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/
 https://www.anthropic.com/research/2028-ai-leadership
 https://blog.sentry.io/introducing-seer-agent/
