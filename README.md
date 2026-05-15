@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### May (33 articles)
+- [Gemini Intelligence brings proactive AI to Android](src/2026-05/20260512-gemini-intelligence-brings-proactive-ai-to-android.md)
 - [We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.](src/2026-05/20260515-we-gave-every-employee-an-ai-agent.md)
 - [Every Is Half Agent Now](src/2026-05/20260408-every-is-half-agent-now.md)
 - [You're the Manager Now](src/2026-05/20260416-you-re-the-manager-now.md)
