@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-08 | █ 1
+2026-05 | █████████ 25<br>2026-08 | █ 1
 ## Articles
 
 ### 2026
@@ -29,7 +29,7 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (10 articles)
+#### May (25 articles)
 - [Development environments for your cloud agents](src/2026-05/20260513-development-environments-for-your-cloud-agents.md)
 - [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260501-chinese-grey-market-claude-api-access-proxy.md)- [Google Announces Its First-Ever Discovery of a Zero-Day Exploit Made With AI](src/2026-05/20260511-google-first-ai-zero-day-exploit-discovery.md)- [OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own](src/2026-05/20260511-openai-debuts-4b-ai-services-company.md)- [Building a Growth Engine from Zero: How One COO Boosted ARR 38% Using Claude Code](src/2026-05/20260511-building-a-growth-engine-from-zero-claude-code.md)- [Teaching Claude Why: How Anthropic Eliminated Agentic Misalignment](src/2026-05/20260508-teaching-claude-why-anthropic-alignment.md)- [How Frontier Firms Are Pulling Ahead: OpenAI B2B Signals](src/2026-05/20260506-how-frontier-firms-are-pulling-ahead-openai-b2b-signals.md)- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Organizations](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)- [Meta Acquires Assured Robot Intelligence, Redrawing AI Spending Plans](src/2026-05/20260509-meta-acquires-assured-robot-intelligence-redrawing-ai-spending-plans.md)- [The 90 Day Disclosure Policy Is Dead](src/2026-05/20260509-the-90-day-disclosure-policy-is-dead.md)
 
@@ -1387,37 +1387,6 @@ P22-12 | █ 2<br>
 
 #### June (2 articles)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
-
-#### May (10 articles)
-- [Development environments for your cloud agents](src/2026-05/20260513-development-environments-for-your-cloud-agents.md)
-- [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260501-chinese-grey-market-claude-api-access-proxy.md)- [Google Announces Its First-Ever Discovery of a Zero-Day Exploit Made With AI](src/2026-05/20260511-google-first-ai-zero-day-exploit-discovery.md)- [OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own](src/2026-05/20260511-openai-debuts-4b-ai-services-company.md)- [Building a Growth Engine from Zero: How One COO Boosted ARR 38% Using Claude Code](src/2026-05/20260511-building-a-growth-engine-from-zero-claude-code.md)- [Teaching Claude Why: How Anthropic Eliminated Agentic Misalignment](src/2026-05/20260508-teaching-claude-why-anthropic-alignment.md)- [How Frontier Firms Are Pulling Ahead: OpenAI B2B Signals](src/2026-05/20260506-how-frontier-firms-are-pulling-ahead-openai-b2b-signals.md)- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Organizations](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)- [Meta Acquires Assured Robot Intelligence, Redrawing AI Spending Plans](src/2026-05/20260509-meta-acquires-assured-robot-intelligence-redrawing-ai-spending-plans.md)- [Vibe Check: Codex—OpenAI's New Coding Agent](src/2025-05/20250516-vibe-check-codex-openai-coding-agent.md)
-- [Vibe Check: Gemini 2.5 Pro and Gemini 2.5 Flash](src/2025-05/20250509-vibe-check-gemini-2-5-pro-and-flash.md)
-- [Config 2025: Pushing Design Further](src/2025-05/20250507-config-2025-pushing-design-further.md)
-
-#### April (1 article)
-- [OpenAI's CPO on how AI changes must-have skills, moats, coding, startup playbooks, and more](src/2025-04/20250410-openais-cpo-on-how-ai-changes-skills-moats-and-coding.md)
-
-
-### 2024
-
-#### December (2 articles)
-- [How to Build a Truly Useful AI Product](src/2024-12/20241209-how-to-build-a-truly-useful-ai-product.md)
-
-#### June (2 articles)
-- [The Death of the Junior Developer](src/2024-06/20240624-the-death-of-the-junior-developer.md)
-- [🎧 Is NotebookLM—Google’s Research Assistant—the Ultimate Tool for Thought?](src/2024-06/20240605-is-notebooklm-google-s-research-assistant-the-ultimate-tool-for-thought.md)
-
-#### May (10 articles)
-- [Development environments for your cloud agents](src/2026-05/20260513-development-environments-for-your-cloud-agents.md)
-- [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260501-chinese-grey-market-claude-api-access-proxy.md)- [Google Announces Its First-Ever Discovery of a Zero-Day Exploit Made With AI](src/2026-05/20260511-google-first-ai-zero-day-exploit-discovery.md)- [OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own](src/2026-05/20260511-openai-debuts-4b-ai-services-company.md)- [Building a Growth Engine from Zero: How One COO Boosted ARR 38% Using Claude Code](src/2026-05/20260511-building-a-growth-engine-from-zero-claude-code.md)- [Teaching Claude Why: How Anthropic Eliminated Agentic Misalignment](src/2026-05/20260508-teaching-claude-why-anthropic-alignment.md)- [How Frontier Firms Are Pulling Ahead: OpenAI B2B Signals](src/2026-05/20260506-how-frontier-firms-are-pulling-ahead-openai-b2b-signals.md)- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Organizations](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)- [Meta Acquires Assured Robot Intelligence, Redrawing AI Spending Plans](src/2026-05/20260509-meta-acquires-assured-robot-intelligence-redrawing-ai-spending-plans.md)- [The Next Big Programming Language Is English](src/2024-05/20240502-the-next-big-programming-language-is-english.md)
-
-
-### 2023
-
-#### October (1 article)
-- [Kate Lee Joins Every as Editor-in](src/2023-10/20231029-kate-lee-joins-every-as-editor-in.md)
-
-
 ### 2022
 
 #### December (2 articles)
