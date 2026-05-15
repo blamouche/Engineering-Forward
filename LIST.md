@@ -1,0 +1,16 @@
+https://cursor.com/blog/cloud-agent-development-environments
+https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/
+https://www.anthropic.com/research/2028-ai-leadership
+https://blog.sentry.io/introducing-seer-agent/
+https://threadreaderapp.com/thread/2055032115964870838.html
+https://github.com/raindrop-ai/workshop
+https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/
+https://huggingface.co/blog/continuous_async
+https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
+https://thenextweb.com/news/microsoft-startup-deals-life-after-openai
+https://www.cnbc.com/2026/05/13/google-deepmind-alumni-startup-partners-nvidia-superintelligence.html
+https://letsdatascience.com/news/igor-babuschkin-seeks-up-to-1-billion-for-river-ai-8c36ce09
+https://www.testingcatalog.com/opensquilla-launches-open-source-ai-agent-to-cut-token-costs/
+https://www.datadoghq.com/blog/ai/toto-2/
+https://www.animationmagazine.net/2026/05/netflix-staffing-for-inkubator-ai-powered-experimental-animation-studio/
+https://interestingengineering.com/ai-robotics/figure-helix02-humanoid-robots-8-hour-shifts
