@@ -1,4 +1,3 @@
-https://sifted.eu/articles/the-talent-profile-europes-top-ai-scaleups-are-chasing-oped
 https://sifted.eu/articles/isomorphic-labs-2-1bn
 https://sifted.eu/articles/europe-ai-startup-hiring-big-tech
 https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools
