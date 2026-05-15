@@ -1,4 +1,3 @@
-https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now
 https://every.to/context-window/every-is-half-agent-now
 https://every.to/context-window/you-re-the-manager-now
 https://every.to/p/what-i-learned-onboarding-our-ai-project-manager
