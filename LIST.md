@@ -1,11 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/ai-tooling-2026?open=false
-https://newsletter.pragmaticengineer.com/p/how-uber-uses-ai-for-development
-https://newsletter.pragmaticengineer.com/p/the-pulse-159-long-running-agents?open=false
-https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering
-https://newsletter.pragmaticengineer.com/p/the-pulse-github-breaks?open=false
-https://newsletter.pragmaticengineer.com/p/what-is-openai
-https://pytorch.org/blog/pytorch-2-12-release-blog
-https://softwaredoug.com/blog/2026/05/11/the-new-agentic-search-models.html
 https://sriramkrishnan.substack.com/p/ai-economics
 https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android
 https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves
