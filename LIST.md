@@ -1,4 +1,3 @@
-https://claude.com/blog/agent-view-in-claude-code
 https://deepmind.google/blog/ai-pointer/
 https://deepmind.google/discover/blog/alphaevolve-how-our-gemini-powered-coding-agent-is-self-improving/
 https://github.com/HermannBjorgvin/Clawdmeter
