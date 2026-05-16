@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (42 articles)
+#### May (43 articles)
+- [Clawdmeter: ESP32 desk dashboard that shows Claude Code usage](src/2026-05/20260516-clawdmeter-esp32-desk-dashboard-claude-code-usage.md)
 - [We're Hiring a Human Marketing Exec to Report to 10K, Our AI VP Marketing. Could You Report to an AI?](src/2026-05/20260513-were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing.md)
 - [Two AI VPs for $257. A Website Became Our 21st Agent. Killed a $4K SaaS App in 60 Minutes: The Agents #005 Is Out!!](src/2026-05/20260513-two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-agents-005.md)
 - [OpenAI Has Already Created 300+ Decamillionaires. More Than a Decade of B2B IPOs Combined. Before Going Public.](src/2026-05/20260513-openai-has-already-created-300-plus-decamillionaires-before-ipo.md)
