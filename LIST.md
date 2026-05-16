@@ -2,15 +2,9 @@ https://deepmind.google/discover/blog/alphaevolve-how-our-gemini-powered-coding-
 https://github.com/runablehq/mini-browser
 https://github.com/upb-lea/reinforcement_learning_course_materials
 https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox-with-claude-mythos-preview/
-https://news.microsoft.com/annual-work-trend-index-2026/
-https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
 https://openai.com/index/introducing-b2b-signals/
 https://openai.com/index/openai-launches-the-deployment-company/
 https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/
-https://openai.com/index/personal-finance-chatgpt/
 https://ramp.com/leading-indicators/ai-index-may-2026
-https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/
 https://thinkingmachines.ai/blog/interaction-models/
-https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
-https://www.anthropic.com/research/2028-ai-leadership
 https://www.anthropic.com/research/teaching-claude-why
