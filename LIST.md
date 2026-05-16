@@ -14,11 +14,3 @@ https://thinkingmachines.ai/blog/interaction-models/
 https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
 https://www.anthropic.com/research/2028-ai-leadership
 https://www.anthropic.com/research/teaching-claude-why
-https://www.saastr.com/openaidecamillionaires/
-https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/
-https://www.saastr.com/were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing-the-bottleneck-isnt-great-ideas-anymore/
-https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-market-sells-claude-api-access-at-90-percent-off-through-proxy-networks-that-harvest-user-data
-https://www.tomtunguz.com/cost-of-ai-email/
-https://www.tomtunguz.com/localmaxxing/
-https://www.tomtunguz.com/the-disappearance-of-email/
-https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent
