@@ -2,26 +2,25 @@
 **Source**: https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/
 **Date**: May 9, 2026
 **Author**: Himanshu Anand
-**Keywords**: security, disclosure, LLM, vulnerability management, Linux, exploit
+**Keywords**: vulnerability disclosure, LLM, security, exploit development, Linux kernel, Copy Fail, Dirty Frag
 
 ## Elevator pitch
-LLMs have compressed both vulnerability discovery and exploit development timelines to near-zero, rendering the traditional 90-day responsible disclosure window obsolete and dangerous.
+The traditional 90-day vulnerability disclosure window is obsolete: LLMs have compressed both bug discovery and exploit development to near-zero timelines, making the old model a liability rather than a protection.
 
 ## Takeaways
-- 11 independent researchers found the same critical bug in 6 weeks using LLM-assisted workflows — the old assumption of "you're the only finder" is dead
-- Copy Fail (CVE-2026-31431) went from AI-assisted discovery to nation-state weaponization within days, affecting every Linux distro since 2017
-- Dirty Frag (CVE-2026-43284) saw its embargo broken within hours by a third party who independently found the same bug class; in-the-wild exploitation confirmed within 24 hours
-- AI can turn a patch diff into a working exploit in 30 minutes — the safety net between patch release and exploitation has vanished
-- Monthly patch cycles and "wait for the advisory" postures are attack windows, not safety margins
-- Every critical vulnerability must be treated as P0 and fixed immediately; defensive LLM integration at CI, patch analysis, and dependency scanning is no longer optional
+- LLM-assisted bug hunting has led to 10+ independent researchers finding the same critical vulnerability within 6 weeks — the "lone finder" assumption is dead.
+- AI can now turn a public patch diff into a working exploit in 30 minutes, eliminating the traditional days-to-weeks safety gap for patching.
+- The Linux kernel suffered two back-to-back critical vulnerabilities (Copy Fail and Dirty Frag) in April-May 2026, both with AI-accelerated discovery and public exploits within hours.
+- Dirty Frag's embargo was broken within hours by an independent third party — coordinated disclosure is failing when multiple actors discover the same bug class simultaneously.
+- The author's recommendation: treat every critical security issue as P0 and patch immediately, not on a scheduled maintenance window.
 
 ## Synthesis
-Himanshu Anand, a security researcher, argues that the 90-day responsible disclosure policy is fundamentally broken in the age of large language models. Through three vivid case studies, he demonstrates how AI has obliterated the temporal assumptions that underpinned vulnerability disclosure for over a decade.
+Himanshu Anand delivers a stark post-mortem on the 90-day responsible disclosure model through three concrete stories that collectively prove the old framework is unsustainable. His central thesis: LLMs have democratized both vulnerability discovery and exploit development simultaneously, creating a situation where the traditional grace period between discovery, patch, and deployment no longer exists.
 
-The first story involves a critical e-commerce payment verification bug. Anand reported it to the vendor and was told he was the eleventh reporter in six weeks. Ten other researchers, using unrelated LLM-assisted workflows, had independently converged on the same vulnerability. This pattern has been observed across the industry — triage teams are seeing waves of duplicate reports within days of a new vulnerability class being discovered. The uncomfortable math: if ten people reported it, how many found it and chose not to report, or to sell it instead? The 90-day window, far from protecting users, gives bad actors a 90-day head start.
+The first story is almost comical in its implications. Anand reported a critical e-commerce bug (no signature verification on payment responses) only to be told he was the 11th reporter in six weeks. The same LLM tools that helped honest researchers find the bug are available to anyone — including those who won't report it. The 90-day window, rather than protecting users, gives silent exploit holders a 90-day head start.
 
-The second case study demonstrates the collapse of the post-patch safety window. After React published security fixes and a blog post explaining the changes, Anand experimented: feeding the patch diff into an LLM, he produced a working denial-of-service exploit in 30 minutes. In the old world, n-day exploitation took skilled reverse engineers days to weeks. That gap — the traditional grace period for administrators to update — has vanished. The moment a patch ships, the exploit exists.
+The second story is equally damning: after reading React's public security patch blog post, Anand used AI to turn the patch diff into a working DoS exploit in 30 minutes. The skill of reverse-engineering patches used to be a niche expertise requiring days or weeks. Now the LLM does the heavy lifting while the human merely steers. The moment a patch ships, the exploit effectively exists.
 
-The third and most devastating story covers the two weeks in late April to early May 2026 when the Linux kernel caught fire. Copy Fail (CVE-2026-31431), discovered by Theori's team using the Xint Code AI-assisted platform, was a deterministic privilege escalation affecting every Linux distribution since 2017 — exploitable with a 732-byte Python script. Within days, Iranian adversaries were weaponizing it against Ubuntu servers for DDoS infrastructure. Barely a week later, Dirty Frag (CVE-2026-43284) was published: same bug class, different attack path, working even with the Copy Fail mitigation applied. Its agreed-upon five-day embargo was broken within hours by an unrelated third party. Microsoft's Defender team confirmed in-the-wild exploitation within 24 hours. As of Anand's writing, one component still had no upstream patch.
+The third story is the centerpiece: the Linux kernel's catastrophic April-May 2026. Copy Fail (CVE-2026-31431) — found via AI-assisted workflow in about an hour — gave unprivileged users root on every Linux distribution since 2017 with a 732-byte Python script. Iranian threat actors weaponized it within days. Then Dirty Frag (CVE-2026-43284) hit a week later, bypassing Copy Fail mitigations entirely. The embargo was broken within hours by an unrelated third party. Zero distributions had patches available when the full PoC dropped.
 
-Anand's prescription is uncompromising: every critical vulnerability must be treated as P0 and fixed immediately, not within 24 hours or the next sprint. For vendors, the clock starts when the report lands; for researchers, sitting on critical bugs is irresponsible when you're no longer the only finder; for vulnerability management teams, the maximum response time is hours. On the defensive side, he calls for LLM integration at every stage of the security pipeline: AI-assisted review at code push time, automated patch diff analysis for upstream dependencies, continuous AI-powered dependency scanning, and adversarial testing of patches before publication. The window between vulnerability existence and exploitation is shrinking to zero — defense must automate at the same speed as offense.
+Anand's conclusion is unambiguous: the industry must shift to immediate P0 response for all critical vulnerabilities. The coordination mechanisms, the disclosure timelines, the patching cadences — all were designed for a pre-LLM world that no longer exists. The security community's social contract with vendors has expired, and nobody seems to have noticed.

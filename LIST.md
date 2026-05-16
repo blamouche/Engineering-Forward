@@ -1,4 +1,3 @@
-https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/
 https://blog.whatsapp.com/introducing-incognito-chat-with-meta-ai-a-completely-private-way-to-chat-with-ai
 https://claude.com/blog/agent-view-in-claude-code
 https://deepmind.google/blog/ai-pointer/
