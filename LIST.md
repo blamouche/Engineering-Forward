@@ -4,12 +4,10 @@ https://blog.whatsapp.com/introducing-incognito-chat-with-meta-ai-a-completely-p
 https://claude.com/blog/agent-view-in-claude-code
 https://deepmind.google/blog/ai-pointer/
 https://deepmind.google/discover/blog/alphaevolve-how-our-gemini-powered-coding-agent-is-self-improving/
-https://finance.yahoo.com/markets/stocks/articles/crypto-lawyer-warns-anthropic-stock-175124037.html
 https://github.com/HermannBjorgvin/Clawdmeter
 https://github.com/runablehq/mini-browser
 https://github.com/upb-lea/reinforcement_learning_course_materials
 https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox-with-claude-mythos-preview/
-https://nateglubish.substack.com/p/they-said-it-would-cost-54-million
 https://news.microsoft.com/annual-work-trend-index-2026/
 https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507
 https://openai.com/index/introducing-b2b-signals/
