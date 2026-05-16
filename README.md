@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | █████████ 25<br>2026-08 | █ 1
+2026-05 | ████████████ 35<br>2026-08 | █ 1
 ## Articles
 
 ### 2026
@@ -29,9 +29,18 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (33 articles)
+#### May (42 articles)
+- [We're Hiring a Human Marketing Exec to Report to 10K, Our AI VP Marketing. Could You Report to an AI?](src/2026-05/20260513-were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing.md)
+- [Two AI VPs for $257. A Website Became Our 21st Agent. Killed a $4K SaaS App in 60 Minutes: The Agents #005 Is Out!!](src/2026-05/20260513-two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-agents-005.md)
+- [OpenAI Has Already Created 300+ Decamillionaires. More Than a Decade of B2B IPOs Combined. Before Going Public.](src/2026-05/20260513-openai-has-already-created-300-plus-decamillionaires-before-ipo.md)
+- [Introducing Perceptron Mk1](src/2026-05/20260512-introducing-perceptron-mk1.md)
+- [Anthropic Goes All-In on Legal, Releasing More Than 20 Connectors and 12 Practice-Area Plugins for Claude](src/2026-05/20260512-anthropic-goes-all-in-on-legal-releasing-connectors-and-practice-area-plugins-for-claude.md)
 - [Gemini Intelligence brings proactive AI to Android](src/2026-05/20260512-gemini-intelligence-brings-proactive-ai-to-android.md)
 - [We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.](src/2026-05/20260515-we-gave-every-employee-an-ai-agent.md)
+- [What Would AI Email Cost?](src/2026-05/20260514-what-would-ai-email-cost.md)
+- [The 6 Messages That Actually Matter](src/2026-05/20260513-the-6-messages-that-actually-matter.md)
+- [Localmaxxing](src/2026-05/20260511-localmaxxing.md)
+- [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260509-chinese-grey-market-claude-api-proxy.md)
 - [Every Is Half Agent Now](src/2026-05/20260408-every-is-half-agent-now.md)
 - [You're the Manager Now](src/2026-05/20260416-you-re-the-manager-now.md)
 - [What I Learned Onboarding Our AI Project Manager](src/2026-05/20260331-what-i-learned-onboarding-our-ai-project-manager.md)
@@ -41,6 +50,12 @@ P22-12 | █ 2<br>
 - [OpenClaw: Our Comprehensive Guide for Beginners](src/2026-05/20260326-openclaw-comprehensive-guide-for-beginners.md)
 - [Development environments for your cloud agents](src/2026-05/20260513-development-environments-for-your-cloud-agents.md)
 - [Chinese Grey Market Sells Claude API Access at 90% Off Through Proxy Networks That Harvest User Data](src/2026-05/20260501-chinese-grey-market-claude-api-access-proxy.md)- [Google Announces Its First-Ever Discovery of a Zero-Day Exploit Made With AI](src/2026-05/20260511-google-first-ai-zero-day-exploit-discovery.md)- [OpenAI Debuts $4B AI Services Company As Rival Anthropic Builds Its Own](src/2026-05/20260511-openai-debuts-4b-ai-services-company.md)- [Building a Growth Engine from Zero: How One COO Boosted ARR 38% Using Claude Code](src/2026-05/20260511-building-a-growth-engine-from-zero-claude-code.md)- [Teaching Claude Why: How Anthropic Eliminated Agentic Misalignment](src/2026-05/20260508-teaching-claude-why-anthropic-alignment.md)- [How Frontier Firms Are Pulling Ahead: OpenAI B2B Signals](src/2026-05/20260506-how-frontier-firms-are-pulling-ahead-openai-b2b-signals.md)- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Organizations](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)- [Meta Acquires Assured Robot Intelligence, Redrawing AI Spending Plans](src/2026-05/20260509-meta-acquires-assured-robot-intelligence-redrawing-ai-spending-plans.md)- [The 90 Day Disclosure Policy Is Dead](src/2026-05/20260509-the-90-day-disclosure-policy-is-dead.md)
+- [AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields](src/2026-05/20260507-alphaevolve-gemini-powered-coding-agent-scaling-impact.md)
+- [Clawdmeter: ESP32 desk dashboard for Claude Code usage](src/2026-05/20260516-clawdmeter-esp32-desk-dashboard-claude-code-usage.md)
+- [mb · mini-browser: An agent-first browser CLI](src/2026-05/20260516-mini-browser-agent-first-browser-cli.md)
+- [Reinforcement Learning Course Materials](src/2026-05/20260516-reinforcement-learning-course-materials.md)
+- [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Every Organization](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)
+- [Study: Firms often use automation to control certain workers' wages](src/2026-05/20260507-firms-use-automation-control-workers-wages.md)
 
 #### April (1 articles)
 - [The $725 Billion AI Spending Surge Is Missing the Real Bottleneck](src/2026-04/20260430-the-725-billion-ai-spending-surge-real-bottleneck.md)- [The Pulse: token spend breaks budgets – what next?](src/2026-04/20260430-the-pulse-token-spend-breaks-budgets-what-next.md)
