@@ -1,4 +1,3 @@
-https://openai.com/index/introducing-b2b-signals/
 https://openai.com/index/openai-launches-the-deployment-company/
 https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack/
 https://ramp.com/leading-indicators/ai-index-may-2026
