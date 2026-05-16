@@ -1,5 +1,4 @@
 https://deepmind.google/discover/blog/alphaevolve-how-our-gemini-powered-coding-agent-is-self-improving/
-https://github.com/HermannBjorgvin/Clawdmeter
 https://github.com/runablehq/mini-browser
 https://github.com/upb-lea/reinforcement_learning_course_materials
 https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox-with-claude-mythos-preview/
@@ -15,14 +14,6 @@ https://thinkingmachines.ai/blog/interaction-models/
 https://www.aboutamazon.com/news/retail/alexa-for-shopping-ai-assistant
 https://www.anthropic.com/research/2028-ai-leadership
 https://www.anthropic.com/research/teaching-claude-why
-https://www.bloomberg.com/news/articles/2026-05-11/hackers-used-ai-to-build-zero-day-attack-google-researchers-say
-https://www.bvp.com/atlas/building-a-growth-engine-from-zero-how-one-coo-boosted-arr-38-without-a-growth-team-using-claude-code
-https://www.crn.com/news/ai/2026/openai-launches-services-business-on-heels-of-similar-anthropic-announcement
-https://www.engadget.com/2170002/google-announces-its-first-ever-discovery-of-a-zero-day-exploit-made-with-ai/
-https://www.harvey.ai/research/biglaw-bench
-https://www.lawnext.com/2026/05/anthropic-goes-all-in-on-legal-releasing-more-than-20-connectors-and-12-practice-area-plugins-for-claude.html
-https://www.nytimes.com/2026/05/12/us/politics/china-ai-anthropic-openai-mythos-chatgpt.html
-https://www.perceptron.inc/blog/introducing-perceptron-mk1
 https://www.saastr.com/openaidecamillionaires/
 https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/
 https://www.saastr.com/were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing-the-bottleneck-isnt-great-ideas-anymore/
