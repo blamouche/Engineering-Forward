@@ -1,32 +1,28 @@
 # Reinforcement Learning Course Materials
 **Source**: https://github.com/upb-lea/reinforcement_learning_course_materials
-**Date**: 2026
-**Author**: upb-lea (Paderborn University / University of Siegen)
-**Keywords**: reinforcement learning, course materials, lecture notes, open education, MDP, policy gradient, deep RL, PPO, TRPO
+**Date**: May 16, 2026
+**Author**: University of Paderborn / University of Siegen (LEA group)
+**Keywords**: reinforcement learning, open education, lecture notes, MDP, policy gradient, deep RL, course materials
 
 ## Elevator pitch
-A comprehensive open-source reinforcement learning course from Paderborn University/University of Siegen, providing complete lecture slides, Python tutorial exercises with solutions, and YouTube lecture videos covering everything from Markov decision processes to contemporary algorithms like TRPO and PPO.
+A comprehensive open-source reinforcement learning course with lecture notes, tutorial tasks with solutions, and online videos, covering everything from Markov decision processes to contemporary algorithms like PPO and TRPO.
 
 ## Takeaways
-- The course is licensed under Creative Commons Attribution 4.0, making it freely usable for self-study and reusable by other lecturers to set up their own RL courses.
-- Materials span 16 lecture sections covering the full RL curriculum: MDPs, dynamic programming, Monte Carlo methods, TD learning, multi-step bootstrapping, function approximation, policy gradients (stochastic and deterministic), TRPO, PPO, and research insights.
-- Each lecture section pairs PDF slides with YouTube video recordings, creating a complete asynchronous learning experience comparable to attending the course.
-- Python exercises with templates and solutions walk students through practical implementations, from basic scientific computing to full RL algorithm coding.
-- The course has been transferred from Paderborn to University of Siegen, with continuous maintenance including CI/CD for PDF builds via GitHub Actions.
+- Complete university-level RL curriculum: 14+ lecture modules with slides in PDF format and accompanying YouTube video lectures.
+- Covers the full RL spectrum: from fundamentals (MDPs, dynamic programming, Monte Carlo, TD-learning) to modern deep RL (policy gradients, DDPG, TRPO, PPO).
+- Practical Python exercises built on Python 3.12 with templates and full solutions provided for self-learners and instructors.
+- Licensed under Creative Commons Attribution 4.0, enabling both self-study and course setup by other lecturers.
+- Originally from Paderborn University, now maintained at University of Siegen with active CI/CD for PDF builds.
 
 ## Synthesis
-The reinforcement learning course materials from the upb-lea GitHub organization represent a significant contribution to open educational resources in AI. Originally developed at Paderborn University and now maintained at the University of Siegen, the repository provides everything needed to teach or self-study a complete university-level RL course—from foundational concepts to cutting-edge algorithms.
+This repository represents one of the most complete open educational resources for reinforcement learning available today. Originally developed at Paderborn University and now maintained by the University of Siegen's LEA (Learning and Embedded Automation) group, it provides a full semester's worth of RL curriculum under a Creative Commons license.
 
-The scope is impressive. Sixteen lecture sections systematically build from Markov decision processes through dynamic programming, Monte Carlo and temporal-difference learning, to function approximation methods, policy gradients, and contemporary algorithms like TRPO and PPO. A final "Outlook and Research Insights" section connects the curriculum to active research directions. Each section has corresponding YouTube lecture videos, making the materials accessible to self-learners who cannot attend in person.
+The course follows a logical progression that mirrors the historical development of RL. It begins with foundational concepts — introduction to RL, Markov decision processes, and dynamic programming — before advancing through model-free methods (Monte Carlo and temporal-difference learning). The curriculum then bridges to modern deep RL with function approximation, value-based control, and policy gradient methods. The final modules cover contemporary algorithms like Trust Region Policy Optimization (TRPO) and Proximal Policy Optimization (PPO), ending with research outlooks.
 
-The exercise component is equally thorough. Tutorials with Python templates guide students through practical RL implementations, while solution directories provide complete reference implementations. Exercises cover scientific Python basics, manual MDP solving, dynamic programming, and more advanced topics. The use of Python 3.12 with standard scientific computing dependencies (via requirements.txt) ensures students work with current, production-relevant tools.
+Each lecture module includes a pre-rendered PDF slide deck (hosted via GitHub Pages) and a YouTube video lecture, making the material accessible for both self-study and formal education. The exercise component is equally thorough: Python-based tutorials with Jupyter-style templates provide hands-on practice with scientific Python for RL, and complete solutions are provided for each exercise.
 
-The open-source approach is notable for its permissiveness. Under Creative Commons Attribution 4.0 (CC BY 4.0), anyone can use, adapt, and redistribute the materials, including for commercial purposes, with attribution. The explicit invitation to other lecturers—"everyone is cordially invited to use it for self-learning (students) or to set up your own course (lecturers)"—reflects a genuine commitment to educational access rather than marketing.
+The technical infrastructure is well-organized with automated PDF builds via GitHub Actions, a Zenodo DOI for citation, and clear requirements management via pip. The course has clear institutional backing — the LEA group at the University of Siegen maintains and continues to update the materials.
 
-The technical infrastructure is also modern: a GitHub Actions CI pipeline automatically builds lecture PDFs from LaTeX source, ensuring the latest versions are always available. A Zenodo DOI provides citable, versioned references for academic use. The course template is maintained as a Git submodule, suggesting the infrastructure itself is designed to be reusable across courses.
+What makes this resource particularly valuable is its dual-use design. Self-learners can work through lectures and exercises independently, while lecturers can fork and adapt the entire curriculum for their own courses. The open license removes barriers to both uses.
 
-The timing of this resource is significant. As reinforcement learning increasingly moves from academic research to industrial deployment—particularly with the rise of RLHF (Reinforcement Learning from Human Feedback) in LLM training—the need for structured, accessible RL education has never been greater. This course fills that need without paywalls, proprietary platforms, or registration requirements.
-
-One limitation is that the materials follow the Sutton & Barto textbook structure (the canonical RL reference), which means the perspective is grounded in classical RL rather than more recent directions like RLHF, multi-agent RL, or model-based RL with foundation models. But as a foundation, it's comprehensive and well-structured. The inclusion of "Outlook and Research Insights" partially addresses this by connecting classical material to current research.
-
-The repository's ongoing maintenance—with recent commits, active CI/CD, and institutional backing from two universities—suggests it will continue to be updated. For anyone learning or teaching reinforcement learning, it represents one of the most complete open resources available.
+The course fills an important gap in AI education. While there are excellent RL textbooks (Sutton & Barto) and online courses (David Silver's), this repository uniquely combines structured lecture slides, video content, and graded Python exercises in a single, version-controlled package that can be integrated into university curricula or self-study paths with minimal friction.

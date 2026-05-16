@@ -1,4 +1,3 @@
-https://github.com/upb-lea/reinforcement_learning_course_materials
 https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox-with-claude-mythos-preview/
 https://openai.com/index/introducing-b2b-signals/
 https://openai.com/index/openai-launches-the-deployment-company/
