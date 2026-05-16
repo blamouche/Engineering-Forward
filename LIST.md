@@ -30,3 +30,4 @@ https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-grey-
 https://www.tomtunguz.com/cost-of-ai-email/
 https://www.tomtunguz.com/localmaxxing/
 https://www.tomtunguz.com/the-disappearance-of-email/
+https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent
