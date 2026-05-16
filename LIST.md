@@ -1,5 +1,3 @@
-https://deepmind.google/discover/blog/alphaevolve-how-our-gemini-powered-coding-agent-is-self-improving/
-https://github.com/runablehq/mini-browser
 https://github.com/upb-lea/reinforcement_learning_course_materials
 https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox-with-claude-mythos-preview/
 https://openai.com/index/introducing-b2b-signals/
