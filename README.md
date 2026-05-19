@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | █████████████ 48<br>2026-08 | █ 1
+2026-05 | █████████████████████████ 76
 ## Articles
 
 ### 2026
@@ -29,7 +29,16 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (58 articles)
+#### May (75 articles)
+- [HRM-Text — Efficient Pretraining Beyond Scaling: A 1B Model Trained for ~$1,000](src/2026-05/20260519-hrm-text-efficient-pretraining-beyond-scaling-1b-model-1000-dollars.md)
+- [GBrain — Garry Tan's Opinionated OpenClaw/Hermes Agent Brain](src/2026-05/20260519-gbrain-garry-tan-opinionated-openclaw-hermes-agent-brain.md)
+- [Headroom — Context Compression Layer for AI Agents](src/2026-05/20260519-headroom-context-compression-layer-for-ai-agents.md)
+- [LiteLLM Agent Platform — Self-Hosted Agent Infrastructure with Sandboxes and Vault Proxy](src/2026-05/20260519-litellm-agent-platform-self-hosted-agent-infrastructure-sandboxes-vault.md)
+- [LLM Wiki v2 — Extending Karpathy's LLM Wiki Pattern with Agent Memory](src/2026-05/20260516-llm-wiki-v2-extending-karpathy-llm-wiki-pattern-agent-memory.md)
+- [The 18-month Career Is Here](src/2026-05/20250729-the-18-month-career-is-here.md)
+- [I Hired ChatGPT as My Career Coach](src/2026-05/20241007-i-hired-chatgpt-as-my-career-coach.md)
+- [How to Start a Career When AI Is Doing Your Entry-level Job](src/2026-05/20260518-how-to-start-a-career-when-ai-is-doing-your-entry-level-job.md)
+- [How to Keep Your Writing Weird in the Age of AI](src/2026-05/20250613-how-to-keep-your-writing-weird-in-the-age-of-ai.md)
 - [Does Google Have a Claude Code Counterpunch?](src/2026-05/20260518-does-google-have-claude-code-counterpunch.md)
 - [Anthropic acquires Stainless](src/2026-05/20260518-anthropic-acquires-stainless.md)
 - [Qwen3.7 Preview Lands on Arena](src/2026-05/20260518-qwen-3-7-preview-arena.md)
@@ -88,6 +97,14 @@ P22-12 | █ 2<br>
 - [Reinforcement Learning Course Materials](src/2026-05/20260516-reinforcement-learning-course-materials.md)
 - [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Every Organization](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)
 - [Study: Firms often use automation to control certain workers' wages](src/2026-05/20260507-firms-use-automation-control-workers-wages.md)
+- [How I Use LLMs as a Staff Engineer in 2026](src/2026-05/20260517-how-i-use-llms-in-2026.md)
+- [DeepSeek-V4-Flash Means LLM Steering Is Interesting Again](src/2026-05/20260516-steering-vectors.md)
+- [Codex Can Now Control Other Desktop Devices via Computer Use](src/2026-05/20260516-codex-control-other-desktop-devices-computer-use.md)
+- [The Ultimate Guide to /goal](src/2026-05/20260517-the-ultimate-guide-to-goal.md)
+- [Vercel Built a Programming Language for AI Agents](src/2026-05/20260518-vercel-built-a-programming-language-for-ai-agents.md)
+- [Apple Silicon Costs More Than OpenRouter](src/2026-05/20260517-offline-llm-energy-use.md)
+- [Zero: A Programming Language for Agents](src/2026-05/20260518-zero-programming-language-for-agents.md)
+- [How Snapchat Serves a Billion Predictions Per Second](src/2026-05/20260519-how-snapchat-serves-a-billion-predictions-per-second.md)
 
 #### April (3 articles)
 - [Welcome to Gas City](src/2026-04/20260424-welcome-to-gas-city.md)
