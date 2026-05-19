@@ -18,16 +18,6 @@ https://github.com/BerriAI/litellm-agent-platform
 https://github.com/chopratejas/headroom
 https://github.com/garrytan/gbrain
 https://github.com/sapientinc/HRM-Text
-https://github.com/vercel-labs/zero
-https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation
-https://insights.som.yale.edu/insights/the-real-job-destruction-from-ai-is-hitting-before-careers-can-start
-https://interfaze.ai
-https://itamargilad.com/ai-pm-future
-https://jiaxin-wen.github.io/blog/generalization-dynamics
-https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text
-https://lalitm.com/post/dont-answer-the-first-question
-https://linas.substack.com/p/coatue-may-2026-ai-report
-https://log.beshr.com/domain-knowledge-is-the-leverage
 https://lovable.dev/blog/introducing-skills
 https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures
 https://manus.im/blog/manus-schedules

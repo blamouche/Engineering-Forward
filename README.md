@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████ 35<br>2026-08 | █ 1
+2026-05 | █████████████ 48<br>2026-08 | █ 1
 ## Articles
 
 ### 2026
@@ -29,12 +29,32 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (55 articles)
+#### May (58 articles)
+- [Does Google Have a Claude Code Counterpunch?](src/2026-05/20260518-does-google-have-claude-code-counterpunch.md)
+- [Anthropic acquires Stainless](src/2026-05/20260518-anthropic-acquires-stainless.md)
+- [Qwen3.7 Preview Lands on Arena](src/2026-05/20260518-qwen-3-7-preview-arena.md)
+- [The Workflow Collision](src/2026-05/20260517-the-workflow-collision.md)
+- [The haves and have-nots of the AI gold rush](src/2026-05/20260516-haves-and-have-nots-ai-gold-rush.md)
+- [Runway started by helping filmmakers — now it wants to beat Google at AI](src/2026-05/20260515-runway-beat-google-at-ai.md)
+- [Mitchell Hashimoto on AI Psychosis and the MTBF vs MTTR Reckoning](src/2026-05/20260515-mitchell-hashimoto-ai-psychosis-mtbf-mttr.md)
+- [What political censorship looks like inside an LLM's weights](src/2026-05/20260515-qwen-censorship-mechanistic-interpretability.md)
+- [how to enter side doors](src/2026-05/20260515-how-to-enter-side-doors.md)
+- [The Sigmoids Won't Save You](src/2026-05/20260515-the-sigmoids-wont-save-you.md)
 - [Project Glasswing: what Mythos showed us](src/2026-05/20260518-project-glasswing-mythos.md)
 - [How Grab is Using AI Agents to Boost Team Productivity](src/2026-05/20260518-how-grab-using-ai-agents-boost-team-productivity.md)
 - [Gemini app rolling out Extended thinking level](src/2026-05/20260517-gemini-app-extended-thinking-level.md)
 - [Using Claude Code: The Unreasonable Effectiveness of HTML](src/2026-05/20260508-using-claude-code-unreasonable-effectiveness-html.md)
 - [The Unreasonable Effectiveness of HTML](src/2026-05/20260508-the-unreasonable-effectiveness-of-html.md)
+- [Coatue's May 2026 Report: The $12T AI Bet That Splits Tech](src/2026-05/20260519-coatue-may-2026-ai-report.md)
+- [Domain Knowledge Is the Leverage](src/2026-05/20260519-domain-knowledge-is-the-leverage.md)
+- [Don't answer the first question](src/2026-05/20260519-dont-answer-the-first-question.md)
+- [Generalization Dynamics of LM Pre-training](src/2026-05/20260519-generalization-dynamics-lm-pretraining.md)
+- [Native all the way, until you need text](src/2026-05/20260519-native-all-the-way-until-you-need-text.md)
+- [Fine-Tuning NVIDIA Cosmos Predict 2.5 for Robot Video Generation](src/2026-05/20260519-fine-tuning-cosmos-predict-robot-video.md)
+- [3 AI PM Archetypes + 1](src/2026-05/20260519-ai-pm-archetypes-itamar-gilad.md)
+- [Interfaze: The AI model built for deterministic developer tasks](src/2026-05/20260519-interfaze-ai-model-deterministic-tasks.md)
+- [The Real Job Destruction from AI Is Hitting Before Careers Can Start](src/2026-05/20260519-real-job-destruction-ai-hitting-before-careers-start.md)
+- [GitHub - vercel-labs/zero: The programming language for agents](src/2026-05/20260519-vercel-labs-zero.md)
 - [Gas City](src/2026-05/20260519-gas-city.md)
 - [X For You Feed Algorithm](src/2026-05/20260515-x-for-you-feed-algorithm.md)
 - [AI's impact on software engineers in 2026: key trends, Part 2](src/2026-05/20260519-ai-impact-on-software-engineers-2026-key-trends-part-2.md)
