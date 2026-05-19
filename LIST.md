@@ -1,6 +1,3 @@
-https://github.com/gastownhall/gascity
-https://openai.com/index/open-source-codex-orchestration-symphony/
-https://github.com/xai-org/x-algorithm
 https://thariqs.github.io/html-effectiveness/
 https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/
 https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607

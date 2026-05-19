@@ -29,7 +29,9 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (49 articles)
+#### May (51 articles)
+- [Gas City](src/2026-05/20260519-gas-city.md)
+- [X For You Feed Algorithm](src/2026-05/20260515-x-for-you-feed-algorithm.md)
 - [AI's impact on software engineers in 2026: key trends, Part 2](src/2026-05/20260519-ai-impact-on-software-engineers-2026-key-trends-part-2.md)
 - [Inside the 100-agent Software Factory](src/2026-05/20260519-inside-the-100-agent-software-factory.md)
 - [EP215: The Anatomy of an AI Agent](src/2026-05/20260516-ep215-the-anatomy-of-an-ai-agent.md)
@@ -62,7 +64,8 @@ P22-12 | █ 2<br>
 - [Microsoft 2026 Work Trend Index: Agents, Human Agency, and the Opportunity for Every Organization](src/2026-05/20260505-microsoft-2026-work-trend-index-agents-human-agency.md)
 - [Study: Firms often use automation to control certain workers' wages](src/2026-05/20260507-firms-use-automation-control-workers-wages.md)
 
-#### April (1 articles)
+#### April (2 articles)
+- [An open-source spec for Codex orchestration: Symphony](src/2026-04/20260427-open-source-codex-orchestration-symphony.md)
 - [The $725 Billion AI Spending Surge Is Missing the Real Bottleneck](src/2026-04/20260430-the-725-billion-ai-spending-surge-real-bottleneck.md)- [The Pulse: token spend breaks budgets – what next?](src/2026-04/20260430-the-pulse-token-spend-breaks-budgets-what-next.md)
 - [Musk Loses Myth, Cloud Buys Time, Agents Pay Rent](src/2026-04/20260430-musk-loses-myth-cloud-buys-time-agents-pay-rent.md)- [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [OpenAI Has Already Created 300+ Decamillionaires Before Going Public](src/2026-04/20260430-openai-300-decamilionaires-before-ipo.md)- [Who Isn't Using GPT 5.5](src/2026-04/20260430-who-isn-t-using-gpt-5-5.md)
