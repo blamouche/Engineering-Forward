@@ -1,3 +1,6 @@
+## 0.0.1589 - 2026-05-19
+- Add substack post: The inversion of the org chart
+
 ## 0.0.1588 - 2026-05-19
 - Add substack post: AI's scaling problem is no longer technical
 
