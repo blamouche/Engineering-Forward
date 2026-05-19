@@ -1,9 +1,3 @@
-https://thariqs.github.io/html-effectiveness/
-https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/
-https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607
-https://9to5google.com/2026/05/17/gemini-app-thinking-level
-https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost
-https://blog.cloudflare.com/cyber-frontier-models
 https://cameronrwolfe.substack.com/p/agent-evals
 https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 https://clawpatch.ai/
