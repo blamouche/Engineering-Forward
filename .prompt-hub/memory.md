@@ -1083,6 +1083,13 @@
 - next_step: Update prompt-hub version/releases, commit, push, and return the title + file link.
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
 
+## 2026-05-19 20:58:00 +0200
+- actor: agent
+- action: Substack recents run: reviewed the 15 most recent README articles (1 new from August + 14 from May), wrote a new essay on the org chart inversion in enterprise AI — human reporting to AI VPs, shared team agents as the winning model, and investor sorting of agent startups — copied to `substack/latest.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260519-205800-substack-post-recents.md`; reviewed 15 `src/**/*.md` files from README; `substack/20260519-post-the-inversion-of-the-org-chart.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+
 ## 2026-05-19 14:01:00 +0200
 - actor: agent
 - action: Substack recents run: reviewed the 15 most recent README articles, wrote a new essay on AI's scaling problem shifting from technical to organizational/economic/geopolitical, copied to `substack/latest.md`.
