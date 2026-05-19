@@ -1,4 +1,3 @@
-https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2
 https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
 https://github.com/gastownhall/gascity
 https://openai.com/index/open-source-codex-orchestration-symphony/
