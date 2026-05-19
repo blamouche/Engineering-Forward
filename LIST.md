@@ -32,8 +32,6 @@ https://jiaxin-wen.github.io/blog/generalization-dynamics
 https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text
 https://lalitm.com/post/dont-answer-the-first-question
 https://linas.substack.com/p/coatue-may-2026-ai-report
-https://linas.substack.com/p/fintechpulse1080
-https://linas.substack.com/p/weeklyfintechpulse399
 https://log.beshr.com/domain-knowledge-is-the-leverage
 https://lovable.dev/blog/introducing-skills
 https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures
@@ -73,3 +71,4 @@ https://www.theunwindai.com/p/the-ultimate-guide-to-goal
 https://www.theunwindai.com/p/vercel-built-a-programming-language-for-ai-agents
 https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html
 https://zerolang.ai
+https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions
