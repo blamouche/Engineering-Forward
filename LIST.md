@@ -1,8 +1,15 @@
+https://every.to/context-window/inside-the-100-agent-software-factory
+https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2
+https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04
+https://github.com/gastownhall/gascity
+https://openai.com/index/open-source-codex-orchestration-symphony/
+https://github.com/xai-org/x-algorithm
+https://thariqs.github.io/html-effectiveness/
+https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/
+https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607
 https://9to5google.com/2026/05/17/gemini-app-thinking-level
 https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost
 https://blog.cloudflare.com/cyber-frontier-models
-https://blogs.nvidia.com/blog/vera-cpu-delivery
-https://browse.sh/
 https://cameronrwolfe.substack.com/p/agent-evals
 https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
 https://clawpatch.ai/
@@ -63,7 +70,6 @@ https://www.implicator.ai/openai-quietly-bought-voice-cloning-startup-weights-gg
 https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown
 https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the
 https://www.naceweb.org/job-market/trends-and-predictions/demand-for-ai-skills-in-entry-level-jobs-nearly-triples-since-fall-2025
-https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed
 https://www.seangoedecke.com/how-i-use-llms-in-2026
 https://www.seangoedecke.com/steering-vectors
 https://www.testingcatalog.com/openai-will-let-codex-control-other-desktop-devices-via-computer-use
