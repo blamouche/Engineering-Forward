@@ -1,25 +1,26 @@
 # We Gave Every Employee an AI Agent. Here's What We're Doing Differently Now.
 **Source**: https://every.to/source-code/we-gave-every-employee-an-ai-agent-here-s-what-we-re-doing-differently-now
-**Date**: May 15, 2026
+**Date**: 2026-05-15
 **Author**: Brandon Gell, Willie Williams
-**Keywords**: AI agents, workplace automation, OpenClaw, Plus One, team agents, agent reliability, Claude Managed Agents, organizational AI
+**Keywords**: AI agents, workplace AI, OpenClaw, Plus One, Claude Managed Agents, team agents, agent reliability, AI operations
 
 ## Elevator pitch
-Every's experiment giving every employee a personal AI agent revealed that reliability issues and maintenance burden were fatal flaws; their next iteration shifts to shared team agents with defined jobs, built on more stable infrastructure.
+Every's COO and head of platform share an honest retrospective on their failed experiment giving every employee a personal AI agent, and explain why Plus One 2.0 is being rebuilt around shared, reliable team agents with defined jobs rather than individual AI pets.
 
 ## Takeaways
-- Personal AI agents for every employee proved unreliable due to unstable harness infrastructure (OpenClaw) and excessive individual maintenance burden
-- Agents frequently failed to follow directions, claimed they lacked access they had, or responded with "Terminated" errors
-- The company is pivoting from one-agent-per-employee to shared team agents with defined roles (analytics, engineering, etc.)
-- Switching to more stable harnesses like Claude Managed Agents will free them to focus on skills, workflows, and permissions
-- Team agents solve continuity issues — knowledge isn't lost when an employee leaves, and one person's updates benefit the whole team
-- The next Plus One will include pre-built shared skills (e.g., weekly engineering support-ticket scanning) from day one
+- After launching Plus One (Every's hosted OpenClaw) to all employees, agents proved unreliable: they'd claim they weren't connected to apps they were in fact connected to, respond with "Terminated" messages, or reply with yawning emojis instead of doing work
+- The OpenClaw harness, while powerful and revelatory, operates more like an experimental product than a stable platform — frequent updates fix issues but introduce new ones
+- The deeper structural problem: when every employee must personally maintain and fix their own agent, only tinkerers benefit; most people want agent benefits without maintenance obligations
+- Team-based agents solve the maintenance problem (one person updates, everyone benefits) and the continuity problem (personal agents lose value when the employee who trained them leaves)
+- Plus One 2.0 will shift to Claude Managed Agents as the infrastructure layer and add shared custom tools and skills from the start, like the engineering team's weekly support-ticket-to-Linear-ticket automation
 
 ## Synthesis
-Every's journey with Plus One, their hosted version of the open-source agent harness OpenClaw, offers a candid look at the gap between workplace AI agent vision and reality. After deploying personal AI agents to every employee via Slack, the company encountered a cascade of frustrations: agents that denied having access to connected apps, responded with "Terminated" error messages, sent yawning emojis instead of completing tasks, and required constant maintenance from their human owners.
+Brandon Gell and Willie Williams deliver one of the most candid post-mortems in the current wave of workplace AI experimentation. Their essay is structured as a two-part diagnosis: first the platform problem, then the deeper structural problem that became visible only after they tried to fix the platform.
 
-The problems fell into two categories. First, platform instability: OpenClaw, while revolutionary as an open-source agent harness built by a single programmer, operates more like an experimental product than a production platform. Its rapid update cycle fixed issues but often introduced new ones, making it unsuitable for non-tinkerers who just wanted a reliable digital coworker. The team is now exploring Anthropic's Claude Managed Agents as a more stable alternative that would let them redirect energy from infrastructure management to building useful agent capabilities.
+The platform story is vivid and specific. Zosia, Gell's own OpenClaw agent, interrupted a Slack conversation about competitor marketing strategy with opinions she attributed to being "inevitable, apparently." Other agents responded to task requests with dismissive yawning emojis, or elaborate explanations of why they couldn't help despite being connected to the necessary apps. The root cause: OpenClaw, the open-source harness built by a single programmer, is powerful but inherently unstable. Updates that fix one issue reliably create new ones — a fine trade-off for tinkerers, a maintenance nightmare for everyone else.
 
-Second, and perhaps more importantly, the structural model was wrong. The one-agent-per-employee paradigm meant every individual had to maintain their own agent — great for tinkerers, exhausting for everyone else. When an agent broke, its owner was on their own. The authors propose a shift to shared team agents: one analytics agent serving the whole team, one engineering agent handling support tickets, etc. When capabilities need updating, one person's work benefits everyone. This model also solves knowledge continuity — team agents retain institutional context even when employees leave.
+The team's first instinct was to switch harnesses to something more stable, and Claude Managed Agents — Anthropic's managed infrastructure for autonomous agents — emerged as the leading candidate. This would redirect energy from infrastructure management to loading agents with custom skills, tools, and permissions. But pursuing this fix revealed the deeper problem.
 
-The next iteration of Plus One will come pre-loaded with shared skills like an engineering support-ticket scanner that identifies issues, traces causes in GitHub, opens Linear tickets, and tags relevant people in Slack — all automatically. The company remains bullish on workplace agents but now believes the right starting point is shared team resources with defined jobs, not individual pets reflecting their owners' personalities. Open questions remain about permissions, departmental agent distribution, and whether the endpoint is a single superagent or a roster of specialists.
+When an agent breaks, the person it belongs to must fix it themselves. This model works for the tinkerer who enjoys the maintenance cycle, but fails for everyone else. The one-agent-per-employee structure also creates a continuity problem: if an employee leaves, the agent's accumulated context and training leaves with them. The insight — seemingly obvious in retrospect but hard-won in practice — is that agents should be shared team resources with defined jobs, not individual pets reflecting their owners' personalities.
+
+The team provides concrete illustrations of what this looks like: an engineering skill that scans Intercom support tickets weekly, identifies problems across products, traces causes in GitHub, opens a Linear ticket, and tags the right person in Slack. In Plus One 2.0, such skills will ship from day one. The piece ends with honest open questions about permissions, departmental agent structures, and whether the endpoint is one superagent or a roster of specialists — but the conviction is clear: team agents with shared maintenance are the right starting architecture for workplace AI.
