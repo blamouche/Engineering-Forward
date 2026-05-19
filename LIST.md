@@ -8,13 +8,3 @@ https://openai.com/index/work-with-codex-from-anywhere
 https://plaid.com/blog/chatgpt-personal-finance-plaid
 https://skids.dev/blog/anthropic-cache-tokenomics
 https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf
-https://www.billjings.com/posts/title/git-is-not-fine
-https://www.chatprd.ai/how-i-ai/claude-code-anthropic-thariq-shihipar-on-replacing-markdown-with-html
-https://www.chatprd.ai/how-i-ai/workflows/build-disposable-micro-apps-with-ai-to-edit-complex-plans
-https://www.chatprd.ai/how-i-ai/workflows/create-interactive-html-project-plans-with-ai-for-better-visualization
-https://www.chatprd.ai/how-i-ai/workflows/generate-a-living-html-design-system-with-ai-for-ui-consistency
-https://www.dwarkesh.com/p/notes-on-pretraining-parallelisms
-https://www.implicator.ai/openai-quietly-bought-voice-cloning-startup-weights-gg-then-folded-the-team
-https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown
-https://www.lennysnewsletter.com/p/why-were-at-the-beginning-of-the
-https://www.naceweb.org/job-market/trends-and-predictions/demand-for-ai-skills-in-entry-level-jobs-nearly-triples-since-fall-2025
