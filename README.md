@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (47 articles)
+#### May (48 articles)
+- [Inside the 100-agent Software Factory](src/2026-05/20260519-inside-the-100-agent-software-factory.md)
 - [EP215: The Anatomy of an AI Agent](src/2026-05/20260516-ep215-the-anatomy-of-an-ai-agent.md)
 - [Clawdmeter: ESP32 desk dashboard that shows Claude Code usage](src/2026-05/20260516-clawdmeter-esp32-desk-dashboard-claude-code-usage.md)
 - [We're Hiring a Human Marketing Exec to Report to 10K, Our AI VP Marketing. Could You Report to an AI?](src/2026-05/20260513-were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing.md)
