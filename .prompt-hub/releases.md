@@ -1,3 +1,6 @@
+## 0.0.1588 - 2026-05-19
+- Add substack post: AI's scaling problem is no longer technical
+
 ## 0.0.1585 - 2026-05-11
 - Add substack post: The next AI race is about operational discipline
 

@@ -1083,6 +1083,13 @@
 - next_step: Update prompt-hub version/releases, commit, push, and return the title + file link.
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
 
+## 2026-05-19 14:01:00 +0200
+- actor: agent
+- action: Substack recents run: reviewed the 15 most recent README articles, wrote a new essay on AI's scaling problem shifting from technical to organizational/economic/geopolitical, copied to `substack/latest.md`.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260519-140100-substack-post-recents.md`; reviewed 15 `src/2026-05/*.md` files from README; `substack/20260519-post-ais-scaling-problem-is-no-longer-technical.md`; `substack/latest.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: commit and push
+
 ## 2026-05-11 21:35:16 +0200
 - actor: agent
 - action: Scan-list run: loaded prompt-hub context, synced the repo, created the task log, and found `LIST.md` empty so no URL processing or batch recap was needed.
