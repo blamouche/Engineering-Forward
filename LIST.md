@@ -1,13 +1,3 @@
-https://cameronrwolfe.substack.com/p/agent-evals
-https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
-https://clawpatch.ai/
-https://cursor.com/blog/composer-2-5
-https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence
-https://every.to/context-window/after-the-personal-agent
-https://every.to/context-window/mining-your-life-for-context
-https://every.to/context-window/the-fallacy-of-the-16-hour-agent
-https://every.to/p/socrates-as-a-service
-https://every.to/p/what-comes-after-linkedin
 https://lovable.dev/blog/introducing-skills
 https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures
 https://manus.im/blog/manus-schedules

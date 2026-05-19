@@ -1,24 +1,22 @@
 # Socrates as a Service
 **Source**: https://every.to/p/socrates-as-a-service
-**Date**: 2026-05-11
+**Date**: 2026-05-11 (updated 2026-05-18)
 **Author**: Eleanor Warnock
-**Keywords**: tacit knowledge, interviewing, journalism, AI limitations, knowledge extraction, expertise, Michael Polanyi, intellectual craftsmanship
+**Keywords**: tacit knowledge, interviewing, knowledge extraction, AI vs human judgment, Michael Polanyi, knowledge management, journalism
 
 ## Elevator pitch
-Eleanor Warnock argues that in a world where AI can search anything, the people who can extract tacit knowledge — the insights not on the internet — through skilled questioning are becoming more valuable, not less, and provides seven techniques for the craft.
+In a world where AI can search anything, the most valuable information — tacit knowledge that lives in people, not databases — requires human skill to extract, making expert questioners more valuable than ever.
 
 ## Takeaways
-- Tacit knowledge, as defined by Michael Polanyi ("we can know more than we can tell"), is the expertise and intuition that resists being turned into a document — and AI cannot yet replicate how skilled humans extract it
-- The best stories and insights often don't emerge until minute 45 of a two-hour interview; the gap between what AI can surface and what a great human questioner can extract is where the most valuable content lives
-- Warnock frames skilled interviewers as "Socrates as a Service" — people who pull gold-dust insights out of others that aren't in any model or database
-- The 1980s Matsushita bread machine story illustrates tacit knowledge transfer: a software developer apprenticed with a master baker to absorb the unarticulated technique that made the difference
-- Without systematic tacit knowledge extraction, organizations risk producing generic, "twice-boiled" content indistinguishable from AI-generated material
+- Tacit knowledge, as defined by Michael Polanyi ("we can know more than we can tell"), is the expertise and intuition that resists documentation and lives only in human experience
+- AI excels at processing codified information but struggles to surface what people know implicitly — the gap between what AI can do and what a great human questioner can extract is still wide
+- Eleanor Warnock identifies seven techniques for extracting tacit knowledge from interviews, including letting conversations run past the 45-minute mark where the "good stuff" emerges
+- The Osaka-based Matsushita bread machine story illustrates how tacit knowledge transfer (apprenticing with a baker) creates competitive advantage that information processing alone cannot
+- In an AI-saturated world, the people who can surface what isn't on the internet — taste, judgment, attention — become more valuable, not less
 
 ## Synthesis
-Eleanor Warnock, Every's managing editor and a veteran journalist from the Wall Street Journal and Sifted, makes a case that cuts against the prevailing AI narrative. While the industry races to make everything searchable and queryable, the most valuable information — the kind that produces front-page stories, crystallizes founder philosophies, and differentiates brands — remains stubbornly locked inside people's heads. This is tacit knowledge, a concept Warnock traces back to scientist-philosopher Michael Polanyi's insight that "we can know more than we can tell."
+Eleanor Warnock's essay makes a compelling case that AI's strength — processing all available codified knowledge — creates a corresponding premium on what it can't access. Tacit knowledge, the implicit expertise that Polanyi identified as "knowing more than we can tell," isn't captured in any training corpus. It lives in experienced practitioners, and extracting it requires the kind of patient, intuitive questioning that Warnock practices as a journalist and communications strategist.
 
-Warnock's framing is grounded in her own practice. As both a journalist and communications expert, she describes how the critical moment in an interview often doesn't arrive until well past the 45-minute mark, when the subject has exhausted their rehearsed answers and something genuine breaks through. She calls the people who do this well "Socrates as a Service" — a deliberately provocative label that positions skilled human questioning as something AI cannot yet commoditize. The term comes from an investor she's worked with, who calls these sessions "extraction sessions."
+The Matsushita bread machine example from Nonaka's 1991 article is a perfect illustration. The company couldn't solve their kneading problem through engineering analysis alone; they sent a developer to apprentice with a master baker, and the embodied knowledge she absorbed — about dough texture, timing, technique — became the foundation of a best-selling product. AI can analyze every bread recipe ever written and still not replicate what that baker knew in her hands. Warnock's seven extraction techniques are practical tools for closing this gap: they're about creating conditions where people reveal what they don't know they know.
 
-The argument draws on management theory, specifically Ikujiro Nonaka's influential 1991 work on the "knowledge-creating company." Nonaka argued Japanese firms outperformed Western ones by systematizing the conversion of tacit to explicit knowledge. His signature example: Matsushita Electric sent a software developer to apprentice with an Osaka hotel baker to learn the unarticulated technique behind perfect bread. The knowledge she absorbed — not through documentation but through observation, practice, and questioning — led to a top-selling bread machine. Polanyi argued that tacit knowledge exists outside numbers and symbolic language, the very forms of systemization AI depends on.
-
-The practical implications for organizations are significant. Warnock warns that without some mechanism for surfacing tacit knowledge — the anecdotes, framings, and details that live only in people — company messaging will sound like "twice-boiled content," indistinguishable from the AI-generated averages flooding every channel. The seven techniques she outlines form a working interviewer's toolkit built from years of practice, and the essay makes a broader case that taste, judgment, and sustained attention cannot be prompted. As AI makes explicit knowledge free, the premium on what can't be easily searched or generated goes up.
+The timing of this piece is significant. As AI makes searchable, codified knowledge trivially accessible, the economic value shifts toward what can't be searched. Warnock positions journalists, editors, and communications professionals as the "Socrates-as-a-service" that organizations need to differentiate themselves from AI-generated content. The comment thread on the article itself demonstrates the point: several readers share their own tacit knowledge about interviewing, surfacing techniques that weren't in the original piece but enrich the conversation.
