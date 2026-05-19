@@ -1281,7 +1281,8 @@ P22-12 | █ 2<br>
 - [Code is Cheap. Show Me the Talk.](src/2026-02/20260203-code-is-cheap-show-me-the-talk.md)
 - [OpenAI's New Codex App Is Gold for Senior Engineers](src/2026-02/20260202-openais-new-codex-app-is-gold-for-senior-engineers.md)
 
-#### January (102 articles)
+#### January (103 articles)
+- [Welcome to Gas Town](src/2026-01/20260101-welcome-to-gas-town.md)
 - [The Future of 10x Engineering](src/2026-01/20260131-the-future-of-10x-engineering.md)
 - [I Replaced a $120/Year Micro-SaaS in 20 Minutes with LLM-Generated Code](src/2026-01/20260131-i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code.md)
 - [Grok Imagine API](src/2026-01/20260131-grok-imagine-api.md)
