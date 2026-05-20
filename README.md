@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ██████████████████████████████ 95
+2026-05 | ██████████████████████████████ 96
 ## Articles
 
 ### 2026
@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (105 articles)
+#### May (106 articles)
+- [How Snapchat Serves a Billion Predictions Per Second](src/2026-05/20260519-how-snapchat-serves-a-billion-predictions.md)
 - [Introducing Gemini Omni](src/2026-05/20260520-introducing-gemini-omni.md)
 - [Introducing Skills: Turn repeated instructions into reusable skills in Lovable](src/2026-05/20260518-introducing-skills-lovable.md)
 - [Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention](src/2026-05/20260516-recent-developments-llm-architectures.md)

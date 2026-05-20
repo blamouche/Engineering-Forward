@@ -1,4 +1,3 @@
-https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions
 https://2026.stateofai.dev/
 https://www.anthropic.com/news/anthropic-acquires-stainless
 https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
