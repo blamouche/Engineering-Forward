@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (121 articles)
+#### May (122 articles)
+- [Agents, Meet the Figma Canvas](src/2026-05/20260500-agents-meet-the-figma-canvas.md)
 - [The Figma Design Agent is Here](src/2026-05/20260500-the-figma-design-agent-is-here.md)
 - [Anthropic Acquires Stainless](src/2026-05/20260518-anthropic-acquires-stainless.md)
 - [The Dawn of Codex-native Apps](src/2026-05/20260505-the-dawn-of-codex-native-apps.md)
