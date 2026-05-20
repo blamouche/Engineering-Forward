@@ -1,4 +1,3 @@
-https://aifoc.us/model-half-life/
 https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
 https://huggingface.co/blog/allenai/olmoearth-v1-1
 https://github.com/NVlabs/LongLive
