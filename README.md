@@ -162,7 +162,8 @@ P22-12 | █ 2<br>
 - [Zero: A Programming Language for Agents](src/2026-05/20260518-zero-programming-language-for-agents.md)
 - [How Snapchat Serves a Billion Predictions Per Second](src/2026-05/20260519-how-snapchat-serves-a-billion-predictions-per-second.md)
 
-#### April (4 articles)
+#### April (5 articles)
+- [Vibe Check: Opus 4.7 Stopped Reading Between the Lines](src/2026-04/20260417-vibe-check-opus-4-7-stopped-reading-between-the-lines.md)
 - [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [Welcome to Gas City](src/2026-04/20260424-welcome-to-gas-city.md)
 - [An open-source spec for Codex orchestration: Symphony](src/2026-04/20260427-open-source-codex-orchestration-symphony.md)
