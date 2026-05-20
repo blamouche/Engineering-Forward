@@ -6,11 +6,9 @@ https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-u
 https://blog.cloudflare.com/cyber-frontier-models
 https://andonlabs.com/blog/andon-fm
 https://core.telegram.org/bots/features#bot-to-bot-communication
-https://www.science.org/doi/10.1126/science.adt3136
 https://blog.google/technology/google-deepmind/veo-4/
 https://www.tomtunguz.com/first-derivative-of-inference/
 https://www.techradar.com/pro/ai-is-having-its-ford-t-moment-as-zero-day-assembly-lines-appear
-https://www.latimes.com/world-nation/story/2026-05-17/as-electric-bills-rise-in-ai-boom-states-take-aim-at-utilities-profits
 https://thinkingmachines.ai/blog/interaction-models/
 https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return
 https://www.wired.com/story/openai-reorg-greg-brockman-product/
@@ -25,10 +23,7 @@ https://supabase.com/blog/custom-oauth-oidc-providers
 https://supabase.com/blog/introducing-osscar-index
 https://supabase.com/blog/stripe-sync-engine-transfer
 https://theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai
-https://www.rescana.com/post/claw-chain-critical-openclaw-vulnerabilities-cve-2026-44112-44113-44115-44118-enable-data-theft-privilege-escalation-and
 https://clawstage.ai/
-https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-interdicasterial-artificial-intelligence-commission.html
 https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed
-https://konstantintkachuk.com/writing/the-floor-doesnt-exist/
 https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/
 https://www.moneycontrol.com/news/business/information-technology/salesforce-moved-3-000-employees-into-sales-roles-as-agentic-ai-reshapes-operations-vala-afshar-13922844.html
