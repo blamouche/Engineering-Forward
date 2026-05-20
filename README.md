@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ██████████████████████████████ 96
+2026-05 | █████████████████████████████████████ 105
 ## Articles
 
 ### 2026
@@ -29,7 +29,16 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (106 articles)
+#### May (115 articles)
+- [Dumb Ways for an Open Source Project to Die](src/2026-05/20260519-dumb-ways-open-source-project-die.md)
+- [Polymarket Launches Private Company Trading for AI Unicorns](src/2026-05/20260519-polymarket-private-company-trading.md)
+- [Andrej Karpathy, Tesla Alum and OpenAI Co-Founder, Joins Anthropic](src/2026-05/20260519-andrej-karpathy-joins-anthropic.md)
+- [Two AI-Based Science Assistants Succeed with Drug-Retargeting Tasks](src/2026-05/20260519-two-ai-based-science-assistants-drug-retargeting.md)
+- [Ex-OpenAI's Aschenbrenner Bet $5.5B on AI Chips. Now He's Betting $8.5B Against Them](src/2026-05/20260520-ex-openai-aschenbrenner-13f-q1-2026-short-semiconductors.md)
+- [OpenAI Has the Smarter Model. Anthropic Is Winning Anyway](src/2026-05/20260519-openai-vs-anthropic-ravi-mehta.md)
+- [Everything Google Announced at I/O 2026](src/2026-05/20260519-google-io-2026-news.md)
+- [Gemini 3.5 Flash: More Expensive, but Google Plan to Use It for Everything](src/2026-05/20260519-gemini-35-flash-simon-willison.md)
+- [Software's Centaur Era](src/2026-05/20260518-softwares-centaur-era.md)
 - [How Snapchat Serves a Billion Predictions Per Second](src/2026-05/20260519-how-snapchat-serves-a-billion-predictions.md)
 - [Introducing Gemini Omni](src/2026-05/20260520-introducing-gemini-omni.md)
 - [Introducing Skills: Turn repeated instructions into reusable skills in Lovable](src/2026-05/20260518-introducing-skills-lovable.md)
