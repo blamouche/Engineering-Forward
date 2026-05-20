@@ -30,6 +30,7 @@ P22-12 | █ 2<br>
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### May (116 articles)
+- [I/O 2026: Welcome to the agentic Gemini era](src/2026-05/20260519-google-io-2026-sundar-pichai-keynote.md)
 - [OpenAI announces new Guaranteed Capacity offering for customers to secure compute](src/2026-05/20260519-openai-guaranteed-capacity-compute-offering.md)
 - [Gemini 3.5: frontier intelligence with action](src/2026-05/20260519-gemini-3-5-frontier-intelligence-with-action.md)
 - [Dumb Ways for an Open Source Project to Die](src/2026-05/20260519-dumb-ways-open-source-project-die.md)

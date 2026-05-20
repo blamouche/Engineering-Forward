@@ -1,4 +1,3 @@
-https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
 https://aifoc.us/model-half-life/
 https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
 https://huggingface.co/blog/allenai/olmoearth-v1-1
