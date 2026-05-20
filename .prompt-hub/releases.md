@@ -1,3 +1,6 @@
+## 0.0.1592 - 2026-05-21
+- Scan-list run: processed 9 URLs from LIST.md, created 9 synthesis files across 2025-05, 2025-10, 2026-04, and 2026-05, emptied LIST.md, created batch recap synthesis/2026-05-21 - 000300 - batch recap.md. 0 errors.
+
 ## 0.0.1591 - 2026-05-21
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); LIST.md already had 9 AI/dev URLs from prior runs; 0 URL(s) added, 0 removed, 0 email(s) trashed.
 

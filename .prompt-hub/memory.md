@@ -1,4 +1,12 @@
 
+## 2026-05-21 00:03 — Scan-list
+- Processed 9 URLs from LIST.md
+- Created 9 synthesis files: Google I/O Agents, Codex-native Apps, Stainless plumbing podcast, Anthropic acquires Stainless, Figma Design Agent, Figma Canvas open to agents, GPT-5.5 Vibe Check, Opus 4.7 Vibe Check, Google AI Vision 2025
+- 0 fetch errors
+- LIST.md emptied
+- Batch recap created: synthesis/2026-05-21 - 000300 - batch recap.md
+- Pushed to origin/main
+
 ## 2026-05-21 00:02 — Daily veille IA
 - Gmail label `0---veille-ia`: 0 message(s)
 - LIST.md: already contained 9 AI/dev URLs from prior runs; all verified on-topic
