@@ -1,3 +1,6 @@
+## 0.0.1591 - 2026-05-21
+- Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); LIST.md already had 9 AI/dev URLs from prior runs; 0 URL(s) added, 0 removed, 0 email(s) trashed.
+
 ## 0.0.1590 - 2026-05-20
 - Daily veille IA: synced the repo, processed 1 Gmail message, extracted 1 relevant AI/dev URL, removed 0 off-topic URL(s) from LIST.md, and trashed 1 processed email.
 

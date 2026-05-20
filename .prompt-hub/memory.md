@@ -1,4 +1,12 @@
 
+## 2026-05-21 00:02 — Daily veille IA
+- Gmail label `0---veille-ia`: 0 message(s)
+- LIST.md: already contained 9 AI/dev URLs from prior runs; all verified on-topic
+- Added: 0 URL(s)
+- Removed (off-topic): 0 URL(s)
+- Trashed: 0 email(s)
+- Repo: clean and synced; task log committed
+
 ## 2026-04-30 20:02:43 +0200
 - actor: agent
 - action: Daily veille IA run: synced the repo, checked Gmail label `0---veille-ia`, found 0 message(s), kept `LIST.md` empty, removed 0 off-topic URL(s), and trashed 0 email(s).
