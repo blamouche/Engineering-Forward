@@ -27,3 +27,4 @@ https://clawstage.ai/
 https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed
 https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/
 https://www.moneycontrol.com/news/business/information-technology/salesforce-moved-3-000-employees-into-sales-roles-as-agentic-ai-reshapes-operations-vala-afshar-13922844.html
+https://linas.substack.com/p/ex-openai-aschenbrenner-13f-q1-2026-short-semiconductors
