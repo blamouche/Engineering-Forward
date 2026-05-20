@@ -1,4 +1,3 @@
-https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
 https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
 https://aifoc.us/model-half-life/
 https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
