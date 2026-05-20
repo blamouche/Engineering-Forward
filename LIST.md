@@ -26,3 +26,13 @@ https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-cla
 https://www.techzine.eu/news/devops/141412/salesforce-sets-aside-300m-for-ai-development-with-anthropic/
 https://www.moneycontrol.com/news/business/information-technology/salesforce-moved-3-000-employees-into-sales-roles-as-agentic-ai-reshapes-operations-vala-afshar-13922844.html
 https://linas.substack.com/p/ex-openai-aschenbrenner-13f-q1-2026-short-semiconductors
+https://9to5google.com/2026/05/19/google-io-2026-news/
+https://simonwillison.net/2026/May/19/gemini-35-flash/
+https://antigravity.google/product/antigravity-2
+https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo
+https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/
+https://www.wsj.com/tech/ai/andrej-karpathy-tesla-alum-and-openai-co-founder-joins-anthropic-c665f51f
+https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html
+https://blog.ravi-mehta.com/p/openai-vs-anthropic
+https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html
+https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html
