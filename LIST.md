@@ -1,4 +1,3 @@
-https://every.to/context-window/google-i-o-agents-agents-agents
 https://every.to/context-window/the-dawn-of-codex-native-apps
 https://every.to/podcast/he-s-building-the-plumbing-for-ai-to-use-the-internet
 https://www.anthropic.com/news/anthropic-acquires-stainless
