@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (119 articles)
+#### May (120 articles)
+- [Anthropic Acquires Stainless](src/2026-05/20260518-anthropic-acquires-stainless.md)
 - [The Dawn of Codex-native Apps](src/2026-05/20260505-the-dawn-of-codex-native-apps.md)
 - [Google I/O: Agents, Agents, Agents](src/2026-05/20260520-google-io-agents-agents-agents.md)
 - [Why Rust Is Different, with Alice Ryhl](src/2026-05/20260520-why-rust-is-different-with-alice-ryhl.md)

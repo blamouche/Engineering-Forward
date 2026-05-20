@@ -1,4 +1,3 @@
-https://www.anthropic.com/news/anthropic-acquires-stainless
 https://www.figma.com/blog/the-figma-agent-is-here
 https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents
 https://every.to/vibe-check/gpt-5-5
