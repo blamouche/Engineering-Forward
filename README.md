@@ -1522,6 +1522,10 @@ P22-12 | █ 2<br>
 
 #### June (2 articles)
 - [Anthropic's CPO: Here's what comes next](src/2025-06/20250605-anthropics-cpo-on-what-comes-next.md)
+
+#### May (1 article)
+- [Google's AI Vision: Make Tech Human Again](src/2025-05/20250523-google-s-ai-vision-make-tech-human-again.md)
+
 ### 2022
 
 #### December (2 articles)
