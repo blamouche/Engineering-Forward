@@ -10356,3 +10356,17 @@
 - files_changed_or_commands: 16 new src/2026-05/*.md synthesis files; README.md (May 25 articles + stats); LIST.md (emptied); synthesis/2026-05-15 - 181200 - batch recap.md; .prompt-hub/version.md; .prompt-hub/releases.md; .prompt-hub/memory.md
 - outcome: success (16/16 URLs processed, 0 fetch errors)
 - next_step: none.
+
+## 2026-05-20 14:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: synced the repo (committed 8 unsaved synthesis files), queried Gmail label `0---veille-ia`, found 1 TLDR newsletter, extracted and filtered 10 AI/dev URLs, added them to `LIST.md` (38 total, 0 removed as off-topic), trashed the processed email.
+- files_changed_or_commands: `git add -A` + commit sync; `gog gmail messages search 'label:0---veille-ia'`; 10 URLs extracted from TLDR newsletter (Google I/O, Gemini 3.5 Flash, SpaceX+Cursor, AI science assistants, Karpathy→Anthropic, Polymarket trading, OpenAI vs Anthropic, software's centaur era, open-source project death); `LIST.md` updated +38; `git commit -m "Add URL(s) to processing queue"` + push; `gog gmail batch modify --add TRASH --force`.
+- outcome: success
+- next_step: none.
+
+## 2026-05-20 15:10:00 +0200
+- actor: agent
+- action: Scan-list IA: processed 37 URLs from LIST.md. 25 already had syntheses (removed). 9 new articles synthesized (Simon Willison/Gemini 3.5 Flash, 9to5Google I/O 2026, Ars Technica AI Science Assistants, Ravi Mehta OpenAI vs Anthropic, Twitchard Centaur Era, Nesbitt Open Source Death, Linas Aschenbrenner short, CNBC Polymarket, WSJ Karpathy/Anthropic). 3 FETCH_ERROR (Google Veo-4 404, Antigravity-2 no content, Bloomberg 403). Batch recap created. LIST.md emptied.
+- files_changed_or_commands: 9 synthesis files in src/2026-05/, README.md, LIST.md, synthesis/2026-05-20 - 150100 - batch recap.md; git push origin main.
+- outcome: success
+- next_step: none.
