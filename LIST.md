@@ -11,7 +11,6 @@ https://blog.google/technology/google-deepmind/veo-4/
 https://www.tomtunguz.com/first-derivative-of-inference/
 https://www.techradar.com/pro/ai-is-having-its-ford-t-moment-as-zero-day-assembly-lines-appear
 https://www.latimes.com/world-nation/story/2026-05-17/as-electric-bills-rise-in-ai-boom-states-take-aim-at-utilities-profits
-https://fortune.com/2026/05/16/spacex-ipo-spcx-stock-valuation-space-market-moat-elon-musk-starlink-xai/
 https://thinkingmachines.ai/blog/interaction-models/
 https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return
 https://www.wired.com/story/openai-reorg-greg-brockman-product/
@@ -20,13 +19,11 @@ https://www.cnbc.com/2026/05/18/musk-altman-openai-trial-verdict.html
 https://www.washingtonpost.com/technology/2026/05/18/jury-rejects-elon-musk-lawsuit-against-openai-its-ceo-sam-altman/
 https://www.kimi.com/blog/kimi-k2-6
 https://supabase.com/blog/supabase-agent-skills
-https://supabase.com/blog/100000-github-stars
 https://supabase.com/blog/introducing-supabase-server
 https://supabase.com/blog/branching-without-git-is-now-the-default
 https://supabase.com/blog/custom-oauth-oidc-providers
 https://supabase.com/blog/introducing-osscar-index
 https://supabase.com/blog/stripe-sync-engine-transfer
-https://supabase.com/blog/supabase-is-now-iso-27001-certified
 https://theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai
 https://www.rescana.com/post/claw-chain-critical-openclaw-vulnerabilities-cve-2026-44112-44113-44115-44118-enable-data-theft-privilege-escalation-and
 https://clawstage.ai/
