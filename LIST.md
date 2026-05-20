@@ -1,4 +1,3 @@
-https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/
 https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions
 https://2026.stateofai.dev/
