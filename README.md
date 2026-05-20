@@ -1497,7 +1497,8 @@ P22-12 | █ 2<br>
 - [The AI Browsers That Made It Into Our Daily Workflow](src/2025-11/20251125-the-ai-browsers-that-made-it-into-our-daily-workflow.md)
 - [Bring Clarity to Your AI Systems](src/2025-11/20251106-dynatrace-ai-observability.md)
 
-#### October (1 article)
+#### October (5 articles)
+- [He's Building the Plumbing for AI to Use the Internet](src/2025-10/20251001-he-s-building-the-plumbing-for-ai-to-use-the-internet.md)
 - [Introducing Figma Weave: The Next Generation of AI-Native Creation at Figma](src/2025-10/20251030-introducing-figma-weave-the-next-generation-of-ai-native-creation-at-figma.md)
 - [Mercor quintuples valuation to $10B with $350M Series C](src/2025-10/20251027-mercor-quintuples-valuation-to-10b-with-350m-series-c.md)
 - [Vibe Check: Anthropic Cooked on Claude Haiku 4.5](src/2025-10/20251015-vibe-check-claude-haiku-4-5.md)

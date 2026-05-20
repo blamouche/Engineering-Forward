@@ -1,4 +1,3 @@
-https://every.to/podcast/he-s-building-the-plumbing-for-ai-to-use-the-internet
 https://www.anthropic.com/news/anthropic-acquires-stainless
 https://www.figma.com/blog/the-figma-agent-is-here
 https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents
