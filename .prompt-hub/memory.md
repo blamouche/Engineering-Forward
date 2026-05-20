@@ -10370,3 +10370,10 @@
 - files_changed_or_commands: 9 synthesis files in src/2026-05/, README.md, LIST.md, synthesis/2026-05-20 - 150100 - batch recap.md; git push origin main.
 - outcome: success
 - next_step: none.
+
+## 2026-05-20 18:03:00 +0200
+- actor: agent
+- action: Scan-list run: synced the repo, processed 10 queued URLs from LIST.md, created 9 synthesis files, 1 FETCH_ERROR (Claude Code HTML JS-rendered), emptied LIST.md, created batch recap, pushed all changes.
+- files_changed_or_commands: 9 src/2026-05/*.md synthesis files; README.md; LIST.md (emptied); synthesis/2026-05-20 - 180300 - batch recap.md
+- outcome: success (9 processed, 1 error)
+- next_step: none.
