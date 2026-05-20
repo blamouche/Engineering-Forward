@@ -1,0 +1,9 @@
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/
+https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html
+https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
+https://aifoc.us/model-half-life/
+https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html
+https://huggingface.co/blog/allenai/olmoearth-v1-1
+https://github.com/NVlabs/LongLive
+https://www.warp.dev/blog/multi-harness-cloud-agent-orchestration
+https://huggingface.co/blog/ettin-reranker
