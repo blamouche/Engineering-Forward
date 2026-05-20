@@ -2,25 +2,23 @@
 **Source**: https://supabase.com/blog/stripe-sync-engine-transfer
 **Date**: 2026-04-14
 **Author**: raminder_singh, matt_linkous, gregor_vand, ana_mogul
-**Keywords**: Stripe, Supabase, sync engine, Postgres, open-source, billing, Apache 2.0, integration
+**Keywords**: stripe, postgres, open-source, sync-engine, billing, integration, collaboration
 
 ## Elevator pitch
-Supabase is transferring its open-source Stripe Sync Engine repository to Stripe's GitHub organization, deepening a collaboration that brings Stripe billing data directly into Postgres with one-click dashboard integration.
+Supabase is transferring the Stripe Sync Engine repository to Stripe's GitHub organization after years of collaborative development, keeping it open source under Apache 2.0 while both teams continue building it together.
 
 ## Takeaways
-- The Stripe Sync Engine, originally open-sourced by Supabase in 2021, is moving from `supabase/stripe-sync-engine` to `stripe/sync-engine` under the Apache 2.0 license with no breaking changes for existing users.
-- Stripe engineers contributed significantly to the project: incremental sync with cursor-based pagination, JSONB storage with generated columns, multi-account Stripe Connect support, and a new CLI with event ordering.
-- A key technical breakthrough was Stripe's work on automatic incremental backfilling using Supabase Cron and Queue, enabling reliable large-scale data ingestion.
-- The latest release adds coupons sync (a top user request), branching support for safer dev workflows, immediate sync on install, one-click upgrades, and SSL enforcement support.
-- The transfer exemplifies Supabase's philosophy: build in the open, support the ecosystem, and contribute back as projects grow — even when that means handing the repo to a partner.
+- The Stripe Sync Engine moves from `supabase/stripe-sync-engine` to `stripe/sync-engine` after a deep engineering collaboration between the two companies
+- Stripe engineers contributed significant improvements: incremental sync with cursor-based pagination, JSONB storage with generated columns, multi-account Stripe Connect support, and a new CLI
+- The repo remains open source under Apache 2.0 — nothing breaks for existing users, and the Supabase dashboard integration continues to work
+- New capabilities shipped alongside the transfer: coupons sync, branching support, immediate data sync on install, one-click upgrades, and SSL enforcement support
+- The transfer is framed as a natural evolution of Supabase's philosophy: build in the open, support the tools and communities around them, and contribute back as things grow
 
 ## Synthesis
-The transfer of the Stripe Sync Engine from Supabase's GitHub organization to Stripe's represents a mature, pragmatic evolution in open-source collaboration between two major platforms. What started in 2021 as Supabase solving its own problem — joining billing data in Stripe with product data in Postgres — grew through sustained open development and eventually attracted direct engineering contributions from Stripe itself.
+The Stripe Sync Engine started in 2021 as a solution to Supabase's own problem: billing data lived in Stripe, product data lived in Postgres, and there was no good way to join them. They built a tool to sync Stripe data into a `stripe` schema in Postgres, open-sourced it, and kept building in the open. It grew beyond expectations.
 
-The collaboration intensified after December 2025, when Supabase announced a one-click dashboard integration for the sync engine. Stripe engineers brought significant technical improvements: cursor-based pagination for incremental sync, JSONB storage with generated columns for queryable structured data, multi-account support for Stripe Connect platforms, and a new CLI with proper event ordering guarantees. Perhaps most importantly, Stripe built the automatic incremental backfilling system using Supabase Cron and Queue, which solved the hard problem of reliably ingesting all existing Stripe data at scale. This was the technical unlock that made the dashboard integration viable.
+The turning point came in December 2025 when Supabase launched a one-click dashboard integration for the Sync Engine, built through close collaboration with Stripe's engineering team. Stripe engineers contributed directly: incremental sync using cursor-based pagination, JSONB storage with generated columns, multi-account support for Stripe Connect platforms, and a new CLI with proper event ordering. A key contribution was Stripe's work on automatic incremental backfilling using Supabase Cron and Queue, which enabled reliable, at-scale ingestion of existing Stripe data into Postgres — the feature that unlocked the dashboard integration.
 
-The repo transfer itself is pragmatic rather than dramatic. The code remains open-source under Apache 2.0. The old repo redirects to the new one. The dashboard integration continues working. Both teams will keep contributing. What changes is the symbolic ownership — this is now a Stripe project that Supabase contributes to, rather than the reverse. For a younger company like Supabase, this is a sign of ecosystem maturity: sometimes the right move is to let a project graduate to its natural home.
+The repo transfer to `stripe/sync-engine` is the next step in this collaboration. It stays open source under Apache 2.0, the old repo redirects, and all future changes from both teams go to the new repo. The latest release, shipped alongside the transfer, adds coupons sync (one of the most requested features), branching support for safer dev workflows, immediate data sync on install (no waiting for the first cron cycle), one-click upgrades, SSL enforcement support, and improved install/uninstall controls restricted to Admins and Owners.
 
-The latest release alongside the transfer adds meaningful improvements. Coupons sync addresses one of the most-requested features. Branching support lets developers test sync configurations on database branches before applying them to production. Immediate sync on install removes the friction of waiting for the first cron cycle. One-click upgrades, SSL enforcement support, and Admin/Owner-restricted install controls make the integration more production-ready. The dashboard also now shows Edge Function source code directly, improving transparency.
-
-For developers, the practical value proposition remains unchanged and compelling: with Stripe data in Postgres, you can join billing data directly with application data for operational decisions (feature gating, subscription checks) and analytical queries (MRR calculation, churn analysis). The transfer to Stripe's GitHub organization doesn't change the technical value — it signals that the project has achieved enough importance to warrant being maintained directly by the company whose API it serves.
+The announcement frames the transfer not as a handoff but as a natural evolution of how Supabase operates: build in the open, collaborate with ecosystem partners, and when tools grow beyond their origin, support their continued growth wherever they live. Both teams keep building it together.

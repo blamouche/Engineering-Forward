@@ -1,27 +1,28 @@
-# Project Glasswing: what Mythos showed us
-**Source**: https://blog.cloudflare.com/cyber-frontier-models
+# Project Glasswing: What Mythos Showed Us
+**Source**: https://blog.cloudflare.com/cyber-frontier-models/
 **Date**: May 18, 2026
-**Author**: Grant Bourzikas
-**Keywords**: Mythos, Anthropic, cybersecurity, LLM, vulnerability research, exploit chain, Cloudflare, AI security
+**Author**: Grant Bourzikas (Cloudflare)
+**Keywords**: Mythos Preview, Anthropic, vulnerability research, cybersecurity, LLM, exploit chain, Project Glasswing, Cloudflare, AI security
 
 ## Elevator pitch
-Cloudflare tested Anthropic's Mythos Preview (a security-focused LLM) on 50+ internal repositories through Project Glasswing, finding it can chain low-severity bugs into working exploits — but organic model refusals are inconsistent, and generic coding agents are fundamentally the wrong tool for vulnerability research.
+Cloudflare tested Anthropic's Mythos Preview on over 50 of their own repositories and found it represents a genuine step-change in AI-powered vulnerability research — capable of chaining exploits and generating working proofs, but requiring careful harness architecture rather than naive agent deployment to achieve meaningful coverage.
 
 ## Takeaways
-- Mythos Preview represents a step change from general-purpose frontier models: it constructs exploit chains by combining attack primitives, and generates working proofs of concept by writing, compiling, and testing exploit code in a loop.
-- The model can take low-severity bugs that would traditionally sit invisible in backlogs and chain them into a single severe exploit — a capability that changes how organizations must triage vulnerabilities.
-- Organic guardrails cause inconsistent refusals: the model may refuse vulnerability research in one context, then accept the same task after an unrelated environment change — too inconsistent to serve as a safety boundary.
-- Programming language matters enormously: memory-unsafe languages (C/C++) generate far more false positives than memory-safe ones (Rust).
-- Generic coding agents (Claude Code-style) are the wrong tool for vulnerability research: they're designed for focused, linear work, but vulnerability research requires narrow, parallel investigation across thousands of surface areas.
-- A proper harness is essential: fan-out architecture, parallel hypothesis testing, and post-validation stages to manage the signal-to-noise problem.
+- Mythos Preview can construct multi-step exploit chains (e.g., use-after-free to ROP chain) and generate working proof-of-concept code by compiling and iterating against results — capabilities no previous model demonstrated end-to-end
+- Organic model refusals exist but are inconsistent: semantically equivalent tasks produce opposite outcomes depending on framing, making them unreliable as safety boundaries without additional safeguards
+- Signal-to-noise remains the dominant operational challenge: models over-report with "possibly/potentially/could in theory" hedging, but Mythos Preview's PoC-generation capability dramatically reduces triage cost — a finding with a PoC is actionable
+- Pointing a generic coding agent at a repository doesn't work for vulnerability research — it requires narrow, parallel hypotheses with adversarial review, not single-stream exploration
+- Cloudflare's harness architecture uses narrow-scoped parallel agents, adversarial review (two agents in deliberate disagreement), chain-splitting across agents, and deduplication — a fundamentally different interaction model than chat or coding agents
 
 ## Synthesis
-Cloudflare CSO Grant Bourzikas shares the results of testing Anthropic's Mythos Preview — a specialized cybersecurity LLM — on the company's own infrastructure through Project Glasswing. The findings reveal both a significant leap in AI security capabilities and the hard engineering work required to use them at scale.
+Cloudflare's security team provides one of the most detailed public evaluations of Anthropic's Mythos Preview, a security-focused model made available through Project Glasswing. The post is candid about both the model's capabilities and limitations, making it valuable for understanding what "cyber frontier models" actually look like in practice.
 
-Mythos Preview's standout capability is exploit chain construction. Traditional vulnerability scanners find individual bugs; Mythos can reason about how to combine several small attack primitives into a working exploit — turning a use-after-free into arbitrary read/write, then hijacking control flow via ROP chains. More importantly, it generates proofs: the model writes exploit code, compiles it in a scratch environment, runs it, reads the failure, adjusts its hypothesis, and tries again. A finding that arrives with a working PoC is actionable; one without is speculation that costs human time to dismiss.
+The step-change is real: Mythos Preview's ability to chain multiple low-severity bugs into a working exploit — writing code, compiling it, running it, and iterating on failures — moves AI vulnerability research from "finding interesting bugs" to "proving exploitability." Previous frontier models could identify bugs and write thoughtful descriptions but consistently failed at stitching primitives together. Mythos Preview closes the gap between identification and proof.
 
-The signal-to-noise challenge remains significant. Models exhibit a confirmation bias toward finding vulnerabilities — ask them to find bugs, and they will find them, whether the code has any or not. Hedged findings ("possibly," "potentially," "could in theory") vastly outnumber solid ones. Mythos improves on this significantly, producing clearer reproduction steps and fewer hedged outputs than general-purpose models. But memory-unsafe languages (C/C++) generate consistently more false positives than memory-safe ones (Rust).
+However, the operational challenges remain significant. The model exhibits emergent guardrails that sometimes cause it to refuse legitimate security research, and these refusals are inconsistent — the same task framed differently produces different outcomes. This makes organic refusals unreliable as a safety layer, reinforcing the need for additional safeguards in generally available models.
 
-Cloudflare's most important architectural insight: generic coding agents are the wrong tool for vulnerability research. Coding agents are tuned for focused, linear work — building a feature, fixing a bug. Vulnerability research requires the opposite: narrow, parallel investigation across thousands of surface areas. A single agent session against a 100K-line repository covers maybe 0.1% of the surface before context fills up and compaction discards earlier findings. The solution is a purpose-built harness that fans out multiple parallel hypotheses, with post-validation stages to filter noise.
+The most practically valuable section covers harness architecture. Cloudflare learned that naive approaches — pointing a coding agent at a repository — fail for vulnerability research because of fundamentally incompatible interaction shapes. Coding agents are tuned for focused single-stream work; vulnerability research requires narrow, parallel hypotheses across thousands of surface points.
 
-The organic refusal behavior is also notable: Mythos Preview's built-in guardrails sometimes reject legitimate security research, but inconsistently — the same task framed differently produces different outcomes. This underscores why future generally-available cyber models will need additional safeguards beyond baseline behavior.
+Cloudflare's solution: a harness that scopes agents narrowly (specific vulnerability class, specific function, specific trust boundary), adds adversarial review (a second agent with different prompt/model that only critiques, never proposes), splits reasoning chains across agents (separating "is this buggy?" from "is this reachable?"), and runs tightly scoped parallel tasks with deduplication. This architecture is described as something "that isn't a chat interface anymore" — a recognition that scaling AI vulnerability research requires fundamentally different interaction models than consumer AI products provide.
+
+The post is also notable for what it doesn't say: no specifics about vulnerabilities found, which is appropriate for ongoing security work. But the methodological insights make it a must-read for any organization considering AI-assisted security testing.

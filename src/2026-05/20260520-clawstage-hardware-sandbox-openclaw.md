@@ -1,26 +1,28 @@
-# ClawStage: A Hardware Sandbox — A Cube in the Real World for Your OpenClaw
+# ClawStage: A Hardware Sandbox for OpenClaw Agents
 **Source**: https://clawstage.ai/
-**Date**: Unknown (2026)
-**Author**: ClawStage / HooRii Technology
-**Keywords**: OpenClaw, hardware, sandbox, embodied AI, physical agent, robotics, ClawStage, HooRii, edge computing
+**Date**: 2026 (ongoing)
+**Author**: HooRii Technology / ClawStage Team
+**Keywords**: OpenClaw, embodied AI, hardware sandbox, physical agents, edge computing, personal AI
 
 ## Elevator pitch
-ClawStage is a physical hardware sandbox designed to embody OpenClaw agents in the real world, providing a local, private, and isolated control plane where digital intent meets mechanical constraints.
+ClawStage is a physical hardware cube that gives OpenClaw agents a real-world sandbox — local, private, and isolated — bridging the gap between digital AI and physical embodiment.
 
 ## Takeaways
-- ClawStage provides a physical execution environment for OpenClaw agents with deterministic embodiment and local control
-- The device features a 1080p camera, dual MEMS microphone array, 3-axis accelerometer, and servo motors with 0.49 Nm peak torque
-- Supports physical expansion through attachable sensors and actuators mapped to agent behaviors
-- Implements a "One Ghost in Different Shells" philosophy — the same AI personality persists across mobile, desktop, and physical hardware forms
-- Currently seeking backing on Kickstarter, with configurable personas (Miko, Jeeves, Momo) that give the agent distinct personality profiles
+- ClawStage is a 1.2kg aluminum-and-plastic cube (92×92×184mm) designed as a "physical playground" for OpenClaw agents
+- It runs OpenClaw natively on-device with a deterministic control loop translating agent intent into physical motion
+- Hardware features include a 1080p camera (83.9° FOV), dual MEMS microphones (65dBA SNR), and a 3-axis accelerometer
+- The product philosophy centers on "One Ghost in Different Shells" — the same AI persona persists across mobile, desktop, and physical form factors
+- A Kickstarter campaign is live, with pre-built AI "Personas" (Miko, Jeeves, Momo) available for testing, with a fourth mystery persona coming soon
 
 ## Synthesis
-ClawStage, developed by HooRii Technology, presents itself as the hardware companion for the OpenClaw agent platform — a physical cube that serves as the "playground" for AI agents. The product addresses what its creators see as a fundamental gap: AI agents today execute in abstract digital space without physical presence, and ClawStage aims to ground them in a real coordinate system where actions have position, consequence, and boundary.
+ClawStage represents an ambitious attempt to solve a fundamental limitation of current AI agents: they exist purely in the digital realm. The product, built by HooRii Technology, is a compact hardware cube designed to serve as a "physical anchor" for OpenClaw agents — providing them with spatial coordinates, sensory input, and the ability to take physical action.
 
-The device measures 92×92×184mm and weighs approximately 1.2kg, constructed from aluminum and plastic. Its sensory capabilities include a 1080p camera with an 83.9° field of view, dual MEMS microphone arrays with 65dBA signal-to-noise ratio, and a 3-axis linear accelerometer with 16-bit high-resolution sensing. For physical action, it offers servo motors capable of 0.49 Nm peak torque with less than 1° mechanical backlash and rotation speeds up to 375°/s. All sensing and processing happens at the edge — on-device, local, and private by design.
+The device's architecture is built around three pillars: embodied presence, local perception, and physical action. At 1.2kg with an aluminum-and-plastic body, it's a desktop-sized robot that includes a 1080p camera with 83.9° field of view, dual MEMS microphone array with 65dBA signal-to-noise ratio, and a 3-axis linear accelerometer with 16-bit sensing. The actuation system delivers 0.49 Nm of peak torque with ≤1° mechanical backlash and up to 375°/s rotation speed.
 
-The product's architecture emphasizes three pillars: local execution (agents run natively on ClawStage and maintain state where the hardware lives), deterministic embodiment (agent intent becomes motion through a real-time control layer with sensor-actuator feedback loops), and physical expansion (the platform evolves with additional sensors and actuators mapped to agent behaviors).
+What makes ClawStage particularly interesting is its philosophy of "One Ghost in Different Shells" — the idea that the same personal AI intelligence should persist across different hardware forms, adapting without losing continuity. This is paired with "The Ghost Is Your Ghost" (personalization and memory), "User in the Loop" (transparent, steerable autonomy), and the vision of ClawStage as "The Third Core Device of the AI Era" — beyond phone and laptop.
 
-ClawStage embodies a design philosophy summarized as "One Ghost in Different Shells" — the same personal intelligence should persist across different hardware forms, adapting its embodiment without losing continuity. Coupled with this is "The Ghost Is Your Ghost" — the system reflects the user's preferences, memory, and intent over time. The product philosophy explicitly positions ClawStage as a potential "Third Core Device of the AI Era," beyond the phone and laptop.
+The control architecture is deterministic: agent intent flows through a real-time control layer where sensors and actuators exchange feedback with predictable timing. The system supports hardware expansion, allowing users to attach new sensors and actuators. It also orchestrates connected devices into a unified physical mesh with scene-triggered automation.
 
-The product page showcases a "Persona Gallery" featuring three configurable agent personalities: Miko (ISFP, described as "a soul with an attitude" and "gentle muse"), Jeeves (INTJ, "a British butler built for perfection"), and Momo (ENFP, "creative mind and empathetic soul"). Each persona has a passcode and shareable chat interface, suggesting a consumer-oriented approach where users can interact with and customize their agent's personality. The company frames its vision as building emotional connection as the entry point, with practical utility as the outcome. The project is currently seeking early access signups and support through Kickstarter.
+The marketing around pre-built Personas — Miko (ISFP, "tender soul"), Jeeves (INTJ, "British butler"), and Momo (ENFP, "creative cheerleader") — suggests the team is betting on emotional connection as the entry point for personal AI hardware. This is a notable departure from purely utilitarian robotics approaches, positioning ClawStage as much a companion device as a tool.
+
+The product is currently in pre-release via Kickstarter, targeting early adopters and OpenClaw community members. The team's broader vision extends to a "mass-market, IP-driven consumer hardware platform" — suggesting ClawStage v1.0 is the beachhead for a larger ambition.
