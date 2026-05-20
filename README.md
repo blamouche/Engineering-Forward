@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (116 articles)
+#### May (117 articles)
+- [Why Rust Is Different, with Alice Ryhl](src/2026-05/20260520-why-rust-is-different-with-alice-ryhl.md)
 - [How Netflix is Using Multimodal AI to Power Video Search](src/2026-05/20260520-netflix-multimodal-ai-video-search.md)
 - [Introducing the Ettin Reranker Family](src/2026-05/20260519-ettin-reranker-family.md)
 - [A single pane of glass for managing all of your cloud agents](src/2026-05/20260519-warp-oz-multi-harness-cloud-agent-orchestration.md)
