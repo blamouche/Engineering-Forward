@@ -1083,6 +1083,13 @@
 - next_step: Update prompt-hub version/releases, commit, push, and return the title + file link.
 - 2026-03-08 11:04:02 CET | actor: assistant | action: removed non-AI/app-dev URLs from LIST.md per user request | files: LIST.md | commands: git add, git commit, git push | outcome: success | next: none
 
+## 2026-05-20 20:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: synced the repo, read 1 Gmail message from `0---veille-ia`, extracted 1 relevant AI/dev URL (Pragmatic Engineer: Why Rust is different, with Alice Ryhl — covers Rust for AI agents, compiler feedback loops for agents, AI code review), removed 0 off-topic URL(s) from `LIST.md`, and trashed 1 processed email.
+- files_changed_or_commands: `.prompt-hub/todo/todo-20260520-200100-daily-veille-ia-extraire-urls.md`; `gog gmail messages search 'label:0---veille-ia' --max 100 --json --include-body --no-input`; `LIST.md` (1 URL added); `gog gmail batch modify 19e46343897931bb --add TRASH --no-input --force`; `git add LIST.md && git commit -m 'Add URL(s) to processing queue' && git push origin main`; `.prompt-hub/version.md` (0.0.1590); `.prompt-hub/releases.md`.
+- outcome: success
+- next_step: none.
+
 ## 2026-05-19 20:58:00 +0200
 - actor: agent
 - action: Substack recents run: reviewed the 15 most recent README articles (1 new from August + 14 from May), wrote a new essay on the org chart inversion in enterprise AI — human reporting to AI VPs, shared team agents as the winning model, and investor sorting of agent startups — copied to `substack/latest.md`.

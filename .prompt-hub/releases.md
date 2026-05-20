@@ -1,4 +1,6 @@
-## 0.0.1589 - 2026-05-19
+## 0.0.1590 - 2026-05-20
+- Daily veille IA: synced the repo, processed 1 Gmail message, extracted 1 relevant AI/dev URL, removed 0 off-topic URL(s) from LIST.md, and trashed 1 processed email.
+
 - Add substack post: The inversion of the org chart
 
 ## 0.0.1588 - 2026-05-19
