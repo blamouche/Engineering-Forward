@@ -1,4 +1,3 @@
-https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/
 https://github.com/bytedance/Lance
 https://jjihwan.github.io/projects/LiteFrame/
 https://github.com/facebookresearch/WavFlow
