@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/
 https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models
 https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 https://x.com/athleticKoder/status/2057091692235481560
