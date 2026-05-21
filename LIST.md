@@ -1,4 +1,3 @@
-https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models
 https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 https://x.com/athleticKoder/status/2057091692235481560
 https://arxiv.org/abs/2605.19407
