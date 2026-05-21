@@ -1,4 +1,3 @@
-https://jjihwan.github.io/projects/LiteFrame/
 https://github.com/facebookresearch/WavFlow
 https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4
 https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html
