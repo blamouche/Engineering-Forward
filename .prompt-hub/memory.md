@@ -10400,3 +10400,10 @@
 - files_changed_or_commands: 9 src/2026-05/*.md synthesis files; README.md; LIST.md (emptied); synthesis/2026-05-20 - 180300 - batch recap.md
 - outcome: success (9 processed, 1 error)
 - next_step: none.
+
+## 2026-05-21 04:01:00 +0200
+- actor: agent
+- action: Daily veille IA run: Gmail labels `0---veille-ia` and `0 - Veille/IA` both returned 0 messages; LIST.md was already empty; 0 URLs added, 0 removed, 0 emails trashed.
+- files_changed_or_commands: `.prompt-hub/releases.md` (version bump to 0.0.1593); `.prompt-hub/memory.md` (this log)
+- outcome: success (no-op)
+- next_step: none.
