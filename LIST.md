@@ -1,4 +1,3 @@
-https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html
 https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246
 https://tomtunguz.com/ai-model-inflation/
 https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork
