@@ -1,4 +1,11 @@
 
+## 2026-05-22 00:01 — Daily veille IA
+- Gmail label `0---veille-ia`: 1 message (Lenny's Newsletter: "You'll lose your job in 2027.")
+- 0 article URL(s) extracted — career/self-help content, all internal Substack links
+- LIST.md: already empty, 0 added, 0 removed
+- Trashed: 1 email
+- Repo: clean, committed, pushed
+
 ## 2026-05-21 18:03 — Scan-list
 - Processed 17 URLs from LIST.md
 - Created 16 synthesis files + 1 FETCH_ERROR (x.com/athleticKoder tweet — JS-rendered, blocked)
