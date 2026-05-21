@@ -1,0 +1,16 @@
+https://www.bloomberg.com/news/articles/2026-05-20/anthropic-to-pay-spacex-nearly-45-billion-for-computing-deal
+https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/
+https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models
+https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+https://x.com/athleticKoder/status/2057091692235481560
+https://arxiv.org/abs/2605.19407
+https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/
+https://github.com/bytedance/Lance
+https://jjihwan.github.io/projects/LiteFrame/
+https://github.com/facebookresearch/WavFlow
+https://www.wsj.com/tech/ai/mind-blowing-growth-is-about-to-propel-anthropic-into-its-first-profitable-quarter-7edbf2f4
+https://www.cnbc.com/2026/05/20/cheap-ai-could-derail-openai-and-anthropics-ipos.html
+https://searchengineland.com/google-llms-txt-chrome-lighthouse-478246
+https://tomtunguz.com/ai-model-inflation/
+https://engineering.atspotify.com/2026/5/better-experiments-with-llm-evals-a-funnel-not-a-fork
+https://ca.finance.yahoo.com/news/alibaba-unveils-ai-chip-push-050035417.html
