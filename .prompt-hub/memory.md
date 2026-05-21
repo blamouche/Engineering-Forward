@@ -1,4 +1,11 @@
 
+## 2026-05-21 18:03 — Scan-list
+- Processed 17 URLs from LIST.md
+- Created 16 synthesis files + 1 FETCH_ERROR (x.com/athleticKoder tweet — JS-rendered, blocked)
+- LIST.md emptied
+- Batch recap created: synthesis/2026-05-21 - 180303 - batch recap.md
+- Pushed to origin/main
+
 ## 2026-05-21 18:01 — Daily veille IA
 - Gmail label `0---veille-ia`: 2 messages (ByteByteGo "Async Patterns in API Design" + TLDR AI "Anthropic SpaceX $45B deal")
 - 1 new article URL extracted (bytebytego.com async patterns) — 16 other URLs already in LIST.md from prior extraction
