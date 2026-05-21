@@ -1,4 +1,11 @@
 
+## 2026-05-21 18:01 — Daily veille IA
+- Gmail label `0---veille-ia`: 2 messages (ByteByteGo "Async Patterns in API Design" + TLDR AI "Anthropic SpaceX $45B deal")
+- 1 new article URL extracted (bytebytego.com async patterns) — 16 other URLs already in LIST.md from prior extraction
+- LIST.md: 17 URLs total, 0 removed (all on-topic)
+- Trashed: 2 emails
+- Repo: clean, committed, pushed
+
 ## 2026-05-21 07:20 — Daily veille IA
 - Gmail label `0---veille-ia`: 1 message (Sifted Daily)
 - 0 article URL(s) extracted — all links were email.sifted.eu trackers, no AI/dev articles

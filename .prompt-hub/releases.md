@@ -4801,5 +4801,8 @@
 - Add batch recap: 2026-05-15 181200
 - Process 16 articles (scan-list batch): Development environments for cloud agents, OpenAI vs Apple legal action, 2028 AI leadership scenarios, Seer Agent, Codex Hooks, Raindrop Workshop, Genkit Middleware, async continuous batching, SpaceXAI staff exodus, Microsoft OpenAI replacement, Nvidia-Ineffable, River AI, OpenSquilla, Toto 2.0, Netflix INKubator, Figure Helix-02
 
+## 0.0.1597 - 2026-05-21
+- Daily veille IA: Gmail label `0---veille-ia` returned 2 message(s) (ByteByteGo + TLDR AI), extracted 1 new URL (async patterns), 0 URL(s) removed (all on-topic), 2 email(s) trashed. LIST.md now has 17 URLs.
+
 ## 0.0.1596 - 2026-05-21
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
