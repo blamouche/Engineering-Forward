@@ -1,3 +1,6 @@
+## 0.0.1595 - 2026-05-21
+- Daily veille IA: Gmail label `0---veille-ia` returned 1 message (Sifted Daily), 0 article URL(s) extracted (all email.sifted.eu trackers), 0 URL(s) added, 0 removed, 1 email(s) trashed.
+
 ## 0.0.1594 - 2026-05-21
 - Add substack post: AI's third act is about who owns the plumbing
 

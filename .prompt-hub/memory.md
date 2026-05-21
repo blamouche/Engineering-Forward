@@ -1,4 +1,11 @@
 
+## 2026-05-21 07:20 — Daily veille IA
+- Gmail label `0---veille-ia`: 1 message (Sifted Daily)
+- 0 article URL(s) extracted — all links were email.sifted.eu trackers, no AI/dev articles
+- LIST.md: already empty, 0 added, 0 removed
+- Trashed: 1 email
+- Repo: committed pending substack/node_modules changes, pulled clean
+
 ## 2026-05-21 05:00 — Substack recents
 - Reviewed 15 most recent README articles (Aug 2026 + May 2026)
 - Wrote Substack post: "AI's Third Act Is About Who Owns the Plumbing"
