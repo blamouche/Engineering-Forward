@@ -1,4 +1,11 @@
 
+## 2026-05-21 05:00 — Substack recents
+- Reviewed 15 most recent README articles (Aug 2026 + May 2026)
+- Wrote Substack post: "AI's Third Act Is About Who Owns the Plumbing"
+- Central theme: the AI conversation has shifted from intelligence to reliability — compute reservations, API tooling acquisitions, agent orchestration infrastructure, and open-source supply chain fragility
+- Saved to substack/20260521-post-ais-third-act-is-about-who-owns-the-plumbing.md + substack/latest.md
+- Pushed to origin/main
+
 ## 2026-05-21 00:03 — Scan-list
 - Processed 9 URLs from LIST.md
 - Created 9 synthesis files: Google I/O Agents, Codex-native Apps, Stainless plumbing podcast, Anthropic acquires Stainless, Figma Design Agent, Figma Canvas open to agents, GPT-5.5 Vibe Check, Opus 4.7 Vibe Check, Google AI Vision 2025

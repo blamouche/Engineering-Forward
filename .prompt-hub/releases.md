@@ -1,3 +1,6 @@
+## 0.0.1594 - 2026-05-21
+- Add substack post: AI's third act is about who owns the plumbing
+
 ## 0.0.1593 - 2026-05-21
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); LIST.md was already empty so 0 URL(s) added, 0 removed, 0 email(s) trashed.
 
