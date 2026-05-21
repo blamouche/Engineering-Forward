@@ -1,4 +1,3 @@
-https://openai.com/index/model-disproves-discrete-geometry-conjecture/
 https://x.com/athleticKoder/status/2057091692235481560
 https://arxiv.org/abs/2605.19407
 https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/
