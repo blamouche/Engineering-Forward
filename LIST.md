@@ -1,4 +1,3 @@
-https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/
 https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems
 https://esengine.github.io/DeepSeek-Reasonix/
 https://huggingface.co/bytedance-research/Lance
