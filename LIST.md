@@ -1,4 +1,3 @@
-https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind
 https://www.chatprd.ai/how-i-ai/felix-rieseberg-claude-code-cowork-workflows-for-3d-house-design-and-hardware-buddy
 https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-20-physical-ai-buddy-with-claude-code
 https://www.chatprd.ai/how-i-ai/workflows/how-to-create-an-interactive-3d-house-model-from-a-floor-plan-using-ai
