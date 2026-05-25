@@ -1,0 +1,13 @@
+https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/
+https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent
+https://red.anthropic.com/2026/exploit-evals/
+https://www.sh-reya.com/blog/ai-qual-analysis/
+https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud
+https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/
+https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems
+https://esengine.github.io/DeepSeek-Reasonix/
+https://huggingface.co/bytedance-research/Lance
+https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d
+https://contraryresearch.substack.com/p/anthropics-march-to-profitability
+https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/
+https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee
