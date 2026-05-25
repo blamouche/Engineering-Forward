@@ -10456,3 +10456,11 @@
 - LIST.md emptied
 - Batch recap created: synthesis/2026-05-25 - 160000 - batch recap.md
 - Pushed to origin/main
+
+## 2026-05-25 12:05 — Scan-list
+- Processed 1 URL from LIST.md
+- Created 1 synthesis file: The Claude Finance Playbook
+- 0 fetch errors
+- LIST.md emptied
+- Batch recap created: synthesis/2026-05-25 - 120523 - batch recap.md
+- Pushed to origin/main
