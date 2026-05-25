@@ -1,4 +1,11 @@
 
+## 2026-05-25 14:01 — Daily veille IA
+- Gmail label `0---veille-ia`: 1 message (TLDR newsletter)
+- 8 article URL(s) extracted: Ben Evans AI job exposure, WorkOS auth.md, Ars Technica supply chain attacks, TestingCatalog Mythos Claude Code, geohot eternal sloptember, susam don't roll your own, NYT Sundar Pichai interview, WSJ Meta Bosworth AI
+- LIST.md: 8 URLs added, 0 removed (all on-topic)
+- Trashed: 1 email
+- Repo: clean, committed, pushed
+
 ## 2026-05-22 00:01 — Daily veille IA
 - Gmail label `0---veille-ia`: 1 message (Lenny's Newsletter: "You'll lose your job in 2027.")
 - 0 article URL(s) extracted — career/self-help content, all internal Substack links

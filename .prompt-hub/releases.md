@@ -1,3 +1,6 @@
+## 0.0.1598 - 2026-05-25
+- Daily veille IA: synced the repo, processed 1 Gmail message (TLDR newsletter), extracted 8 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from LIST.md, and trashed 1 processed email.
+
 ## 0.0.1595 - 2026-05-21
 - Daily veille IA: Gmail label `0---veille-ia` returned 1 message (Sifted Daily), 0 article URL(s) extracted (all email.sifted.eu trackers), 0 URL(s) added, 0 removed, 1 email(s) trashed.
 
