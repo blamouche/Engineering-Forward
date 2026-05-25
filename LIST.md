@@ -1,4 +1,3 @@
-https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/
 https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/
 https://geohot.github.io/blog/jekyll/update/2026/05/24/the-eternal-sloptember.html
 https://susam.net/do-not-roll-your-own.html
