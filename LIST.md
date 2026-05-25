@@ -1,4 +1,3 @@
-https://www.sh-reya.com/blog/ai-qual-analysis/
 https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud
 https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/
 https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems
