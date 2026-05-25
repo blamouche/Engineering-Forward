@@ -1,4 +1,3 @@
-https://every.to/context-window/cheap-competence-new-frontier
 https://blog.bytebytego.com/p/ep216-rags-vs-agents
 https://every.to/playtesting/notes-from-the-foothills-of-the-singularity
 https://blog.bytebytego.com/p/build-with-claude-code-new-cohort
