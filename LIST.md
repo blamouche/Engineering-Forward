@@ -1,4 +1,3 @@
-https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee
 https://blog.bytebytego.com/p/how-cockroachdb-built-vector-indexing
 https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind
 https://www.chatprd.ai/how-i-ai/felix-rieseberg-claude-code-cowork-workflows-for-3d-house-design-and-hardware-buddy
