@@ -29,8 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (136 articles)
-- [Predicting AI job exposure](src/2026-05/20260524-predicting-ai-job-exposure.md)- [The Claude Finance Playbook: How CFOs Use AI to Build Models, Forecast Cash, and Close Books Faster](src/2026-05/20260525-the-claude-finance-playbook-how-cfos-use-ai-to-build-models-forecast-cash-and-close-books-faster.md)
+#### May (137 articles)
+- [auth.md](src/2026-05/20260525-auth-md.md)- [Predicting AI job exposure](src/2026-05/20260524-predicting-ai-job-exposure.md)- [The Claude Finance Playbook: How CFOs Use AI to Build Models, Forecast Cash, and Close Books Faster](src/2026-05/20260525-the-claude-finance-playbook-how-cfos-use-ai-to-build-models-forecast-cash-and-close-books-faster.md)
 - [The Most Active Legaltech Investors in Europe](src/2026-05/20260525-the-most-active-legaltech-investors-in-europe.md)
 - [12 Irish Startups to Watch, According to VCs](src/2026-05/20260525-12-irish-startups-to-watch-according-to-vcs.md)
 - [Exclusive: EQT Wants to Back UK Startups with EU's €5bn Superfund](src/2026-05/20260522-exclusive-eqt-wants-to-back-uk-startups-with-eus-5bn-superfund.md)
