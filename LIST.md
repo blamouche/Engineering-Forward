@@ -1,4 +1,3 @@
-https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent
 https://red.anthropic.com/2026/exploit-evals/
 https://www.sh-reya.com/blog/ai-qual-analysis/
 https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud
