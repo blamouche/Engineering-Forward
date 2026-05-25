@@ -1,4 +1,3 @@
-https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems
 https://esengine.github.io/DeepSeek-Reasonix/
 https://huggingface.co/bytedance-research/Lance
 https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d
