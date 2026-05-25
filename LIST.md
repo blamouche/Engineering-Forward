@@ -1,4 +1,3 @@
-https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d
 https://contraryresearch.substack.com/p/anthropics-march-to-profitability
 https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/
 https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee
