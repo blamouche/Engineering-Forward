@@ -11,3 +11,10 @@ https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242
 https://contraryresearch.substack.com/p/anthropics-march-to-profitability
 https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/
 https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee
+https://blog.bytebytego.com/p/how-cockroachdb-built-vector-indexing
+https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind
+https://www.chatprd.ai/how-i-ai/felix-rieseberg-claude-code-cowork-workflows-for-3d-house-design-and-hardware-buddy
+https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-20-physical-ai-buddy-with-claude-code
+https://www.chatprd.ai/how-i-ai/workflows/how-to-create-an-interactive-3d-house-model-from-a-floor-plan-using-ai
+https://www.chatprd.ai/how-i-ai/workflows/how-to-build-a-live-auto-updating-personal-dashboard-with-claude
+https://www.chatprd.ai/how-i-ai/google-io-new-ai-tools-gemini-35-flash-to-omni-video
