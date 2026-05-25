@@ -10471,3 +10471,11 @@
 - LIST.md emptied
 - Batch recap created: synthesis/2026-05-25 - 120523 - batch recap.md
 - Pushed to origin/main
+
+## 2026-05-25 15:01 — Scan-list
+- Processed 8 URLs from LIST.md
+- Created 7 synthesis files + 1 FETCH_ERROR (NYT Sundar Pichai — 403 paywall)
+- LIST.md emptied
+- Batch recap created: synthesis/2026-05-25 - 150100 - batch recap.md
+- README stats updated: May 118 → 142 articles
+- Pushed to origin/main
