@@ -1,4 +1,3 @@
-https://www.testingcatalog.com/anthropic-prepares-mythos-1-for-claude-code-and-claude-security/
 https://thenextweb.com/news/deepseek-v4-pro-75-percent-price-cut-permanent
 https://red.anthropic.com/2026/exploit-evals/
 https://www.sh-reya.com/blog/ai-qual-analysis/
