@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (128 articles)
+#### May (129 articles)
+- [Stop Giving Agents the Whole Computer](src/2026-05/20260522-stop-giving-agents-the-whole-computer.md)
 - [AI's Public Relations Emergency](src/2026-05/20260522-ais-public-relations-emergency.md)
 - [Build with Claude Code: New Cohort Launch](src/2026-05/20260522-build-with-claude-code-new-cohort-launch.md)
 - [Notes From the Foothills of the Singularity](src/2026-05/20260522-notes-from-the-foothills-of-the-singularity.md)
