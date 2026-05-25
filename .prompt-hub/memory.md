@@ -10449,3 +10449,10 @@
 - files_changed_or_commands: `.prompt-hub/version.md`, `.prompt-hub/releases.md`, `.prompt-hub/memory.md`.
 - outcome: success (no-op)
 - next_step: none.
+
+## 2026-05-25 16:00 — Scan-list
+- Processed 8 URLs from LIST.md
+- Created 7 synthesis files + 1 FETCH_ERROR (tldr.tech/ai — landing page, no article content)
+- LIST.md emptied
+- Batch recap created: synthesis/2026-05-25 - 160000 - batch recap.md
+- Pushed to origin/main
