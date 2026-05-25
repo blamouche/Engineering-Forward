@@ -1,4 +1,10 @@
 
+## 2026-05-26 00:01 — Daily veille IA
+- Gmail labels `0---veille-ia` and `0 - Veille/IA`: both returned 0 message(s)
+- LIST.md: already empty, 0 URL(s) added, 0 removed
+- Trashed: 0 email(s)
+- Repo: clean, committed, pushed
+
 ## 2026-05-25 14:01 — Daily veille IA
 - Gmail label `0---veille-ia`: 1 message (TLDR newsletter)
 - 8 article URL(s) extracted: Ben Evans AI job exposure, WorkOS auth.md, Ars Technica supply chain attacks, TestingCatalog Mythos Claude Code, geohot eternal sloptember, susam don't roll your own, NYT Sundar Pichai interview, WSJ Meta Bosworth AI
