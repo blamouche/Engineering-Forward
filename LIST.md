@@ -1,4 +1,3 @@
-https://contraryresearch.substack.com/p/anthropics-march-to-profitability
 https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/
 https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee
 https://blog.bytebytego.com/p/how-cockroachdb-built-vector-indexing
