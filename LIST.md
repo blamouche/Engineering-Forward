@@ -1,4 +1,3 @@
-https://esengine.github.io/DeepSeek-Reasonix/
 https://huggingface.co/bytedance-research/Lance
 https://www.wsj.com/politics/policy/david-sacks-trump-ai-executive-order-6019242d
 https://contraryresearch.substack.com/p/anthropics-march-to-profitability
