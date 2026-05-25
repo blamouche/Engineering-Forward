@@ -1,4 +1,3 @@
-https://red.anthropic.com/2026/exploit-evals/
 https://www.sh-reya.com/blog/ai-qual-analysis/
 https://cloudedjudgement.substack.com/p/clouded-judgement-52226-the-neocloud
 https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/
