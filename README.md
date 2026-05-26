@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████ 151
+2026-05 | ██████████████████████████████████████████████████ 152
 ## Articles
 
 ### 2026
@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (144 articles)
+#### May (145 articles)
+- [How to Use Codex for Knowledge Work: A Power User's Guide](src/2026-05/20260526-how-to-use-codex-for-knowledge-work.md)
 - [State of the Software Engineering Job Market in 2026](src/2026-05/20260526-state-of-software-engineering-job-market-2026.md)
 - [AI is doing something weird to Science](src/2026-05/20260525-ai-is-doing-something-weird-to-science.md)
 - [Pope Leo Compares AI Threat to Biblical 'Tower of Babel'](src/2026-05/20260525-pope-leo-compares-ai-threat-to-biblical-tower-of-babel.md)
