@@ -1,0 +1,12 @@
+https://links.tldrnewsletter.com/lCw1MT
+https://simonwillison.net/2026/May/25/encyclical-on-ai/
+https://www.categoryvc.com/writing/where-the-ai-hardware-market-is
+https://thezvi.wordpress.com/2026/05/22/gemini-3-5-flash-looks-good-for-how-fast-it-is/
+https://paperswithcode.co/methods/on-policy-distillation
+https://github.com/anomalyco/models.dev
+https://www.strangeloopcanon.com/p/introducing-benchbench
+https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/
+https://threadreaderapp.com/thread/2058194939264307638.html
+https://links.tldrnewsletter.com/A7MHTY
+https://links.tldrnewsletter.com/9Vbj0g
+https://in.mashable.com/tech/110086/apples-genmoji-and-image-playground-set-for-major-visual-overhaul-in-ios-27-ahead-of-wwdc-2026
