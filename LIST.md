@@ -7,6 +7,5 @@ https://github.com/anomalyco/models.dev
 https://www.strangeloopcanon.com/p/introducing-benchbench
 https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/
 https://threadreaderapp.com/thread/2058194939264307638.html
-https://links.tldrnewsletter.com/A7MHTY
-https://links.tldrnewsletter.com/9Vbj0g
 https://in.mashable.com/tech/110086/apples-genmoji-and-image-playground-set-for-major-visual-overhaul-in-ios-27-ahead-of-wwdc-2026
+https://blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from
