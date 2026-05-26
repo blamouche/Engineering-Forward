@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████ 145
+2026-05 | ████████████████████████████████████████████████ 146
 ## Articles
 
 ### 2026
@@ -31,6 +31,7 @@ P22-12 | █ 2<br>
 
 #### May (143 articles)
 - [AI is doing something weird to Science](src/2026-05/20260525-ai-is-doing-something-weird-to-science.md)
+- [Webwright: A terminal is all you need for web agents](src/2026-05/20260526-webwright-terminal-native-web-agents.md)
 - [Agent Sandbox: Kubernetes-native AI agent runtimes](src/2026-05/20260526-agent-sandbox-kubernetes-native-ai-agent-runtimes.md)
 - [Why an LLM leaderboard matters for agent builders](src/2026-05/20260407-why-an-llm-leaderboard-matters-for-agent-builders.md)
 - [Andrew 'Boz' Bosworth Is Transforming How Meta Works](src/2026-05/20260525-andrew-bosworth-is-transforming-how-meta-works.md)- [Don't Roll Your Own ...](src/2026-05/20260523-do-not-roll-your-own.md)- [The Eternal Sloptember](src/2026-05/20260524-the-eternal-sloptember.md)- [Anthropic prepares Mythos 1 for Claude Code and Claude Security](src/2026-05/20260523-anthropic-prepares-mythos-1-for-claude-code-and-claude-security.md)- [A hacker group is poisoning open source code at an unprecedented scale](src/2026-05/20260522-a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale.md)- [auth.md](src/2026-05/20260525-auth-md.md)- [Predicting AI job exposure](src/2026-05/20260524-predicting-ai-job-exposure.md)- [The Claude Finance Playbook: How CFOs Use AI to Build Models, Forecast Cash, and Close Books Faster](src/2026-05/20260525-the-claude-finance-playbook-how-cfos-use-ai-to-build-models-forecast-cash-and-close-books-faster.md)
