@@ -1,4 +1,3 @@
-https://blog.apiad.net/p/ai-is-doing-something-weird-to-science
 https://www.algolia.com/blog/ai/llm-leaderboard
 https://github.com/kubernetes-sigs/agent-sandbox
 https://microsoft.github.io/Webwright/
