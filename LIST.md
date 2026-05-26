@@ -1,4 +1,3 @@
-https://github.com/kubernetes-sigs/agent-sandbox
 https://microsoft.github.io/Webwright/
 https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html
 https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost
