@@ -1,3 +1,6 @@
+## 0.0.1600 - 2026-05-26
+- Add substack post: AI's implementation gap
+
 ## 0.0.1598 - 2026-05-25
 - Daily veille IA: synced the repo, processed 1 Gmail message (TLDR newsletter), extracted 8 relevant AI/app-dev URL(s), removed 0 off-topic URL(s) from LIST.md, and trashed 1 processed email.
 
