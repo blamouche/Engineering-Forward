@@ -27,4 +27,13 @@
 ## Step 7: Trash processed emails
 - Trashed relevant processed emails
 
-## Step 8: Commit & push
+## Step 8: Commit & push ✓
+- Committed: Add URL(s) to processing queue + remove off-topic tweets
+- Pushed to origin/main
+
+## Review
+- 2 Gmail messages processed, 2 trashed
+- 1 URL added: blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from (dev infra)
+- 2 URLs removed: tldrnewsletter tweets A7MHTY, 9Vbj0g (not articles)
+- Net: 12 → 11 URLs in LIST.md (-1)
+- All remaining URLs verified as AI/app-dev related
