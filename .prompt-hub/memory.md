@@ -10492,3 +10492,23 @@
 - Batch recap created: synthesis/2026-05-25 - 150100 - batch recap.md
 - README stats updated: May 118 → 142 articles
 - Pushed to origin/main
+
+## 2026-05-26 12:05 UTC — scan-list cron execution
+- **Actor**: Benito (agent)
+- **Actions**: 
+  - git pull --rebase (already up to date)
+  - Processed 2 URLs from LIST.md
+  - Created 2 article syntheses in src/2026-04/
+  - Updated README.md (April: 5→7 articles)
+  - Cleared LIST.md
+  - Created batch recap at synthesis/2026-05-26 - 120500 - batch recap.md
+  - Committed 3 times: 2 article commits + 1 recap commit
+  - Pushed to origin/main
+- **Files changed**: 
+  - Created src/2026-04/20260415-revolut-pragma-foundation-model.md
+  - Created src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch.md
+  - Updated README.md
+  - Cleared LIST.md
+  - Created synthesis/2026-05-26 - 120500 - batch recap.md
+- **Outcome**: success — 2/2 URLs processed, 0 errors, LIST.md empty
+- **Next**: None — queue is empty
