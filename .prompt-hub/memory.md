@@ -1,4 +1,12 @@
 
+## 2026-05-26 15:01 — Scan-list
+- Processed 8 URLs from LIST.md
+- Created 8 synthesis files: AI doing weird things to science, LLM leaderboard for agent builders, Agent Sandbox K8s, Webwright terminal web agents, Goldman Sachs AI job apocalypse, Microsoft Claude Code retreat cost, Using AI to write better code more slowly, Pope Leo AI encyclical
+- 0 fetch errors
+- LIST.md emptied
+- Batch recap: synthesis/2026-05-26 - 150100 - batch recap.md
+- Pushed to origin/main
+
 ## 2026-05-26 05:00 — Substack recents
 - Reviewed 15 most recent README articles (April-August 2026)
 - Wrote Substack post: "AI's Implementation Gap"

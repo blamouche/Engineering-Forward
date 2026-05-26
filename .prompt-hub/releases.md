@@ -1,3 +1,6 @@
+## 0.0.1602 - 2026-05-26
+- Scan-list run: processed 8 URLs, created 8 synthesis files, emptied LIST.md, created batch recap synthesis/2026-05-26 - 150100 - batch recap.md. 0 errors.
+
 ## 0.0.1600 - 2026-05-26
 - Add substack post: AI's implementation gap
 
