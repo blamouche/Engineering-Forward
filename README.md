@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████ 147
+2026-05 | ████████████████████████████████████████████████ 148
 ## Articles
 
 ### 2026
@@ -31,6 +31,7 @@ P22-12 | █ 2<br>
 
 #### May (143 articles)
 - [AI is doing something weird to Science](src/2026-05/20260525-ai-is-doing-something-weird-to-science.md)
+- [Microsoft's quiet Claude Code retreat and the real cost of enterprise AI](src/2026-05/20260525-microsofts-quiet-claude-code-retreat-and-the-real-cost-of-enterprise-ai.md)
 - [I'm the C.E.O. of Goldman Sachs. The A.I. Job Apocalypse Is Overblown.](src/2026-05/20260522-im-the-ceo-of-goldman-sachs-the-ai-job-apocalypse-is-overblown.md)
 - [Webwright: A terminal is all you need for web agents](src/2026-05/20260526-webwright-terminal-native-web-agents.md)
 - [Agent Sandbox: Kubernetes-native AI agent runtimes](src/2026-05/20260526-agent-sandbox-kubernetes-native-ai-agent-runtimes.md)
