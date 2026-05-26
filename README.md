@@ -175,7 +175,9 @@ P22-12 | █ 2<br>
 - [Zero: A Programming Language for Agents](src/2026-05/20260518-zero-programming-language-for-agents.md)
 - [How Snapchat Serves a Billion Predictions Per Second](src/2026-05/20260519-how-snapchat-serves-a-billion-predictions-per-second.md)
 
-#### April (5 articles)
+#### April (7 articles)
+- [Inside Revolut's PRAGMA: The Foundation Model Trained on 40 Billion Banking Events](src/2026-04/20260415-revolut-pragma-foundation-model.md)
+- [How to Build an AI Agent from Scratch (With Working Code)](src/2026-04/20260413-how-to-build-an-ai-agent-from-scratch.md)
 - [Vibe Check: Opus 4.7 Stopped Reading Between the Lines](src/2026-04/20260417-vibe-check-opus-4-7-stopped-reading-between-the-lines.md)
 - [Vibe Check: GPT-5.5 Has It All](src/2026-04/20260423-vibe-check-gpt-5-5-has-it-all.md)
 - [Welcome to Gas City](src/2026-04/20260424-welcome-to-gas-city.md)
