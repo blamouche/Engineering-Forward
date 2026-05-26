@@ -1,4 +1,11 @@
 
+## 2026-05-26 05:00 — Substack recents
+- Reviewed 15 most recent README articles (April-August 2026)
+- Wrote Substack post: "AI's Implementation Gap"
+- Central theme: the AI industry is running two narratives — frontier capability (Qwen 35h autonomous, Gemini 3.5 Flash, Mythos 10K+ vulnerabilities) vs implementation breakdown (TeamPCP supply chain attacks, Meta forced adoption, PR crisis with commencement protests and 70% data center opposition)
+- Saved to substack/20260526-post-ais-implementation-gap.md + substack/latest.md
+- Pushed to origin/main
+
 ## 2026-05-26 00:01 — Daily veille IA
 - Gmail labels `0---veille-ia` and `0 - Veille/IA`: both returned 0 message(s)
 - LIST.md: already empty, 0 URL(s) added, 0 removed
