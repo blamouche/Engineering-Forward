@@ -1,4 +1,10 @@
 
+## 2026-05-27 08:02 — Daily veille IA
+- Gmail label `0---veille-ia`: 0 message(s)
+- LIST.md: already empty, 0 URL(s) added, 0 removed
+- Trashed: 0 email(s)
+- Repo: clean, committed, pushed
+
 ## 2026-05-26 16:01 — Daily veille IA
 - Gmail label `0---veille-ia`: 1 message (TLDR AI newsletter)
 - 12 article URL(s) extracted: Grok Build CLI, Pope Leo encyclical, AI Hardware, Gemini 3.5 Flash, On-Policy Distillation, Models.dev, BenchBench, AlphaProof Nexus, GPT-5.6 Leaks, AI Prediction Markets, DeepSeek Grand Strategy, Apple Genmoji
