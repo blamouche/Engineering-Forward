@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████████ 156
+2026-05 | █████████████████████████████████████████████████████ 158
 ## Articles
 
 ### 2026
@@ -29,7 +29,10 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (154 articles)
+#### May (157 articles)
+- [The Open/Closed Problem in AI](src/2026-05/20260527-the-open-closed-problem-in-ai.md)
+- [Hype Cycle for Agentic AI](src/2026-05/20260527-hype-cycle-for-agentic-ai.md)
+- [Sundar Pichai on AI, the future of search, and what's happening to the web](src/2026-05/20260527-sundar-pichai-ai-search-google-zero-youtube-web.md)
 - [Stack Overflow's forum is dead thanks to AI, but the company's still kicking... thanks to AI](src/2026-05/20260527-stack-overflow-forum-dead-thanks-ai-but-company-still-kicking.md)
 - [Build new features using built-in AI in Chrome](src/2026-05/20260526-build-new-features-using-built-in-ai-in-chrome.md)
 - [Rowboat: Open-source AI coworker with memory](src/2026-05/20260527-rowboat-open-source-ai-coworker.md)
