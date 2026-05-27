@@ -34,6 +34,7 @@ P22-12 | █ 2<br>
 - [AI Work Is Splitting in Two](src/2026-05/20260510-ai-work-is-splitting-in-two.md)
 - [How to Use Codex for Knowledge Work: A Power User's Guide](src/2026-05/20260526-how-to-use-codex-for-knowledge-work.md)
 - [State of the Software Engineering Job Market in 2026](src/2026-05/20260526-state-of-software-engineering-job-market-2026.md)
+- [Angela Jiang (Anthropic), Katelyn Lesse (Anthropic): "Anthropic veut amener Claude à un niveau de perpétuelle autonomie"](src/2026-05/20260525-anthropic-claude-perpetuelle-autonomie.md)
 - [AI is doing something weird to Science](src/2026-05/20260525-ai-is-doing-something-weird-to-science.md)
 - [Pope Leo Compares AI Threat to Biblical 'Tower of Babel'](src/2026-05/20260525-pope-leo-compares-ai-threat-to-biblical-tower-of-babel.md)
 - [Using AI to write better code more slowly](src/2026-05/20260525-using-ai-to-write-better-code-more-slowly.md)
