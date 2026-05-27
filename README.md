@@ -29,7 +29,11 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (148 articles)
+#### May (152 articles)
+- [Rowboat: Open-source AI coworker with memory](src/2026-05/20260527-rowboat-open-source-ai-coworker.md)
+- [Terax: Lightweight Terminal-first AI-native dev workspace](src/2026-05/20260527-terax-terminal-ai-dev-workspace.md)
+- [Forge: A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows](src/2026-05/20260527-forge-python-framework-llm-tool-calling.md)
+- [Agent Governance Toolkit (Microsoft)](src/2026-05/20260527-agent-governance-toolkit-microsoft.md)
 - [Vibe coding : distinguons les usages, repensons les organisations](src/2026-05/20260526-vibe-coding-distinguons-les-usages.md)
 - [The Pope Takes On AI](src/2026-05/20260526-the-pope-takes-on-ai.md)
 - [AI Work Is Splitting in Two](src/2026-05/20260510-ai-work-is-splitting-in-two.md)
