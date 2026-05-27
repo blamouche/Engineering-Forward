@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████████ 155
+2026-05 | ████████████████████████████████████████████████████ 156
 ## Articles
 
 ### 2026
@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (153 articles)
+#### May (154 articles)
+- [Stack Overflow's forum is dead thanks to AI, but the company's still kicking... thanks to AI](src/2026-05/20260527-stack-overflow-forum-dead-thanks-ai-but-company-still-kicking.md)
 - [Build new features using built-in AI in Chrome](src/2026-05/20260526-build-new-features-using-built-in-ai-in-chrome.md)
 - [Rowboat: Open-source AI coworker with memory](src/2026-05/20260527-rowboat-open-source-ai-coworker.md)
 - [Terax: Lightweight Terminal-first AI-native dev workspace](src/2026-05/20260527-terax-terminal-ai-dev-workspace.md)
