@@ -50,6 +50,7 @@ P22-12 | █ 2<br>
 - [Exclusive: EQT Wants to Back UK Startups with EU's €5bn Superfund](src/2026-05/20260522-exclusive-eqt-wants-to-back-uk-startups-with-eus-5bn-superfund.md)
 - [Beyond a Sleek Interface: The New Wave of European Fintech](src/2026-05/20260521-beyond-a-sleek-interface-the-new-wave-of-european-fintech.md)
 - [Meet the Sifted 100: Southern Europe's Fastest-Growing Startups of 2026](src/2026-05/20260520-meet-the-sifted-100-southern-europes-fastest-growing-startups-of-2026.md)
+- [Inside the Biggest Bet in Corporate History](src/2026-05/20260520-inside-the-biggest-bet-in-corporate-history.md)
 - [Stop Giving Agents the Whole Computer](src/2026-05/20260522-stop-giving-agents-the-whole-computer.md)
 - [AI's Public Relations Emergency](src/2026-05/20260522-ais-public-relations-emergency.md)
 - [Build with Claude Code: New Cohort Launch](src/2026-05/20260522-build-with-claude-code-new-cohort-launch.md)

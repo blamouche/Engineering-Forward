@@ -1,4 +1,3 @@
-https://www.bvp.com/atlas/inside-the-biggest-bet-in-corporate-history
 https://blog.google/products/gemini/google-gemini-spark/
 https://ramp.com/leading-indicators/ai-index-may-2026
 https://github.com/microsoft/agent-governance-toolkit
