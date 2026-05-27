@@ -1,4 +1,3 @@
-https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/
 https://blog.google/innovation-and-ai/sundar-pichai-io-2026/
 https://www.bvp.com/atlas/inside-the-biggest-bet-in-corporate-history
 https://blog.google/products/gemini/google-gemini-spark/

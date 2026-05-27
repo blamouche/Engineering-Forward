@@ -65,6 +65,7 @@ P22-12 | █ 2<br>
 - [Why Rust Is Different, with Alice Ryhl](src/2026-05/20260520-why-rust-is-different-with-alice-ryhl.md)
 - [How Netflix is Using Multimodal AI to Power Video Search](src/2026-05/20260520-netflix-multimodal-ai-video-search.md)
 - [Introducing the Ettin Reranker Family](src/2026-05/20260519-ettin-reranker-family.md)
+- [OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team](src/2026-05/20260519-openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team.md)
 - [A single pane of glass for managing all of your cloud agents](src/2026-05/20260519-warp-oz-multi-harness-cloud-agent-orchestration.md)
 - [LongLive 2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](src/2026-05/20260513-longlive-2-nvfp4-long-video-generation.md)
 - [OlmoEarth v1.1: A more efficient family of Earth observation models](src/2026-05/20260519-olmoearth-v1-1-efficient-earth-observation-models.md)
