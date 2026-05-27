@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (147 articles)
+#### May (148 articles)
+- [Vibe coding : distinguons les usages, repensons les organisations](src/2026-05/20260526-vibe-coding-distinguons-les-usages.md)
 - [The Pope Takes On AI](src/2026-05/20260526-the-pope-takes-on-ai.md)
 - [AI Work Is Splitting in Two](src/2026-05/20260510-ai-work-is-splitting-in-two.md)
 - [How to Use Codex for Knowledge Work: A Power User's Guide](src/2026-05/20260526-how-to-use-codex-for-knowledge-work.md)
