@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████████ 154
+2026-05 | ████████████████████████████████████████████████████ 155
 ## Articles
 
 ### 2026
@@ -29,7 +29,8 @@ P22-12 | █ 2<br>
 #### August (1 article)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (152 articles)
+#### May (153 articles)
+- [Build new features using built-in AI in Chrome](src/2026-05/20260526-build-new-features-using-built-in-ai-in-chrome.md)
 - [Rowboat: Open-source AI coworker with memory](src/2026-05/20260527-rowboat-open-source-ai-coworker.md)
 - [Terax: Lightweight Terminal-first AI-native dev workspace](src/2026-05/20260527-terax-terminal-ai-dev-workspace.md)
 - [Forge: A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows](src/2026-05/20260527-forge-python-framework-llm-tool-calling.md)
