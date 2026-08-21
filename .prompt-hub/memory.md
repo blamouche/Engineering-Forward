@@ -10652,3 +10652,11 @@
 - 9 article URL(s) extracted: Agent Loop, Claude Managed Agents, Streaming vs Batch, SWE-1.7, GRAM off-switch, GPT-Live, Entire.io, Ownership, NVIDIA Open Data for Agents
 - Trashed: 10 email(s)
 - Repo: clean, committed, pushed
+
+## 2026-08-21 20:30 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 5 article URL(s) extracted: AI agent memory architecture (ByteByteGo), AI+PowerPoint automation (Every), Gusto+Claude Code no-process development (ChatPRD/Lenny's), GPT-5.6 Sol/Terra/Luna launch (TLDR AI/OpenAI), Santander open-source AI governance (Linas)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: How AI Agents Manage Memory and Avoid Forgetfulness; AI Could Do Anything Then It Met PowerPoint; No Figma No Jira No Docs: How Gusto Built a New Product Line with Claude Code; GPT-5.6: Frontier Intelligence That Scales with Your Ambition; Santander Open-Sources Its AI Governance Stack
+- Skipped: Linas fintech newsletters (X Money, SoFi, attention startup playbook - fintech-focused, not core engineering), Sifted (France blocks UK Scaleup Fund, Peec fundraise - policy/VC, not deep tech), TLDR general (Starlink mobile, Meta prediction markets - not core AI/engineering), Lenny's GLM-5.2 review (already covered as podcast/listen format)
