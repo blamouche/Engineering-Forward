@@ -1,4 +1,11 @@
 
+## 2026-08-21 15:44 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: Best Practices for Building AI Agents That Work in Production (ByteByteGo), Inside Roblox's Bet on World Models (ByteByteGo), Pushing Software Engineering Limits with Napkin Math (Pragmatic Engineer), Drowning in Demos/Better Way to Prototype (Every)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Skipped: Lenny's Newsletter (PM at Stripe, career/self-help), Linas Newsletter (fintech/crypto focused), Sifted (general startup news), TLDR AI/TLDR (news digest roundup, no single deep article)
+
 ## 2026-08-21 22:30 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 3 article URL(s) extracted: DeepSeek leaked investor call, code review load/AI PR bottleneck, OpenAI Presence enterprise agents
