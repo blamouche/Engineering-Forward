@@ -1,4 +1,12 @@
 
+## 2026-08-21 21:24 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: Headway/Eddy build vs buy (Every), Ex-Meta L8 Agentic Engineering Setup (ByteByteGo), Slow Down to Speed Up (Pragmatic Engineer), LLMs vs SLMs (ByteByteGo)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: The Healthcare Company That Built the AI Tool It Couldn't Buy; An Ex-Meta L8's Agentic Engineering Setup; Slow Down to Speed Up: So Much Has Changed in 6 Months' Time; Large Language Models vs Small Language Models
+- Skipped: Token Tightening (already in repo), TLDR AI Claude Tag (short news roundup), TLDR AI SpaceX/Reflection deal (short news), TLDR AI Seedance 2.5/Mistral OCR 4 (short news items), Linas IBKR/MCP (fintech-focused, light technical depth), Sifted Brexit/UK startups (not AI/engineering), Every Token Tightening (duplicate)
+
 ## 2026-08-21 19:21 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 6 article URL(s) extracted: Proof of Human (ByteByteGo), US OpenAI Equity Stake/Meta Neocloud/Karp's Attack (Big Technology), Smart Model Routing (Pragmatic Engineer), Claude Science/Drug Discovery Strategy (Every), Sonnet 5 Vibe Check (Every), Meta Watermelon/Anthropic Samsung Chips (TLDR AI)
