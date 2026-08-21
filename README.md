@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
 2026-06 | ████████████████████████████████████ 82<br>
 2026-07 | ████████████████████████████ 84<br>
-2026-08 | ██████████ 29
+2026-08 | █████████████████ 39
 ## Articles
 
 ### 2026
@@ -199,7 +199,17 @@ P22-12 | █ 2<br>
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
 
-#### August (29 articles)
+#### August (39 articles)
+- [Claude Code Dynamic Workflows: Orchestrating 100s of Parallel Agents](src/2026-08/20260822-claude-code-dynamic-workflows-parallel-agents.md)
+- [Apple Core AI: On-Device Foundation Models for Developers](src/2026-08/20260822-apple-core-ai-on-device-framework.md)
+- [Printing Press: Agent-Native CLIs from a Single Prompt](src/2026-08/20260822-printing-press-agent-native-clis.md)
+- [Token Spend Out of Control: The Case for Smarter Routing](src/2026-08/20260822-model-routing-token-spend-kilo.md)
+- [The Intent Debt: Why Agentic Engineering Makes Unwritten Knowledge Expensive](src/2026-08/20260822-intent-debt-agentic-engineering.md)
+- [Microsoft Scout: Always-On AI Agent for the Microsoft 365 Stack](src/2026-08/20260822-microsoft-scout-always-on-agent.md)
+- [Anthropic and OpenAI May Be Spending $1,000 for Every $100 You Pay Them](src/2026-08/20260822-llm-agent-costs-subsidized.md)
+- [Give Your Agent Its Own Computer: LangSmith Sandboxes](src/2026-08/20260822-langsmith-sandboxes-microvm-agents.md)
+- [OpenAI Adds Lockdown Mode to Counter Prompt Injection](src/2026-08/20260822-openai-lockdown-mode-prompt-injection.md)
+- [Google Research's Agentic RAG: Solving RAG's Biggest Problem](src/2026-08/20260822-google-agentic-rag-sufficient-context.md)
 - [The Healthcare Company That Built the AI Tool It Couldn't Buy](src/2026-08/20260821-the-healthcare-company-that-built-the-ai-tool-it-couldnt-buy.md)
 - [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
 - [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
