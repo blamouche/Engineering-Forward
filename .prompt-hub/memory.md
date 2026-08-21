@@ -10660,3 +10660,11 @@
 - Repo: clean, committed, pushed
 - Articles synthesized: How AI Agents Manage Memory and Avoid Forgetfulness; AI Could Do Anything Then It Met PowerPoint; No Figma No Jira No Docs: How Gusto Built a New Product Line with Claude Code; GPT-5.6: Frontier Intelligence That Scales with Your Ambition; Santander Open-Sources Its AI Governance Stack
 - Skipped: Linas fintech newsletters (X Money, SoFi, attention startup playbook - fintech-focused, not core engineering), Sifted (France blocks UK Scaleup Fund, Peec fundraise - policy/VC, not deep tech), TLDR general (Starlink mobile, Meta prediction markets - not core AI/engineering), Lenny's GLM-5.2 review (already covered as podcast/listen format)
+
+## 2026-08-21 21:06 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 6 article URL(s) extracted: OpenAI/Broadcom Jalapeño chip, Gemini 3.5 Flash computer use, GLM-5.2 step change for open agents, NVIDIA NeMo AutoModel fine-tuning, Baseten fastest API for GLM-5.2, Perplexity Computer for Counsel
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: OpenAI and Broadcom Reveal Jalapeño First AI Chip; Introducing Computer Use in Gemini 3.5 Flash; GLM-5.2 Is the Step Change for Open Agents; Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel; How Baseten Built the World's Fastest API for GLM-5.2; Perplexity Introduces Computer for Counsel
+- Skipped: ByteByteGo anti-patterns (paywalled), Stanford STORM for Claude (paywalled), Anthropic accuses Alibaba (too short for synthesis), AI researchers leave Google (short news, not deep analysis), Lenny's Meta PM (newsletter link, not standalone article), Every Codex Power User Camp (event promo, not article), Pragmatic Engineer NeetCode interview (podcast, not article), Sifted BRIOCHE (startup opinion, light depth), Every Token Tightening (already in repo), Every Can AI Learn Good Judgment (paywalled/tracking URLs), Qualcomm Dragonfly (light coverage), Flat-Splat research paper (too niche)
