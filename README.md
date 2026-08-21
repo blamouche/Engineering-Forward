@@ -26,7 +26,13 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (9 articles)
+#### June (15 articles)
+- [Perplexity Introduces Computer for Counsel: AI for Lawyers](src/2026-06/20260625-perplexity-computer-for-counsel.md)
+- [How Baseten Built the World's Fastest API for GLM-5.2](src/2026-06/20260625-baseten-fastest-api-glm-52.md)
+- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](src/2026-06/20260625-nvidia-nemo-automodel-fine-tuning.md)
+- [GLM-5.2 Is the Step Change for Open Agents](src/2026-06/20260625-glm-52-step-change-open-agents.md)
+- [Introducing Computer Use in Gemini 3.5 Flash](src/2026-06/20260625-gemini-35-flash-computer-use.md)
+- [OpenAI and Broadcom Reveal Jalapeño, First AI Chip in Partnership](src/2026-06/20260625-openai-broadcom-jalapeno-first-ai-chip.md)
 - [Everyone Gets an Agent. Almost No One Gets the Model.](src/2026-06/20260628-everyone-gets-an-agent-almost-no-one-gets-the-model.md)
 - [Santander Open-Sources Its AI Governance Stack—No Other Major Bank Has](src/2026-06/20260628-santander-open-sources-ai-governance-stack.md)
 - [Claude Code Is the OpenClaw Alternative You Already Have](src/2026-06/20260626-claude-code-is-the-openclaw-alternative.md)
