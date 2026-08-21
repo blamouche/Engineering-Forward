@@ -26,7 +26,10 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (15 articles)
+#### June (18 articles)
+- [Large Language Models vs Small Language Models](src/2026-06/20260624-large-language-models-vs-small-language-models.md)
+- [Slow Down to Speed Up: So Much Has Changed in 6 Months' Time](src/2026-06/20260623-slow-down-to-speed-up-so-much-has-changed.md)
+- [An Ex-Meta L8's Agentic Engineering Setup](src/2026-06/20260623-ex-meta-l8-agentic-engineering-setup.md)
 - [Perplexity Introduces Computer for Counsel: AI for Lawyers](src/2026-06/20260625-perplexity-computer-for-counsel.md)
 - [How Baseten Built the World's Fastest API for GLM-5.2](src/2026-06/20260625-baseten-fastest-api-glm-52.md)
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](src/2026-06/20260625-nvidia-nemo-automodel-fine-tuning.md)
@@ -129,7 +132,8 @@ P22-12 | █ 2<br>
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
 
-#### August (25 articles)
+#### August (26 articles)
+- [The Healthcare Company That Built the AI Tool It Couldn't Buy](src/2026-08/20260821-the-healthcare-company-that-built-the-ai-tool-it-couldnt-buy.md)
 - [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
 - [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
 - [LLM Security Basics: The Full Threat Model](src/2026-08/20260821-llm-security-threat-model.md)
