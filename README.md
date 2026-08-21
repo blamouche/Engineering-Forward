@@ -26,7 +26,14 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (3 articles)
+#### July (10 articles)
+- [How Building Software Is Changing at Anthropic](src/2026-07/20260728-how-building-software-is-changing-at-anthropic.md)
+- [Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways](src/2026-07/20260728-why-doordash-instacart-uber-eats-llm-search.md)
+- [Taming Opus 5](src/2026-07/20260728-taming-opus-5.md)
+- [Kimi K3: Open Frontier Intelligence](src/2026-07/20260728-kimi-k3-open-frontier-intelligence.md)
+- [Anthropic's Position on Open-Weight Models: Targeted Rules, Not a Ban](src/2026-07/20260728-anthropic-open-weights-policy-position.md)
+- [Microsoft Unveils MAI-Cyber-1-Flash: First Cybersecurity AI Model](src/2026-07/20260728-microsoft-mai-cyber-1-flash-cybersecurity-model.md)
+- [Nvidia Backs OpenAI's $500B Data Center with $105B Guarantee](src/2026-07/20260728-nvidia-openai-500b-ohio-data-center.md)
 - [How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference](src/2026-07/20260729-how-chatgpt-optimizes-its-agent-loop.md)
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
