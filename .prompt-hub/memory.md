@@ -1,4 +1,11 @@
 
+## 2026-08-21 16:05 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 8 article URL(s) extracted: Google Frozen chip/Gemini silicon, AMD Helios rack AI system, Agent swarms/model economics (Cursor), Who's Afraid of Chinese Models (Stratechery), Engineering management after cost of code collapse, Netflix in-house LLM serving, Alibaba open-sources SAIL/CUDA alternative, One Document Two Hands (Sunil Pai)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Skipped: Kimi K3 (already exists), Lenny's Newsletter (career/self-help), TLDR engagement notice, Every (workflow adoption, no deep technical substance), Linas Newsletter (fintech/crypto focus), Sifted (general startup funding news)
+
 ## 2026-08-21 15:44 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 4 article URL(s) extracted: Best Practices for Building AI Agents That Work in Production (ByteByteGo), Inside Roblox's Bet on World Models (ByteByteGo), Pushing Software Engineering Limits with Napkin Math (Pragmatic Engineer), Drowning in Demos/Better Way to Prototype (Every)
