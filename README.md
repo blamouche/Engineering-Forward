@@ -26,7 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (34 articles)
+#### July (38 articles)
+- [DeepSeek Explores IPO at $71B Valuation](src/2026-07/20260715-deepseek-ipo-71b-valuation.md)
+- [AI Customer Support at Scale: The Travel Industry's $Billion Bet](src/2026-07/20260715-ai-customer-support-travel-scale.md)
+- [The Urge to Merge: ChatGPT and Codex](src/2026-07/20260715-urge-to-merge-chatgpt-codex.md)
+- [Context Engineering with Dex Horthy](src/2026-07/20260715-context-engineering-dex-horthy.md)
 - [Bun's Rapid Rust Rewrite with AI: What Can We Learn?](src/2026-07/20260716-bun-rapid-rust-rewrite-with-ai.md)
 - [The Case Against AI Skills](src/2026-07/20260716-case-against-ai-skills.md)
 - [Claude Code + MCP Just Made SaaS Dashboards Disposable](src/2026-07/20260716-claude-code-mcp-saas-dashboards-disposable.md)
