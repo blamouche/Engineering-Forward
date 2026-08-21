@@ -41,7 +41,7 @@ P22-12 | █ 2<br>
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
 
-#### August (22 articles)
+#### August (25 articles)
 - [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
 - [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
 - [LLM Security Basics: The Full Threat Model](src/2026-08/20260821-llm-security-threat-model.md)
@@ -66,6 +66,9 @@ P22-12 | █ 2<br>
 - [Stripe to Acquire OpenRouter for $7 Billion](src/2026-08/20260821-stripe-acquires-openrouter-7-billion.md)
 - [Agents Find a Way](src/2026-08/20260821-agents-find-a-way.md)
 - [The Great Engineering Leader Career Break](src/2026-08/20260821-great-engineering-leader-career-break.md)
+- [DeepSeek's Leaked Investor Call: The Full AI Playbook](src/2026-08/20260824-deepseek-leaked-investor-call-ai-playbook.md)
+- [The Pulse: New Trend — Concern About Massive Increase in Code Review Load](src/2026-08/20260824-code-review-load-ai-pr-bottleneck.md)
+- [Introducing OpenAI Presence: Enterprise AI Agents That Work in Production](src/2026-08/20260824-openai-presence-enterprise-ai-agents-production.md)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### May (157 articles)
