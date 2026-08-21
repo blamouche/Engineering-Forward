@@ -26,6 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
+#### July (3 articles)
+- [How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference](src/2026-07/20260729-how-chatgpt-optimizes-its-agent-loop.md)
+- [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
+- [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
+
 #### August (22 articles)
 - [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
 - [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
