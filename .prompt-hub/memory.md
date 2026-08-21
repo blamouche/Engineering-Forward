@@ -10690,3 +10690,11 @@
 - Repo: clean, committed, pushed
 - Articles synthesized: Greg Brockman On OpenAI's Plan To Win: Compute Rules All; SpaceX Acquires Anysphere (Cursor) for $60B: The Instagram Moment for AI?; 12 Open-Source LLMs Worth Knowing in 2026
 - Skipped: GLM-5.2 ChatGPT moment for local AI (already covered in repo as 20260625-glm-52-step-change-open-agents.md), Unlikely AI under pressure (Sifted newsletter, startup opinion piece), Linas weekly FinTech pulse (mostly M&A coverage, light on technical substance), Fiona Fung AI-pilled engineering (Lenny podcast, paywalled), Built on Moving Ground (Every newsletter, paywalled), How to Pre-Mortem with AI (Linas, paywalled), GPT-5.6 (already covered in repo as 20260629-gpt-56-frontier-intelligence-that-scales.md), Midjourney Scanner (product announcement, light depth), agent loop architecture TLDR (already covered in repo)
+
+## 2026-08-21 22:24 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 7 article URL(s) extracted: Anthropic Claude Design overhaul, Nvidia ENPIRE/robot training, ChatGPT market share below 50%, Vercel eve open-source agent framework, Vercel Connect scoped credentials, Evil Martians design system for agents, CI/CD with Robert Erez
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Anthropic Ships Major Claude Design Overhaul; AI Coding Agents Can Autonomously Direct Robot Training; ChatGPT's Market Share Slips Below 50%; Introducing Eve: Vercel's Open-Source Agent Framework; Introducing Vercel Connect: Scoped Credentials for Agent Authentication; Building a Design System Specced for Engineers and Agents; CI/CD with Robert Erez
+- Skipped: ByteByteGo Observability (paywalled), Coinbase Financial OS (Substack newsletter, paywalled), Robeauté brain microbots (medical, not engineering), Sifted industrial tech/startups (VC/Deal coverage, light technical substance), Linas Fintech Pulse (mostly M&A, paywalled), Every newsletter paywall articles, Lore version control (product announcement, insufficient depth), Apple iPhone Air (hardware product, no engineering substance), Musk SpaceX/Tesla merger (speculation, no technical substance)
