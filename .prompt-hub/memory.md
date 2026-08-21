@@ -1,4 +1,12 @@
 
+## 2026-08-21 17:04 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: Context Engineering with Dex Horthy (Pragmatic Engineer), The Urge to Merge: ChatGPT and Codex (Every), AI Customer Support at Scale/Travel Industry (ByteByteGo), DeepSeek IPO at $71B (TLDR AI)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Context Engineering with Dex Horthy, The Urge to Merge: ChatGPT and Codex, AI Customer Support at Scale: The Travel Industry's $Billion Bet, DeepSeek Explores IPO at $71B Valuation
+- Skipped: Lenny's Newsletter (career/self-help), Every $500 All Access (marketing email), Every Surf the Models (product workflow, no standalone article), TLDR general news digest (multiple items without deep articles), Linas fintech (Stripe/PayPal deal + Revolut AI trading, not core engineering), Sifted Neko Health (health tech funding, 404 on article URL)
+
 ## 2026-08-21 16:43 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 4 article URL(s) extracted: Bun rapid Rust rewrite with AI (Pragmatic Engineer), Case Against AI Skills (Every), Claude Code MCP SaaS dashboards disposable (Linas), Guide to Multi-Tenancy (ByteByteGo)
