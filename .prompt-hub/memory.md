@@ -1,4 +1,11 @@
 
+## 2026-08-21 15:02 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 3 article URL(s) extracted: NVIDIA open models, Claude Opus 5 vibe check, Anthropic first technical PM
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: How NVIDIA Builds Open Models for the Age of AI, Claude Opus 5 Vibe Check, Anthropic's First Technical PM
+
 ## 2026-08-21 14:44 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 7 article URL(s) extracted: Anthropic engineering practices, DoorDash/Instacart/Uber Eats LLM search architectures, Opus 5 review, Kimi K3 open-weight model, Anthropic open-weights policy, Microsoft MAI-Cyber-1-Flash, Nvidia/OpenAI $500B data center
