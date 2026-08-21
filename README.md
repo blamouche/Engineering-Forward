@@ -21,12 +21,18 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | █████████████████████████████████████████████████████ 158
+2026-05 | █████████████████████████████████████████████████████ 158<br>
+2026-06 | ██████████████████ 43
 ## Articles
 
 ### 2026
 
-#### June (38 articles)
+#### June (43 articles)
+- [DeepSeek Raises $7.4 Billion, Becomes China's Most Valuable AI Startup](src/2026-06/20260617-deepseek-raises-7-4-billion-china-most-valuable-ai-startup.md)
+- [A Guide to AI Inference Engineering](src/2026-06/20260615-a-guide-to-ai-inference-engineering.md)
+- [DFlash and Spec V2: Next-Generation Speculative Decoding for LLM Inference](src/2026-06/20260615-dflash-and-spec-v2-next-generation-speculative-decoding.md)
+- [Agentic Code Review: The Most Leveraged Skill in Software](src/2026-06/20260615-agentic-code-review.md)
+- [Factory 2.0: From Coding Agents to Software Factories](src/2026-06/20260615-factory-2-0-from-coding-agents-to-software-factories.md)
 - [Why is Meta destroying its engineering organization?](src/2026-06/20260616-why-is-meta-destroying-its-engineering-organization.md)
 - [How Open-Weight Models Changed the AI Landscape](src/2026-06/20260616-how-open-weight-models-changed-the-ai-landscape.md)
 - [We Built Our Own Agent-Native Tool. It Overhauled How We Build Software.](src/2026-06/20260616-we-built-our-own-agent-native-tool.md)
