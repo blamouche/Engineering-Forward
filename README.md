@@ -26,7 +26,12 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (63 articles)
+#### July (68 articles)
+- [Redeploying Fable 5: Export Controls Lifted, Safety Framework Proposed](src/2026-07/20260701-anthropic-redeploying-fable-5-export-controls-lifted.md)
+- [Claude Science: An AI Workbench for Scientists](src/2026-07/20260701-claude-science-ai-workbench-for-scientists.md)
+- [AWS Puts $1 Billion Into Forward Deployed Engineering Unit for AI](src/2026-07/20260701-aws-1-billion-forward-deployed-engineers-ai.md)
+- [OpenAI in Early Talks to Give 5% Stake to US Government](src/2026-07/20260702-openai-early-talks-5-percent-stake-us-government.md)
+- [NVIDIA Unlocks AI Compute at Scale with Revenue-Sharing Partnership Model](src/2026-07/20260706-nvidia-unlocks-ai-compute-at-scale-revenue-sharing.md)
 - [Anthropic's J-Space: A Global Workspace in Language Models](src/2026-07/20260707-anthropic-j-space-global-workspace-language-models.md)
 - [ChatGPT vs Gemini vs Claude: Architectural Comparison](src/2026-07/20260707-chatgpt-vs-gemini-vs-claude-architecture-comparison.md)
 - [Tech Jobs Market in 2026: Hiring Managers and Job Seekers](src/2026-07/20260707-tech-jobs-market-2026-hiring-managers-job-seekers.md)
