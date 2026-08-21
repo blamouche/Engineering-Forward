@@ -26,7 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (41 articles)
+#### July (45 articles)
+- [From Doing to Tending: GPT-5.6 Sol, Tend Framework, and Grok 4.5 Vibe Check](src/2026-07/20260712-from-doing-to-tending-grok-45-tend-framework.md)
+- [Who Actually Makes Money When AI Eats the World?](src/2026-07/20260713-who-actually-makes-money-when-ai-eats-the-world.md)
+- [How Microsoft Ships AI Agents at Enterprise Scale](src/2026-07/20260713-how-microsoft-ships-ai-agents-at-enterprise-scale.md)
+- [OpenAI's Plans For Its New ChatGPT Superapp](src/2026-07/20260710-openai-chatgpt-superapp-plans.md)
 - [What is "Loop Engineering"?](src/2026-07/20260714-what-is-loop-engineering.md)
 - [How LLMs Learn to Be Helpful (RLHF vs DPO)](src/2026-07/20260714-how-llms-learn-to-be-helpful-rlhf-vs-dpo.md)
 - [Apple Sues OpenAI Over Trade Secrets and Hardware Ambitions](src/2026-07/20260714-apple-sues-openai-trade-secrets-hardware.md)
