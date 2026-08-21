@@ -24,8 +24,8 @@ Scan Gmail label `0---veille-ia` for unread emails (--max 10), curate relevant a
 - Trash all 10 scanned emails
 
 ## Status
-- [x] Scan emails
-- [ ] Curate articles
-- [ ] Update README
-- [ ] Commit and push
-- [ ] Trash emails
+- [x] Scan emails (10 unread)
+- [x] Curate articles (10 synthesized)
+- [x] Update README (June: 58 -> 68 articles, stats updated)
+- [x] Commit and push (bfb565c7, v0.0.1604)
+- [x] Trash all 10 scanned emails (batch TRASH confirmed)
