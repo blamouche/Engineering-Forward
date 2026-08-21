@@ -26,7 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (13 articles)
+#### July (17 articles)
+- [Best Practices for Building AI Agents That Work in Production](src/2026-07/20260722-best-practices-building-ai-agents-production.md)
+- [Inside Roblox's Bet on World Models](src/2026-07/20260721-inside-robloxs-bet-on-world-models.md)
+- [Pushing Software Engineering Limits with "Napkin Math"](src/2026-07/20260721-pushing-engineering-limits-napkin-math.md)
+- [Drowning in Demos? Here's a Better Way to Prototype](src/2026-07/20260721-drowning-in-demos-better-way-prototype.md)
 - [How NVIDIA Builds Open Models for the Age of AI](src/2026-07/20260727-how-nvidia-builds-open-models-for-the-age-of-ai.md)
 - [Claude Opus 5 Vibe Check: Brilliant in Flashes, Frustrating in Practice](src/2026-07/20260724-claude-opus-5-vibe-check-brilliant-in-flashes-frustrating-in-practice.md)
 - [Anthropic's First Technical PM on Token Maxing, the Jagged Edge, and Living in the Future](src/2026-07/20260726-anthropics-first-technical-pm-token-maxing-jagged-edge.md)
