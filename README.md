@@ -26,7 +26,13 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (68 articles)
+#### July (73 articles)
+- [Meta Watermelon Matches GPT-5.5 Benchmarks; Anthropic Explores Samsung Chip Partnership](src/2026-07/20260705-meta-watermelon-matches-gpt-5-5-anthropic-samsung-chips.md)
+- [Sonnet 5: A Model Pitched for Everyone Impresses No One](src/2026-07/20260705-sonnet-5-model-pitched-for-everyone-impresses-no-one.md)
+- [Claude Science and Anthropic's Drug Discovery Strategy: Selling the Shovels](src/2026-07/20260705-claude-science-anthropic-drug-discovery-selling-shovels.md)
+- [Smart Model Routing: The New Trend in AI Infrastructure](src/2026-07/20260705-smart-model-routing-new-trend-ai-infrastructure.md)
+- [The United States' OpenAI Equity Stake, Meta The Neocloud, Karp's Attack](src/2026-07/20260705-united-states-openai-equity-stake-meta-neocloud-karp-attack.md)
+- [Proof of Human: How to Verify a Person Is Real and Unique](src/2026-07/20260705-proof-of-human-how-to-verify-a-person-is-real-and-unique.md)
 - [Redeploying Fable 5: Export Controls Lifted, Safety Framework Proposed](src/2026-07/20260701-anthropic-redeploying-fable-5-export-controls-lifted.md)
 - [Claude Science: An AI Workbench for Scientists](src/2026-07/20260701-claude-science-ai-workbench-for-scientists.md)
 - [AWS Puts $1 Billion Into Forward Deployed Engineering Unit for AI](src/2026-07/20260701-aws-1-billion-forward-deployed-engineers-ai.md)
