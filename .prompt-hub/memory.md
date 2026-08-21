@@ -1,4 +1,20 @@
 
+## 2026-08-21 18:05 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: How GPT-5.6 Changes Knowledge Work/Tend Framework (Every), How to Build an Agentic OS with Claude Fable 5 (Linas), Interesting AI Coding Stats from Cursor (Pragmatic Engineer), Meta's Path to AI Relevance/Bosworth Interview (Big Technology)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: How GPT-5.6 Changes Knowledge Work: Tend Framework, How to Build an Agentic OS with Claude Fable 5, Cursor AI Coding Stats: Token Economics and Acceptance Rates, Meta's Path to AI Relevance — Bosworth Interview
+- Skipped: ByteByteGo AI Engineer cohort enrollment (course promo, not article), Every Vibe Check GPT-5.6 Sol (paywall preview, duplicate of main article), Sifted Pasqal IPO (quantum computing, not core AI/engineering), TLDR AI digest (aggregated news, no single deep article), TLDR general digest (aggregated news), Big Technology podcast link (audio, not article)
+
+## 2026-08-21 17:45 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: How Microsoft Ships AI Agents at Enterprise Scale (ByteByteGo), Who Actually Makes Money When AI Eats the World (Linas), OpenAI's Plans For Its New ChatGPT Superapp (Big Technology), From Doing to Tending/Grok 4.5/Tend Framework (Every)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: How Microsoft Ships AI Agents at Enterprise Scale, Who Actually Makes Money When AI Eats the World, OpenAI's Plans For Its New ChatGPT Superapp, From Doing to Tending (Grok 4.5, Tend, AI scribes)
+- Skipped: ByteByteGo Docker EP221 (podcast, 404 on web), Sifted/Yann LeCun VC fund (not technical), Lenny's Newsletter (podcast format, career/self-help), Linas Cloudflare/x402 (already covered in repo), TLDR AI/Claude Code browser (digest, no single deep article), TLDR Apple/Apple AI chips (digest, no single deep article)
+
 ## 2026-08-21 17:04 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 4 article URL(s) extracted: Context Engineering with Dex Horthy (Pragmatic Engineer), The Urge to Merge: ChatGPT and Codex (Every), AI Customer Support at Scale/Travel Industry (ByteByteGo), DeepSeek IPO at $71B (TLDR AI)
