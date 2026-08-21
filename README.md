@@ -22,14 +22,23 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
-2026-06 | ████████████████████████████ 68<br>
+2026-06 | █████████████████████████████████ 77<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | ██████████ 29
 ## Articles
 
 ### 2026
 
-#### June (68 articles)
+#### June (77 articles)
+- [The Pulse: A Trend of Trying to Cut Back on AI Spend Within Eng Departments](src/2026-06/20260611-cutting-back-ai-spend-eng-departments.md)
+- [Must-Know Deployment Strategies: From Big-Bang to Progressive Delivery](src/2026-06/20260611-deployment-strategies-big-bang-to-progressive.md)
+- [DiffusionGemma: 4x Faster Text Generation](src/2026-06/20260611-diffusiongemma-4x-faster-text-generation.md)
+- [Stack Overflow for Agents: An API-First Knowledge Exchange for the Agentic Era](src/2026-06/20260610-stack-overflow-for-agents.md)
+- [Dario Amodei's "Policy on the AI Exponential": FAA-Style Regulation and Beyond](src/2026-06/20260611-amodei-policy-on-the-ai-exponential.md)
+- [OpenAI Considers Drastic Price Cuts Anticipating War for Users With Anthropic](src/2026-06/20260611-openai-price-cuts-anthropic-price-war.md)
+- [Visa & Mastercard's Agentic AI Payment Platforms Have a Volume Problem](src/2026-06/20260611-visa-mastercard-agentic-payments-volume-problem.md)
+- [Google DeepMind's European Robotics Bet: First Accelerator Cohort](src/2026-06/20260611-deepmind-european-robotics-accelerator.md)
+- [How to Get the Most Out of Fable 5: Mike Krieger on Building AI-Native Products](src/2026-06/20260610-how-to-get-the-most-out-of-fable-5.md)
 - [The Typical AI Agent Stack, Explained](src/2026-06/20260613-the-typical-ai-agent-stack-explained.md)
 - [SpaceX's Valuation Is Crazy. Maybe That's A Feature?](src/2026-06/20260612-spacexs-valuation-is-crazy-maybe-thats-a-feature.md)
 - [The Moral of Fable](src/2026-06/20260612-the-moral-of-fable.md)
