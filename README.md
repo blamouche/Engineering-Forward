@@ -26,7 +26,16 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (49 articles)
+#### July (57 articles)
+- [An Off Switch for Dual-Use Knowledge in AI Models](src/2026-07/20260708-an-off-switch-for-dual-use-knowledge-in-ai-models.md)
+- [Former GitHub CEO Launches Competitor for the Vibe Coding Age](src/2026-07/20260708-former-github-ceo-launches-competitor-for-vibe-coding-age.md)
+- [Data for Agents: NVIDIA's Open Data Initiative for Agentic AI](src/2026-07/20260708-data-for-agents-nvidia-open-data-initiative.md)
+- [Introducing GPT-Live](src/2026-07/20260708-introducing-gpt-live.md)
+- [The Agent Loop: How AI Goes From Answering Questions to Doing Things](src/2026-07/20260709-the-agent-loop-how-ai-goes-from-answering-to-doing.md)
+- [Claude Managed Agents: What's New, What's Real (July 2026)](src/2026-07/20260709-claude-managed-agents-quietly-became-most-important-ai-infrastructure-bet.md)
+- [Streaming vs Batch: Two Philosophies of Data Processing](src/2026-07/20260709-streaming-vs-batch-two-philosophies-of-data-processing.md)
+- [SWE-1.7: Frontier Intelligence at a Fraction of the Cost](src/2026-07/20260709-swe-17-frontier-intelligence-at-fraction-of-the-cost.md)
+- [Ownership](src/2026-07/20260709-ownership.md)
 - [How GPT-5.6 Changes Knowledge Work: Tend Framework and the Agentic Loop](src/2026-07/20260710-how-gpt-5-6-changes-knowledge-work-tend-framework.md)
 - [How to Build an Agentic OS with Claude Fable 5](src/2026-07/20260710-how-to-build-agentic-os-claude-fable-5.md)
 - [Interesting AI Coding Stats from Cursor: Token Economics and Acceptance Rates](src/2026-07/20260709-cursor-ai-coding-stats-token-economics-acceptance-rates.md)
