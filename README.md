@@ -26,7 +26,9 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (73 articles)
+#### July (75 articles)
+- [How Kent Beck Shapes the Software Engineering Industry](src/2026-07/20260701-how-kent-beck-shapes-the-software-engineering-industry.md)
+- [How OpenAI Delivers Low-Latency Voice AI for 900M Users](src/2026-07/20260702-how-openai-delivers-low-latency-voice-ai-for-900m-users.md)
 - [Meta Watermelon Matches GPT-5.5 Benchmarks; Anthropic Explores Samsung Chip Partnership](src/2026-07/20260705-meta-watermelon-matches-gpt-5-5-anthropic-samsung-chips.md)
 - [Sonnet 5: A Model Pitched for Everyone Impresses No One](src/2026-07/20260705-sonnet-5-model-pitched-for-everyone-impresses-no-one.md)
 - [Claude Science and Anthropic's Drug Discovery Strategy: Selling the Shovels](src/2026-07/20260705-claude-science-anthropic-drug-discovery-selling-shovels.md)
