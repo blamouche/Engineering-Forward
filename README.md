@@ -26,7 +26,20 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### August (11 articles)
+#### August (22 articles)
+- [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
+- [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
+- [LLM Security Basics: The Full Threat Model](src/2026-08/20260821-llm-security-threat-model.md)
+- [Why An LLM's Memory Gets Expensive and How to Fix It](src/2026-08/20260821-llm-memory-expensive.md)
+- [How Big Models Teach Small Models to Be Smart](src/2026-08/20260821-knowledge-distillation-big-to-small.md)
+- [Google Chief Scientist Jeff Dean Leaving Company After 27 Years](src/2026-08/20260821-google-jeff-dean-departure.md)
+- [Google in the Post-Jeff Dean, Post-Demis Hassabis Era](src/2026-08/20260821-google-deepmind-reorg-forecast.md)
+- [AMD Acquires AI Chip Startup Taalas to Boost Inference Performance by Etching Models into Silicon](src/2026-08/20260821-amd-taalas-silicon-inference.md)
+- [Amazon Cracks Down on CPU Waste as Agentic AI Demand Intensifies](src/2026-08/20260821-amazon-cpu-waste-agentic-ai.md)
+- [When Artificial Intelligence Is Too Valuable To Sell](src/2026-08/20260821-ai-too-valuable-to-sell.md)
+- [Agentic Code Quality](src/2026-08/20260821-agentic-code-quality.md)
+- [The New Enterprise AI Go-To-Market Playbook](src/2026-08/20260821-enterprise-ai-gtm-playbook.md)
+- [Investigating Three Real-World Incidents in Anthropic's Cybersecurity Evaluations](src/2026-08/20260821-anthropic-cybersecurity-eval-incidents.md)
 - [Schema Evolution: Changing the Contract Without Breaking What Runs](src/2026-08/20260821-schema-evolution-changing-the-contract.md)
 - [GraphRAG: How AI Answers Questions Hidden Across Many Documents](src/2026-08/20260821-graphrag-how-ai-answers-questions.md)
 - [GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap](src/2026-08/20260821-github-vs-vercel-vs-replit-ai-code-platforms.md)
