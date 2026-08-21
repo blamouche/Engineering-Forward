@@ -26,7 +26,10 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (38 articles)
+#### July (41 articles)
+- [What is "Loop Engineering"?](src/2026-07/20260714-what-is-loop-engineering.md)
+- [How LLMs Learn to Be Helpful (RLHF vs DPO)](src/2026-07/20260714-how-llms-learn-to-be-helpful-rlhf-vs-dpo.md)
+- [Apple Sues OpenAI Over Trade Secrets and Hardware Ambitions](src/2026-07/20260714-apple-sues-openai-trade-secrets-hardware.md)
 - [DeepSeek Explores IPO at $71B Valuation](src/2026-07/20260715-deepseek-ipo-71b-valuation.md)
 - [AI Customer Support at Scale: The Travel Industry's $Billion Bet](src/2026-07/20260715-ai-customer-support-travel-scale.md)
 - [The Urge to Merge: ChatGPT and Codex](src/2026-07/20260715-urge-to-merge-chatgpt-codex.md)
