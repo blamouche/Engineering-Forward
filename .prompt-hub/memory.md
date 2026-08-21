@@ -10682,3 +10682,11 @@
 - Repo: clean, committed, pushed
 - Articles synthesized: OpenAI and Broadcom Reveal Jalapeño First AI Chip; Introducing Computer Use in Gemini 3.5 Flash; GLM-5.2 Is the Step Change for Open Agents; Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel; How Baseten Built the World's Fastest API for GLM-5.2; Perplexity Introduces Computer for Counsel
 - Skipped: ByteByteGo anti-patterns (paywalled), Stanford STORM for Claude (paywalled), Anthropic accuses Alibaba (too short for synthesis), AI researchers leave Google (short news, not deep analysis), Lenny's Meta PM (newsletter link, not standalone article), Every Codex Power User Camp (event promo, not article), Pragmatic Engineer NeetCode interview (podcast, not article), Sifted BRIOCHE (startup opinion, light depth), Every Token Tightening (already in repo), Every Can AI Learn Good Judgment (paywalled/tracking URLs), Qualcomm Dragonfly (light coverage), Flat-Splat research paper (too niche)
+
+## 2026-08-21 22:01 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 6 article URL(s) extracted: Greg Brockman/OpenAI compute strategy, SpaceX-Cursor $60B acquisition, 12 open-source LLMs, GLM-5.2 local AI, AI pre-mortem Claude skill, Fiona Fung AI-pilled engineering team
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Greg Brockman On OpenAI's Plan To Win: Compute Rules All; SpaceX Acquires Anysphere (Cursor) for $60B: The Instagram Moment for AI?; 12 Open-Source LLMs Worth Knowing in 2026
+- Skipped: GLM-5.2 ChatGPT moment for local AI (already covered in repo as 20260625-glm-52-step-change-open-agents.md), Unlikely AI under pressure (Sifted newsletter, startup opinion piece), Linas weekly FinTech pulse (mostly M&A coverage, light on technical substance), Fiona Fung AI-pilled engineering (Lenny podcast, paywalled), Built on Moving Ground (Every newsletter, paywalled), How to Pre-Mortem with AI (Linas, paywalled), GPT-5.6 (already covered in repo as 20260629-gpt-56-frontier-intelligence-that-scales.md), Midjourney Scanner (product announcement, light depth), agent loop architecture TLDR (already covered in repo)
