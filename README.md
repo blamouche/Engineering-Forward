@@ -26,7 +26,14 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (75 articles)
+#### July (82 articles)
+- [Claude Sonnet 5 Makes Opus Hard to Justify for Coding](src/2026-07/20260701-claude-sonnet-5-makes-opus-hard-to-justify.md)
+- [Heavy AI Adoption Linked To More Hiring, Not Layoffs](src/2026-07/20260701-heavy-ai-adoption-linked-to-more-hiring-not-layoffs.md)
+- [Impressions from Visiting OpenAI, Anthropic, & Cursor](src/2026-07/20260701-impressions-from-visiting-openai-anthropic-cursor.md)
+- [Inside Thinking Machines' Interaction Models](src/2026-07/20260701-inside-thinking-machines-interaction-models.md)
+- [Devin Fusion: Frontier Performance at 35% Lower Cost](src/2026-07/20260701-devin-fusion-frontier-performance-at-lower-cost.md)
+- [Build from Anywhere with Cursor for iOS](src/2026-07/20260701-build-from-anywhere-with-cursor-for-ios.md)
+- [Meta and OpenAI Alumni Seek $400m for New AI Lab Aire](src/2026-07/20260701-meta-openai-alumni-seek-400m-for-aire-ai-lab.md)
 - [How Kent Beck Shapes the Software Engineering Industry](src/2026-07/20260701-how-kent-beck-shapes-the-software-engineering-industry.md)
 - [How OpenAI Delivers Low-Latency Voice AI for 900M Users](src/2026-07/20260702-how-openai-delivers-low-latency-voice-ai-for-900m-users.md)
 - [Meta Watermelon Matches GPT-5.5 Benchmarks; Anthropic Explores Samsung Chip Partnership](src/2026-07/20260705-meta-watermelon-matches-gpt-5-5-anthropic-samsung-chips.md)
