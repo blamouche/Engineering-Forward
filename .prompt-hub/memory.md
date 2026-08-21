@@ -1,4 +1,20 @@
 
+## 2026-08-21 19:21 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 6 article URL(s) extracted: Proof of Human (ByteByteGo), US OpenAI Equity Stake/Meta Neocloud/Karp's Attack (Big Technology), Smart Model Routing (Pragmatic Engineer), Claude Science/Drug Discovery Strategy (Every), Sonnet 5 Vibe Check (Every), Meta Watermelon/Anthropic Samsung Chips (TLDR AI)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Proof of Human: How to Verify a Person Is Real and Unique; The United States' OpenAI Equity Stake, Meta The Neocloud, Karp's Attack; Smart Model Routing: The New Trend in AI Infrastructure; Claude Science and Anthropic's Drug Discovery Strategy: Selling the Shovels; Sonnet 5: A Model Pitched for Everyone Impresses No One; Meta Watermelon Matches GPT-5.5 Benchmarks; Anthropic Explores Samsung Chip Partnership
+- Skipped: Lenny's Newsletter "Please stop the AI Confidence Theater" (opinion piece without data), Sifted "AI labs taking over King's Cross" (paywalled/garbled content, startup real estate, light technical depth), Linas "Claude Fable 5 Playbook" (tactical playbook, not substantive article), Every "AI Could Do Anything. Then It Met PowerPoint" (light listicle), Every "Codex in Practice" (product walkthrough, not deep analysis), Every "Codex for Nontechnical Builders" (podcast, not article), Every "Your AI Strategy Is Making Bets" (behind paywall, light depth), Every Monologue/Spiral product updates (product announcements, not articles), TLDR general newsletter (aggregated news, Tesla Model Y not core AI)
+
+## 2026-08-21 19:05 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 5 article URL(s) extracted: Anthropic Fable 5 redeployment/export controls, Claude Science AI workbench, AWS $1B forward deployed engineers, OpenAI 5% US government stake, NVIDIA AI compute revenue-sharing model
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Redeploying Fable 5: Export Controls Lifted, Safety Framework Proposed; Claude Science: An AI Workbench for Scientists; AWS Puts $1 Billion Into Forward Deployed Engineering Unit for AI; OpenAI in Early Talks to Give 5% Stake to US Government; NVIDIA Unlocks AI Compute at Scale with Revenue-Sharing Partnership Model
+- Skipped: ByteByteGo AI Engineer enrollment (course promo), Lenny's Newsletter Sonnet 5 review (podcast format, not standalone article), Sifted Thought Machine IPO (startup/fintech, limited engineering depth), Sifted advanced materials (not core AI/engineering), Big Technology World Cup automation (opinion/sports, not deep engineering), Linas Cloudflare x402/Visa stablecoin (fintech, not core engineering), Linas weekly recap (aggregated), TLDR AI Seedance 2.5 (product rumor, not deep), TLDR general (aggregated news)
+
 ## 2026-08-21 18:45 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 6 article URL(s) extracted: Anthropic J-space/global workspace, ChatGPT vs Gemini vs Claude architecture, Tech jobs market 2026 hiring managers, Nvidia Kyber rack delay to 2028, Fable 5 unknowns/cheaper specialist model, Lovable $13.2B valuation
