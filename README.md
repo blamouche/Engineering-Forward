@@ -26,7 +26,12 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (25 articles)
+#### July (30 articles)
+- [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](src/2026-07/20260718-mcp-vs-a2a-vs-acp-agent-protocols.md)
+- [AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs](src/2026-07/20260718-ai-model-prices-falling-worst-moment-frontier-labs.md)
+- [The Model Is the Easy Part](src/2026-07/20260719-the-model-is-the-easy-part-data-monetization.md)
+- [How to Build an AI Monopoly: The New Rules of Startup Strategy](src/2026-07/20260720-how-to-build-ai-monopoly-startup-strategy.md)
+- [Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal](src/2026-07/20260720-meta-anthropic-compute-deal-spacex-pentagon.md)
 - [Google Is Building a Chip with Gemini Baked into the Silicon](src/2026-07/20260720-google-frozen-chip-gemini-silicon.md)
 - [AMD Helios: First Rack AI System to Rival Nvidia, with Microsoft On Board](src/2026-07/20260720-amd-helios-rack-ai-system-rivals-nvidia.md)
 - [Agent Swarms and the New Model Economics](src/2026-07/20260720-agent-swarms-new-model-economics.md)
