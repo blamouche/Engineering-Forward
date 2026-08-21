@@ -26,7 +26,12 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (18 articles)
+#### June (23 articles)
+- [Generative UI Is the New Frontend](src/2026-06/20260623-generative-ui-is-the-new-frontend.md)
+- [AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale](src/2026-06/20260623-ai-native-leaders-organizational-playbook.md)
+- [Designing AI Agent Loops in Claude Code and Codex](src/2026-06/20260623-designing-ai-agent-loops-claude-code-codex.md)
+- [How Mozilla Fixed 500 Security Bugs with Claude Mythos](src/2026-06/20260623-mozilla-500-security-bugs-claude-mythos.md)
+- [Sakana Fugu: Multi-Agent System Delivered as a Single Model](src/2026-06/20260623-sakana-fugu-multi-agent-system.md)
 - [Large Language Models vs Small Language Models](src/2026-06/20260624-large-language-models-vs-small-language-models.md)
 - [Slow Down to Speed Up: So Much Has Changed in 6 Months' Time](src/2026-06/20260623-slow-down-to-speed-up-so-much-has-changed.md)
 - [An Ex-Meta L8's Agentic Engineering Setup](src/2026-06/20260623-ex-meta-l8-agentic-engineering-setup.md)
