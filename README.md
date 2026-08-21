@@ -26,7 +26,18 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### August (1 article)
+#### August (11 articles)
+- [Schema Evolution: Changing the Contract Without Breaking What Runs](src/2026-08/20260821-schema-evolution-changing-the-contract.md)
+- [GraphRAG: How AI Answers Questions Hidden Across Many Documents](src/2026-08/20260821-graphrag-how-ai-answers-questions.md)
+- [GitHub vs Vercel vs Replit: What Dev Platforms Do When AI Code Is Cheap](src/2026-08/20260821-github-vs-vercel-vs-replit-ai-code-platforms.md)
+- [Meta's Self-Inflicted Resignation Wave](src/2026-08/20260821-metas-self-inflicted-resignation-wave.md)
+- [The Ultimate Guide to Qwen3.8-27B](src/2026-08/20260821-ultimate-guide-qwen38-27b.md)
+- [Inkling: Thinking Machines' New AI Model Designed to be Customized](src/2026-08/20260821-inkling-thinking-machines-new-ai-model.md)
+- [Our AI Costs Jumped 230 Percent — I'm Not Setting Token Budgets Yet](src/2026-08/20260821-our-ai-costs-jumped-230-percent.md)
+- [The Power Shift: Why Electricity Is AI's Real Bottleneck](src/2026-08/20260821-why-electricity-is-ais-real-bottleneck.md)
+- [Stripe to Acquire OpenRouter for $7 Billion](src/2026-08/20260821-stripe-acquires-openrouter-7-billion.md)
+- [Agents Find a Way](src/2026-08/20260821-agents-find-a-way.md)
+- [The Great Engineering Leader Career Break](src/2026-08/20260821-great-engineering-leader-career-break.md)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
 #### May (157 articles)
