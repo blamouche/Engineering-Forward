@@ -1,4 +1,10 @@
 
+## 2026-08-21 14:44 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 7 article URL(s) extracted: Anthropic engineering practices, DoorDash/Instacart/Uber Eats LLM search architectures, Opus 5 review, Kimi K3 open-weight model, Anthropic open-weights policy, Microsoft MAI-Cyber-1-Flash, Nvidia/OpenAI $500B data center
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+
 ## 2026-05-27 08:02 — Daily veille IA
 - Gmail label `0---veille-ia`: 0 message(s)
 - LIST.md: already empty, 0 URL(s) added, 0 removed
