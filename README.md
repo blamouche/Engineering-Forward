@@ -26,7 +26,10 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (23 articles)
+#### June (26 articles)
+- [SpaceX Acquires Anysphere (Cursor) for $60B: The Instagram Moment for AI?](src/2026-06/20260621-spacex-acquires-cursor-60b-ai-empire.md)
+- [12 Open-Source LLMs Worth Knowing in 2026](src/2026-06/20260620-12-open-source-llms-worth-knowing.md)
+- [Greg Brockman On OpenAI's Plan To Win: Compute Rules All](src/2026-06/20260619-greg-brockman-openai-compute-rules-all.md)
 - [Generative UI Is the New Frontend](src/2026-06/20260623-generative-ui-is-the-new-frontend.md)
 - [AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale](src/2026-06/20260623-ai-native-leaders-organizational-playbook.md)
 - [Designing AI Agent Loops in Claude Code and Codex](src/2026-06/20260623-designing-ai-agent-loops-claude-code-codex.md)
