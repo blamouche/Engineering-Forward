@@ -26,7 +26,15 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (17 articles)
+#### July (25 articles)
+- [Google Is Building a Chip with Gemini Baked into the Silicon](src/2026-07/20260720-google-frozen-chip-gemini-silicon.md)
+- [AMD Helios: First Rack AI System to Rival Nvidia, with Microsoft On Board](src/2026-07/20260720-amd-helios-rack-ai-system-rivals-nvidia.md)
+- [Agent Swarms and the New Model Economics](src/2026-07/20260720-agent-swarms-new-model-economics.md)
+- [Who's Afraid of Chinese Models?](src/2026-07/20260720-whos-afraid-of-chinese-models.md)
+- [Engineering Management After the Cost of Code Collapsed](src/2026-07/20260720-engineering-management-after-cost-of-code-collapse.md)
+- [In-House LLM Serving at Netflix](src/2026-07/20260720-netflix-in-house-llm-serving.md)
+- [Alibaba Open-Sources SAIL, Targeting Nvidia's CUDA Lock-In](src/2026-07/20260720-alibaba-open-sources-sail-cuda-alternative.md)
+- [One Document, Two Hands: Solving the Decision Problem](src/2026-07/20260720-one-document-two-hands.md)
 - [Best Practices for Building AI Agents That Work in Production](src/2026-07/20260722-best-practices-building-ai-agents-production.md)
 - [Inside Roblox's Bet on World Models](src/2026-07/20260721-inside-robloxs-bet-on-world-models.md)
 - [Pushing Software Engineering Limits with "Napkin Math"](src/2026-07/20260721-pushing-engineering-limits-napkin-math.md)
