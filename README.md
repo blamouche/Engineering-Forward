@@ -26,7 +26,12 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (33 articles)
+#### June (38 articles)
+- [Why is Meta destroying its engineering organization?](src/2026-06/20260616-why-is-meta-destroying-its-engineering-organization.md)
+- [How Open-Weight Models Changed the AI Landscape](src/2026-06/20260616-how-open-weight-models-changed-the-ai-landscape.md)
+- [We Built Our Own Agent-Native Tool. It Overhauled How We Build Software.](src/2026-06/20260616-we-built-our-own-agent-native-tool.md)
+- [SpaceX Acquires AI Coding Startup Cursor for $60 Billion](src/2026-06/20260617-spacex-acquires-cursor-for-60-billion.md)
+- [GLM-5.2: Built for Long-Horizon Tasks](src/2026-06/20260617-glm-5-2-built-for-long-horizon-tasks.md)
 - [Anthropic Ships Major Claude Design Overhaul with Design System Imports, Code Round-Trips, and Token Fix](src/2026-06/20260618-anthropic-ships-major-claude-design-overhaul.md)
 - [AI Coding Agents Can Autonomously Direct Robot Training](src/2026-06/20260618-ai-coding-agents-teach-robots-gpu-installation.md)
 - [ChatGPT's Market Share Slips Below 50% for First Time](src/2026-06/20260618-chatgpt-market-share-slips-below-50.md)
