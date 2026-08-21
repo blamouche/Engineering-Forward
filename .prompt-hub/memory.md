@@ -1,4 +1,12 @@
 
+## 2026-08-21 16:43 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 4 article URL(s) extracted: Bun rapid Rust rewrite with AI (Pragmatic Engineer), Case Against AI Skills (Every), Claude Code MCP SaaS dashboards disposable (Linas), Guide to Multi-Tenancy (ByteByteGo)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Bun's Rapid Rust Rewrite with AI, The Case Against AI Skills, Claude Code + MCP SaaS Dashboards Disposable, Guide to Multi-Tenancy Benefits and Challenges
+- Skipped: Thinking Machines Inkling (already exists in repo), xAI chaos/identity crisis (TLDR digest, no single deep article), Stripe/PayPal bid (fintech deal, not engineering), Sifted Aramco/Humanoid (general startup funding), Linas second brain/Fable 5 (newsletter signup, not article), Siri iOS 27 (consumer feature news)
+
 ## 2026-08-21 16:05 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 8 article URL(s) extracted: Google Frozen chip/Gemini silicon, AMD Helios rack AI system, Agent swarms/model economics (Cursor), Who's Afraid of Chinese Models (Stratechery), Engineering management after cost of code collapse, Netflix in-house LLM serving, Alibaba open-sources SAIL/CUDA alternative, One Document Two Hands (Sunil Pai)
