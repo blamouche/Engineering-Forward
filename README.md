@@ -26,7 +26,13 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (57 articles)
+#### July (63 articles)
+- [Anthropic's J-Space: A Global Workspace in Language Models](src/2026-07/20260707-anthropic-j-space-global-workspace-language-models.md)
+- [ChatGPT vs Gemini vs Claude: Architectural Comparison](src/2026-07/20260707-chatgpt-vs-gemini-vs-claude-architecture-comparison.md)
+- [Tech Jobs Market in 2026: Hiring Managers and Job Seekers](src/2026-07/20260707-tech-jobs-market-2026-hiring-managers-job-seekers.md)
+- [Nvidia Kyber AI Server Rack Delayed to 2028](src/2026-07/20260707-nvidia-kyber-rack-delayed-2028-manufacturing.md)
+- [Use Fable Before You Know What to Ask](src/2026-07/20260707-use-fable-before-you-know-what-to-ask.md)
+- [Lovable in Talks to Double Valuation to $13.2B](src/2026-07/20260708-lovable-13b-valuation-vibe-coding.md)
 - [An Off Switch for Dual-Use Knowledge in AI Models](src/2026-07/20260708-an-off-switch-for-dual-use-knowledge-in-ai-models.md)
 - [Former GitHub CEO Launches Competitor for the Vibe Coding Age](src/2026-07/20260708-former-github-ceo-launches-competitor-for-vibe-coding-age.md)
 - [Data for Agents: NVIDIA's Open Data Initiative for Agentic AI](src/2026-07/20260708-data-for-agents-nvidia-open-data-initiative.md)
