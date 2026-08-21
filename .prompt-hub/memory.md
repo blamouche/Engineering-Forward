@@ -1,5 +1,11 @@
 
-## 2026-08-21 21:24 — Daily veille IA
+## 2026-08-21 21:43 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 5 article URL(s) extracted: Generative UI Is the New Frontend (Unwind AI), AI-Native Leaders Organizational Playbook (ByteByteGo), Designing AI Agent Loops in Claude Code and Codex (Lenny's/ChatPRD), How Mozilla Fixed 500 Security Bugs with Claude Mythos (Lenny's/ChatPRD), Sakana Fugu Multi-Agent System (TLDR AI)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Generative UI Is the New Frontend; AI-Native Leaders: The Organizational Playbook for Engineering Transformation at Scale; Designing AI Agent Loops in Claude Code and Codex; How Mozilla Fixed 500 Security Bugs with Claude Mythos; Sakana Fugu: Multi-Agent System Delivered as a Single Model
+- Skipped: Lenny's "The new inner game" (career/self-help without technical substance), Every "I Asked an AI to Audit My Career" (career coaching, not deep technical content), Sifted "What Burnham would mean for UK tech" (politics/startup real estate, not engineering), TLDR general (Apple design, Tesla Megapod, aggregated news), Santander AI governance (already in repo as 20260628), GLM-5.2/Opus 4.8 local models (short news items), Inception Labs Mercury 2 (short news, not enough depth for standalone synthesis), DeepMind Jumper to Anthropic (short news item, no standalone article)
 - Gmail label `0---veille-ia`: 10 message(s)
 - 4 article URL(s) extracted: Headway/Eddy build vs buy (Every), Ex-Meta L8 Agentic Engineering Setup (ByteByteGo), Slow Down to Speed Up (Pragmatic Engineer), LLMs vs SLMs (ByteByteGo)
 - Trashed: 10 email(s)
