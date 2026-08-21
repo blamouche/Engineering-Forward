@@ -1,4 +1,12 @@
 
+## 2026-08-21 18:45 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 6 article URL(s) extracted: Anthropic J-space/global workspace, ChatGPT vs Gemini vs Claude architecture, Tech jobs market 2026 hiring managers, Nvidia Kyber rack delay to 2028, Fable 5 unknowns/cheaper specialist model, Lovable $13.2B valuation
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: Anthropic J-Space: A Global Workspace in Language Models, ChatGPT vs Gemini vs Claude: Architectural Comparison, Tech Jobs Market in 2026: Hiring Managers and Job Seekers, Nvidia Kyber AI Server Rack Delayed to 2028, Use Fable Before You Know What to Ask, Lovable in Talks to Double Valuation to $13.2B
+- Skipped: TLDR AI GPT-5.6 (covered in previous scan), Sifted Lovable (duplicated by TechCrunch coverage), Linas newsletter (finance/crypto, light technical substance), Lenny's Newsletter (career survey, overlaps Pragmatic Engineer), Meta Muse Image (product launch, light depth), GPT-5.6 Sol/Terra/Luna (digest format, already covered)
+
 ## 2026-08-21 18:05 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 4 article URL(s) extracted: How GPT-5.6 Changes Knowledge Work/Tend Framework (Every), How to Build an Agentic OS with Claude Fable 5 (Linas), Interesting AI Coding Stats from Cursor (Pragmatic Engineer), Meta's Path to AI Relevance/Bosworth Interview (Big Technology)
