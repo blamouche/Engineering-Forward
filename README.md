@@ -26,7 +26,14 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### June (26 articles)
+#### June (33 articles)
+- [Anthropic Ships Major Claude Design Overhaul with Design System Imports, Code Round-Trips, and Token Fix](src/2026-06/20260618-anthropic-ships-major-claude-design-overhaul.md)
+- [AI Coding Agents Can Autonomously Direct Robot Training](src/2026-06/20260618-ai-coding-agents-teach-robots-gpu-installation.md)
+- [ChatGPT's Market Share Slips Below 50% for First Time](src/2026-06/20260618-chatgpt-market-share-slips-below-50.md)
+- [Introducing Eve: Vercel's Open-Source Agent Framework](src/2026-06/20260617-vercel-introduces-eve-open-source-agent-framework.md)
+- [Introducing Vercel Connect: Scoped Credentials for Agent Authentication](src/2026-06/20260617-vercel-connect-scoped-credentials-for-agents.md)
+- [Building a Design System Specced for Engineers and Agents](src/2026-06/20260617-building-design-system-for-engineers-and-agents.md)
+- [CI/CD with Robert Erez](src/2026-06/20260617-cicd-with-robert-erez.md)
 - [SpaceX Acquires Anysphere (Cursor) for $60B: The Instagram Moment for AI?](src/2026-06/20260621-spacex-acquires-cursor-60b-ai-empire.md)
 - [12 Open-Source LLMs Worth Knowing in 2026](src/2026-06/20260620-12-open-source-llms-worth-knowing.md)
 - [Greg Brockman On OpenAI's Plan To Win: Compute Rules All](src/2026-06/20260619-greg-brockman-openai-compute-rules-all.md)
