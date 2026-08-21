@@ -22,14 +22,19 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
-2026-06 | █████████████████████████████████ 77<br>
+2026-06 | ████████████████████████████████████ 82<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | ██████████ 29
 ## Articles
 
 ### 2026
 
-#### June (77 articles)
+#### June (82 articles)
+- [Loop Engineering: How to Design AI Loops That Build, Ship, and Improve While You Sleep](src/2026-06/20260610-loop-engineering-ai-loops-that-ship-while-you-sleep.md)
+- [AI Is Eating the AI Engineering Loop](src/2026-06/20260610-ai-eating-the-ai-engineering-loop.md)
+- [Vibe Check: Fable 5 Is the Best Coding Model in the World](src/2026-06/20260610-vibe-check-fable-5-best-coding-model.md)
+- [What Salesforce Learned from 20,000 Enterprise Agent Deployments](src/2026-06/20260609-salesforce-20000-enterprise-agent-deployments.md)
+- [Claude Fable 5 Review: What the New Mythos Model Gets Right (and Very Wrong)](src/2026-06/20260609-claude-fable-5-review-mythos-model.md)
 - [The Pulse: A Trend of Trying to Cut Back on AI Spend Within Eng Departments](src/2026-06/20260611-cutting-back-ai-spend-eng-departments.md)
 - [Must-Know Deployment Strategies: From Big-Bang to Progressive Delivery](src/2026-06/20260611-deployment-strategies-big-bang-to-progressive.md)
 - [DiffusionGemma: 4x Faster Text Generation](src/2026-06/20260611-diffusiongemma-4x-faster-text-generation.md)
