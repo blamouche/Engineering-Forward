@@ -10622,3 +10622,9 @@
 - 5 emails filtered out (Lenny podcast, Every gift links case study, Sifted VC/politics, Linas weekly recap)
 - Trashed: 10 email(s)
 - Repo: clean, committed, pushed
+
+## 2026-08-21 18:22 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 9 article URL(s) extracted: Agent Loop, Claude Managed Agents, Streaming vs Batch, SWE-1.7, GRAM off-switch, GPT-Live, Entire.io, Ownership, NVIDIA Open Data for Agents
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
