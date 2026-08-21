@@ -26,7 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (45 articles)
+#### July (49 articles)
+- [How GPT-5.6 Changes Knowledge Work: Tend Framework and the Agentic Loop](src/2026-07/20260710-how-gpt-5-6-changes-knowledge-work-tend-framework.md)
+- [How to Build an Agentic OS with Claude Fable 5](src/2026-07/20260710-how-to-build-agentic-os-claude-fable-5.md)
+- [Interesting AI Coding Stats from Cursor: Token Economics and Acceptance Rates](src/2026-07/20260709-cursor-ai-coding-stats-token-economics-acceptance-rates.md)
+- [Meta's Path to AI Relevance: CTO Bosworth on Product Over Model](src/2026-07/20260709-meta-path-to-ai-relevance-bosworth-interview.md)
 - [From Doing to Tending: GPT-5.6 Sol, Tend Framework, and Grok 4.5 Vibe Check](src/2026-07/20260712-from-doing-to-tending-grok-45-tend-framework.md)
 - [Who Actually Makes Money When AI Eats the World?](src/2026-07/20260713-who-actually-makes-money-when-ai-eats-the-world.md)
 - [How Microsoft Ships AI Agents at Enterprise Scale](src/2026-07/20260713-how-microsoft-ships-ai-agents-at-enterprise-scale.md)
