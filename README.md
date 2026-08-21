@@ -26,7 +26,10 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (10 articles)
+#### July (13 articles)
+- [How NVIDIA Builds Open Models for the Age of AI](src/2026-07/20260727-how-nvidia-builds-open-models-for-the-age-of-ai.md)
+- [Claude Opus 5 Vibe Check: Brilliant in Flashes, Frustrating in Practice](src/2026-07/20260724-claude-opus-5-vibe-check-brilliant-in-flashes-frustrating-in-practice.md)
+- [Anthropic's First Technical PM on Token Maxing, the Jagged Edge, and Living in the Future](src/2026-07/20260726-anthropics-first-technical-pm-token-maxing-jagged-edge.md)
 - [How Building Software Is Changing at Anthropic](src/2026-07/20260728-how-building-software-is-changing-at-anthropic.md)
 - [Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways](src/2026-07/20260728-why-doordash-instacart-uber-eats-llm-search.md)
 - [Taming Opus 5](src/2026-07/20260728-taming-opus-5.md)
