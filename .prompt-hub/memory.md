@@ -10578,3 +10578,15 @@
 - 7 emails filtered out (fintech/finance, career/self-help, Sifted VC news, TLDR news roundups without deep articles)
 - Trashed: 10 email(s)
 - Repo: clean, committed, pushed
+
+## 2026-08-21 16:21 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 5 article URL(s) extracted and synthesized:
+  - MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other (ByteByteGo)
+  - AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs (Big Technology)
+  - The Model Is the Easy Part (Every)
+  - How to Build an AI Monopoly: The New Rules of Startup Strategy (Linas)
+  - Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal (TLDR)
+- 5 emails filtered out (Lenny podcast, Every gift links case study, Sifted VC/politics, Linas weekly recap)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
