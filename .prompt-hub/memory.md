@@ -10533,3 +10533,13 @@
   - Created synthesis/2026-05-26 - 120500 - batch recap.md
 - **Outcome**: success — 2/2 URLs processed, 0 errors, LIST.md empty
 - **Next**: None — queue is empty
+
+## 2026-08-21 14:30 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 3 article(s) selected and processed:
+  - How ChatGPT Optimizes its Agent Loop (ByteByteGo)
+  - Formal Methods with Hillel Wayne (Pragmatic Engineer)
+  - Slack as AI Command Center, Buzz, Destructive Command Guard (Every)
+- 7 emails filtered out (fintech/finance, career/self-help, Sifted VC news, TLDR news roundups without deep articles)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
