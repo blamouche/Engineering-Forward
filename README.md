@@ -26,7 +26,11 @@ P22-12 | █ 2<br>
 
 ### 2026
 
-#### July (30 articles)
+#### July (34 articles)
+- [Bun's Rapid Rust Rewrite with AI: What Can We Learn?](src/2026-07/20260716-bun-rapid-rust-rewrite-with-ai.md)
+- [The Case Against AI Skills](src/2026-07/20260716-case-against-ai-skills.md)
+- [Claude Code + MCP Just Made SaaS Dashboards Disposable](src/2026-07/20260716-claude-code-mcp-saas-dashboards-disposable.md)
+- [A Guide to Multi-Tenancy: Benefits and Challenges](src/2026-07/20260716-guide-multi-tenancy-benefits-challenges.md)
 - [MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other](src/2026-07/20260718-mcp-vs-a2a-vs-acp-agent-protocols.md)
 - [AI Model Prices Are Falling At The Worst Moment For The U.S. Frontier Labs](src/2026-07/20260718-ai-model-prices-falling-worst-moment-frontier-labs.md)
 - [The Model Is the Easy Part](src/2026-07/20260719-the-model-is-the-easy-part-data-monetization.md)
