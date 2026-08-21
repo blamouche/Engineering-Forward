@@ -1,4 +1,12 @@
 
+## 2026-08-21 22:30 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 3 article URL(s) extracted: DeepSeek leaked investor call, code review load/AI PR bottleneck, OpenAI Presence enterprise agents
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: DeepSeek's Leaked Investor Call, The Pulse — Code Review Load, OpenAI Presence Enterprise AI Agents
+- Skipped: Kimi K3 (already exists), Stripe/OpenRouter (already exists), ByteByteGo clocks (paywalled), Sifted Mistral/Palantir (fetch error), TLDR newsletters (digest items only)
+
 ## 2026-08-21 15:02 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 3 article URL(s) extracted: NVIDIA open models, Claude Opus 5 vibe check, Anthropic first technical PM
