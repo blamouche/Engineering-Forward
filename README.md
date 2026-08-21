@@ -22,12 +22,22 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
-2026-06 | ██████████████████ 43
+2026-06 | █████████████████ 51<br>
+2026-07 | ████████████████████████████ 84<br>
+2026-08 | ██████████ 29
 ## Articles
 
 ### 2026
 
-#### June (43 articles)
+#### June (51 articles)
+- [NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark](src/2026-06/20260612-nvidia-blackwell-agentperf-benchmark.md)
+- [Anthropic Statement on US Government Directive to Suspend Access to Fable 5 and Mythos 5](src/2026-06/20260615-anthropic-fable-mythos-access-suspended.md)
+- [Breaking: Today's Frontier AI Companies Will Never Exceed the AI Capability Frontier Again](src/2026-06/20260615-breaking-todays-frontier-ai-companies.md)
+- [Inference Cost at Scale with Napkin Math](src/2026-06/20260615-napkin-inference-cost-at-scale.md)
+- [Kimi K2.7 Code: Coding-Focused Agentic Model from Moonshot AI](src/2026-06/20260615-kimi-k2-7-code-coding-agentic-model.md)
+- [MiniMax Sparse Attention (MSA): FlashAttention and Block-Sparse Kernels for NVIDIA SM100](src/2026-06/20260615-minimax-sparse-attention-msa-sm100.md)
+- [Introducing the Open Knowledge Format (OKF): A Portable Standard for AI Agent Context](src/2026-06/20260615-google-open-knowledge-format-okf.md)
+- [How I AI: Claude Fable 5 Review & How Braintrust Uses AI Agents, Evals, and CI to Ship Better Software](src/2026-06/20260615-how-i-ai-claude-fable-5-braintrust-agents-evals-ci.md)
 - [DeepSeek Raises $7.4 Billion, Becomes China's Most Valuable AI Startup](src/2026-06/20260617-deepseek-raises-7-4-billion-china-most-valuable-ai-startup.md)
 - [A Guide to AI Inference Engineering](src/2026-06/20260615-a-guide-to-ai-inference-engineering.md)
 - [DFlash and Spec V2: Next-Generation Speculative Decoding for LLM Inference](src/2026-06/20260615-dflash-and-spec-v2-next-generation-speculative-decoding.md)
@@ -72,7 +82,7 @@ P22-12 | █ 2<br>
 - [GPT-5.6: Frontier Intelligence That Scales with Your Ambition](src/2026-06/20260629-gpt-56-frontier-intelligence-that-scales.md)
 - [Token Tightening](src/2026-06/20260623-token-tightening.md)
 
-#### July (82 articles)
+#### July (84 articles)
 - [Claude Sonnet 5 Makes Opus Hard to Justify for Coding](src/2026-07/20260701-claude-sonnet-5-makes-opus-hard-to-justify.md)
 - [Heavy AI Adoption Linked To More Hiring, Not Layoffs](src/2026-07/20260701-heavy-ai-adoption-linked-to-more-hiring-not-layoffs.md)
 - [Impressions from Visiting OpenAI, Anthropic, & Cursor](src/2026-07/20260701-impressions-from-visiting-openai-anthropic-cursor.md)
@@ -158,7 +168,7 @@ P22-12 | █ 2<br>
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
 
-#### August (26 articles)
+#### August (29 articles)
 - [The Healthcare Company That Built the AI Tool It Couldn't Buy](src/2026-08/20260821-the-healthcare-company-that-built-the-ai-tool-it-couldnt-buy.md)
 - [Building an Open Agentic Internet: Readable, Discoverable, Callable, and Payable](src/2026-08/20260821-cloudflare-agentic-internet.md)
 - [Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers](src/2026-08/20260821-kitesurf-agent-browser.md)
