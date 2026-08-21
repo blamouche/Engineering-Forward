@@ -1,3 +1,6 @@
+## 0.0.1604 - 2026-08-22
+- Daily veille IA: Gmail label `0---veille-ia` returned 10 message(s); 10 article(s) synthesized from ByteByteGo, Big Technology, Every, VentureBeat, Engadget, Linas, OpenAI, Techibe, CNBC, Spateder; 10 email(s) trashed.
+
 ## 0.0.1603 - 2026-05-27
 - Daily veille IA: Gmail label `0---veille-ia` returned 0 message(s); `LIST.md` was already empty so 0 URL(s) were added, 0 off-topic URL(s) were removed, and 0 email(s) were trashed.
 

@@ -1,4 +1,12 @@
 
+## 2026-08-22 00:20 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 10 article URL(s) extracted: The Typical AI Agent Stack (ByteByteGo), SpaceX's Valuation Is Crazy (Big Technology), The Moral of Fable (Every), Xiaomi MiMo Code (VentureBeat), Anthropic Backtracks on Policy (Engadget), How to Prompt Claude Fable 5 (Linas), OpenAI Acquires Ona (OpenAI), Bezos Prometheus $12B (Techibe), Oracle Shares Tumble (CNBC), Mythos-Class Models Will Diffuse by 2029 (Spateder)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: The Typical AI Agent Stack, Explained; SpaceX's Valuation Is Crazy. Maybe That's A Feature?; The Moral of Fable; How to Prompt Claude Fable 5: 12 Patterns Before June 22; Xiaomi MiMo Code: Open-Source Agentic Coding Harness Beats Claude Code at Ultra-Long Tasks; Anthropic Backtracks on Policy That 'Sabotaged' Researchers' Work; OpenAI to Acquire Ona: Persistent Cloud Environments for Long-Running Codex Agents; Jeff Bezos's Prometheus Raises $12B to Build an Artificial General Engineer; Oracle Shares Tumble 11% on Capital Raise and Cash Concerns Amid AI Buildout; Mythos-Class Models Will Diffuse Throughout the World by 2029
+- Skipped: Lenny's Mark Pincus/Zynga (podcast, consumer products), Every "Fable, Disabled" (already covered as 20260615-anthropic-fable-mythos-access-suspended), Lenny's Community Wisdom (community threads, not article), Sifted Legaltech (not core AI/engineering)
+
 ## 2026-08-21 21:43 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 5 article URL(s) extracted: Generative UI Is the New Frontend (Unwind AI), AI-Native Leaders Organizational Playbook (ByteByteGo), Designing AI Agent Loops in Claude Code and Codex (Lenny's/ChatPRD), How Mozilla Fixed 500 Security Bugs with Claude Mythos (Lenny's/ChatPRD), Sakana Fugu Multi-Agent System (TLDR AI)
