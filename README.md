@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████████████████ 171<br>
+2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | █████████████████ 39
@@ -280,7 +280,7 @@ P22-12 | █ 2<br>
 - [Introducing OpenAI Presence: Enterprise AI Agents That Work in Production](src/2026-08/20260824-openai-presence-enterprise-ai-agents-production.md)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (171 articles)
+#### May (174 articles)
 - [Inside Mistral's AI Cloud Bet](src/2026-05/20260529-mistral-ai-cloud-bet-europe.md)
 - [Must-Know Failure Modes in Distributed Systems](src/2026-05/20260528-must-know-failure-modes-distributed-systems.md)
 - [Cognition AI Raises $1B at $26B Valuation as Devin Writes 89% of Its Own Code](src/2026-05/20260528-cognition-ai-26b-valuation-devin-autonomous-engineer.md)
@@ -293,6 +293,9 @@ P22-12 | █ 2<br>
 - [The Chatbots and Agents Are Going To Merge](src/2026-05/20260529-chatbots-and-agents-are-going-to-merge.md)
 - [Compound Engineering Gets an Upgrade: From Four Steps to Eight](src/2026-05/20260529-compound-engineering-gets-an-upgrade.md)
 - [Vibe Check: Opus 4.8 — Anthropic Should've Rounded Up to 5](src/2026-05/20260528-vibe-check-opus-4-8-anthropic-should-have-rounded-up-to-5.md)
+- [Building OpenCode with Dax Raad](src/2026-05/20260527-building-opencode-dax-raad.md)
+- [How Airtable Built the Search Layer Behind Their AI Features](src/2026-05/20260527-airtable-semantic-search-vector-infrastructure.md)
+- [xAI Cursor Limits, DeepSWE, China AI Travel Restrictions](src/2026-05/20260527-xai-cursor-deepswe-china-ai-travel.md)
 - [Agent Judge: Solving Long-Horizon Evals for Production Agents](src/2026-05/20260527-agent-judge-long-context-evals-production-agents.md)
 - [The Orchestration Tax: Why Spawning More Agents Doesn't Mean More Output](src/2026-05/20260524-the-orchestration-tax.md)
 - [The Open/Closed Problem in AI](src/2026-05/20260527-the-open-closed-problem-in-ai.md)
