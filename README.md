@@ -22,14 +22,19 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
-2026-06 | ████████████████████████████████████████████████████████ 122<br>
+2026-06 | █████████████████████████████████████████████████████████████ 127<br>
 2026-07 | ██████████████████████████████ 99<br>
 2026-08 | ████████████████████ 45
 ## Articles
 
 ### 2026
 
-#### June (122 articles)
+#### June (127 articles)
+- [Your AI Strategy Is Making Bets. Do You Know Which Ones?](src/2026-06/20260630-your-ai-strategy-is-making-bets.md)
+- [How Top PMs Increase Their Leverage with AI](src/2026-06/20260630-how-top-pms-increase-leverage-with-ai.md)
+- [TLDR Tech Roundup: iPhone 18 Leaks, Codex Micro, Rocket Lab Acquires Iridium](src/2026-06/20260630-tldr-iphone18-codex-micro-rocket-lab-iridium.md)
+- [𝕏 Money Launches with 6% APY and a Visa Card: Stripe, Apple Pay, and Your Bank Have a Problem](src/2026-06/20260630-x-money-6-percent-apy-visa-card-fintech.md)
+- [France Seeks to Block UK Role in €5bn EU Scaleup Fund](src/2026-06/20260629-france-seeks-to-block-uk-eu-scaleup-fund.md)
 - [Everything Anthropic Shipped in 2026: Every Claude Model, Agent & Tool](src/2026-06/20260601-anthropic-claude-2026-every-launch-guide.md)
 - [The Last Technical Interview](src/2026-06/20260601-last-technical-interview.md)
 - [Qwen3.7-Plus: Multimodal Agent Intelligence](src/2026-06/20260601-qwen37-plus-multimodal-agent-intelligence.md)
