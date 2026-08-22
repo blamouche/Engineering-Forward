@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
 2026-07 | ████████████████████████████ 84<br>
-2026-08 | █████████████████ 39
+2026-08 | ████████████████████ 45
 ## Articles
 
 ### 2026
@@ -239,7 +239,13 @@ P22-12 | █ 2<br>
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
 
-#### August (39 articles)
+#### August (45 articles)
+- [Ramp is Building the CFO for AI Agents](src/2026-08/20260821-ramp-cfo-for-ai-agents.md)
+- [Domyn Surpasses $1bn Fundraise as European AI Sovereignty Debate Intensifies](src/2026-08/20260821-domyn-1bn-fundraise-european-ai.md)
+- [To Invent Waymo, They Had to Reinvent PM](src/2026-08/20260820-waymo-reinventing-pm.md)
+- [In Defense of AI Writing](src/2026-08/20260820-in-defense-of-ai-writing.md)
+- [Europe's AI Sovereignty Dilemma: What Happens When Access Is Denied](src/2026-08/20260820-europe-ai-sovereignty-openai-joke.md)
+- [An Engineering Team for the Cost of Codex](src/2026-08/20260819-engineering-team-cost-of-codex.md)
 - [Claude Code Dynamic Workflows: Orchestrating 100s of Parallel Agents](src/2026-08/20260822-claude-code-dynamic-workflows-parallel-agents.md)
 - [Apple Core AI: On-Device Foundation Models for Developers](src/2026-08/20260822-apple-core-ai-on-device-framework.md)
 - [Printing Press: Agent-Native CLIs from a Single Prompt](src/2026-08/20260822-printing-press-agent-native-clis.md)
