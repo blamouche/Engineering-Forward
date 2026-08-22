@@ -1,0 +1,28 @@
+# DoorDash's Simulation and Evaluation Flywheel for LLM Chatbots
+**Source**: https://blog.bytebytego.com/p/how-doordash-built-a-testing-system
+**Date**: 2026-05-30
+**Author**: ByteByteGo (based on DoorDash Engineering Team)
+**Keywords**: llm-evaluation, simulation, hallucination, llm-as-judge, testing, customer-support, non-determinism, generator-verifier-gap
+
+## Elevator pitch
+DoorDash built a simulation-and-evaluation flywheel that generates realistic multi-turn customer conversations offline, uses an LLM to judge the chatbot's performance against specific policies, and compressed iteration cycles from days to hours while cutting hallucinations by 90%.
+
+## Takeaways
+- The flywheel has two parts: an offline LLM-powered simulator that generates realistic multi-turn customer conversations from historical transcripts, and an evaluation framework that automatically grades chatbot performance using LLM-as-judge
+- The simulator uses an LLM to play the customer role with realistic escalation patterns — giving the chatbot multiple chances before escalating, re-engaging when progress resumes — grounded in behavioral profiles extracted from real support transcripts
+- DoorDash addresses the circularity objection (using an LLM to judge an LLM) through the "generator-verifier gap": generating a full support response is hard, but verifying a single narrowly-defined binary policy question is much easier and more reliable
+- The LLM judge is calibrated against human expert labels — collecting samples, measuring agreement, analyzing mismatches, revising evaluation prompts, and repeating until the judge reliably matches human judgment
+- A key counterintuitive finding: the chatbot hallucinated because it had too much information in its context window, not too little — the fix was a "case state" layer that synthesizes raw tool history into a structured intermediate representation
+- Over 11 iterations the hallucination evaluation pass rate climbed steadily (with a dip at iteration 3 showing regressions are caught before reaching production), achieving a 90% reduction in hallucinations that carried over from simulation to production
+- The flywheel runs 200+ simulated conversations in under 5 minutes; the full evaluation suite has grown to 50+ evaluations covering hallucination, tone, issue classification, and other quality dimensions
+
+## Synthesis
+DoorDash's customer support chatbot had a subtle hallucination problem: it would misread delivery status fields and confidently suggest refund policies that didn't exist. The root cause wasn't incorrect data but data overload — too much raw information in the context window was becoming noise at response time. Fixing this required a fundamentally different testing paradigm than the deterministic decision trees DoorDash previously used for customer support.
+
+The solution is what DoorDash calls the simulation and evaluation flywheel. The simulator doesn't use scripted test messages. Instead, an LLM plays the customer role, generating dynamic responses based on structured behavioral profiles extracted from real historical support transcripts — including personality traits, situational narratives, and desired outcomes. The simulator exhibits realistic escalation patterns: it gives the chatbot multiple chances, only escalates after repeated unhelpfulness, and re-engages when progress becomes clear. Mock data blends real production data with scenario-specific test data to provide realistic backend context for tool calls.
+
+The evaluator uses an LLM to judge the chatbot's performance, structured as binary pass/fail questions against specific company policies. DoorDash addresses the obvious circularity concern — trusting an LLM to catch hallucinations caused by an LLM — through the generator-verifier gap. Acting as a full customer support agent involves complex multi-step decision-making across a huge range of scenarios, which is genuinely hard. But verifying a single narrowly-defined behavior is a much simpler task. The evaluator isn't trying to be a better support agent; it's checking one specific thing at a time. Calibration against human expert labels builds trust in the system, and the binary nature of evaluations makes calibration faster and disagreements easier to diagnose.
+
+The most counterintuitive architectural insight emerged during early launches. The chatbot was getting overwhelmed by the sheer volume of raw event logs in its context window — order histories, delivery status updates, refund decisions, and tool call results all fed directly to the model. DoorDash's solution was a "case state" layer that synthesizes raw tool history into a structured intermediate representation, distilling relevant facts into a clean format the chatbot can actually use. Getting the case state right required the flywheel itself: dozens of context shapes and prompt strategies were tested in rapid feedback loops, each iteration taking hours instead of weeks.
+
+The flywheel has real limitations. It can only catch problems for which evaluations have been written — new failure modes invisible to existing evaluations require human review as the starting point. Simulation fidelity is inherently an approximation of real user behavior, though DoorDash reports strong correlation between offline metrics and production results. The compute cost of running hundreds of LLM-to-LLM conversations plus LLM-as-judge evaluations per cycle is significant, suggesting lighter-weight versions for smaller teams. The broader takeaway is that LLM systems require a completely different testing paradigm: since you can't trace the branch anymore, you need a feedback loop that lets you simulate, evaluate, and iterate fast enough to build confidence before shipping.

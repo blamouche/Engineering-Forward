@@ -1,3 +1,6 @@
+## 0.0.1605 - 2026-08-22
+- Daily veille IA: Gmail label `0---veille-ia` returned 10 message(s); 6 article(s) synthesized from ByteByteGo, Big Technology, Every (x2), Judgment Labs, Addy Osmani; 10 email(s) trashed.
+
 ## 0.0.1604 - 2026-08-22
 - Daily veille IA: Gmail label `0---veille-ia` returned 10 message(s); 10 article(s) synthesized from ByteByteGo, Big Technology, Every, VentureBeat, Engadget, Linas, OpenAI, Techibe, CNBC, Spateder; 10 email(s) trashed.
 

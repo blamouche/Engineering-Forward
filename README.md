@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | █████████████████████████████████████████████████████ 158<br>
+2026-05 | ████████████████████████████████████████████████████████ 163<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | █████████████████ 39
@@ -280,7 +280,13 @@ P22-12 | █ 2<br>
 - [Introducing OpenAI Presence: Enterprise AI Agents That Work in Production](src/2026-08/20260824-openai-presence-enterprise-ai-agents-production.md)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (157 articles)
+#### May (163 articles)
+- [DoorDash's Simulation and Evaluation Flywheel for LLM Chatbots](src/2026-05/20260530-doordash-simulation-evaluation-flywheel-llm-chatbots.md)
+- [The Chatbots and Agents Are Going To Merge](src/2026-05/20260529-chatbots-and-agents-are-going-to-merge.md)
+- [Compound Engineering Gets an Upgrade: From Four Steps to Eight](src/2026-05/20260529-compound-engineering-gets-an-upgrade.md)
+- [Vibe Check: Opus 4.8 — Anthropic Should've Rounded Up to 5](src/2026-05/20260528-vibe-check-opus-4-8-anthropic-should-have-rounded-up-to-5.md)
+- [Agent Judge: Solving Long-Horizon Evals for Production Agents](src/2026-05/20260527-agent-judge-long-context-evals-production-agents.md)
+- [The Orchestration Tax: Why Spawning More Agents Doesn't Mean More Output](src/2026-05/20260524-the-orchestration-tax.md)
 - [The Open/Closed Problem in AI](src/2026-05/20260527-the-open-closed-problem-in-ai.md)
 - [Hype Cycle for Agentic AI](src/2026-05/20260527-hype-cycle-for-agentic-ai.md)
 - [Sundar Pichai on AI, the future of search, and what's happening to the web](src/2026-05/20260527-sundar-pichai-ai-search-google-zero-youtube-web.md)

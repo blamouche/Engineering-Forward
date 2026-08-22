@@ -1,4 +1,12 @@
 
+## 2026-08-22 03:01 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s)
+- 6 article URL(s) extracted: DoorDash Simulation/Evaluation Flywheel (ByteByteGo), Chatbots and Agents Merge (Big Technology), Compound Engineering Upgrade (Every/Klaassen), Vibe Check Opus 4.8 (Every/Shipper-Parrott), Agent Judge (Judgment Labs), Orchestration Tax (Addy Osmani)
+- Trashed: 10 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: DoorDash's Simulation and Evaluation Flywheel for LLM Chatbots; The Chatbots and Agents Are Going To Merge; Compound Engineering Gets an Upgrade: From Four Steps to Eight; Vibe Check: Opus 4.8 — Anthropic Should've Rounded Up to 5; Agent Judge: Solving Long-Horizon Evals for Production Agents; The Orchestration Tax: Why Spawning More Agents Doesn't Mean More Output
+- Skipped: Sifted "Is Europe cooked?" (Europe geopolitics/VC, not core AI/engineering), Linas "Your next broker is a chatbot" (fintech/crypto focus, light engineering depth), Lenny's Benedict Evans podcast (audio format, not standalone article), TLDR AI Opus 4.8 digest (aggregated news, covered by Every vibe check), TLDR general Siri/Opus (aggregated news), Linas Opus 4.8 Prompting Playbook (tactical playbook, covered by existing repo articles 20260612-how-to-prompt-claude-fable-5-12-patterns and 20260615-claude-fable-5-lite-opus-48)
+
 ## 2026-08-22 00:20 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 10 article URL(s) extracted: The Typical AI Agent Stack (ByteByteGo), SpaceX's Valuation Is Crazy (Big Technology), The Moral of Fable (Every), Xiaomi MiMo Code (VentureBeat), Anthropic Backtracks on Policy (Engadget), How to Prompt Claude Fable 5 (Linas), OpenAI Acquires Ona (OpenAI), Bezos Prometheus $12B (Techibe), Oracle Shares Tumble (CNBC), Mythos-Class Models Will Diffuse by 2029 (Spateder)
