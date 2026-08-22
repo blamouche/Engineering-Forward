@@ -21,7 +21,7 @@ P22-12 | █ 2<br>
 2026-02 | ██████████████████████████████████████████████████ 149<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
-2026-05 | ████████████████████████████████████████████████████████ 163<br>
+2026-05 | ████████████████████████████████████████████████████████████ 171<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | █████████████████ 39
@@ -280,7 +280,15 @@ P22-12 | █ 2<br>
 - [Introducing OpenAI Presence: Enterprise AI Agents That Work in Production](src/2026-08/20260824-openai-presence-enterprise-ai-agents-production.md)
 - [11 AI agent startups to watch, according to investors](src/2026-08/20250804-11-ai-agent-startups-to-watch-according-to-investors.md)
 
-#### May (163 articles)
+#### May (171 articles)
+- [Inside Mistral's AI Cloud Bet](src/2026-05/20260529-mistral-ai-cloud-bet-europe.md)
+- [Must-Know Failure Modes in Distributed Systems](src/2026-05/20260528-must-know-failure-modes-distributed-systems.md)
+- [Cognition AI Raises $1B at $26B Valuation as Devin Writes 89% of Its Own Code](src/2026-05/20260528-cognition-ai-26b-valuation-devin-autonomous-engineer.md)
+- [OpenAI Secure MCP Tunnel: Connecting Private MCP Servers Without Exposing Them](src/2026-05/20260528-openai-secure-mcp-tunnel-private-servers.md)
+- [ElevenLabs Music v2: Genre-Switching AI Music Generation](src/2026-05/20260528-elevenlabs-music-v2-genre-switching.md)
+- [Biohub Releases a World Model of Protein Biology](src/2026-05/20260528-biohub-world-model-protein-biology.md)
+- [CLI-Anything: Making All Software Agent-Native](src/2026-05/20260528-cli-anything-making-all-software-agent-native.md)
+- [Tesla's Dedicated Optimus Factory Construction Underway at Giga Texas](src/2026-05/20260528-tesla-optimus-factory-giga-texas.md)
 - [DoorDash's Simulation and Evaluation Flywheel for LLM Chatbots](src/2026-05/20260530-doordash-simulation-evaluation-flywheel-llm-chatbots.md)
 - [The Chatbots and Agents Are Going To Merge](src/2026-05/20260529-chatbots-and-agents-are-going-to-merge.md)
 - [Compound Engineering Gets an Upgrade: From Four Steps to Eight](src/2026-05/20260529-compound-engineering-gets-an-upgrade.md)
