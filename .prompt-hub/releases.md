@@ -1,3 +1,6 @@
+## 0.0.1607 - 2026-08-22
+- Daily veille IA: Gmail label `0---veille-ia` returned 10 message(s); all 10 already had syntheses in repo from prior runs; 0 new article(s) synthesized; 10 email(s) marked read (UNREAD removed).
+
 ## 0.0.1605 - 2026-08-22
 - Daily veille IA: Gmail label `0---veille-ia` returned 10 message(s); 6 article(s) synthesized from ByteByteGo, Big Technology, Every (x2), Judgment Labs, Addy Osmani; 10 email(s) trashed.
 

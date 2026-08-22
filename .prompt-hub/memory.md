@@ -1,4 +1,21 @@
 
+## 2026-08-22 08:00 — Daily veille IA
+- Gmail label `0---veille-ia`: 10 message(s) — all in TRASH (auto-filtered), all UNREAD
+- 0 new article(s) synthesized — all 10 emails already had corresponding syntheses in repo from prior runs:
+  - Vibe Check Claude Opus 5 (Every) → 20260724-claude-opus-5-vibe-check-brilliant-in-flashes-frustrating-in-practice.md
+  - Vibe Check GPT-5.6 Sol (Every) → 20260709-vibe-check-gpt-5-6-sol-favorite-model-to-collaborate-with.md
+  - Kent Beck (Pragmatic Engineer) → 20260701-how-kent-beck-shapes-the-software-engineering-industry.md
+  - OpenAI Voice AI 900M (ByteByteGo) → 20260702-how-openai-delivers-low-latency-voice-ai-for-900m-users.md
+  - Claude Sonnet 5 (TLDR AI) → 20260701-claude-sonnet-5-makes-opus-hard-to-justify.md (digest, already covered)
+  - Claude Sonnet 5 (TLDR) → same as above (duplicate digest)
+  - Visa/Stripe stablecoins (Linas) → fintech/crypto, skip per established pattern
+  - Ex-Meta founders $400m (Sifted) → 20260701-meta-openai-alumni-seek-400m-for-aire-ai-lab.md
+  - Heavy AI Adoption (Big Technology) → 20260701-heavy-ai-adoption-linked-to-more-hiring-not-layoffs.md
+  - Visiting OpenAI/Anthropic/Cursor (Pragmatic Engineer) → 20260701-impressions-from-visiting-openai-anthropic-cursor.md
+- Marked read: 10 email(s) (UNREAD removed via gog gmail batch modify)
+- Repo: clean, no new files needed
+- Version bumped to 0.0.1607
+
 ## 2026-08-22 03:01 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s)
 - 6 article URL(s) extracted: DoorDash Simulation/Evaluation Flywheel (ByteByteGo), Chatbots and Agents Merge (Big Technology), Compound Engineering Upgrade (Every/Klaassen), Vibe Check Opus 4.8 (Every/Shipper-Parrott), Agent Judge (Judgment Labs), Orchestration Tax (Addy Osmani)
