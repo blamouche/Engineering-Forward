@@ -22,14 +22,24 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
-2026-06 | ████████████████████████████████████████████████████████████████ 143<br>
+2026-06 | █████████████████████████████████████████████████████████████████████████ 153<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | ████████████████████ 45
 ## Articles
 
 ### 2026
 
-#### June (143 articles)
+#### June (153 articles)
+- [Top Anti-Patterns to Avoid in Service Architecture](src/2026-06/20260625-top-anti-patterns-service-architecture.md)
+- [Notes on Amazon v. Perplexity: Agentic Browsing and the Open Web](src/2026-06/20260625-amazon-v-perplexity-agentic-browsing.md)
+- [What I'm Finding About LLM Code Style and Token Costs](src/2026-06/20260625-llm-code-style-token-costs.md)
+- [The Case for Language-Native Software](src/2026-06/20260625-case-for-language-native-software.md)
+- [The CEO of AWS on Why Amazon Is Hiring 11,000 Junior Employees](src/2026-06/20260625-aws-ceo-matt-garman-ai-jobs.md)
+- [Stop Programming in Markdown: Don't Use a Prompted LLM When Regular Code Will Do](src/2026-06/20260625-programming-in-markdown.md)
+- [Writing Loops, Not Prompts, Explained](src/2026-06/20260625-loops-not-prompts.md)
+- [Stop Building Chatbots. Build Agents That Open PRs.](src/2026-06/20260625-build-agents-that-open-prs.md)
+- [How Meta Is Reinventing Product Management](src/2026-06/20260625-how-meta-is-reinventing-pm.md)
+- [Turn Claude Into an AI Research Powerhouse With Stanford's STORM Method](src/2026-06/20260625-stanford-storm-claude-research.md)
 - [Sifted Daily: Peec AI Fundraise, UK Tech Transition, and European Deeptech Records](src/2026-06/20260629-sifted-peec-fundraise-european-deeptech-record.md)
 - [TLDR: Starlink Mobile, Meta Prediction Markets, and Local Coding Agents](src/2026-06/20260629-tldr-starlink-mobile-meta-prediction-markets-local-agents.md)
 - [Attention Is the New Startup Infrastructure: The Founder's Playbook for the AI Age](src/2026-06/20260629-attention-new-startup-infrastructure-ai-age.md)
