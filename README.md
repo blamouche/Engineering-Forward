@@ -22,14 +22,22 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
-2026-06 | █████████████████████████████████████████████████████████████ 127<br>
-2026-07 | ██████████████████████████████ 99<br>
+2026-06 | ████████████████████████████████████████████████████████████████ 134<br>
+2026-07 | █████████████████████████████████ 100<br>
 2026-08 | ████████████████████ 45
 ## Articles
 
 ### 2026
 
-#### June (127 articles)
+#### June (134 articles)
+- [Sifted Daily: Peec AI Fundraise, UK Tech Transition, and European Deeptech Records](src/2026-06/20260629-sifted-peec-fundraise-european-deeptech-record.md)
+- [TLDR: Starlink Mobile, Meta Prediction Markets, and Local Coding Agents](src/2026-06/20260629-tldr-starlink-mobile-meta-prediction-markets-local-agents.md)
+- [Attention Is the New Startup Infrastructure: The Founder's Playbook for the AI Age](src/2026-06/20260629-attention-new-startup-infrastructure-ai-age.md)
+- [AI Could Do Anything. Then It Met PowerPoint.](src/2026-06/20260629-ai-could-do-anything-then-it-met-powerpoint.md)
+- [GPT-5.6 Preview: Sol, Terra, and Luna — OpenAI's New Model Family](src/2026-06/20260629-tldr-gpt-5-6-preview-grok-4-5-google-meta.md)
+- [GLM-5.2: Why I'm Replacing Opus in Claude Code With This New Model](src/2026-06/20260629-glm-5-2-review-and-gusto-claude-code.md)
+- [Plaid's AI Sees What No Single Bank Can: The Foundation Model Play for Financial Intelligence](src/2026-06/20260628-plaid-ai-foundation-model-santander-governance.md)
+- [OpenAI Codex Lead on the New Shape of Product Work](src/2026-06/20260628-openai-codex-lead-new-shape-product-work.md)
 - [Your AI Strategy Is Making Bets. Do You Know Which Ones?](src/2026-06/20260630-your-ai-strategy-is-making-bets.md)
 - [How Top PMs Increase Their Leverage with AI](src/2026-06/20260630-how-top-pms-increase-leverage-with-ai.md)
 - [TLDR Tech Roundup: iPhone 18 Leaks, Codex Micro, Rocket Lab Acquires Iridium](src/2026-06/20260630-tldr-iphone18-codex-micro-rocket-lab-iridium.md)
@@ -158,7 +166,8 @@ P22-12 | █ 2<br>
 - [MiniMax M3: 1M Context Window with Open Weights Promise](src/2026-06/20260601-minimax-m3-1m-context-open-weights.md)
 - [Factory Router: Frontier Performance at 20-25% Lower Cost](src/2026-06/20260601-factory-router-frontier-at-lower-cost.md)
 
-#### July (99 articles)
+#### July (100 articles)
+- [Vibe Check: Claude Opus 5 Is Brilliant in Flashes, Frustrating in Practice](src/2026-07/20260724-claude-opus-5-vibe-check-brilliant-in-flashes-frustrating-in-practice.md)
 - [Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With](src/2026-07/20260709-vibe-check-gpt-5-6-sol-favorite-model-to-collaborate-with.md)
 - [Understanding Is the New Bottleneck](src/2026-07/20260702-understanding-is-the-new-bottleneck.md)
 - [Please Stop the AI Confidence Theater](src/2026-07/20260702-please-stop-ai-confidence-theater.md)
