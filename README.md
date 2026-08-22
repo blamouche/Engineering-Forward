@@ -22,14 +22,24 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
-2026-06 | ████████████████████████████████████ 91<br>
+2026-06 | ███████████████████████████████████████████████ 101<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | █████████████████ 39
 ## Articles
 
 ### 2026
 
-#### June (91 articles)
+#### June (101 articles)
+- [Anthropic Urges Global Pause in AI Development, Flags Self-Improvement Risk](src/2026-06/20260604-anthropic-urges-global-pause-ai-development.md)
+- [Open Code Review: Alibaba's AI-Powered Code Review CLI](src/2026-06/20260604-open-code-review-alibaba-ai-code-review.md)
+- [Bots Have Now Passed Human Traffic Online](src/2026-06/20260604-bots-pass-human-traffic-online.md)
+- [Meta Keeps Delaying the Muse Spark API Developers Were Promised](src/2026-06/20260604-meta-delays-muse-spark-api-developers.md)
+- [The Path of a Request: A Tour of Modern Web Architecture](src/2026-06/20260604-path-of-a-request-modern-web-architecture.md)
+- [Code is Cheap(er)](src/2026-06/20260604-code-is-cheaper-ai-generated-code.md)
+- [Silicon Control: The AI Semiconductor Supply Chain Thesis](src/2026-06/20260604-silicon-control-ai-semiconductor-supply-chain.md)
+- [Why We'll Still Be Employed When AI Can Do Everything](src/2026-06/20260604-why-well-still-be-employed-ai-everything.md)
+- [Running an AI-Native Engineering Org](src/2026-06/20260603-running-ai-native-engineering-org.md)
+- [A Functional Taxonomy of World Models](src/2026-06/20260603-functional-taxonomy-of-world-models.md)
 - [Ramp Stack: Free AI Agents for Accountants and the Native-Data Moat](src/2026-06/20260607-ramp-stack-free-ai-accountants-data-moat.md)
 - [Anthropic Made the EU Come Asking for Mythos: AI Deployed as a Quasi-Diplomatic Act](src/2026-06/20260607-anthropic-mythos-eu-project-glasswing-geopolitical-ai.md)
 - [Stripe, Visa, Mastercard, and Coinbase vs Circle: The Stablecoin War for Agentic Payments](src/2026-06/20260607-consortium-stablecoin-challenge-usdc-agentic-payments.md)
