@@ -23,7 +23,7 @@ P22-12 | █ 2<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
-2026-07 | ██████████████████████████████ 91<br>
+2026-07 | ██████████████████████████████ 99<br>
 2026-08 | ████████████████████ 45
 ## Articles
 
@@ -153,7 +153,7 @@ P22-12 | █ 2<br>
 - [MiniMax M3: 1M Context Window with Open Weights Promise](src/2026-06/20260601-minimax-m3-1m-context-open-weights.md)
 - [Factory Router: Frontier Performance at 20-25% Lower Cost](src/2026-06/20260601-factory-router-frontier-at-lower-cost.md)
 
-#### July (91 articles)
+#### July (99 articles)
 - [Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With](src/2026-07/20260709-vibe-check-gpt-5-6-sol-favorite-model-to-collaborate-with.md)
 - [Understanding Is the New Bottleneck](src/2026-07/20260702-understanding-is-the-new-bottleneck.md)
 - [Please Stop the AI Confidence Theater](src/2026-07/20260702-please-stop-ai-confidence-theater.md)
@@ -245,6 +245,15 @@ P22-12 | █ 2<br>
 - [How ChatGPT Optimizes its Agent Loop: Harness, API, and Inference](src/2026-07/20260729-how-chatgpt-optimizes-its-agent-loop.md)
 - [Formal Methods with Hillel Wayne](src/2026-07/20260729-formal-methods-with-hillel-wayne.md)
 - [Slack as AI Command Center, Block's Buzz, and Destructive Command Guard](src/2026-07/20260729-slack-ai-command-center-buzz-destructive-guard.md)
+- [Multi-Region Architecture: Going Global Without Going Broke](src/2026-07/20260702-multi-region-architecture-going-global-without-going-broke.md)
+- [The Claude Code Creator Just Mapped Out How AI Will Rewrite the Future of Work](src/2026-07/20260702-claude-code-creator-five-roles-ai-future-of-work.md)
+- [Our 13 Best Fable 5 Prompts: The Claude Fable 5 Prompt Library](src/2026-07/20260701-13-best-fable-5-prompts-prompt-library.md)
+- [Codex in Practice: Four Workflows for Getting the Most Out of Codex](src/2026-07/20260701-codex-in-practice-four-workflows.md)
+- [Autoresearch: The Feedback Loop Behind Self-Improving Agents](src/2026-07/20260702-autoresearch-feedback-loop-self-improving-agents.md)
+- [Learning to Replicate Expert Judgment in Financial Tasks](src/2026-07/20260702-learning-to-replicate-expert-judgment-financial-tasks.md)
+- [ZCode: GLM-5.2 Native Development Environment for Agentic Coding](src/2026-07/20260702-zcode-glm-5-2-native-development-environment.md)
+- [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
+- [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
 #### August (45 articles)
 - [Ramp is Building the CFO for AI Agents](src/2026-08/20260821-ramp-cfo-for-ai-agents.md)
