@@ -23,7 +23,7 @@ P22-12 | █ 2<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ████████████████████████████████████████████████████████ 122<br>
-2026-07 | ████████████████████████████ 84<br>
+2026-07 | █████████████████████████████ 89<br>
 2026-08 | ████████████████████ 45
 ## Articles
 
@@ -153,7 +153,12 @@ P22-12 | █ 2<br>
 - [MiniMax M3: 1M Context Window with Open Weights Promise](src/2026-06/20260601-minimax-m3-1m-context-open-weights.md)
 - [Factory Router: Frontier Performance at 20-25% Lower Cost](src/2026-06/20260601-factory-router-frontier-at-lower-cost.md)
 
-#### July (84 articles)
+#### July (89 articles)
+- [Vibe Check: GPT-5.6 Sol Is Our Favorite Model to Collaborate With](src/2026-07/20260709-vibe-check-gpt-5-6-sol-favorite-model-to-collaborate-with.md)
+- [Understanding Is the New Bottleneck](src/2026-07/20260702-understanding-is-the-new-bottleneck.md)
+- [Building an Intern: A Slack-Based AI Agent at Sentry](src/2026-07/20260702-building-an-intern-ai-agent-in-slack.md)
+- [Meta's Inevitable Cloud](src/2026-07/20260702-metas-inevitable-cloud.md)
+- [Mapped: The AI Labs Taking Over King's Cross](src/2026-07/20260703-ai-labs-taking-over-kings-cross.md)
 - [Claude Sonnet 5 Makes Opus Hard to Justify for Coding](src/2026-07/20260701-claude-sonnet-5-makes-opus-hard-to-justify.md)
 - [Heavy AI Adoption Linked To More Hiring, Not Layoffs](src/2026-07/20260701-heavy-ai-adoption-linked-to-more-hiring-not-layoffs.md)
 - [Impressions from Visiting OpenAI, Anthropic, & Cursor](src/2026-07/20260701-impressions-from-visiting-openai-anthropic-cursor.md)
