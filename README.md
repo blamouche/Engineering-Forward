@@ -22,14 +22,14 @@ P22-12 | █ 2<br>
 2026-03 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 374<br>
 2026-04 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 662<br>
 2026-05 | █████████████████████████████████████████████████████ 158<br>
-2026-06 | ████████████████████████████████████████████████ 102<br>
+2026-06 | ███████████████████████████████████████████████████ 112<br>
 2026-07 | ████████████████████████████ 84<br>
 2026-08 | █████████████████ 39
 ## Articles
 
 ### 2026
 
-#### June (102 articles)
+#### June (112 articles)
 - [Anthropic Urges Global Pause in AI Development, Flags Self-Improvement Risk](src/2026-06/20260604-anthropic-urges-global-pause-ai-development.md)
 - [Open Code Review: Alibaba's AI-Powered Code Review CLI](src/2026-06/20260604-open-code-review-alibaba-ai-code-review.md)
 - [Bots Have Now Passed Human Traffic Online](src/2026-06/20260604-bots-pass-human-traffic-online.md)
@@ -132,6 +132,16 @@ P22-12 | █ 2<br>
 - [No Figma. No Jira. No Docs. How Gusto Built a New Product Line with Claude Code](src/2026-06/20260629-how-gusto-built-a-new-product-line-with-claude-code.md)
 - [GPT-5.6: Frontier Intelligence That Scales with Your Ambition](src/2026-06/20260629-gpt-56-frontier-intelligence-that-scales.md)
 - [Token Tightening](src/2026-06/20260623-token-tightening.md)
+- [How OpenAI Built Its Data Agent](src/2026-06/20260603-openai-data-agent-vanilla-architecture.md)
+- [OpenAI's Codex Becomes a Wall Street Analyst, and the Moat Belongs to FactSet & Moody's](src/2026-06/20260603-codex-wall-street-analyst-factset-moody.md)
+- [Karpathy's Autoresearch Found a 3-Year-Old Bug in PostHog's Query Engine](src/2026-06/20260603-karpathy-autoresearch-posthog-bug.md)
+- [BigSet: Open-Source Live Datasets from Text Prompts](src/2026-06/20260603-bigset-open-source-live-datasets.md)
+- [Protecting Against AI Inference Theft at Scale](src/2026-06/20260603-vercel-protecting-ai-inference-theft.md)
+- [Building Software Is Learning](src/2026-06/20260602-building-software-is-learning.md)
+- [Open and Closed Models Are on Different Exponentials](src/2026-06/20260602-open-closed-models-different-exponentials.md)
+- [The Next Frontier of Visual AI Is Code](src/2026-06/20260602-visual-ai-next-frontier-is-code.md)
+- [MiniMax M3: 1M Context Window with Open Weights Promise](src/2026-06/20260601-minimax-m3-1m-context-open-weights.md)
+- [Factory Router: Frontier Performance at 20-25% Lower Cost](src/2026-06/20260601-factory-router-frontier-at-lower-cost.md)
 
 #### July (84 articles)
 - [Claude Sonnet 5 Makes Opus Hard to Justify for Coding](src/2026-07/20260701-claude-sonnet-5-makes-opus-hard-to-justify.md)
