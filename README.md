@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | ████████████████████ 45
+2026-08 | ████████████████████████ 53
 ## Articles
 
 ### 2026
@@ -292,7 +292,15 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (45 articles)
+#### August (53 articles)
+- [19 Startups Making AI More Efficient, According to VCs](src/2026-08/20260824-sifted-19-startups-ai-efficient.md)
+- [How to Close $100K+ Enterprise Deals: The Real 15-Step Sales Cycle](src/2026-08/20260823-enterprise-sales-15-step-cycle-jen-abel.md)
+- [Life After Automation: 100 AI Leaders Call Their Shots](src/2026-08/20260823-life-after-automation-thesis-statements.md)
+- [Stripe's Leaked Investor Letter: The Singularity Started January 1st](src/2026-08/20260823-stripe-singularity-investor-letter.md)
+- [Razorpay Vulcan: India's First AI Payments Foundation Model](src/2026-08/20260823-razorpay-vulcan-ai-payments-foundation-model.md)
+- [Top 12 Agent Skills You Should Know](src/2026-08/20260822-top-12-agent-skills-github.md)
+- [How Claude's Text Watermark Works](src/2026-08/20260822-claude-text-watermark-detection.md)
+- [Ollama vs vLLM vs SGLang: Choosing the Right LLM Serving Engine](src/2026-08/20260822-ollama-vs-vllm-vs-sglang.md)
 - [Ramp is Building the CFO for AI Agents](src/2026-08/20260821-ramp-cfo-for-ai-agents.md)
 - [Domyn Surpasses $1bn Fundraise as European AI Sovereignty Debate Intensifies](src/2026-08/20260821-domyn-1bn-fundraise-european-ai.md)
 - [To Invent Waymo, They Had to Reinvent PM](src/2026-08/20260820-waymo-reinventing-pm.md)
