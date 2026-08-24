@@ -204,6 +204,7 @@ def page_html(title, body, nav_active="", base=""):
         <a href="{base}archives.html" class="{ 'active' if nav_active == 'archives' else '' }">Archives</a>
         <a href="{base}feed.xml" class="{ 'active' if nav_active == 'rss' else '' }">RSS</a>
         <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
     </div>
 </nav>"""
     return f"""<!DOCTYPE html>
@@ -640,6 +641,21 @@ h1, h2, h3 { line-height: 1.3; font-weight: 700; }
     color: var(--text);
     text-decoration: none;
     border-bottom-color: var(--accent);
+}
+.nav-links a.subscribe-btn {
+    background: var(--accent);
+    color: var(--bg);
+    padding: 0.3rem 0.9rem;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: none;
+    transition: opacity 0.2s;
+}
+.nav-links a.subscribe-btn:hover {
+    opacity: 0.85;
+    color: var(--bg);
+    border-bottom: none;
 }
 .nav-search { position: relative; }
 #site-search {
