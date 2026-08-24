@@ -6,14 +6,14 @@
     <description>Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work</description>
     <language>en</language>
     <atom:link href="https://engineeringforward.fr/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 15:47:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:48:23 +0000</lastBuildDate>
 
     <item>
         <title>AlphaEvolve: How Our Gemini-Powered Coding Agent Is Self-Improving</title>
         <link>https://engineeringforward.fr/articles/202505-alpha-evolve-coding-agent.html</link>
         <guid isPermaLink="true">https://engineeringforward.fr/articles/202505-alpha-evolve-coding-agent.html</guid>
         <description>AlphaEvolve is an evolutionary coding agent powered by Gemini that iteratively improves algorithms through code mutation and evaluation, achieving breakthroughs like the first improvement to Strassen&#x27;s matrix multiplication in 56 years and optimizing Google&#x27;s own data centers and AI training infrastructure. — Key takeaways: AlphaEvolve uses an evolutionary approach: Gemini models generate mutated code variants, evaluators score them, and the best performers become parents for the next generation — creating a self-improving loop. ; The system discovered a procedure to multiply two 4×4 complex-valued matrices using only 48 scalar multiplications, the first improvement over Strassen&#x27;s algorithm in this setting after 56 years. ; At Google, AlphaEvolve improved data center scheduling (recovering 0.7% of global compute resources), accelerated Gemini&#x27;s training kernel by 23% (reducing total training time by 1%), and optimized next-generation TPU circuit designs. ; The system was made available on Google Cloud in private preview in December 2025, targeting industries including biotech/pharma, logistics, financial services, and energy. ; The architecture pairs Gemini Flash (for speed) and Gemini Pro (for depth) with automated evaluators in a recursive loop, evolving from seed programs to state-of-the-art algorithms.</description>
-        <pubDate>Mon, 24 Aug 2026 15:47:03 +0000</pubDate>
+        <pubDate>Mon, 24 Aug 2026 15:48:23 +0000</pubDate>
     </item>
 
     <item>
