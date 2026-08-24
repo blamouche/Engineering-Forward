@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ollama vs vLLM vs SGLang: Choosing the Right LLM Serving Engine — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Ollama vs vLLM vs SGLang: Choosing the Right LLM Serving Engine</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-22</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">ollama, vllm, sglang, llm-serving, inference, pagedattention, radixattention, continuous-batching</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Three open-weight model serving engines — Ollama, vLLM, and SGLang — each optimize for different use cases: local prototyping, high-throughput serving, and agent multi-turn workflows respectively, using fundamentally different request-handling architectures.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Ollama uses a simple FIFO queue with pre-quantized GGUF models — best for local dev, prototyping, and laptop-scale hardware</li>
+            <li>vLLM uses continuous batching (slots new requests into running batches) and PagedAttention for KV cache storage — best for high-traffic serving with thousands of concurrent requests</li>
+            <li>SGLang uses a prefix-aware scheduler with RadixAttention (radix tree cache) that reuses shared prefixes — best for AI agents, tool loops, multi-turn chats, and JSON/regex outputs</li>
+            <li>The key architectural difference is how each engine handles request scheduling: FIFO queue vs continuous batching vs prefix-aware scheduling</li>
+            <li>PagedAttention (vLLM) solves the memory problem of KV cache management, while RadixAttention (SGLang) solves prefix recomputation for overlapping prompts</li>
+            <li>Engine choice should be driven by workload pattern: single-user local → Ollama, many concurrent users → vLLM, agent loops with shared context → SGLang</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

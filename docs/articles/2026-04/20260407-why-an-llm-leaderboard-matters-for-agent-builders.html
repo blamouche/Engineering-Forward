@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why an LLM leaderboard matters for agent builders — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Why an LLM leaderboard matters for agent builders</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 7, 2026</span>
+        <span class="meta-author">Peter Szalontay, Paul-Louis Nech</span>
+        <span class="meta-keywords">LLM, leaderboard, agent evaluation, benchmarks, model selection, cost optimization, latency, hallucinations</span>
+    </div>
+
+    <a href="https://www.algolia.com/blog/ai/llm-leaderboard" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Algolia&#x27;s LLM leaderboard evaluates 24 models in real agent workflows — not abstract benchmarks — measuring relevance, hallucinations, and language quality with confidence intervals, revealing that the &quot;best&quot; model is often the wrong one for your use case.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Generic benchmarks (MMLU, HumanEval) don&#x27;t predict how models perform when orchestrating search, tool calls, and response composition in agent frameworks</li>
+            <li>Top-ranking model Gemini 3.1 Flash Lite (92% quality at $0.002/query) outperforms GPT-5.4 (91% at 35x cost) and Claude Opus 4.6 (88% at 375x cost)</li>
+            <li>Every score includes 95% confidence intervals, making it clear when ranking differences are statistical noise</li>
+            <li>Hallucination rates vary dramatically: top models ground 80%+ claims while others in the same tier drop below 50%</li>
+            <li>The methodology transfers: confidence intervals, difficulty-tiered cases, and latency breakdowns are patterns developers can apply to their own domains</li>
+        </ul>
+    </section>
+
+    <a href="https://www.algolia.com/blog/ai/llm-leaderboard" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

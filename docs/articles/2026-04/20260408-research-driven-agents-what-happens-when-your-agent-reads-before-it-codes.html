@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research-Driven Agents: What Happens When Your Agent Reads Before It Codes — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Research-Driven Agents: What Happens When Your Agent Reads Before It Codes</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 8, 2026</span>
+        <span class="meta-author">Alex Kim</span>
+        <span class="meta-keywords">fusion, optimizations, agents, norm, attention, before</span>
+    </div>
+
+    <a href="https://blog.skypilot.co/research-driven-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">The experiment log What the research turned up The pivot: from compute to memory Optimizations that landed 1.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Flash attention KQ fusion Results Optimizations that landed 1.</li>
+            <li>Flash attention KQ fusion What didn’t work Experiments that failed The benchmark bug Cloud VMs are noisy The code review TL;DR: Coding agents generate better optimizations when they read papers and study competing projects before touching code.</li>
+            <li>We added a literature search phase to the autoresearch / pi-autoresearch loop, pointed it at llama.cpp with 4 cloud VMs, and in ~3 hours it produced 5 optimizations that made flash attention text generation +15% faster on x86 and +5% faster on ARM ( TinyLlama 1.1B ).</li>
+            <li>The full setup works with any project that has a benchmark and test suite.</li>
+            <li>Agents that read papers and study competing projects before writing code find optimizations that code-only agents miss.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.skypilot.co/research-driven-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

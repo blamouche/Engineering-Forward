@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How I AI: Claude Fable 5 Review &amp; How Braintrust Uses AI Agents, Evals, and CI to Ship Better Software — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How I AI: Claude Fable 5 Review &amp; How Braintrust Uses AI Agents, Evals, and CI to Ship Better Software</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">Lenny Rachitsky (How I AI podcast)</span>
+        <span class="meta-keywords">Claude Fable 5, Mythos, Anthropic, Braintrust, Ankur Goyal, AI agents, evals, CI, benchmarks, model review, agent engineering</span>
+    </div>
+
+    <a href="https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Two podcast episodes from Lenny&#x27;s How I AI series: (1) Claire&#x27;s hands-on review of Claude Fable 5—Anthropic&#x27;s first generally available Mythos-class model—revealing it&#x27;s a powerhouse for hard technical problems and vision tasks but surprisingly bad at writing, design, and one-shot MVP execution; and (2) Ankur Goyal (Braintrust CEO) on how top engineering teams use agents, evals, and CI to ship better software, arguing that evals are the modern PRD and that practical AI-assisted quality beats theoretical human quality.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>**Fable 5 is &quot;baby Mythos&quot;**—the same underlying model as the unrestricted Mythos, but tuned for safety and general availability with cybersecurity/biology/chemistry/distillation fallbacks to Opus 4.8 (95% of sessions never hit a fallback)</li>
+            <li>Fable 5 scored 80% on SWBench Pro, outperforming Opus 4.8, GPT-4.5, and Gemini 3.1 Pro, but excels specifically in hard technical problems, long-horizon work, and vision tasks (PDF parsing, document formatting)</li>
+            <li>The model is expensive by design: $10/MTok input, $50/MTok output, consuming tokens at ~2x rate of other models—requires strategic deployment matching model intelligence to task complexity</li>
+            <li>Fable 5&#x27;s writing for specs/PRDs is &quot;nearly unreadable&quot;—produces dense, internally-referenced paragraphs that obscure the big picture; design output is &quot;shockingly bad&quot; for one-shot tasks</li>
+            <li>**Ankur Goyal&#x27;s key insight: evals are the modern PRD**—they define what success looks like, not how to achieve it; the #1 engineering priority for AI product teams is building a feedback loop that automatically turns real-world data into evals</li>
+            <li>Practical quality beats theoretical quality: AI agents maintain consistent focus, run every test, and work continuously for days—humans lose context and skip tedious benchmarks, making AI-assisted engineering practically higher quality</li>
+            <li>Run 4-6 foreground agents simultaneously (the human concurrency limit), each in isolated environments with their own ports and services</li>
+            <li>When agents fail, don&#x27;t prompt harder—close the session, improve the evals, and start fresh; the solution is always better evals, not better prompting</li>
+            <li>Product building is now &quot;carving, not constructing&quot;—it&#x27;s easy to create something with too many features; the hard part is removing complexity</li>
+        </ul>
+    </section>
+
+    <a href="https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

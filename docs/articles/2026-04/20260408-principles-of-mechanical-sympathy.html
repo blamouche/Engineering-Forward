@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Principles of Mechanical Sympathy — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Principles of Mechanical Sympathy</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 8, 2026</span>
+        
+        <span class="meta-keywords">mechanical sympathy, performance, CPU cache, false sharing, single writer principle, batching, observability</span>
+    </div>
+
+    <a href="https://martinfowler.com/articles/mechanical-sympathy-principles.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">This article updates Martin Thompson’s mechanical-sympathy tradition for modern software teams by showing how predictable memory access, avoiding false sharing, single-writer ownership, and natural batching can turn performance from an afterthought into an architectural property.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Mechanical sympathy starts with understanding memory hierarchy and favoring predictable, sequential access over scattered random access.</li>
+            <li>False sharing remains a hidden latency trap when multiple threads write to different variables that occupy the same cache line.</li>
+            <li>The single-writer principle is presented as the most practical way to avoid mutex contention and simplify access to shared writable resources.</li>
+            <li>Natural batching improves throughput and latency by building batches greedily as soon as work appears instead of waiting on fixed timeouts.</li>
+            <li>The article ends with an important guardrail: observability must come before optimization so teams know what to improve and when to stop.</li>
+        </ul>
+    </section>
+
+    <a href="https://martinfowler.com/articles/mechanical-sympathy-principles.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

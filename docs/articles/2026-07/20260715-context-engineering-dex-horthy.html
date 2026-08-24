@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Context Engineering with Dex Horthy — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Context Engineering with Dex Horthy</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-15</span>
+        <span class="meta-author">Gergely Orosz</span>
+        <span class="meta-keywords">context engineering, LLM, agents, software factories, 12-factor agents, HumanLayer, code quality</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Dex Horthy, CEO of HumanLayer and author of &quot;12-Factor Agents,&quot; explains why context engineering—managing what goes into an LLM&#x27;s context window—is becoming the critical skill for building reliable AI-assisted software.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Shipping unread AI-generated code spells disaster within months; Dex&#x27;s team abandoned an entire codebase after four months of no-review AI coding because production broke and no one could find the root cause</li>
+            <li>Today&#x27;s coding models are likely trained to optimize for SWE-bench-style benchmarks, which reward reproducing known fixes but cannot evaluate poor architecture decisions, causing codebases to degrade over time</li>
+            <li>Context engineering means figuring out where the &quot;dumb zone&quot; begins—Dex uses roughly 300-400K of a 1M context window before performance degrades; larger context windows don&#x27;t mean smarter models</li>
+            <li>Frequent intentional compaction—compressing noisy context into a clean Markdown document and starting a fresh session—is a key technique for complex projects, using a workflow of research → design → plan → review</li>
+            <li>Three viable software factory models exist: &quot;turn off the lights&quot; (failed by Dex), read all AI code (30-50% productivity lift), or find leverage with people in the loop on design/architecture (2-3x faster)</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

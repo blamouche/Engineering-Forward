@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Write broken commits for better review — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Write broken commits for better review</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 19, 2026</span>
+        
+        <span class="meta-keywords">huonw, write, broken, commits, better, review</span>
+    </div>
+
+    <a href="https://huonw.github.io/blog/2026/04/broken-commits/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Building an atomic code change from a series of tastefully broken commits can make for easier review, especially by separating mechanical from non-mechanical changes</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Write broken commits for better review By Huon Wilson — 17 Apr 2026 I spend a lot of time reviewing code, and I think it’d be easier if I saw more tastefully broken commits.</li>
+            <li>Commits construct a story about a change: “first this happened, then that, that another thing” is a good narrative; “first everything happened, the end”… not so much.</li>
+            <li>Sometimes, telling that story is impossible without having a commit that breaks tests or doesn’t compile!</li>
+            <li>The principle that usually drives me to commit broken code is making mechanical changes obviously mechanical and mechanically obvious : reformatting, renaming a function or file, re-indenting, … are not “real” changes like adding new code or optimising a loop, and intermixing mechanical &amp; real changes all at once makes verifying either of them hard.</li>
+            <li>If mechanical changes are separate, it’s easy to be sure of huge changes: “yes, this commit is solely running a code formatter on 3k files”.</li>
+        </ul>
+    </section>
+
+    <a href="https://huonw.github.io/blog/2026/04/broken-commits/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

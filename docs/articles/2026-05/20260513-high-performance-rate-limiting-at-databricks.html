@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Performance Rate Limiting at Databricks — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>High Performance Rate Limiting at Databricks</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-13</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">rate limiting, Databricks, token bucket, Dicer, batch-reporting, optimistic rate limiting, in-memory counters, distributed systems, Redis</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/high-performance-rate-limiting-at" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Databricks redesigned its rate limiter from a synchronous Redis-backed architecture to an optimistic, in-memory, token-bucket system with asynchronous batch-reporting, trading strict accuracy for 10x lower tail latency and horizontal scalability.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The old architecture used Envoy → Ratelimit Service → Redis, creating two network hops on the critical path, with P99 latency of 10-20ms from cloud provider networking alone.</li>
+            <li>Moving counters in-memory via Dicer (a routing layer for sharded ownership) eliminated the Redis hop and single point of failure.</li>
+            <li>Batch-reporting inverts the model: instead of asking permission per-request, clients report counts every ~100ms and the server tells them what to reject, reducing tail latency by ~10x.</li>
+            <li>Token bucket algorithm (now viable in-memory) prevents fixed-window &quot;crossover&quot; bursts and approximates a sliding window without extra burst capacity.</li>
+            <li>The three decisions—algorithm (token bucket), state location (sharded in-memory), and sync model (async batch-reporting)—are coupled and had to be rolled out in dependency order.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/high-performance-rate-limiting-at" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

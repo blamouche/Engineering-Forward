@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pushing Software Engineering Limits with &quot;Napkin Math&quot; — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Pushing Software Engineering Limits with &quot;Napkin Math&quot;</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-21</span>
+        <span class="meta-author">Gergely Orosz (The Pragmatic Engineer), interviewing Simon Eskildsen (turbopuffer)</span>
+        <span class="meta-keywords">napkin math, first principles, turbopuffer, search infrastructure, Shopify, engineering practices, venture capital</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Simon Eskildsen&#x27;s journey from Shopify infrastructure to founding turbopuffer shows how first-principles &quot;napkin math&quot; — quick calculations of theoretical performance limits — can reveal that existing systems are orders of magnitude more expensive than necessary, and how that insight became a search engine serving Cursor and others.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Napkin math is a table of ~50 key numbers (DRAM bandwidth, S3 costs per GB, round-trip latencies) maintained on GitHub with a script to regenerate them, used to challenge benchmark-driven decisions with theoretical limits</li>
+            <li>At Shopify, napkin math revealed that a database benchmark claiming 10-second queries should theoretically take 10ms — exposing that the benchmark was measuring distributed queries across 100 nodes (p99) rather than single-node performance</li>
+            <li>MySQL can handle 5x more transactions per second than the theoretical maximum of fsyncs per second — this &quot;first-principle gap&quot; led Simon to discover that MySQL groups transactions and does &quot;group commits&quot; to merge parallel fsync operations</li>
+            <li>turbopuffer was born when LLM context windows were small (4-8KB in early 2023) and fast search was critical for AI applications, but existing search solutions cost $30K/month while infrastructure was only $5K/month</li>
+            <li>The founding insight: store search data in S3 (cheap, reliable, high-latency), cluster and organize files, put an NGINX reverse proxy in front for caching — the simplest possible architecture that upheld its invariants (shut down all VMs, no data lost, all writes committed directly to blob storage)</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/pushing-software-engineering-limits" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

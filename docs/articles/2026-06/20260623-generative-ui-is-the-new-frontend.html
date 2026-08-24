@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generative UI Is the New Frontend — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Generative UI Is the New Frontend</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-03</span>
+        <span class="meta-author">Shubham Saboo</span>
+        <span class="meta-keywords">generative UI, AG-UI, A2UI, MCP, CopilotKit, frontend, agents</span>
+    </div>
+
+    <a href="https://www.theunwindai.com/p/generative-ui-is-the-new-frontend" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Generative UI lets AI agents render real interface components instead of describing them in text—and three architectural patterns (Controlled, Declarative, Open-ended) determine whether your agent app scales or breaks.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The protocol stack for generative UI has three layers: MCP (tools), A2A (agent-to-agent), and AG-UI (agent-to-user), with AG-UI providing the streaming backbone over SSE.</li>
+            <li>Controlled pattern: pre-built components registered as tool calls; simple to start but hits a token-tax wall past ~15 tools as each description consumes context every turn.</li>
+            <li>Declarative (A2UI) pattern: the agent emits a JSON schema mapped to a component catalog; one tool definition serves unlimited UIs, keeping token cost flat as the catalog grows.</li>
+            <li>Open-ended pattern: agents write raw HTML rendered in sandboxed iframes; great for throwaway visualizations but brand-inconsistent and security-sensitive for production use.</li>
+            <li>The key decision framework: Controlled for pixel-perfect flows (≤10), Declarative for the long tail of card/widget types, Open-ended only for disposable one-shot queries—never as default.</li>
+        </ul>
+    </section>
+
+    <a href="https://www.theunwindai.com/p/generative-ui-is-the-new-frontend" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glean vs. Off-the-Shelf MCP: How the Right AI Context Layer Reduces Token Costs and Drives Better Results — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Glean vs. Off-the-Shelf MCP: How the Right AI Context Layer Reduces Token Costs and Drives Better Results</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 13, 2026</span>
+        <span class="meta-author">Neil Dhruva, Karthik Rajkumar, Chenhao Yang, Julie Mills (Glean)</span>
+        <span class="meta-keywords">MCP, Model Context Protocol, Glean, AI context, token costs, enterprise AI, federated search, centralized indexing, Claude Cowork, agent frameworks</span>
+    </div>
+
+    <a href="https://www.glean.com/blog/cowork-mcp-eval" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Glean benchmarked its centralized context layer against off-the-shelf MCP tools using Claude Cowork and found it was preferred 2.5x more often while consuming 30% fewer tokens, demonstrating that context architecture—not just model quality—determines the economics and effectiveness of enterprise AI coworkers.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Glean was preferred ~2.5x as often as off-the-shelf MCP tools when using Claude Cowork as the constant harness across ~175 enterprise queries</li>
+            <li>Off-the-shelf MCP tools consumed 30% more tokens on average; when they did produce correct answers, they used nearly double the tokens (83k vs Glean&#x27;s 43k) via brute-force multi-loop reasoning</li>
+            <li>Federated search imposes a &quot;token tax&quot; because each MCP tool requires individual API calls and the model must normalize, aggregate, and re-reason over inconsistently retrieved data</li>
+            <li>Centralized indexing (Glean&#x27;s approach) normalizes data across sources into a single layer, enabling cross-application ranking signals that federated approaches miss</li>
+            <li>Context quality becomes more important as task complexity increases—Glean&#x27;s win rate rose from 66% on simple tasks to 73% on complex multi-step queries</li>
+        </ul>
+    </section>
+
+    <a href="https://www.glean.com/blog/cowork-mcp-eval" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

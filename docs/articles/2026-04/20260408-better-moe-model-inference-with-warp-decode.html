@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Better MoE model inference with warp decode — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Better MoE model inference with warp decode</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026</span>
+        <span class="meta-author">Cursor</span>
+        <span class="meta-keywords">moe inference, blackwell, gpu kernels, warp decode, performance engineering</span>
+    </div>
+
+    <a href="https://cursor.com/blog/warp-decode" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cursor describes a new Blackwell-optimized MoE decode approach that reorganizes parallelism around outputs rather than experts, reducing bookkeeping and improving both throughput and numerical fidelity.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Warp decode flips the traditional MoE inference organization from expert-centric to output-centric.</li>
+            <li>The design removes multiple staging and data-layout steps that dominate small-batch decode overhead.</li>
+            <li>Cursor reports major throughput gains on B200 GPUs plus better numerical closeness to FP32 reference.</li>
+            <li>The article is a sharp example of hardware-aware inference work translating directly into product velocity.</li>
+            <li>It also shows why inference engineering is now a serious competitive layer, not just an optimization footnote.</li>
+        </ul>
+    </section>
+
+    <a href="https://cursor.com/blog/warp-decode" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

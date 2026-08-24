@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compute Optimal Tokenization — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Compute Optimal Tokenization</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 12, 2026</span>
+        <span class="meta-author">Tomasz Limisiewicz, Artidoro Pagnoni, Srini Iyer, Mike Lewis, Sachin Mehta, Alisa Liu, Margaret Li, Gargi Ghosh, Luke Zettlemoyer (summarized by ArXivIQ / Grigory Sapunov)</span>
+        <span class="meta-keywords">tokenization, neural scaling laws, Chinchilla, compute-optimal training, compression rate, BPE, multilingual models, information density</span>
+    </div>
+
+    <a href="https://arxiviq.substack.com/p/compute-optimal-tokenization" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">New research systematically derives compression-aware neural scaling laws by training nearly 1,300 models, demonstrating that the widely accepted &quot;20 tokens per parameter&quot; Chinchilla heuristic is an artifact of specific subword tokenizers and proposing a tokenizer-agnostic scaling framework based on bytes rather than tokens.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The Chinchilla scaling law&#x27;s &quot;20 tokens per parameter&quot; optimal ratio is not a fundamental property of neural network training but an artifact of the specific tokenizer used—changing the tokenizer changes the optimal ratio.</li>
+            <li>By reframing scaling in terms of bytes (information content) rather than tokens (tokenizer output), the authors derive a tokenizer-agnostic scaling law that generalizes across languages, modalities, and tokenization schemes.</li>
+            <li>The optimal compression rate (bytes per token) is compute-dependent: as FLOP budgets increase, the optimal compression rate actually decreases, meaning larger training runs benefit from less aggressive tokenization.</li>
+            <li>Training nearly 1,300 models provided the statistical power to isolate tokenization as an independent variable in scaling behavior, exposing how BPE tokenizers inherently skew compute allocation.</li>
+            <li>The findings have direct practical implications for training massively multilingual foundation models, where the same tokenizer may compress different languages differently, leading to suboptimal allocation of compute across languages.</li>
+        </ul>
+    </section>
+
+    <a href="https://arxiviq.substack.com/p/compute-optimal-tokenization" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

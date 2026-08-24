@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vite 8.0 is out! — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Vite 8.0 is out!</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-12</span>
+        <span class="meta-author">Vite Team (sapphi-red)</span>
+        <span class="meta-keywords">Vite, Rolldown, Rust bundler, build performance, Rollup, esbuild, Module Federation, developer tools, frontend build</span>
+    </div>
+
+    <a href="https://vite.dev/blog/announcing-vite8" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Vite 8 replaces the dual esbuild/Rollup bundler system with Rolldown—a unified Rust-based bundler delivering 10-30x faster builds, with Linear dropping from 46s to 6s and Beehiiv achieving 64% build time reduction.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Core change: replaces the dual-bundler system (esbuild for dev, Rollup for production) with Rolldown, a unified Rust-based bundler maintaining Rollup plugin ecosystem compatibility.</li>
+            <li>Performance: 10-30x faster builds; Linear: 46s → 6s; Beehiiv: 64% improvement.</li>
+            <li>The dual-bundler problem: esbuild/Rollup inconsistencies created edge cases in module handling that accumulated into significant maintenance debt.</li>
+            <li>Rolldown&#x27;s three pillars: performance (Rust), compatibility (Rollup plugin ecosystem), new capabilities (module-level persistent caching, Module Federation).</li>
+            <li>New features: integrated Devtools, TypeScript `paths` support, automatic `emitDecoratorMetadata` handling, browser console forwarding to CLI.</li>
+            <li>Tradeoff: Vite 8 is ~15MB larger than v7 due to lightningcss and Rolldown binary inclusion.</li>
+        </ul>
+    </section>
+
+    <a href="https://vite.dev/blog/announcing-vite8" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

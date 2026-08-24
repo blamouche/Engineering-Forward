@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Mathematics of Multi-Tenancy — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Mathematics of Multi-Tenancy</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-01</span>
+        <span class="meta-author">Almog Gavra (bits &amp; pages)</span>
+        <span class="meta-keywords">multi-tenancy, S3, statistics, partitioning, workload-correlation, Pareto-distribution, heat-ratio, infrastructure, capacity-planning</span>
+    </div>
+
+    <a href="https://www.bitsxpages.com/p/the-mathematics-of-multi-tenancy" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A statistical model for understanding multi-tenancy economics reveals why S3&#x27;s multi-tenant architecture works perfectly (massive tenant count, uncorrelated workloads, Reed-Solomon file splitting) but why most companies can&#x27;t replicate it — correlated workloads and size skew push the heat ratio past the breakeven threshold.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Multi-tenancy&#x27;s economic benefit is measured by the heat ratio H = max(x)/avg(x) — the ratio of peak to average workload; the economics work when a vendor&#x27;s H ≤ 2.0</li>
+            <li>S3 works because: massive tenant count, foundational API serving diverse use cases (uncorrelated workloads), and Reed-Solomon coding making file splits the unit of tenancy</li>
+            <li>Correlated workloads (ρ ≥ 0.25 shared component) corrode multi-tenant efficiency — no amount of tenants fixes this</li>
+            <li>Pareto-distributed workloads (80:20 size skew) also push H near 2.0 even with zero correlation, requiring many more tenants to pool smaller ones</li>
+            <li>Recall.ai&#x27;s meeting-recording workload (correlated to meeting start times at top of the hour) is a real-world example where multi-tenancy doesn&#x27;t flatten the curve</li>
+        </ul>
+    </section>
+
+    <a href="https://www.bitsxpages.com/p/the-mathematics-of-multi-tenancy" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

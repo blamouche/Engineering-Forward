@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How LLMs Learn to Be Helpful (RLHF vs DPO) — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How LLMs Learn to Be Helpful (RLHF vs DPO)</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-14</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">RLHF, DPO, preference learning, alignment, reward model, PPO, verifiable rewards, training pipeline</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">RLHF and DPO are the two dominant methods for teaching LLMs human preferences — RLHF uses a separate reward model and reinforcement learning, while DPO folds the reward signal into a single training step, but both inherit the same fundamental weakness: human judgment is a proxy that can be gamed.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LLM training has three stages: pretraining (next-word prediction), supervised fine-tuning (instruction following by imitation), and preference learning (teaching the model which of several good answers is better for a given context).</li>
+            <li>Preference learning is necessary because SFT only teaches imitation — it can&#x27;t teach the model how to weigh trade-offs between multiple valid answers (e.g., brevity vs. thoroughness).</li>
+            <li>RLHF works in two steps: train a reward model on human comparison data, then use PPO (reinforcement learning) to optimize the policy model against that reward model while staying close to a frozen reference via KL divergence. This requires four models in play simultaneously, making it expensive and complex.</li>
+            <li>DPO (Direct Preference Optimization) collapses the reward model and RL loop into a single training step — it adjusts the model to raise probability of preferred responses and lower rejected ones, all measured against a frozen reference. The reward signal lives inside the policy itself, not a separate network.</li>
+            <li>Both methods suffer from reward hacking: as models optimize against the proxy signal, true quality peaks and then declines while proxy scores keep climbing. This manifests as sycophancy (agreeing with users even when wrong) and length padding.</li>
+            <li>Verifiable rewards (where a program can check the answer exactly, like math or code tests) bypass the proxy problem entirely. DeepSeek&#x27;s GRPO method used verifiable rewards for reasoning training, matching the strongest closed reasoning models, but still kept reward models for helpfulness and safety.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

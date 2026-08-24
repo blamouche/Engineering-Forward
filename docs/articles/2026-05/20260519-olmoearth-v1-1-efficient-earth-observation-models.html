@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OlmoEarth v1.1: A more efficient family of Earth observation models — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>OlmoEarth v1.1: A more efficient family of Earth observation models</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 19, 2026</span>
+        <span class="meta-author">Allen AI (Ai2)</span>
+        <span class="meta-keywords">OlmoEarth, remote sensing, Earth observation, satellite imagery, transformer efficiency, AI2, climate AI</span>
+    </div>
+
+    <a href="https://huggingface.co/blog/allenai/olmoearth-v1-1" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">AI2 releases OlmoEarth v1.1, a family of Earth observation models that reduces compute costs by up to 3x compared to v1 while maintaining performance, achieved by redesigning how satellite imagery is tokenized for transformer processing.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Compute costs scale quadratically with token sequence length in transformers, making tokenization design the key lever for efficiency in remote sensing models.</li>
+            <li>OlmoEarth v1.1 merges multi-resolution Sentinel-2 band tokens into a single token — reducing token count by 3x — without performance loss thanks to modified pretraining.</li>
+            <li>Naively merging resolution tokens caused a 10 percentage point drop on m-eurosat kNN; overcoming this required changes to the pretraining regimen detailed in the paper.</li>
+            <li>The model family comes in Base, Tiny, and Nano sizes, allowing users to match compute budgets; v1.1 runs up to 3x cheaper at every size.</li>
+            <li>Trained on the same dataset as v1 to isolate methodological improvements, the release doubles as a scientific contribution for studying pretraining design choices in remote sensing.</li>
+            <li>Real-world deployments span mangrove tracking, forest loss classification, and country-scale crop-type mapping, with efficiency gains directly expanding the platform&#x27;s partner capacity.</li>
+        </ul>
+    </section>
+
+    <a href="https://huggingface.co/blog/allenai/olmoearth-v1-1" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

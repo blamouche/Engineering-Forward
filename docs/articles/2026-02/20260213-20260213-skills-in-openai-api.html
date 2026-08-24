@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills in OpenAI API — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Skills in OpenAI API</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">OpenAI</span>
+        <span class="meta-keywords">skills, reusable procedures, packaging, hosted shell, versioning</span>
+    </div>
+
+    <a href="https://developers.openai.com/cookbook/examples/skills_in_api/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Les “skills” deviennent un format standard pour packager des procédures réutilisables (instructions + scripts + assets) que les agents peuvent monter dans un environnement d’exécution, versionner, et invoquer au besoin.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Une skill = un dossier bundle avec un manifeste `SKILL.md` (frontmatter name/description) + scripts/assets.</li>
+            <li>Objectif: sortir les workflows conditionnels et lourds du system prompt, et les rendre versionnables.</li>
+            <li>Upload via API (zip ou multipart), puis montage dans l’environnement (hosted shell ou local).</li>
+            <li>Bonnes pratiques: discoverability, préférer zip, pin de versions en prod, design type mini-CLI.</li>
+            <li>Attention au risque “skills + réseau”: privilégier allowlists et séparation des données qui peuvent sortir.</li>
+        </ul>
+    </section>
+
+    <a href="https://developers.openai.com/cookbook/examples/skills_in_api/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

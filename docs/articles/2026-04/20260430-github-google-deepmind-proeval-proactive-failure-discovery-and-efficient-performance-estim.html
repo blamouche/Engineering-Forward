@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation. — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>GitHub - google-deepmind/proeval: Proactive failure discovery and efficient performance estimation for GenAI evaluation.</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 30, 2026</span>
+        <span class="meta-author">google-deepmind</span>
+        <span class="meta-keywords">github, google, deepmind, proeval, proactive, failure, discovery</span>
+    </div>
+
+    <a href="https://github.com/google-deepmind/proeval" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Proactive failure discovery and efficient performance estimation for GenAI evaluation. - google-deepmind/proeval.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>google-deepmind / proeval Public Notifications You must be signed in to change notification settings Fork 0 Star 12 main Branches Tags Go to file Code Open more actions menu Folders and files Name Name Last commit message Last commit date Latest commit History 6 Commits 6 Commits data data experiment experiment proeval proeval utils utils .gitignore .gitignore CONTRIBUTING.md CONTRIBUTING.md LICENSE LICENSE README.md README.md requirements.txt requirements.txt View all files Repository files navigation ProEval Slash GenAI evaluation costs by up to 100x while actively discovering model failure patterns to guide better AI development.</li>
+            <li>💰 Cut GenAI eval costs up to 100× — achieve ±1% accuracy with a fraction of the samples 🔍 Discover failure cases — proactively surface diverse bugs under strict evaluation budgets 🧠 Transfer learning over benchmarks — pre-trained GP surrogates generalize to new models instantly 🧩 Easy Integration - Easily to integrate into the GenAI evaluation systems with different modalities ✅ Validated on reasoning, safety &amp; classification — GSM8K, MMLU, StrategyQA, Jigsaw, and more Installation pip install -r requirements.txt Quick Start from proeval import BQPriorSampler , LLMPredictor , DATASET_CONFIGS from proeval .</li>
+            <li>sampler import load_predictions , extract_model_predictions import numpy as np # Estimate a model&#x27;s error rate with ~1% of the data sampler = BQPriorSampler ( noise_variance = 0.3 ) result = sampler .</li>
+            <li>sample ( predictions = &quot;svamp&quot; , target_model = &quot;gemini25_flash&quot; , budget = 50 ) # Compare against the true error rate df = load_predictions ( &quot;svamp&quot; ) pred_matrix , model_names = extract_model_predictions ( df ) true_mean = np .</li>
+            <li>index ( &quot;gemini25_flash&quot; )]) print ( f&quot;Estimated error rate: { result .</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/google-deepmind/proeval" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

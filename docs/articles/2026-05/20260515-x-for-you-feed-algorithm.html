@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X For You Feed Algorithm — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>X For You Feed Algorithm</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 15, 2026</span>
+        <span class="meta-author">xAI</span>
+        <span class="meta-keywords">X algorithm, For You feed, recommendation system, Grok, transformer, ranking, social media, open source</span>
+    </div>
+
+    <a href="https://github.com/xai-org/x-algorithm" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">xAI open-sourced the core recommendation system powering X&#x27;s &quot;For You&quot; feed, including a Grok-based transformer model that predicts engagement probabilities, a banger classifier for post quality scoring, and runnable end-to-end inference pipeline.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The algorithm combines in-network posts (accounts you follow) with out-of-network content discovered through ML-based retrieval, all ranked by a Grok-based transformer.</li>
+            <li>All hand-engineered features and most heuristics have been eliminated — the transformer does all heavy lifting by analyzing engagement history.</li>
+            <li>The &quot;banger classifier&quot; (Grox) scores posts on quality and slop, with a &quot;not_dwelled&quot; signal penalizing posts users scroll past.</li>
+            <li>A pre-trained mini Phoenix model (256-dim embeddings) is packaged as a ~3GB archive distributed via Git LFS for out-of-the-box inference.</li>
+            <li>Components include Thunder (in-network retrieval), Phoenix (out-of-network retrieval + ranking), Home Mixer (orchestration), and Grox (content understanding including spam detection and policy enforcement).</li>
+            <li>The system includes ads blending with brand-safety tracking that respects sensitive content boundaries.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/xai-org/x-algorithm" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

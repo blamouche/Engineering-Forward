@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Defeating Nondeterminism in LLM Inference — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Defeating Nondeterminism in LLM Inference</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 13, 2026</span>
+        <span class="meta-author">Thinking Machines Lab</span>
+        <span class="meta-keywords">LLM inference, nondeterminism, reproducibility, batching, kernel design, systems engineering</span>
+    </div>
+
+    <a href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Thinking Machines argues that practical LLM nondeterminism is driven less by mysterious GPU race conditions than by batch-size sensitivity inside otherwise deterministic kernels, making reproducibility a systems-design problem around batch invariance.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The essay distinguishes run-to-run kernel determinism from user-visible API nondeterminism, which can arise even when the core forward pass is deterministic.</li>
+            <li>Its main claim is that changing batch composition under variable server load alters results because key kernels are not batch-invariant.</li>
+            <li>The proposed path to reproducible inference is to engineer batch-invariant implementations of normalization, matrix multiplication, and attention rather than blame sampling alone.</li>
+        </ul>
+    </section>
+
+    <a href="https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

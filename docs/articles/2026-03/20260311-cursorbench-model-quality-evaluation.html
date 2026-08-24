@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How we compare model quality in Cursor — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How we compare model quality in Cursor</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-11</span>
+        <span class="meta-author">Naman Jain</span>
+        <span class="meta-keywords">CursorBench, model evaluation, benchmarks, SWE-bench, agentic graders, real developer tasks, online-offline evaluation, data contamination</span>
+    </div>
+
+    <a href="https://cursor.com/blog/cursorbench" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">CursorBench evaluates models on tasks sourced from actual Cursor sessions—tasks that have doubled in scope from public benchmarks and use agentic graders to handle underspecified developer requests—because public benchmarks systematically misrepresent what developers actually do.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Public benchmark limitations: misaligned with real workflows (focused on bug-fixing rather than complex multi-file tasks), flawed grading that penalizes valid alternatives, data contamination (OpenAI stopped reporting SWE-bench results after finding models reproduced training patches from memory).</li>
+            <li>CursorBench sources tasks from actual Cursor sessions using &quot;Cursor Blame&quot; tracing for maximum real-world relevance.</li>
+            <li>Tasks have doubled in scope since inception, involving substantially more code than public benchmarks.</li>
+            <li>Agentic graders score underspecified, ambiguous developer requests—addressing the problem that real tasks rarely have single correct solutions.</li>
+            <li>Hybrid online-offline evaluation: offline benchmarks supplemented with live A/B experiments to validate findings against real user behavior.</li>
+            <li>Future challenge: adapting benchmarks for long-running agents on their own computers, requiring cheaper grading and reproducibility across external services.</li>
+        </ul>
+    </section>
+
+    <a href="https://cursor.com/blog/cursorbench" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

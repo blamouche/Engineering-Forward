@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Taxonomy of RL Environments for LLM Agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>A Taxonomy of RL Environments for LLM Agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">March 21, 2026</span>
+        <span class="meta-author">Lee Han Chung</span>
+        <span class="meta-keywords">RL environments, LLM agents, verifiers, tasks, harnesses, reinforcement learning, evaluation</span>
+    </div>
+
+    <a href="https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Lee Han Chung argues that the missing center of agent training is environment design: tasks, harnesses, verifiers, state management, and configuration collectively determine what an LLM agent can actually learn.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>An RL environment for agentic systems should be treated as a bundle of tasks, harness, verifier, state, and configuration.</li>
+            <li>Task structure matters as much as task difficulty because different workloads demand different action horizons and tools.</li>
+            <li>Harness design choices like tool mix, context management, and rollout protocol heavily affect trainability and reproducibility.</li>
+            <li>Verifier design is the core bottleneck for open-ended tasks because generation is cheap but trustworthy scoring is hard.</li>
+            <li>Well-designed environments need realistic noise, curriculum, and negative signals so agents learn behaviors that transfer to production.</li>
+        </ul>
+    </section>
+
+    <a href="https://leehanchung.github.io/blogs/2026/03/21/rl-environments-for-llm-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

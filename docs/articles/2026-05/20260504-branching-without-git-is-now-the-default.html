@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Branching Without Git Is Now The Default — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Branching Without Git Is Now The Default</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-04</span>
+        <span class="meta-author">Joshen Lim, Qiao, Saxon Fletcher</span>
+        <span class="meta-keywords">Supabase, database branching, Postgres, schema management, pg-delta, migrations, MCP, AI workflows, dashboard</span>
+    </div>
+
+    <a href="https://supabase.com/blog/branching-without-git-is-now-the-default" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Supabase made dashboard-based database branching (without Git) the default for all projects, adding a second branching path that lets developers iterate on schemas directly from the dashboard while keeping git-based workflows fully supported.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Branching without Git, previously a feature preview (Branching 2.0), is now the default for all Supabase projects — no GitHub connection required.</li>
+            <li>The workflow is four steps: create a branch from the dashboard (gets its own Postgres instance with current production schema), make changes via SQL/Table Editor, review a schema diff, and merge.</li>
+            <li>A new diffing engine, pg-delta (built inside pg-toolbelt), replaces migra as the default with better coverage of Postgres-specific DDL: tables, columns, RLS policies, functions, triggers, indexes, and extensions.</li>
+            <li>Git-based branching remains fully supported and both approaches can be used together or switched between freely — the infrastructure is shared.</li>
+            <li>MCP server integration means AI tools can create branches, make changes, and merge programmatically without touching git — designed for agentic database workflows.</li>
+            <li>pg-delta is also available in the Supabase CLI behind a flag for local use, though it&#x27;s still alpha software.</li>
+        </ul>
+    </section>
+
+    <a href="https://supabase.com/blog/branching-without-git-is-now-the-default" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

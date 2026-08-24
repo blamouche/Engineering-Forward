@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse-Engineering the OpenAI’s GPT-5 Tokenizer: What 200,000 Tokens Reveal About AEO/GEO — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Reverse-Engineering the OpenAI’s GPT-5 Tokenizer: What 200,000 Tokens Reveal About AEO/GEO</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-02-13</span>
+        <span class="meta-author">Metehan Yesilyurt</span>
+        <span class="meta-keywords">tokenization, tiktoken, o200k_base, multilinguality, AEO/GEO</span>
+    </div>
+
+    <a href="https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">En disséquant le vocabulaire et la regex de o200k_base (200k tokens) via tiktoken, l’auteur montre comment les choix de tokenisation reflètent les priorités d’OpenAI (code, URLs, multilingue) et propose des implications concrètes pour le coût, la précision et l’optimisation de contenu pour les moteurs de réponse.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>o200k_base double la taille de vocabulaire vs cl100k et améliore surtout le code, les URLs et les scripts non latins (pas l’anglais “prose”).</li>
+            <li>La pré‑tokenisation regex est une partie majeure du comportement: o200k introduit un découpage camelCase/PascalCase (utile pour le code).</li>
+            <li>Les “special tokens” racontent l’évolution produit: du simple endoftext à un protocole orienté tool‑use (o200k_harmony) avec de nombreux slots réservés.</li>
+            <li>Le rang/ID BPE est un signal corrélé à la fréquence, mais pas une mesure de fréquence exacte (limites méthodologiques).</li>
+            <li>Pour l’AEO/GEO: densité informationnelle par token, structure, attribution et gestion des URLs influencent ce qui tient dans les fenêtres de contexte et la fiabilité des citations.</li>
+        </ul>
+    </section>
+
+    <a href="https://metehan.ai/blog/reverse-engineering-the-gpt-5-tokenizer-aeo-geo/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

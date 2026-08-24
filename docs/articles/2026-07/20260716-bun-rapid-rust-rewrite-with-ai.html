@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bun&#x27;s Rapid Rust Rewrite with AI: What Can We Learn? — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Bun&#x27;s Rapid Rust Rewrite with AI: What Can We Learn?</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-16</span>
+        <span class="meta-author">Gergely Orosz</span>
+        <span class="meta-keywords">Bun, Rust, Zig, AI rewrite, Fable, Anthropic, code migration, LLM-assisted development, memory safety</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-07f" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Bun&#x27;s creator migrated 535,496 lines of Zig to Rust in 11 days using Anthropic&#x27;s Fable model, at a cost of $165,000 in API tokens — demonstrating that AI-assisted large-scale code rewrites are now practical when backed by robust test suites and expert human oversight.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Bun&#x27;s 535K-line Zig→Rust migration was driven by persistent memory safety issues: use-after-free, double-free, and memory leaks in a codebase mixing garbage-collected and manually-managed memory</li>
+            <li>The rewrite followed a structured 10-step process: prep work (3h creating a PORTING.md guide), trial run with adversarial review, splitting work across 64 parallel AI agents, 2 days of parallel code generation, 12 hours fixing ~16,000 compiler errors, 2 days for local test runs, and 3 days for CI</li>
+            <li>Fable consumed 5.9B uncached input tokens, 690M output tokens, and 72B cached input token reads — at $165K in API pricing, roughly equivalent to one US engineer&#x27;s annual base salary</li>
+            <li>Three prerequisites made this feasible: an engineer who knows the codebase intimately, an extremely robust test suite, and willingness to invest heavily in tokens</li>
+            <li>Skills that compensated for model weaknesses on Opus 4.8 actually harmed performance on Fable 5 — suggesting that AI-assisted migration techniques have a shelf life and must be re-evaluated per model version</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-07f" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

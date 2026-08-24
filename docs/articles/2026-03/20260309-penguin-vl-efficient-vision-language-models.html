@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-09</span>
+        <span class="meta-author">Tencent AI Lab</span>
+        <span class="meta-keywords">Vision-Language Models, Vision Encoders, Efficiency, LLM Initialization, Multimodal AI</span>
+    </div>
+
+    <a href="https://github.com/tencent-ailab/Penguin-VL" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Penguin-VL achieves compact, efficient vision-language models by initializing vision encoders from text-only LLMs rather than contrastive models, enabling superior performance on OCR and reasoning tasks at 2B and 8B scales.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LLM Initialization Advantage: Converting a text-only LLM into a vision encoder via bidirectional attention and 2D-RoPE produces better fine-grained visual understanding than CLIP/SigLIP-based approaches.</li>
+            <li>Mixed-Supervision Training: A warm-up phase using reconstruction and distillation losses stabilizes the LLM-initialized encoder before transitioning to high-resolution alignment, injecting visual knowledge efficiently.</li>
+            <li>Temporal Redundancy Optimization: The TRA (Temporal Redundancy-Aware) token compression dynamically allocates tokens across key and intermediate video frames, scaling to longer videos within fixed budgets.</li>
+            <li>Strong Benchmark Results: Penguin-VL-2B demonstrates competitive accuracy-efficiency tradeoffs, with particularly notable gains on dense reasoning, document understanding, and OCR-heavy benchmarks.</li>
+            <li>Open Release Strategy: The project provides model checkpoints, encoder weights, reconstructed training data (Penguin-Recap-I), and complete training/inference code for reproducibility.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/tencent-ailab/Penguin-VL" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

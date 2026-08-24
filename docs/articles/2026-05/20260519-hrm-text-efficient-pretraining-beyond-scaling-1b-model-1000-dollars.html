@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HRM-Text — Efficient Pretraining Beyond Scaling: A 1B Model Trained for ~$1,000 — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>HRM-Text — Efficient Pretraining Beyond Scaling: A 1B Model Trained for ~$1,000</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05</span>
+        <span class="meta-author">Sapient Inc.</span>
+        <span class="meta-keywords">HRM architecture, efficient pretraining, Hierarchical Reasoning Model, 1B model, FSDP2, FlashAttention 3, low-cost training, latent space reasoning</span>
+    </div>
+
+    <a href="https://github.com/sapientinc/HRM-Text" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">HRM-Text demonstrates that a 1B-parameter foundation model can be pretrained from scratch for approximately $1,000 using a hierarchical recurrent architecture, achieving competitive benchmark scores with 130-600x less compute and 150-900x less data than conventional approaches.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The 1B XL model achieves 84.7% on GSM8k, 56.5% on MATH, 82.3% on DROP, and 60.7% on MMLU — trained on 16 H100s for 46 hours (~$1,472)</li>
+            <li>The smaller 0.6B L model achieves 77.6% on GSM8k on 8 H100s for 50 hours (~$800)</li>
+            <li>Architecture uses PrefixLM sequence packing, FlashAttention 3 kernels, and PyTorch FSDP2 for distributed training</li>
+            <li>Hierarchical Recurrent Model architecture splits layers between H and L modules with half_layers configuration</li>
+            <li>Full pretraining framework includes data pipeline, distributed training, evaluation across 8 benchmarks, and HuggingFace-format export</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/sapientinc/HRM-Text" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

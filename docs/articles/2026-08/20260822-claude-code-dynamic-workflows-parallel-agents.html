@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claude Code Dynamic Workflows: Orchestrating 100s of Parallel Agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Claude Code Dynamic Workflows: Orchestrating 100s of Parallel Agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-09</span>
+        <span class="meta-author">Anthropic</span>
+        <span class="meta-keywords">claude-code, multi-agent, orchestration, parallel-agents, dynamic-workflows</span>
+    </div>
+
+    <a href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Anthropic&#x27;s Dynamic Workflows lets Claude Code write custom JavaScript orchestration scripts on the fly, fanning work across hundreds of parallel subagents that independently verify and refute each other&#x27;s results until answers converge.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Claude generates a bespoke JS orchestration script per task — no pre-built templates — then runs it to coordinate hundreds of parallel subagents</li>
+            <li>Independent verification is built in: agents tackle problems from different angles while other agents try to refute findings, iterating until convergence</li>
+            <li>Workflows are resumable and saveable: progress is checkpointed, interrupted jobs resume where they left off, and workflows can be saved as reusable /commands</li>
+            <li>The proof of concept is striking: Jarred Sumner ported Bun from Zig to Rust — 750K lines, 99.8% test suite passing, 11 days first commit to merge</li>
+            <li>Token consumption is significantly higher than typical sessions; users should start with scoped tasks to calibrate usage before applying to entire codebases</li>
+            <li>Available as research preview on Max, Team, Enterprise plans, plus Claude API, Amazon Bedrock, Vertex AI, and Microsoft Foundry; requires Claude Code v2.1.154+</li>
+        </ul>
+    </section>
+
+    <a href="https://claude.com/blog/introducing-dynamic-workflows-in-claude-code" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

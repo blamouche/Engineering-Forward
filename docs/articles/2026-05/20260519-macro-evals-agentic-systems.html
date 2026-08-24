@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Macro Evals for Agentic Systems — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Macro Evals for Agentic Systems</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 19, 2026</span>
+        <span class="meta-author">Shikhar Kwatra, Will Thieme, Bradley Strauss (OpenAI)</span>
+        <span class="meta-keywords">evals, agentic systems, macro evaluation, multi-agent, observability, tracing, OpenAI, Promptfoo, debugging</span>
+    </div>
+
+    <a href="https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">OpenAI&#x27;s cookbook introduces &quot;macro evals&quot; — a methodology for analyzing recurring failure patterns across thousands of agent traces rather than grading individual responses, using a synthetic automotive order workflow with specialist agents to demonstrate how teams can move from trace data to actionable system improvements.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Macro evals complement lower-level evals by looking across many traces to identify recurring patterns: which problems repeat, where they concentrate, and which part of the agent workflow to inspect first.</li>
+            <li>The cookbook uses a synthetic multi-agent EV order simulation with specialists for pricing, compliance, supply, factory routing, scheduling, and release decisions.</li>
+            <li>Key labels used throughout: case_type (business situation), run_outcome (how the run ended), eval_finding (local symptom), and behavior_pattern (population-level pattern).</li>
+            <li>The approach separates analysis into two levels: lower-level evals grade individual agents/handoffs/tools, while macro evals discover cross-trace patterns.</li>
+            <li>Precomputed synthetic traces and saved eval labels let users run the full workflow without an OpenAI API key.</li>
+        </ul>
+    </section>
+
+    <a href="https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

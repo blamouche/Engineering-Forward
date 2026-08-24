@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Conferencing with Postgres — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Video Conferencing with Postgres</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-02-27</span>
+        <span class="meta-author">Nick Van Wiggeren</span>
+        <span class="meta-keywords">PostgreSQL, logical replication, real-time streaming, video conferencing, WebSocket, PlanetScale</span>
+    </div>
+
+    <a href="https://planetscale.com/blog/video-conferencing-with-postgres" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A developer successfully built a bidirectional video conferencing system using PostgreSQL&#x27;s logical replication as a real-time message broker, demonstrating that a $5 database can stream 15fps video through JPEG frames stored in binary columns.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>PostgreSQL as Real-Time Backbone: Logical replication enables reliable, ordered change streams without polling, making it viable for time-sensitive applications beyond traditional transactional use cases.</li>
+            <li>Practical Performance: The system achieved 25-40KB per JPEG frame at 375-600 KB/s throughput per direction, with sub-100ms latency, proving modest database instances can handle continuous media ingestion.</li>
+            <li>Alternative Approaches Have Tradeoffs: LISTEN/NOTIFY&#x27;s 8KB payload limit and unlogged tables&#x27; incompatibility with replication both presented technical obstacles that made the table-based approach superior.</li>
+            <li>Architectural Simplicity: The entire relay server required only approximately 400 lines of TypeScript, combining a SvelteKit frontend, Node.js WebSocket server, and PostgreSQL backend.</li>
+            <li>Storage Flexibility: Video frames are crash-safe and queryable, enabling future retrieval and post-processing—a capability specialized video infrastructure typically doesn&#x27;t offer.</li>
+        </ul>
+    </section>
+
+    <a href="https://planetscale.com/blog/video-conferencing-with-postgres" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

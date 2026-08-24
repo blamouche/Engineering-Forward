@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Guide to Multi-Tenancy: Benefits and Challenges — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>A Guide to Multi-Tenancy: Benefits and Challenges</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-16</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">multi-tenancy, architecture, SaaS, data isolation, noisy neighbor, blast radius, tenant context</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Multi-tenancy is the architectural foundation of modern SaaS, but sharing resources across customers creates fundamental tensions between cost efficiency and isolation that engineers must actively manage at every layer of the stack.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Every SaaS application faces the core question: separate copy per customer (expensive but isolated) vs. shared system (cheap but complex) — most choose sharing, making multi-tenancy the default architecture</li>
+            <li>Data isolation exists on a spectrum: shared tables with tenant ID columns (cheapest, weakest isolation), separate schemas per tenant (middle ground), and separate databases per tenant (strongest isolation, highest cost)</li>
+            <li>The &quot;noisy neighbor&quot; problem is real: one customer&#x27;s heavy report can degrade performance for everyone sharing the same infrastructure, requiring quotas, rate limiting, and resource partitioning</li>
+            <li>Blast radius matters: a single faulty deployment in a shared system impacts all tenants simultaneously, whereas isolated tenants contain failures to a single customer</li>
+            <li>Tenant context must flow through every layer of the system — from the load balancer to the application code to the database — creating a cross-cutting concern that affects every engineering decision</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

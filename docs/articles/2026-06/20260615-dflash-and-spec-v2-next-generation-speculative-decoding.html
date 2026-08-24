@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DFlash and Spec V2: Next-Generation Speculative Decoding for LLM Inference — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>DFlash and Spec V2: Next-Generation Speculative Decoding for LLM Inference</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">Z Lab, Modal, and SGLang Teams</span>
+        <span class="meta-keywords">DFlash, speculative decoding, SGLang, Spec V2, KV injection, block diffusion, LLM inference, Qwen 3.5, Modal, Z Lab, throughput, latency</span>
+    </div>
+
+    <a href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Z Lab, Modal, and SGLang jointly released DFlash—a speculative decoding technique using block diffusion with KV injection that achieves &gt;4.3x throughput over baseline and 1.5x over native MTP for Qwen 3.5 397B-A17B, now available as the default Spec V2 engine in SGLang.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>DFlash uses a block diffusion draft model to generate an entire block of tokens in parallel (single forward pass), unlike sequential autoregressive drafters like EAGLE-3</li>
+            <li>KV injection directly inserts target model hidden representations into the draft model&#x27;s KV cache, achieving higher acceptance lengths than EAGLE-3&#x27;s input-only feature approach</li>
+            <li>For Qwen 3.5 397B-A17B on HumanEval at concurrency 1: &gt;4.3x baseline throughput and 1.5x over native MTP speculation</li>
+            <li>Spec V2&#x27;s overlap scheduler reduces host-device synchronization, improving performance by over 33% (from ~11.4 to ~15.3 ktok/s for Qwen 3-8B on a single B200)</li>
+            <li>DFlash draft models are now available on Hugging Face for Qwen 3.5 397B-A17B, and Xiaomi&#x27;s MiMo v2.5-Pro-UltraSpeed already uses DFlash to achieve over 1k output tps</li>
+        </ul>
+    </section>
+
+    <a href="https://www.lmsys.org/blog/2026-06-15-next-generation-speculative-decoding-dflash-v2/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

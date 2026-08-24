@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Glasswing: What Mythos Showed Us — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Project Glasswing: What Mythos Showed Us</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 18, 2026</span>
+        <span class="meta-author">Grant Bourzikas (Cloudflare)</span>
+        <span class="meta-keywords">Mythos Preview, Anthropic, vulnerability research, cybersecurity, LLM, exploit chain, Project Glasswing, Cloudflare, AI security</span>
+    </div>
+
+    <a href="https://blog.cloudflare.com/cyber-frontier-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cloudflare tested Anthropic&#x27;s Mythos Preview on over 50 of their own repositories and found it represents a genuine step-change in AI-powered vulnerability research — capable of chaining exploits and generating working proofs, but requiring careful harness architecture rather than naive agent deployment to achieve meaningful coverage.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Mythos Preview can construct multi-step exploit chains (e.g., use-after-free to ROP chain) and generate working proof-of-concept code by compiling and iterating against results — capabilities no previous model demonstrated end-to-end</li>
+            <li>Organic model refusals exist but are inconsistent: semantically equivalent tasks produce opposite outcomes depending on framing, making them unreliable as safety boundaries without additional safeguards</li>
+            <li>Signal-to-noise remains the dominant operational challenge: models over-report with &quot;possibly/potentially/could in theory&quot; hedging, but Mythos Preview&#x27;s PoC-generation capability dramatically reduces triage cost — a finding with a PoC is actionable</li>
+            <li>Pointing a generic coding agent at a repository doesn&#x27;t work for vulnerability research — it requires narrow, parallel hypotheses with adversarial review, not single-stream exploration</li>
+            <li>Cloudflare&#x27;s harness architecture uses narrow-scoped parallel agents, adversarial review (two agents in deliberate disagreement), chain-splitting across agents, and deduplication — a fundamentally different interaction model than chat or coding agents</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.cloudflare.com/cyber-frontier-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

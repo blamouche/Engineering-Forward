@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Grab is Using AI Agents to Boost Team Productivity — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Grab is Using AI Agents to Boost Team Productivity</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 18, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">Grab, AI agents, multi-agent, data engineering, LangGraph, FastAPI, agent orchestration, production AI</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Grab&#x27;s data engineering team built a multi-agent AI system to automate investigating data questions that consumed two days per week of senior engineer time — and discovered six things that broke when it hit production.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Grab&#x27;s ADW team manages 15,000+ tables queried by ~1,000 people monthly; senior engineers spent 2 days/week answering quick questions that each required hours of investigation.</li>
+            <li>The multi-agent architecture separates &quot;brain&quot; (LLM reasoning) from &quot;hands&quot; (specialized agents), with five agents: Classifier, Data Agent, Code Search Agent, On-call Agent, and Summarizer.</li>
+            <li>Two distinct pathways: investigation (read-only, fully automated) and enhancement (write operations, semi-automated with mandatory human review).</li>
+            <li>Tech stack: FastAPI, LangGraph for stateful multi-agent workflows, Redis for caching, PostgreSQL for memory, pulling data from three internal platforms (Hubble, Genchi, Lighthouse).</li>
+            <li>Production exposed six failure modes: context window limits on complex questions, agent coordination breakdowns, guardrail bypasses, inconsistent output formats, latency issues, and user trust problems.</li>
+            <li>Key design lesson: specialized agents beat monolithic models for maintainability and debuggability, even at the cost of coordination complexity.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-grab-is-using-ai-agents-to-boost" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GBrain — Garry Tan&#x27;s Opinionated OpenClaw/Hermes Agent Brain — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>GBrain — Garry Tan&#x27;s Opinionated OpenClaw/Hermes Agent Brain</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05</span>
+        <span class="meta-author">Garry Tan (Y Combinator President &amp; CEO)</span>
+        <span class="meta-keywords">agent memory, knowledge graph, OpenClaw, Hermes, personal knowledge base, hybrid search, MCP, agent brain, PGLite, Y Combinator</span>
+    </div>
+
+    <a href="https://github.com/garrytan/gbrain" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">GBrain is a production-grade &quot;brain&quot; for AI agents built by Y Combinator&#x27;s CEO, featuring a self-wiring knowledge graph, hybrid search, 43 curated skills, and a job queue — all running on embedded PGLite with zero server setup in 30 minutes.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Production deployment handles 17,888 pages, 4,383 people, 723 companies, and 21 autonomous cron jobs — built in 12 days</li>
+            <li>Self-wiring knowledge graph extracts entity references from markdown and creates typed edges (attended, works_at, invested_in, founded, advises) with zero LLM calls</li>
+            <li>Hybrid search combines vector (HNSW on pgvector), BM25 keyword, and reciprocal-rank fusion, achieving P@5 of 49.1% — a 31.4-point improvement over the graph-disabled variant</li>
+            <li>ZeroEntropy embedding (2.2× faster, 2.6× cheaper than OpenAI) is the new default with 1,280-dimension Matryoshka embeddings</li>
+            <li>Agent-driven brain health: `gbrain doctor --remediate --yes --target-score 90` runs a dependency-ordered remediation loop with cost caps</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/garrytan/gbrain" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

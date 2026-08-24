@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GLM-5.2: Why I&#x27;m Replacing Opus in Claude Code With This New Model — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>GLM-5.2: Why I&#x27;m Replacing Opus in Claude Code With This New Model</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-29</span>
+        <span class="meta-author">Claire Vo (Lenny&#x27;s Newsletter)</span>
+        <span class="meta-keywords">glm-5.2, open-weights, claude-code, cursor, autonomous-agents, cost-optimization, z-ai</span>
+    </div>
+
+    <a href="https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Claire tests GLM-5.2, the open-weight model from Z.ai, inside her ChatPRD codebase and finds it benchmarks near Claude Opus 4.8 at a fraction of the cost — good enough to rotate into coding workflows alongside frontier closed models.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>GLM-5.2 benchmarks near Claude Opus 4.8 and above GPT-5.5 on SWE Bench Pro, with a million-token context window and full support for reasoning mode, function calling, structured output, and context caching</li>
+            <li>Getting GLM-5.2 running in Cursor took 30 minutes: route API key through OpenRouter, override the OpenAI base URL to openrouter.ai/api/v1/cursor, add z-ai/glm-5.2 as a custom model; Claude Code requires two env vars and one settings.json edit</li>
+            <li>A 45-minute autonomous task in Claude Code — pull 72 hours of Sentry errors and Vercel logs, build a prioritized bug-fix plan — surfaced 20 Sentry errors, 5 Vercel log signals, 14 planned fixes including two P0s not spotted through normal monitoring</li>
+            <li>GLM-5.2 struggled with React under agentic multi-step pressure but produced clean HTML/CSS reliably; TypeScript compilation errors appeared before eventual recovery</li>
+            <li>Cost: $3.36 for 6 million tokens including the full 45-minute agentic session, with a 72% cache rate — structurally different cost curve from Opus or GPT-5.5</li>
+        </ul>
+    </section>
+
+    <a href="https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

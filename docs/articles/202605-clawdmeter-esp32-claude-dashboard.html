@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clawdmeter: ESP32 Desk Dashboard for Claude Code Usage — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../feed.xml">
+    <link rel="stylesheet" href="../style.css">
+    <script>window.SITE_BASE = "../";</script>
+    <script src="../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../index.html" class="">Home</a>
+        <a href="../archives.html" class="">Archives</a>
+        <a href="../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../index.html" class="back-link">← Back home</a>
+    <h1>Clawdmeter: ESP32 Desk Dashboard for Claude Code Usage</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026 (repository active, 991 stars as of May 2026)</span>
+        <span class="meta-author">HermannBjorgvin (macOS port by Chris Davidson @lorddavidson)</span>
+        <span class="meta-keywords">Claude Code, ESP32, hardware dashboard, BLE, usage tracker, open source, maker, Anthropic</span>
+    </div>
+
+    <a href="https://github.com/HermannBjorgvin/Clawdmeter" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Clawdmeter is an open-source ESP32 desk gadget that displays real-time Claude Code usage stats on a tiny AMOLED screen and doubles as a Bluetooth keyboard for Claude Code shortcuts, built by a developer for his own workflow.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The device runs on a Waveshare ESP32-S3-Touch-AMOLED-2.16 board with a 480×480 AMOLED display, capacitive touch, and optional Li-Po battery, connecting to the host computer over Bluetooth Low Energy.</li>
+            <li>A Python daemon reads Claude Code OAuth credentials, polls the Anthropic API for rate-limit utilization headers every 60 seconds, and pushes usage data (session %, weekly %, status) to the ESP32 over BLE.</li>
+            <li>The splash screen plays pixel-art Clawd (Anthropic&#x27;s mascot) animations that get busier as usage rate climbs, with animations sourced from claudepix.vercel.app by @amaanbuilds.</li>
+            <li>Physical buttons serve as BLE HID keyboard: left button sends Space for Claude Code voice mode push-to-talk, right button sends Shift+Tab for mode toggle.</li>
+            <li>The project gained significant community traction (991 stars, 86 forks) and includes both Linux and macOS installation scripts with LaunchAgent/systemd daemon setup.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/HermannBjorgvin/Clawdmeter" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

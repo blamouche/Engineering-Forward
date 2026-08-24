@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kimi K2.7 Code: Coding-Focused Agentic Model from Moonshot AI — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Kimi K2.7 Code: Coding-Focused Agentic Model from Moonshot AI</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">Moonshot AI</span>
+        <span class="meta-keywords">Kimi K2.7 Code, Moonshot AI, MoE, coding agent, open-weight, INT4 quantization, preserve_thinking, agentic coding</span>
+    </div>
+
+    <a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Moonshot AI releases Kimi K2.7 Code, a coding-focused agentic model built on the K2.6 architecture with a 1T-parameter MoE (32B activated), 256K context, and a new `preserve_thinking` mode that retains reasoning across multi-turn interactions—achieving substantial improvements on real-world long-horizon coding tasks while reducing thinking-token usage by ~30%.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Built on Kimi K2.6 architecture: 1T total parameters, 32B activated per token, 384 experts with 8 selected, 61 layers, 256K context, MLA attention</li>
+            <li>`preserve_thinking` mode is forced on and cannot be disabled—it retains full reasoning content across multi-turn conversations, significantly improving coding agent performance where context from previous reasoning steps matters</li>
+            <li>Thinking-token usage reduced by ~30% compared to K2.6, improving token efficiency for long agentic coding workflows without sacrificing quality</li>
+            <li>Benchmarks: Kimi Code Bench v2 jumps from 50.9 (K2.6) to 62.0 (K2.7 Code), narrowing the gap with GPT-5.5 (69.0) and Claude Opus 4.8 (67.4)</li>
+            <li>Agentic benchmarks show strong gains: MCP Atlas improves from 69.4 to 76.0, and MCP Mark Verified from 72.8 to 81.1, demonstrating real tool-use capability improvements</li>
+            <li>Released under Modified MIT license with native INT4 quantization, deployable via Transformers, vLLM, SGLang, and Docker Model Runner</li>
+        </ul>
+    </section>
+
+    <a href="https://huggingface.co/moonshotai/Kimi-K2.7-Code" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claude Code: Code Review — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Claude Code: Code Review</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">Anthropic</span>
+        <span class="meta-keywords">Claude Code, code review, PR review, GitHub, AI debugging, security vulnerabilities, multi-agent</span>
+    </div>
+
+    <a href="https://code.claude.com/docs/en/code-review" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Claude Code&#x27;s Code Review feature uses a fleet of specialized agents to analyze GitHub pull requests in the context of your full codebase, posting inline findings on logic errors, security vulnerabilities, and regressions without blocking existing workflows.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Multi-agent parallel analysis: A fleet of specialized agents examines code changes from different angles, then a verification step filters false positives before ranking by severity.</li>
+            <li>Non-blocking workflow integration: Findings are tagged with severity levels (Normal, Nit, Pre-existing) and posted as inline comments without approving or blocking PRs.</li>
+            <li>Flexible trigger modes: Reviews can run once after PR creation, after every push, or manually via `@claude review` comment, depending on repository needs.</li>
+            <li>Customizable via CLAUDE.md and REVIEW.md: Teams can define what Claude flags or skips using repository-level guidance files without changing core configuration.</li>
+            <li>Usage-based pricing at scale: Averaging $15-25 per review, costs scale with PR size and complexity; a monthly spend cap can be configured per organization.</li>
+        </ul>
+    </section>
+
+    <a href="https://code.claude.com/docs/en/code-review" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

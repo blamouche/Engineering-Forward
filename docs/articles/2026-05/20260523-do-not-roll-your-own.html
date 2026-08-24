@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Don&#x27;t Roll Your Own ... — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Don&#x27;t Roll Your Own ...</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 23, 2026</span>
+        <span class="meta-author">Susam Pal</span>
+        <span class="meta-keywords">web design, UX, browser defaults, custom UI, accessibility, software engineering</span>
+    </div>
+
+    <a href="https://susam.net/do-not-roll-your-own.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Drawing a parallel to the &quot;don&#x27;t roll your own crypto&quot; maxim, Susam Pal argues that web developers should stop reimplementing browser-native features — scrolling, link navigation, text selection, password fields, date pickers — because custom implementations almost invariably produce worse, less accessible, and less reliable user experiences than what browsers already provide.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Custom page scrolling is the worst offender: it breaks muscle memory, keyboard scrolling, and accessibility by overriding behaviors users don&#x27;t even think about</li>
+            <li>GitHub&#x27;s custom link navigation via JavaScript is cited as the most egregious example — &quot;it is often faster to open the link in a new tab than to wait for GitHub&#x27;s JavaScript code to handle the navigation&quot;</li>
+            <li>Custom password fields break password managers, autofill, strong password generation, mobile keyboards, accessibility tools, and can accidentally expose passwords as plain text</li>
+            <li>Custom date pickers force users to learn ten different calendar widgets across ten different websites, with some requiring 40 clicks on &quot;previous year&quot; to select a birth year</li>
+            <li>Continuous UI redesigns disproportionately harm older users and people who rely on muscle memory — &quot;imagine how you would feel if the buttons of your washing machine were rearranged every morning&quot;</li>
+            <li>The principle mirrors crypto: the browser is the vetted, peer-reviewed implementation that&#x27;s stood the test of time — override it only when absolutely necessary</li>
+        </ul>
+    </section>
+
+    <a href="https://susam.net/do-not-roll-your-own.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

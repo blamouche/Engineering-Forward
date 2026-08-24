@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DiffusionGemma: 4x Faster Text Generation — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>DiffusionGemma: 4x Faster Text Generation</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">June 10, 2026</span>
+        <span class="meta-author">Brendan O&#x27;Donoghue and Sebastian Flennerhag (Google DeepMind)</span>
+        <span class="meta-keywords">DiffusionGemma, text diffusion, Gemma 4, Mixture of Experts, MoE, parallel decoding, local inference, NVIDIA, open model, Apache 2.0</span>
+    </div>
+
+    <a href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Google releases DiffusionGemma, an experimental open model that uses text diffusion instead of autoregressive decoding to generate entire blocks of text simultaneously, achieving up to 4x faster inference on GPUs — over 1,000 tokens per second on a single H100.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>DiffusionGemma is a 26B Mixture of Experts (MoE) model that activates only 3.8B parameters during inference, fitting within 18GB VRAM on consumer GPUs when quantized</li>
+            <li>The model generates 256 tokens in parallel with each forward pass using bi-directional attention, enabling every token to attend to all others — a significant advantage for non-linear tasks like code infilling and mathematical graphs</li>
+            <li>On a single NVIDIA H100, DiffusionGemma achieves over 1,000 tokens per second; on an RTX 5090, over 700 tokens per second</li>
+            <li>The model iteratively refines its own output through multiple passes, starting from random placeholder tokens and locking in correct tokens progressively — similar to AI image generation</li>
+            <li>Output quality is lower than standard Gemma 4 models, making DiffusionGemma suited for speed-critical interactive workflows rather than maximum-quality production outputs</li>
+            <li>Released under Apache 2.0 license with support for MLX, vLLM, Hugging Face Transformers, and NVIDIA NeMo; official llama.cpp support coming soon</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

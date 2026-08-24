@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Uber Engineering Tech Stack, Part I: The Foundation — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Uber Engineering Tech Stack, Part I: The Foundation</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2016</span>
+        <span class="meta-author">Uber Engineering</span>
+        <span class="meta-keywords">Uber, tech stack, microservices, infrastructure, Schemaless, Cassandra, Riak, MySQL, platform</span>
+    </div>
+
+    <a href="https://www.uber.com/blog/tech-stack-part-one-foundation" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Uber&#x27;s 2016 engineering tech stack overview reveals a &quot;tree&quot; architecture philosophy—common trunk with diverse branches—supporting global real-time operations with no safe downtime and 300+ cities.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Uber prioritizes availability and scalability above all else because it has no &quot;free&quot; users—every user is transactional (rider, driver, eater, courier) and relies on the system in real time</li>
+            <li>The tech stack follows a &quot;tree&quot; metaphor: a common platform trunk shared by all teams, with different tool choices blooming as branches for different use cases</li>
+            <li>Storage uses a mix of Schemaless (built in-house on MySQL for long-term storage), Riak, and Cassandra—each chosen for specific access patterns</li>
+            <li>Uber runs an all-active multi-datacenter model: no &quot;backup&quot; datacenter exists, and every city is assigned to a primary data center with a secondary in a different location</li>
+            <li>The principle: use existing tools until needs exceed their capabilities, then build in-house—avoiding premature optimization while maintaining flexibility</li>
+        </ul>
+    </section>
+
+    <a href="https://www.uber.com/blog/tech-stack-part-one-foundation" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

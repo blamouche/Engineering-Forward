@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browsers Treat Big Sites Differently — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Browsers Treat Big Sites Differently</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 14, 2026</span>
+        <span class="meta-author">Den Odell</span>
+        <span class="meta-keywords">browser quirks, WebKit, Firefox about:compat, Chrome dominance, web standards, user agent spoofing, domain-specific fixes, browser market share, web compatibility, Internet Explorer parallel</span>
+    </div>
+
+    <a href="https://denodell.com/blog/browsers-treat-big-sites-differently" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Safari and Firefox ship domain-specific rendering fixes for sites ranging from TikTok to SeatGuru — literal &quot;if site == X, do Y&quot; code baked into browser executables — while Chrome doesn&#x27;t need a quirks file because the web is already built for Chrome.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Firefox&#x27;s about:compat page lists site-specific interventions with toggle switches, injecting custom CSS/JS and changing user agent strings for broken sites</li>
+            <li>Safari&#x27;s Quirks.cpp contains thousands of lines of domain-checked fixes covering scrolling, touch events, viewport calculations, video PiP, and user agent spoofing</li>
+            <li>Chrome doesn&#x27;t maintain a quirks file because it doesn&#x27;t need one: with 80%+ market share, developers build for Chrome first and Chrome&#x27;s behavior becomes the de facto standard</li>
+            <li>The pattern mirrors the IE era: when one browser dominates, site-specific workarounds concentrate in competing browsers rather than disappearing</li>
+            <li>Developers who test primarily in Chrome are most exposed — their site may work not because of good code but because Chrome&#x27;s behavior aligns with their assumptions</li>
+        </ul>
+    </section>
+
+    <a href="https://denodell.com/blog/browsers-treat-big-sites-differently" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

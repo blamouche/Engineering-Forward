@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MiniMax Sparse Attention (MSA): FlashAttention and Block-Sparse Kernels for NVIDIA SM100 — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>MiniMax Sparse Attention (MSA): FlashAttention and Block-Sparse Kernels for NVIDIA SM100</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">MiniMax AI</span>
+        <span class="meta-keywords">MiniMax, sparse attention, FlashAttention, NVIDIA SM100, CUDA, CUTLASS, CuTe-DSL, FP8, paged decode, top-k attention</span>
+    </div>
+
+    <a href="https://github.com/MiniMax-AI/MSA" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">MiniMax open-sources MSA, a production-grade attention kernel library for NVIDIA SM100 (Blackwell) that ships dense FlashAttention and block-sparse top-k attention in two JIT-compiled stacks (csrc and CuTe-DSL), supporting BF16/FP8/NVFP4/FP4 with paged FP8 decode—bringing sparse attention from research to deployable infrastructure.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Two JIT-compiled stacks share one Python package: csrc (dense FMHA + sparse top-k indexer, compiled from Jinja templates) and CuTe-DSL (full sparse attention with forward + paged FP8 decode, compiled via cute.compile)</li>
+            <li>Supports multiple precision formats: BF16, FP8, NVFP4, and FP4 for sparse prefill, with paged FP8 decode—critical for cost-efficient large-model serving on Blackwell</li>
+            <li>The sparse attention workflow is a two-pass design: a dense proxy pass computes per-block max scores from a cheap Q slice, then `sparse_topk_select` picks the top-k KV blocks for the final sparse attention pass</li>
+            <li>Distributed via Hugging Face&#x27;s `kernels` library for easy integration: `from kernels import get_kernel; kernel_module = get_kernel(&quot;MiniMaxAI/msa&quot;)`</li>
+            <li>Requires NVIDIA SM100 (Blackwell), CUDA toolkit with nvcc, Python ≥ 3.10; first JIT compilation takes 30s–several minutes but is cached for subsequent runs</li>
+            <li>Released under MIT license with comprehensive benchmarking suite covering dense/paged/sparse prefill and decode in FP8 and BF16</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/MiniMax-AI/MSA" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

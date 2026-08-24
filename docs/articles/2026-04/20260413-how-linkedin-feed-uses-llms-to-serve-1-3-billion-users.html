@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How LinkedIn Feed Uses LLMs to Serve 1.3 Billion Users</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 13, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">LinkedIn, recommender systems, LLMs, retrieval, feed ranking</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">LinkedIn’s feed overhaul shows how LLMs can replace fragmented retrieval stacks—but only if teams translate structured signals into model-friendly representations and ruthlessly clean noisy training context.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LinkedIn’s feed overhaul shows how LLMs can replace fragmented retrieval stacks—but only if teams translate structured signals into model-friendly representations and ruthlessly clean noisy training context.</li>
+            <li>The ByteByteGo article describes LinkedIn replacing multiple parallel feed-retrieval systems with an LLM-based embedding architecture. The key benefit is not just better semantics; it is simplification. A single retrieval substrate reduces cross-system conflict and gives the ranking layer a more coherent candidate set.</li>
+            <li>The most interesting engineering detail is how LinkedIn translated structured data into text the model could actually use. Raw counts like views and engagement were effectively meaningless as digit strings, so the team converted them into percentile buckets with special tokens. That simple representation change materially improved retrieval quality.</li>
+            <li>Another valuable lesson is context hygiene. LinkedIn improved both cost and performance by excluding weak, noisy interaction history and training on stronger positive signals plus carefully chosen negatives. The article is a reminder that scaling transformers in production is often less about a magical model change and more about giving the model a representation and training distribution it can learn from cleanly.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-linkedin-feed-uses-llms-to-serve" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

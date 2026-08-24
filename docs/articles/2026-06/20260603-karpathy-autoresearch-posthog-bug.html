@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karpathy&#x27;s Autoresearch Found a 3-Year-Old Bug in PostHog&#x27;s Query Engine — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Karpathy&#x27;s Autoresearch Found a 3-Year-Old Bug in PostHog&#x27;s Query Engine</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-03</span>
+        <span class="meta-author">PostHog team</span>
+        <span class="meta-keywords">Karpathy, autoresearch, PostHog, ClickHouse, query optimization, AI agent, bug finding, performance, primary key, timestamp filter</span>
+    </div>
+
+    <a href="https://posthog.com/blog/karpathy-autoresearch-query-engine-bug" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">PostHog pointed an AI agent at its own query engine, fed it slow queries from production, and let it run overnight—the next morning it discovered a three-year-old bug where every query with a timestamp filter had not been using ClickHouse&#x27;s primary key correctly, improving performance by 11-37%.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A three-year-old bug in PostHog&#x27;s ClickHouse query engine caused every timestamp-filtered query to skip primary key pruning, scanning 62% more granules than necessary</li>
+            <li>The autoresearch loop (pi + pi-autoresearch) found the bug by running EXPLAIN, noticing &quot;Partition: Condition=&#x27;true&#x27;&quot; (no pruning), and trying two fixes: adding indexHint() and rewriting the timestamp comparison</li>
+            <li>The fix improved the best run by 22% (2,824ms → 2,192ms) and the trimmed mean by 37% (4,694ms → 2,954ms), while reducing skip-index granules by 62%</li>
+            <li>The agent had no priors—it treated a three-year-old expression with the same suspicion as a line written yesterday, seeing what humans had stopped seeing</li>
+            <li>PostHog is now building a pipeline to automatically detect slow queries from production, spin up sandboxed ClickHouse clusters, and run autoresearch campaigns without human intervention</li>
+        </ul>
+    </section>
+
+    <a href="https://posthog.com/blog/karpathy-autoresearch-query-engine-bug" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

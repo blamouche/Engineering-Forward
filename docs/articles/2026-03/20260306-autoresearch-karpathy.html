@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>autoresearch: AI agents running research on single-GPU nanochat training automatically — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>autoresearch: AI agents running research on single-GPU nanochat training automatically</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-06</span>
+        <span class="meta-author">Andrej Karpathy</span>
+        <span class="meta-keywords">AI agents, autonomous research, LLM training, neural networks, single-GPU, optimization</span>
+    </div>
+
+    <a href="https://github.com/karpathy/autoresearch" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">An experimental framework enabling AI agents to autonomously conduct machine learning research by iteratively modifying training code, executing 5-minute experiments, and progressively optimizing model performance without human intervention.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Agent-Driven Iteration: Rather than humans manually tweaking code, AI agents autonomously modify `train.py`, run experiments within a fixed time budget, and accept or reject changes based on validation metrics.</li>
+            <li>Standardized Evaluation: All experiments use validation bits-per-byte (val_bpb) as the metric, enabling fair comparison across different architectural changes and hyperparameter configurations.</li>
+            <li>Human-Configurable Direction: Researchers guide agent behavior through `program.md`, a Markdown instruction file that serves as the &quot;research org code&quot; defining experiment strategy.</li>
+            <li>Constrained Simplicity: The framework deliberately limits scope to one GPU, one editable file, and one metric, prioritizing clarity and comparative fairness over distributed complexity.</li>
+            <li>Platform Adaptability: While optimized for NVIDIA GPUs, the design principles support adaptation to smaller compute platforms through configurable hyperparameters.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/karpathy/autoresearch" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

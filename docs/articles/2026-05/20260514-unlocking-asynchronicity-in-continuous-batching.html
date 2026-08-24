@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlocking asynchronicity in continuous batching — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Unlocking asynchronicity in continuous batching</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 14, 2026</span>
+        <span class="meta-author">Rémi Ouazan Reboul, Pedro Cuenca, Aritra Roy Gosthipaty (Hugging Face)</span>
+        <span class="meta-keywords">LLM inference, continuous batching, CUDA streams, GPU utilization, asynchronous batching, KV cache, throughput optimization</span>
+    </div>
+
+    <a href="https://huggingface.co/blog/continuous_async" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Hugging Face demonstrates how to eliminate 24% GPU idle time in LLM inference by separating CPU batch preparation from GPU compute using CUDA streams and events — achieving near-zero overhead asynchronous continuous batching.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>In synchronous continuous batching, CPU and GPU take turns: nearly 24% of total generation time is wasted with an idle GPU waiting for the CPU</li>
+            <li>The fix uses three CUDA streams: H2D (host-to-device transfers), compute, and D2H (device-to-host transfers), none touching the synchronizing default stream</li>
+            <li>CUDA events enforce cross-stream ordering: record() marks completion points, wait() blocks a stream until the event fires, all on-GPU with no CPU involvement</li>
+            <li>Preparing batch N+1 while batch N computes requires predicting which requests will finish — solved by overbooking: assume all finish and adjust if wrong</li>
+            <li>On an H200 at ~$5/hour, a 24% speedup means significant cost savings for production inference workloads</li>
+        </ul>
+    </section>
+
+    <a href="https://huggingface.co/blog/continuous_async" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

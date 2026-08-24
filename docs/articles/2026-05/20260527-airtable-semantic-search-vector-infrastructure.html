@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Airtable Built the Search Layer Behind Their AI Features — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Airtable Built the Search Layer Behind Their AI Features</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-27</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">airtable, vector-search, semantic-search, milvus, hnsw, embeddings, multi-tenancy, partitioning, cold-offloading, disaster-recovery</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-airtable-built-the-search-layer" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Airtable&#x27;s semantic search architecture was driven not by algorithm choice but by one peculiar property of their data — 75% of customer bases sit idle any given week — which forced a chain of engineering decisions from per-base partitioning through HNSW indexes to cold-offloading and re-embed-on-recovery.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Airtable chose one-partition-per-base (over shared partitions) for strong physical isolation, trivial deletion, and no post-query filtering latency — but hit a cliff at ~100,000 partitions per Milvus collection</li>
+            <li>The fix was hierarchical capping: 400 collections per cluster, 1,000 partitions per collection, provisioning new clusters as the customer base grows</li>
+            <li>HNSW was chosen over IVF-SQ8 and DiskANN because the 500ms p99 latency target and high recall requirements outweighed memory cost — the right index depends on your specific constraints, not universal superiority</li>
+            <li>75% of bases are idle any given week; Milvus partition offloading keeps only hot partitions in memory, making HNSW economically viable — this only works because access patterns are bursty and bimodal, not uniform</li>
+            <li>Disaster recovery re-embeds from source data rather than restoring snapshots — the existing async embedding pipeline just runs against an empty cluster, handling corruption, model migrations, and data residency changes with one procedure</li>
+            <li>The transferable principle: let your data&#x27;s actual properties drive architecture, not the other way around — the technologies (Milvus, HNSW) are interchangeable, the reasoning is not</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-airtable-built-the-search-layer" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aurora: Online Speculative Decoding via Reinforcement Learning — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Aurora: Online Speculative Decoding via Reinforcement Learning</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">March 31, 2026</span>
+        <span class="meta-author">Junxiong Wang, Fengxiang Bie, Jisen Li, Zhongzhu Zhou, Zelei Shao, Yubo Wang, Yinghui Liu, Qingyang Wu, Avner May, Sri Yanamandra, Ce Zhang, Tri Dao, Percy Liang, Shuaiwen Leon Song, Ben Athiwaratkun, Chenfeng Xu, Xiaoxia Wu</span>
+        <span class="meta-keywords">speculative decoding, reinforcement learning, LLM inference optimization, online learning, adaptive systems, throughput</span>
+    </div>
+
+    <a href="https://www.together.ai/blog/aurora" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Aurora introduces a serve-to-train flywheel that uses reinforcement learning to continuously adapt speculative decoding draft models during live inference, achieving 1.25x additional speedup over static speculators.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Reformulates speculative decoding as an asynchronous reinforcement learning problem, with accepted tokens as positive rewards and rejected tokens as counterfactual feedback</li>
+            <li>Achieves 1.25x additional speedup over well-trained static speculators in production</li>
+            <li>Adapts in real-time to distribution shifts without service interruption</li>
+            <li>Eliminates the need for expensive offline activation-collection and large-scale distillation pipelines</li>
+            <li>Open-source code and research paper are publicly available</li>
+        </ul>
+    </section>
+
+    <a href="https://www.together.ai/blog/aurora" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

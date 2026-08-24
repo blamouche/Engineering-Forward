@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In-House LLM Serving at Netflix — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>In-House LLM Serving at Netflix</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-17</span>
+        <span class="meta-author">Netflix Technology Blog</span>
+        <span class="meta-keywords">Netflix, LLM serving, vLLM, Triton, inference, constrained decoding, GPU, production</span>
+    </div>
+
+    <a href="https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Netflix details how it deployed and operated LLM inference within its existing production infrastructure, covering engine selection (vLLM over TensorRT-LLM), model packaging, deployment strategies, and constrained decoding at scale.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Netflix chose vLLM over TensorRT-LLM for LLM serving, trading some performance for faster iteration, better debuggability, extensibility for custom decoding, and researcher familiarity—then integrated it with NVIDIA Triton Inference Server.</li>
+            <li>The vLLM backend for Triton (vs. Python backend) proved architecturally superior by decoupling model artifacts from frontend upgrades, but production exposed version compatibility issues between Triton and vLLM.</li>
+            <li>Netflix offers two deployment strategies: Red-Black (cheaper, atomic rollback) for stable interfaces, and Versioned (independent deployments per model version) for breaking changes, with a temporary GPU cost trade-off during transitions.</li>
+            <li>Constrained decoding—enforcing business rules inside the decode loop rather than post-hoc—required migrating from vLLM V0&#x27;s per-request GIL-bottlenecked processing to V1&#x27;s batch-level design with C++ hot paths, achieving flat logits processing time regardless of batch size.</li>
+            <li>Production surprises included partial prefills breaking state machine assumptions, vLLM preemption invalidating monotonic output growth, and Triton&#x27;s OpenAI frontend silently dropping response_format constraints.</li>
+        </ul>
+    </section>
+
+    <a href="https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

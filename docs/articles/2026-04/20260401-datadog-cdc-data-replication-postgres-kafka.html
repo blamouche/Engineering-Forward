@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Datadog Redefined Data Replication — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Datadog Redefined Data Replication</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 1, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">Datadog, CDC, change data capture, Postgres, Kafka, Debezium, Temporal, data replication, search</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-datadog-redefined-data-replication" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Datadog solved a 7-second page load by recognizing the root cause: using a transactional database for search workloads — implementing CDC via Debezium + Kafka to replicate data to a specialized search platform, then automating the pipeline with Temporal.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Root cause was not query performance but architectural mismatch: Postgres (transactional) doing search workload</li>
+            <li>CDC pipeline: Debezium reads Postgres WAL → Kafka as message broker → sink connectors to search platform</li>
+            <li>Async replication chosen over sync to avoid coupling write performance to downstream latency (acceptable hundreds-of-ms lag)</li>
+            <li>Schema evolution protected by automated migration validation and Confluent Schema Registry with backward compatibility</li>
+            <li>Temporal (workflow orchestration) automated setup of 7+ component pipeline into repeatable platform</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-datadog-redefined-data-replication" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

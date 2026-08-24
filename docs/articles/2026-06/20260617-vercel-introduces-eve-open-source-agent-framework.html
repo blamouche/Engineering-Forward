@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducing Eve: Vercel&#x27;s Open-Source Agent Framework — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Introducing Eve: Vercel&#x27;s Open-Source Agent Framework</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-17</span>
+        <span class="meta-author">Shar Dara, Kevin Corbett, Casey Gowrie, Andrew Barba, Allen Zhou, Dima Voytenko, JJ Kasper, John Phamous, Timo Lins, Rui Conti</span>
+        <span class="meta-keywords">vercel, eve, agents, open-source, framework, infrastructure, durable-execution</span>
+    </div>
+
+    <a href="https://vercel.com/blog/introducing-eve" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Vercel launches eve, an open-source agent framework that provides production-ready infrastructure—durable execution, sandboxed compute, human-in the-loop approvals, subagents, and evals—so developers can define what their agents do without hand-rolling the plumbing.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Eve treats an agent as a directory: agent.ts (model), instructions.md (personality), tools/, skills/, subagents/, channels/, and schedules/—each file describes one component, making the agent&#x27;s architecture immediately readable.</li>
+            <li>Production infrastructure is built in: durable execution, sandboxed compute, human-in-the-loop approvals, subagents, and evals come out of the box rather than requiring assembly from scratch.</li>
+            <li>Vercel positions eve as the Next.js for agents—ending the era where every team hand-rolls the same plumbing for each new agent, with nothing carrying over between projects.</li>
+            <li>Agent configuration supports provider fallbacks through AI Gateway, and optional fields for compaction and model options provide flexibility without complexity.</li>
+            <li>The framework integrates with Vercel Connect for scoped, runtime credential exchange—replacing long-lived provider tokens with short-lived, task-scoped credentials.</li>
+        </ul>
+    </section>
+
+    <a href="https://vercel.com/blog/introducing-eve" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

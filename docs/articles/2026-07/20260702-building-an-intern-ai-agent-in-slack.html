@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building an Intern: A Slack-Based AI Agent at Sentry — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Building an Intern: A Slack-Based AI Agent at Sentry</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-02</span>
+        <span class="meta-author">David Cramer (Sentry)</span>
+        <span class="meta-keywords">AI agents, Slack integration, agent architecture, serverless compute, agent harness, open source, Junior, Sentry</span>
+    </div>
+
+    <a href="https://cra.mr/building-an-intern/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Sentry built &quot;Junior,&quot; an open-source AI intern living in Slack that handles GitHub issues, visual QA, and code exploration — revealing that building a production-grade agent harness requires 100,000 lines of TypeScript and far more complexity than the &quot;receive webhook, call model, post reply&quot; mental model suggests.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Junior is described as an &quot;intern&quot; because the interaction model is literal: you give it information, review its work, and steer it in the right direction — not a fully autonomous agent that works without supervision.</li>
+            <li>The project grew to ~100,000 lines of TypeScript over four months, far exceeding initial expectations, because turning an agent idea into a good product requires substantial ongoing engineering.</li>
+            <li>Junior&#x27;s architecture uses a task broker pattern on Vercel Queues: Slack webhook → inbox → enqueue → worker claims conversation → agent continues from session log → interrupt timer avoids serverless timeouts → reply posted to Slack.</li>
+            <li>Serverless compute is &quot;hostile to agents&quot; — function timeouts, statelessness, and platform constraints force significant architectural complexity that wouldn&#x27;t exist in a traditional server environment.</li>
+            <li>Junior is deliberately not trying to win the agent race; it&#x27;s a harness/framework for Sentry&#x27;s specific needs, and is open source purely because Sentry does open source, not as a product strategy.</li>
+        </ul>
+    </section>
+
+    <a href="https://cra.mr/building-an-intern/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

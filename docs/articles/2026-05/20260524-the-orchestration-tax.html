@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Orchestration Tax: Why Spawning More Agents Doesn&#x27;t Mean More Output — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Orchestration Tax: Why Spawning More Agents Doesn&#x27;t Mean More Output</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-24</span>
+        <span class="meta-author">Addy Osmani</span>
+        <span class="meta-keywords">agent-orchestration, cognitive-bandwidth, concurrent-systems, code-review, backpressure, parallel-agents, gil-analogy, attention-architecture</span>
+    </div>
+
+    <a href="https://addyosmani.com/blog/orchestration-tax" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Spawning agents is cheap but closing the loop on each one is expensive — all the judgment to steer agents and merge their work still routes through exactly one serial processor (you), making the &quot;orchestration tax&quot; an architecture problem, not a discipline problem.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>There is a hidden asymmetry in agentic workflows: starting an agent is very cheap (a keystroke or prompt), but closing the loop — checking if the result is correct and reconciling it with what other agents touched — is not cheap at all</li>
+            <li>The human is the single-threaded resource in agent development, analogous to Python&#x27;s Global Interpreter Lock (GIL): you can spawn many agents but judgment still has to acquire the lock one at a time</li>
+            <li>Running 20 agents does not mean there is more of you; spawning 8 agents doesn&#x27;t speed up your judgment time, it just makes the queue feeding into it much deeper</li>
+            <li>The right number of parallel agents is how many you can actually code review properly — for most developers this is a low single digit, even though the UI happily lets you spawn 20</li>
+            <li>Grinding won&#x27;t fix structural limits: the constraint shows up as shallow code reviews or &quot;cognitive surrender&quot; where you just accept the agent&#x27;s code because forming your own opinion costs attention you no longer have</li>
+            <li>Practical fixes include: scale fleet to review rate (not the UI), sort work into isolated-delegatable vs. complex-judgment tasks, batch reviews to minimize context switching, and only spend the lock on judgment — let agents prove the boring 80% with tests and screenshots</li>
+        </ul>
+    </section>
+
+    <a href="https://addyosmani.com/blog/orchestration-tax" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

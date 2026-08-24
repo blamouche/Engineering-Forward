@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multi-Region Architecture: Going Global Without Going Broke — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Multi-Region Architecture: Going Global Without Going Broke</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-02</span>
+        <span class="meta-author">Alex Xu / ByteByteGo</span>
+        <span class="meta-keywords">multi-region, distributed systems, data consistency, CAP theorem, latency, availability, disaster recovery, active-passive, active-active</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/multi-region-architecture-going-global" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Adding a second region to an application can make it slower and less reliable than operating with one, because multi-region introduces a new class of data consistency problems that can nullify the latency and availability benefits.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Multi-region deployment is a progression, not a single decision: from single-region with backups through pilot region, active-passive, active-active, to global write-anywhere</li>
+            <li>The core challenge is conflict resolution: when the same data is edited simultaneously in two regions during a network partition, the system must choose one version over the other without a shared record of ordering</li>
+            <li>Each step in the progression buys something concrete (lower latency, higher availability, data sovereignty) but introduces consistency tradeoffs and increased cost</li>
+            <li>Traditional authentication and proxy-based verification (IP, phone, device fingerprint) don&#x27;t solve the uniqueness problem at internet scale</li>
+            <li>The economic and operational cost of multi-region grows non-linearly: the jump from active-passive to active-active is the most expensive and complex transition</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/multi-region-architecture-going-global" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

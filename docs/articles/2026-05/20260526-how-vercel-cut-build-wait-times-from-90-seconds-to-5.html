@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Vercel Cut Build Wait Times From 90 Seconds to 5 — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Vercel Cut Build Wait Times From 90 Seconds to 5</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-26</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">Vercel, build infrastructure, Firecracker, microVMs, multi-tenancy, Hive, build optimization, container isolation, platform engineering</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">ByteByteGo dissects Vercel&#x27;s internal build platform &quot;Hive,&quot; which cut build provisioning from 90 seconds to 5 by accepting the harder constraint of hostile multi-tenancy, building on Firecracker microVMs, and layering three optimizations: cached container images, warm pools, and millisecond VM boot times.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Hive treats every customer build as potentially malicious (&quot;hostile multi-tenancy&quot;), a foundational assumption driving the entire architecture away from standard container orchestration.</li>
+            <li>Firecracker microVMs provide VM-level isolation (separate kernels, CPU-enforced boundaries) at container-level speed — boot in ~125ms, use few MB of memory.</li>
+            <li>Each build runs in a dedicated &quot;cell&quot; (microVM + container) that is destroyed after completion, eliminating cross-tenant state leakage risk.</li>
+            <li>The 18x speedup comes from three layers: local container image caching (saved ~45s), warm cell pools (instant provisioning for common case), and Firecracker&#x27;s baseline millisecond boot time.</li>
+            <li>Overall build performance improved 30%, cold-path builds dropped 40%, with provisioning specifically going from 90s to 5s.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-vercel-cut-build-wait-times-from" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

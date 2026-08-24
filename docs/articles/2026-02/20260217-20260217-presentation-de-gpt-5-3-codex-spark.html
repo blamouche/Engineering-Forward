@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Présentation de GPT‑5.3‑Codex‑Spark — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Présentation de GPT‑5.3‑Codex‑Spark</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">OpenAI</span>
+        <span class="meta-keywords">low-latency inference, Codex, Cerebras, realtime coding, WebSocket</span>
+    </div>
+
+    <a href="https://openai.com/fr-FR/index/introducing-gpt-5-3-codex-spark/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">OpenAI lance GPT‑5.3‑Codex‑Spark, une version allégée orientée “programmation en temps réel” : &gt;1 000 tokens/s sur une voie faible latence Cerebras, avec un comportement par défaut plus léger (modifs ciblées) et des optimisations de pipeline qui réduisent fortement le time‑to‑first‑token.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Modèle “petit” optimisé latence, 128k de contexte, text‑only, distribué en preview via ChatGPT Pro/Codex app/CLI/VS Code.</li>
+            <li>Trade‑off: moins performant que GPT‑5.3‑Codex sur des benchmarks agentiques, mais exécute les tâches bien plus vite.</li>
+            <li>Style de travail par défaut: changements minimaux et ciblés; exécution de tests uniquement sur demande.</li>
+            <li>Optimisations infra (WebSocket persistant, API Responses): -80% overhead par round‑trip, -30% overhead par token, -50% temps avant premier token.</li>
+            <li>Positionnement: deux modes complémentaires à terme (long‑horizon + temps réel), potentiellement combinés via sous‑agents et parallélisation.</li>
+        </ul>
+    </section>
+
+    <a href="https://openai.com/fr-FR/index/introducing-gpt-5-3-codex-spark/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

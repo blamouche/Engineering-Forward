@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducing the Ettin Reranker Family — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Introducing the Ettin Reranker Family</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 19, 2026</span>
+        <span class="meta-author">Tom Aarsen</span>
+        <span class="meta-keywords">Ettin, reranker, cross-encoder, Sentence Transformers, ModernBERT, retrieval, MTEB, distillation</span>
+    </div>
+
+    <a href="https://huggingface.co/blog/ettin-reranker" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Tom Aarsen releases six new Sentence Transformers cross-encoder rerankers built on JHU&#x27;s Ettin ModernBERT encoders, spanning 17M to 1B parameters, all state-of-the-art at their size with full training recipes and data open-sourced.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Six model sizes (17M, 32M, 68M, 150M, 400M, 1B parameters) covering the full quality-speed spectrum, all supporting up to 8K context tokens via ModernBERT&#x27;s long-context pretraining.</li>
+            <li>Distillation recipe uses pointwise MSE on mixedbread-ai/mxbai-rerank-large-v2 scores, trained on a curated subset of LightOn&#x27;s embedding datasets — all open-source.</li>
+            <li>When paired with embedding models, the 1B reranker achieves the highest average NDCG@10 across MTEB(eng, v2) Retrieval tasks, with even the 17M model providing meaningful gains over retriever-only baselines.</li>
+            <li>Using Flash Attention 2 with sequence unpadding achieves 1.7x-8.3x speedup over default fp32+SDPA loading, making larger models viable in production pipelines.</li>
+            <li>The author used the new train-sentence-transformers Agent Skill with an AI coding agent to bootstrap the training recipe — the models themselves were partially built by AI-assisted workflows.</li>
+            <li>All models are Apache 2.0 licensed and work with 3 lines of Python via Sentence Transformers&#x27; CrossEncoder API, with a full retrieve-then-rerank example provided.</li>
+        </ul>
+    </section>
+
+    <a href="https://huggingface.co/blog/ettin-reranker" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

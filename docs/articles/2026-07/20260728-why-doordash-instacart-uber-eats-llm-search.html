@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Why DoorDash, Instacart, and Uber Eats Integrated LLMs Into Search Three Different Ways</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-28</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">LLM search, DoorDash, Instacart, Uber Eats, food delivery, architecture, retrieval-augmented generation, semantic search, infrastructure</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Three major food delivery companies solved the same LLM-search integration problem in three fundamentally different architectures—revealing that existing infrastructure, not model choice, determines how deeply AI should reach into your production runtime.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The core problem is the same across all three: keyword search fails on synonyms, typos, shorthand, and natural-language intent like &quot;something healthy for a rainy evening.&quot;</li>
+            <li>DoorDash chose a &quot;thin integration&quot; approach where the LLM sits outside the runtime as a query-understanding layer, translating natural language into structured search parameters—minimizing latency and maintaining existing infrastructure.</li>
+            <li>Instacart went deeper, embedding the LLM inside the search pipeline to reshape ranking and retrieval in real time—trading more latency and cost for richer understanding.</li>
+            <li>Uber Eats took the deepest integration, giving the LLM direct access to the runtime so it can reason over catalog data, user context, and business rules simultaneously—maximizing understanding but adding the most complexity.</li>
+            <li>The key insight is architectural: which approach fits depends not on which LLM you pick but on what infrastructure you already have in place, how much latency you can tolerate, and what level of intent resolution your product requires.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

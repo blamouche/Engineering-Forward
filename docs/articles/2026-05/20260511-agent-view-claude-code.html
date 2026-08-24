@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent View in Claude Code — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Agent View in Claude Code</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 11, 2026</span>
+        <span class="meta-author">Anthropic</span>
+        <span class="meta-keywords">Claude Code, agent view, multi-agent, dashboard, background sessions, developer tools, AI coding</span>
+    </div>
+
+    <a href="https://claude.com/blog/agent-view-in-claude-code" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Anthropic introduces Agent View in Claude Code, a terminal dashboard that lets developers dispatch, monitor, and manage multiple parallel AI coding sessions from one screen, eliminating tmux-based context switching.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Agent View is a full-terminal dashboard listing every background Claude Code session, grouped by state (Needs input, Working, Ready for review, Completed) with real-time status indicators.</li>
+            <li>Sessions can be dispatched from the shell (claude --bg), from inside a session (/background), or directly from Agent View, with each session running independently in its own isolated git worktree.</li>
+            <li>The peek-and-reply system lets developers check on a session&#x27;s progress without leaving the dashboard — press Space to see recent output and type a reply to unblock it.</li>
+            <li>Agent View is part of a three-tier multi-agent architecture: subagents (workers within one session), agent teams (coordinating sessions), and Agent View (independent parallel sessions supervised by the developer).</li>
+            <li>Sessions survive terminal closure because they&#x27;re parented to a per-user supervisor process, not the shell — they auto-restart after Claude Code updates and persist state on disk.</li>
+        </ul>
+    </section>
+
+    <a href="https://claude.com/blog/agent-view-in-claude-code" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

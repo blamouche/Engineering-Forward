@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick. — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>NikolayS/pgque: PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">NikolayS</span>
+        <span class="meta-keywords">Postgres, queueing, pg_cron, event streaming, infrastructure</span>
+    </div>
+
+    <a href="https://github.com/NikolayS/pgque" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">PgQue revives the old PgQ design for modern managed Postgres, offering a SQL-first event queue that trades ultra-low latency for stable throughput, zero-bloat hot paths, and Kafka-like fan-out semantics inside the database.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>PgQue is positioned as an event log and consumer-cursor system inside Postgres rather than a conventional task queue built around row locking and deletes.</li>
+            <li>Its core claim is that snapshot batching plus table rotation avoids the dead tuples, vacuum pressure, and performance decay common in SKIP LOCKED queue designs.</li>
+            <li>Because it is implemented in SQL and PL/pgSQL, the project targets managed Postgres environments that cannot run custom extensions or sidecar daemons.</li>
+            <li>The latency trade-off is explicit: the tool is built for durability and sustained load, not single-digit millisecond dispatch.</li>
+            <li>The repo is a good example of teams trying to simplify infrastructure by reusing the operational guarantees of Postgres instead of adding another distributed system.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/NikolayS/pgque" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

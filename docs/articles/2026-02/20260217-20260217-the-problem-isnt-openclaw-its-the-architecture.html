@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>the problem isn’t OpenClaw. it’s the architecture. — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>the problem isn’t OpenClaw. it’s the architecture.</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        
+        <span class="meta-keywords">agent security, prompt injection, plugin marketplaces, least privilege, sandboxing</span>
+    </div>
+
+    <a href="https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Les incidents de skills malveillants autour d’OpenClaw illustrent surtout une vérité plus large : dès qu’un agent peut ingérer du contenu non fiable, accéder à des données privées et agir/communiquer, la sécurité ne peut plus reposer sur des “prompts‑policies” mais sur une architecture de confinement, de moindre privilège et d’audit.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>OpenClaw est présenté comme un “canari” : le même scénario se reproduira pour tout écosystème agent+tools+marketplace.</li>
+            <li>“Prompts are not policies” : les instructions ne sont pas des frontières de sécurité; l’injection de prompt est un risque opérationnel.</li>
+            <li>La “lethal trifecta” (accès données privées + ingestion contenu non fiable + capacité de communication) définit une zone de danger.</li>
+            <li>Les agents changent le mode d’échec: d’une réponse fausse à une action fausse (commandes, fichiers, infra, CI, SQL…).</li>
+            <li>Les contre‑mesures clés: sandboxing réel, scoping des credentials, restriction/allowlist des outils, logs d’actions, et gestion des skills comme des dépendances.</li>
+        </ul>
+    </section>
+
+    <a href="https://www.vulnu.com/p/the-problem-isnt-openclaw-its-the-architecture" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

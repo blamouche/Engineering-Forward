@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Research&#x27;s Agentic RAG: Solving RAG&#x27;s Biggest Problem — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Google Research&#x27;s Agentic RAG: Solving RAG&#x27;s Biggest Problem</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-09</span>
+        <span class="meta-author">Google Research</span>
+        <span class="meta-keywords">rag, agentic-rag, sufficient-context, multi-agent, google-research, retrieval-augmented-generation</span>
+    </div>
+
+    <a href="https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Google Research&#x27;s Agentic RAG replaces single-shot retrieval with a multi-agent pipeline that retrieves, evaluates whether it got enough, and sends targeted follow-up searches — achieving 34% accuracy improvement over standard RAG with negligible latency overhead.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Standard RAG retrieves once and hopes for the best; Agentic RAG retrieves, checks if it got enough, and goes back for more</li>
+            <li>The key innovation is a &quot;Sufficient Context Agent&quot; that inspects retrieved snippets, evaluates a draft response, identifies what&#x27;s missing, and sends targeted follow-up searches</li>
+            <li>Multi-agent pipeline architecture: orchestrator, planner, query rewriter, search fanout, and synthesis — each handling a distinct part of the retrieval process</li>
+            <li>34% accuracy improvement over standard RAG on factuality benchmarks with negligible latency overhead</li>
+            <li>The pattern — iterative retrieval with sufficiency checking — is the real takeaway, applicable even outside Google Cloud and Gemini Enterprise</li>
+            <li>The approach transforms RAG from a single-pass lookup into a conversational process with the knowledge base</li>
+        </ul>
+    </section>
+
+    <a href="https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

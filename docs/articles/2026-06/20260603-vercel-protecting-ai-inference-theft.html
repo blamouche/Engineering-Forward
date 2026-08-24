@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protecting Against AI Inference Theft at Scale — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Protecting Against AI Inference Theft at Scale</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-03</span>
+        <span class="meta-author">Malte Ubl, Eric Dodds (Vercel)</span>
+        <span class="meta-keywords">inference theft, BotID, AI security, token theft, rate limits, residential proxies, OpenAI-compatible adapter, Vercel, authentication</span>
+    </div>
+
+    <a href="https://vercel.com/blog/protecting-against-token-theft" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">AI inference is a million times more expensive than HTTP requests, making inference theft one of the highest-margin businesses an attacker can run—Vercel&#x27;s response is per-request verification using BotID deep analysis, because rate limits and auth walls alone can&#x27;t stop attackers who buy residential proxies by the thousand.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Inference theft is the unauthorized use of someone else&#x27;s paid AI inference—operators pay per call, attackers pay nothing and resell tokens at a discount</li>
+            <li>A single prompt to a frontier model can cost $2, making AI a million times more expensive than HTTP requests (~$2/million)—inference theft is one of the highest-margin businesses an attacker can run</li>
+            <li>Attackers wrap custom AI endpoints in OpenAI-compatible adapters and fan calls through residential proxies, defeating IP rate limits and auth walls</li>
+            <li>Verification must run on every AI request, not per session—per-session checks amortize the attacker&#x27;s bypass cost across thousands of stolen calls</li>
+            <li>Vercel&#x27;s BotID deep analysis (powered by Kasada) detected and blocked 10,000+ bot requests in the first minutes of a real attack that spiked to 1,300 requests per minute</li>
+        </ul>
+    </section>
+
+    <a href="https://vercel.com/blog/protecting-against-token-theft" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

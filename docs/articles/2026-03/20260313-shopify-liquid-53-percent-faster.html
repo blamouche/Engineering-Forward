@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-13</span>
+        <span class="meta-author">Simon Willison</span>
+        <span class="meta-keywords">Shopify, Liquid, Ruby, performance optimization, autoresearch, AI coding agent, Tobias Lütke, benchmark, memory allocations, automated experiments</span>
+    </div>
+
+    <a href="https://simonwillison.net/2026/Mar/13/liquid/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Shopify CEO Tobias Lütke used an AI coding agent running ~120 automated experiments to achieve 53% faster parsing and 61% fewer allocations in the Liquid template engine—a case study in executive-level AI-driven performance work.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Result: 53% faster parse+render, 61% fewer memory allocations in Shopify&#x27;s open-source Ruby Liquid template engine.</li>
+            <li>Methodology: Lütke deployed a coding agent running ~120 systematic micro-optimization experiments, generating 93 commits tracked via `autoresearch.jsonl`.</li>
+            <li>Specific wins: replacing regex tokenization with byte-level searching (~12% parse time reduction), eliminating costly string resets, caching integer-to-string conversions.</li>
+            <li>Critical enablers: a robust test suite (974 unit tests) and clear benchmarking scripts that allowed safe, measurable iteration.</li>
+            <li>Broader pattern: AI coding agents are enabling senior executives, previously too interrupt-driven for sustained deep technical work, to contribute meaningfully to codebases.</li>
+        </ul>
+    </section>
+
+    <a href="https://simonwillison.net/2026/Mar/13/liquid/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cline Releases Open-Source Agent Runtime SDK for Coding Agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Cline Releases Open-Source Agent Runtime SDK for Coding Agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-13</span>
+        <span class="meta-author">Nero Soares (TestingCatalog)</span>
+        <span class="meta-keywords">Cline, agent SDK, coding agents, open source, TypeScript, CLI, VS Code, JetBrains, agent runtime, agent teams, MCP</span>
+    </div>
+
+    <a href="https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cline has shipped @cline/sdk, an open-source agent runtime rebuilt from scratch to be portable across surfaces — CLI, VS Code, JetBrains — with native agent teams, scheduled jobs, and a pluggable architecture that lets any team build their own coding agents.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The SDK is a layered TypeScript stack with clean separation: @cline/shared for types, @cline/llms for provider abstraction (8+ providers), @cline/agents for the stateless agent loop, and @cline/core for stateful orchestration</li>
+            <li>Provider switching is now a config change, not a code change — provider logic is entirely outside the agent loop</li>
+            <li>Sessions survive UI restarts and can migrate across surfaces; the agent loop is stateless and reusable while the runtime is durable and portable</li>
+            <li>Cline CLI on claude-opus-4.7 scores 74.2% on Terminal Bench 2.0, beating Claude Code at 69.4% on the same model</li>
+            <li>Agent teams, subagents, scheduled CRON jobs, checkpointing, web search, MCP connectors, and cross-platform connector channels are all native</li>
+        </ul>
+    </section>
+
+    <a href="https://www.testingcatalog.com/cline-releases-open-source-agent-runtime-sdk-for-coding-agents/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EP216: RAGs vs Agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>EP216: RAGs vs Agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 23, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">RAG, agents, Claude Code, context management, proxy patterns, API gateway, system design</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/ep216-rags-vs-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">ByteByteGo&#x27;s EP216 breaks down the architectural choice between RAG (retrieval-augmented generation) and agent-based AI systems, alongside deep dives into proxy patterns, Claude Code&#x27;s request lifecycle, and context management strategies for long-running agent sessions.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>RAG (one retrieval, one generation) is cheap, predictable, and easy to debug — use it when answers live in your documents</li>
+            <li>Agents wrap LLMs in a reasoning loop with tools, trading flexibility and action capability for more tokens and harder debugging</li>
+            <li>Forward proxy represents the client, reverse proxy represents the server, API gateway layers auth/rate limiting across microservices</li>
+            <li>Claude Code&#x27;s request lifecycle reveals 8 steps from prompt to tool result streaming, with permissions gating every action</li>
+            <li>Long sessions use 5-layer lazy degradation: budget reduction → snip → microcompact → context collapse → auto-compact</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/ep216-rags-vs-agents" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

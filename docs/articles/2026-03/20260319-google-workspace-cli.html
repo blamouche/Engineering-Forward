@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Workspace CLI (gws) — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Google Workspace CLI (gws)</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">Google Workspace team</span>
+        <span class="meta-keywords">CLI, Google Workspace, API, automation, AI agents, Drive, Gmail, Calendar, Sheets, Docs, open source</span>
+    </div>
+
+    <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A unified command-line interface that dynamically builds itself from Google&#x27;s Discovery Service, enabling humans and AI agents to interact with all Google Workspace services through structured JSON outputs and agent skills—with zero boilerplate required.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Dynamic API Surface: Rather than shipping a static command list, gws reads Google&#x27;s Discovery Service at runtime, automatically incorporating new API endpoints as they&#x27;re released.</li>
+            <li>Multiple Auth Flows: Supports interactive OAuth, service accounts, pre-obtained tokens, and credentials files—designed to work on laptops, in CI/CD pipelines, and on servers alike.</li>
+            <li>AI-Ready Architecture: Every response outputs structured JSON; 100+ agent skills and Gemini extension support enable LLMs to manage Workspace without custom tooling.</li>
+            <li>Helper Commands: Curated high-level commands (prefixed with `+`) handle common workflows like email replies, spreadsheet appends, and calendar agendas with intelligent defaults.</li>
+            <li>Enterprise-Grade Security: Credentials encrypt at rest using AES-256-GCM with OS keyring storage; Model Armor integration scans responses for prompt injection risks.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/googleworkspace/cli" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

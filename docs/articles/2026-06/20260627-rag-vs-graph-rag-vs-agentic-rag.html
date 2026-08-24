@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG vs Graph RAG vs Agentic RAG — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>RAG vs Graph RAG vs Agentic RAG</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-27</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">RAG, Graph RAG, Agentic RAG, retrieval augmented generation, vector database, knowledge graph, LLM</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Three approaches to connecting LLMs to your data — standard RAG, Graph RAG, and Agentic RAG — each offer distinct trade-offs in speed, cost, and reasoning capability, from the fast and cheap one-shot retrieval to the flexible and self-correcting multi-step agent.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Standard RAG converts the query into an embedding, matches against a vector database, pulls the top-K closest chunks, and passes them to the LLM as context — fast and cheap, but if the wrong chunk is retrieved the answer is wrong and nothing catches it.</li>
+            <li>Graph RAG classifies the query: specific questions route to local search (vector DB finds matching entities, then traverses the knowledge graph collecting linked context), while broad questions route to global search (community reports loaded in batches, LLM scores each for relevance, top-ranked context synthesized).</li>
+            <li>Agentic RAG uses a reasoning agent that reads the query, breaks it into sub-questions, picks sources, retrieves context across multiple sources, and has another agent check whether the retrieved context answers the question — re-retrieving if not satisfied before synthesizing the final answer.</li>
+            <li>Standard RAG is best when the answer lives in your documents and speed matters; Graph RAG is expensive to build and slow to update but ideal for structured knowledge like legal, compliance, or biomedical data.</li>
+            <li>Agentic RAG is the most capable and flexible approach but slower, more expensive, and harder to debug — best suited for questions requiring multi-step reasoning and self-correction.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

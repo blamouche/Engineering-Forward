@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Use Subagents and Custom Agents in Codex — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Use Subagents and Custom Agents in Codex</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-16</span>
+        <span class="meta-author">Simon Willison</span>
+        <span class="meta-keywords">Codex, subagents, OpenAI, custom agents, TOML, gpt-5.3-codex-spark, agentic coding, multi-agent</span>
+    </div>
+
+    <a href="https://simonwillison.net/2026/Mar/16/codex-subagents/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">OpenAI&#x27;s general availability of Codex subagents mirrors Claude Code&#x27;s approach, allowing developers to create TOML-configured custom agents with specialized instructions and model selections—a pattern now standard across all major coding agent platforms.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Codex&#x27;s default subagents include &quot;explorer,&quot; &quot;worker,&quot; and &quot;default&quot;—with &quot;worker&quot; optimized for many small parallel tasks</li>
+            <li>Custom agents are TOML files stored in `~/.codex/agents/` supporting custom instructions and model selection including `gpt-5.3-codex-spark` for high speed</li>
+            <li>Agents can be referenced by name to coordinate specialized tasks (e.g., debugger + code mapper working in parallel)</li>
+            <li>Willison notes this pattern is now &quot;widely supported&quot;: Claude Code, Gemini CLI, Mistral Vibe, VS Code, and Cursor all implement variants</li>
+            <li>Willison added a dedicated subagents chapter to his Agentic Engineering Patterns guide in response</li>
+        </ul>
+    </section>
+
+    <a href="https://simonwillison.net/2026/Mar/16/codex-subagents/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

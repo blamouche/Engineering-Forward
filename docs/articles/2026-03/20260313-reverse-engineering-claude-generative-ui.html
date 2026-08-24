@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse-engineering Claude&#x27;s generative UI — then building it for the terminal — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Reverse-engineering Claude&#x27;s generative UI — then building it for the terminal</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-13</span>
+        <span class="meta-author">Michael Livshits</span>
+        <span class="meta-keywords">Claude, generative UI, reverse engineering, terminal, WKWebView, morphdom, streaming, DOM diffing, Glimpse, pi coding agent</span>
+    </div>
+
+    <a href="https://michaellivs.com/blog/reverse-engineering-claude-generative-ui" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">By extracting Anthropic&#x27;s actual design guidelines from browser network requests, Livshits reverse-engineered Claude&#x27;s generative UI system and rebuilt it for terminal using native macOS WKWebView windows with streaming-smooth DOM diffing.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Claude&#x27;s generative UI uses a `show_widget` tool call returning HTML parameters—not markdown embeds—and requires calling `visualize_read_me` first to load design guidelines progressively.</li>
+            <li>HTML is injected directly into the DOM with Content Security Policy restricting CDN sources.</li>
+            <li>Anthropic&#x27;s actual design guidelines: 10 modular sections covering core design, color palettes, SVG setup, and diagram types; available from browser network requests.</li>
+            <li>Streaming-friendly HTML: styles first, scripts last; no gradients or shadows that flash during DOM updates.</li>
+            <li>Terminal implementation uses native macOS WKWebView windows (&lt;50ms startup) opened early via intercepted tool call streaming events.</li>
+            <li>morphdom library for DOM diffing applies fade-in animations only to genuinely new elements, solving streaming smoothness by diffing rather than replacing innerHTML.</li>
+        </ul>
+    </section>
+
+    <a href="https://michaellivs.com/blog/reverse-engineering-claude-generative-ui" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How NVIDIA Builds Open Models for the Age of AI — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How NVIDIA Builds Open Models for the Age of AI</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-27</span>
+        <span class="meta-author">Alex Xu / ByteByteGo (interview with Bryan Catanzaro, VP Applied Deep Learning Research at NVIDIA)</span>
+        <span class="meta-keywords">NVIDIA, open models, Nemotron, Cosmos, hybrid architecture, Mamba, GPU co-design, open source AI</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">NVIDIA is the world&#x27;s largest publisher of open AI models, spanning reasoning, physical AI, healthcare, and quantum computing — and it gives them away to grow the ecosystem that buys its GPUs.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>NVIDIA&#x27;s open model ecosystem spans three domains: reasoning models (Nemotron family), physical AI/world models (Cosmos), and specialized verticals (Isaac GR00T for robotics, Alpamayo for self-driving, BioNeMo for drug discovery, Earth-2 for climate).</li>
+            <li>The hybrid architecture combines Mamba (efficient, linear-cost) layers with attention (precise recall) layers and mixture-of-experts, enabling million-token context windows at practical cost.</li>
+            <li>NVIDIA co-designs its models with its GPUs: Nemotron models are pretrained in 4-bit (NVFP4) format from step one, matching Blackwell&#x27;s hardware capabilities — rather than training in high precision and quantizing later.</li>
+            <li>Post-training via large-scale reinforcement learning across diverse environments is where capability gains compound; NVIDIA&#x27;s efficiency lets it scale RL at lower cost with over a million rollouts.</li>
+            <li>The same foundation is reused across all model families (Cosmos Reason feeds into Isaac GR00T for robotics), following the &quot;Unified&quot; philosophy that made CUDA successful — build once, reuse everywhere.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

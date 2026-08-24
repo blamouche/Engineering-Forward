@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Netflix is Using Multimodal AI to Power Video Search — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Netflix is Using Multimodal AI to Power Video Search</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 20, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">Netflix, multimodal AI, video search, ensemble models, hybrid search, Elasticsearch, temporal bucketing, data fusion</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-netflix-is-using-multimodal-ai" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Netflix built a multimodal video search system that combines specialized AI models (face recognition, scene classification, dialogue transcription, object detection) through a decoupled three-stage pipeline, enabling editors to search 216 million frames per season with sub-second latency.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A single Netflix season produces 2,000+ hours of raw footage (216M frames), and the multi-model ensemble generates billions of multi-layered data points — far beyond what traditional databases handle.</li>
+            <li>Netflix chose an ensemble of specialized models over a single generalist because task-specific models consistently outperform general-purpose ones at face recognition, scene classification, and dialogue transcription.</li>
+            <li>The three-stage pipeline separates concerns: Stage 1 (Cassandra) for raw ingestion with zero transformation, Stage 2 (offline fusion) for temporal bucketing into one-second intervals, Stage 3 (Elasticsearch) for real-time hybrid search.</li>
+            <li>Temporal bucketing maps overlapping model outputs into fixed one-second intervals, merging annotations (e.g., &quot;Joey&quot; + &quot;kitchen&quot;) into fused records — 2,000 hours = 7.2M buckets.</li>
+            <li>Hybrid search combines exact keyword matching for proper nouns with vector similarity for semantic concepts, consistently outperforming either approach alone; users can toggle between exact k-NN and approximate nearest neighbor.</li>
+            <li>Netflix is also exploring MediaFM, a unified foundation model handling audio/video/text together — leaving open whether specialized ensembles or unified models will win in the long term.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-netflix-is-using-multimodal-ai" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

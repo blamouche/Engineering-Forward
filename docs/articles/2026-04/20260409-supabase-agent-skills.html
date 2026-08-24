@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agents Know About Supabase. They Don&#x27;t Always Use It Right. — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>AI Agents Know About Supabase. They Don&#x27;t Always Use It Right.</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 9, 2026</span>
+        <span class="meta-author">Pedro Rodrigues</span>
+        <span class="meta-keywords">Supabase, agent skills, AI coding agents, RLS, security, MCP, Claude Code, Codex, Cursor, Agent Skills Open Standard, SKILL.md</span>
+    </div>
+
+    <a href="https://supabase.com/blog/supabase-agent-skills" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Supabase released Agent Skills, an open-source instruction set that teaches AI coding agents how to build on Supabase correctly — addressing the gap between agents &quot;knowing about&quot; Supabase and actually implementing it with proper security patterns like Row Level Security.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>AI agents frequently skip critical security patterns like RLS policies, `security_invoker = true` on views, and proper `service_role` key handling — the skill encodes these requirements inline</li>
+            <li>The skill is ~100 lines in SKILL.md and teaches agents *how* to find current docs rather than replicating them, keeping it maintainable</li>
+            <li>Testing across Claude (Opus/Sonnet 4.6) and Codex (GPT-5.4) showed consistent improvement: MCP + Skill outperformed MCP-only and baseline in every combination, with Codex GPT-5.4 reaching 88% task completion</li>
+            <li>Key design insight: agents are &quot;lazy about reading reference files&quot; — all critical security guidance must live directly in SKILL.md where it can&#x27;t be skipped</li>
+            <li>The skill introduces an opinionated schema management workflow: modify directly during development, then run database advisors, then commit migrations once stable</li>
+        </ul>
+    </section>
+
+    <a href="https://supabase.com/blog/supabase-agent-skills" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

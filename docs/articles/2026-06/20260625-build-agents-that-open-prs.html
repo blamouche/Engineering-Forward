@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Building Chatbots. Build Agents That Open PRs. — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Stop Building Chatbots. Build Agents That Open PRs.</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-24</span>
+        <span class="meta-author">Zachary Proser</span>
+        <span class="meta-keywords">AI agents, pull requests, reviewable artifacts, chatbots, agent engineering, CI gates, software workflow</span>
+    </div>
+
+    <a href="https://zackproser.com/blog/build-agents-that-open-prs" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">The unit of useful agent work is a reviewable artifact — a PR, a draft, a diff — not a chat reply, because a chat reply evaporates while a PR sits in a queue with your name on it until you decide.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A chat reply evaporates — you read it, scroll past, and ten minutes later it&#x27;s gone; a pull request sits in GitHub with your name on it until you deal with it, has a diff, has status checks, and either passes the gate or doesn&#x27;t</li>
+            <li>The unit of useful agent work is a reviewable artifact (PR, draft, diff) not a chat reply — if the output is a chat paragraph, you still have the job; if it&#x27;s a PR with passing checks, you have a decision to make</li>
+            <li>A gate (CI, tests, linter, validation script) is load-bearing: the agent must satisfy checks before its output reaches a human, which is what lets you trust the queue</li>
+            <li>Reject should be the default: nothing the agent produces should ship without an explicit yes from someone who owns the outcome — the agent runs the bellows, the human keeps the quench</li>
+            <li>The pattern generalizes: &quot;ask the docs&quot; bot → PR against docs repo with proposed paragraph; &quot;summarize incident&quot; bot → drafted postmortem for review; &quot;fix config&quot; bot → one-line diff with failing test linked</li>
+        </ul>
+    </section>
+
+    <a href="https://zackproser.com/blog/build-agents-that-open-prs" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

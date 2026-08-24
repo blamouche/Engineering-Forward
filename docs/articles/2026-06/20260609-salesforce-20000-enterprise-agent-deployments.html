@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What Salesforce Learned from 20,000 Enterprise Agent Deployments — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>What Salesforce Learned from 20,000 Enterprise Agent Deployments</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">June 9, 2026</span>
+        <span class="meta-author">ByteByteGo (interview with John Kucera, Salesforce CPO of Agentforce)</span>
+        <span class="meta-keywords">enterprise-agents, Agentforce, Salesforce, agent-deployment, guardrails, feedback-loops, anti-patterns, multi-agent-orchestration, deterministic-workflows, KPIs, context-engineering</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/what-salesforce-learned-from-20000" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Salesforce&#x27;s experience deploying AI agents across 20,000 enterprise customers — with their support agent alone handling over three million conversations — reveals that 90% of the work happens after launch, and the teams that succeed are those that build tight feedback loops, encode policies in code rather than prompts, and keep their context lean.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The effort distribution for AI agents is the inverse of traditional software: 90% of work happens post-launch, not pre-launch</li>
+            <li>Every agent needs a concrete KPI tied to a real business outcome — Salesforce&#x27;s support agent uses containment rate (cases fully resolved without human follow-up)</li>
+            <li>Agentic Work Units (AWUs) provide a standardized way to measure actual task completion beyond raw activity or interaction counts</li>
+            <li>Trust architecture requires both input guardrails (secure data retrieval, zero data retention, trust-boundary hosting) and output guardrails (tool validation, grounding checks, content filtering)</li>
+            <li>Data masking should not be the default for agents — it strips the context the agent needs for reasoning</li>
+            <li>Three anti-patterns consistently degrade performance: over-reliance on LLM reasoning where code is better, prompting harder instead of encoding policies, and poor context engineering</li>
+            <li>Agent Script (Salesforce&#x27;s TypeScript-based deterministic scripting framework) lets you define control flow alongside LLM reasoning — if you can write the logic as a flowchart, it should probably be code</li>
+            <li>The future is multi-agent orchestration (parent agents coordinating specialized sub-agents three levels deep) and agents that work beyond the chat window across channels</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/what-salesforce-learned-from-20000" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

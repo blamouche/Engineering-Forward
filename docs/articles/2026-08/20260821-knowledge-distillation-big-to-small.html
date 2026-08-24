@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Big Models Teach Small Models to Be Smart — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Big Models Teach Small Models to Be Smart</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-05</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">knowledge-distillation, llm, model-compression, small-models, ai</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-big-models-teach-small-models" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Knowledge distillation — where a large &quot;teacher&quot; model trains a smaller &quot;student&quot; model — is now standard practice in production AI, and understanding its three forms (output, feature, and synthetic data distillation) is essential for anyone deploying models at scale.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Distillation produces a genuinely separate model, not a compressed version — this distinction matters because a distilled model can sometimes behave in ways the original would not</li>
+            <li>Soft labels carry &quot;dark knowledge&quot; — the teacher&#x27;s probability distribution across all options reveals relationships between categories that a single hard label discards entirely</li>
+            <li>Three distillation methods exist: output distillation (matching final probabilities), feature distillation (matching internal representations), and synthetic data distillation (teacher generates training examples) — the third is most common because it works even with closed models</li>
+            <li>DeepSeek&#x27;s 2025 distillation results showed a 7B-parameter student outperforming a 32B-parameter model on competition mathematics, demonstrating that narrow-task performance can be concentrated in small models</li>
+            <li>The newest direction is full automation: the teacher generates data, fine-tunes the student, evaluates it, and repeats the cycle — but the choice of teacher model has a large effect on outcomes, making that initial choice more consequential</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-big-models-teach-small-models" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

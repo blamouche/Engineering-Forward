@@ -19,7 +19,7 @@ from html import escape
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_DIR = os.path.dirname(SCRIPT_DIR)
 SRC_DIR = os.path.join(REPO_DIR, "src")
-DIST_DIR = os.path.join(SCRIPT_DIR, "dist")
+DIST_DIR = SCRIPT_DIR  # Output directly to docs/ for GitHub Pages
 TEMPLATE_DIR = os.path.join(SCRIPT_DIR, "templates")
 
 # ─── Config ───────────────────────────────────────────────────────────────────
@@ -999,11 +999,18 @@ def main():
     articles = load_all_articles()
     print(f"  Found {len(articles)} articles")
 
-    # Clean dist
+    # Clean generated files (preserve build_site.py, README.md, .gitignore)
+    import shutil
+    preserve = {"build_site.py", "README.md", ".gitignore", "__pycache__"}
     if os.path.exists(DIST_DIR):
-        import shutil
-        shutil.rmtree(DIST_DIR)
-    os.makedirs(DIST_DIR)
+        for item in os.listdir(DIST_DIR):
+            if item in preserve:
+                continue
+            item_path = os.path.join(DIST_DIR, item)
+            if os.path.isdir(item_path):
+                shutil.rmtree(item_path)
+            else:
+                os.remove(item_path)
 
     # Write CSS
     with open(os.path.join(DIST_DIR, "style.css"), "w") as f:

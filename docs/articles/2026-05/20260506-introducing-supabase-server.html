@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducing @supabase/server — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Introducing @supabase/server</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-06</span>
+        <span class="meta-author">tomas_pozo, kalleby_santos, katerina_skroumpelou, matt_johnston</span>
+        <span class="meta-keywords">supabase-server, edge-functions, server, typescript, auth, JWT, RLS, developer-experience</span>
+    </div>
+
+    <a href="https://supabase.com/blog/introducing-supabase-server" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">`@supabase/server` is a new package that eliminates repetitive auth verification, client setup, and CORS boilerplate from Supabase Edge Functions, giving developers a declarative, runtime-agnostic wrapper to jump straight into business logic.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>`@supabase/server` replaces the shared utility files and manual JWT verification that plague Edge Functions with a single `withSupabase` wrapper</li>
+            <li>Supports five declarative auth modes: `user`, `none`, `secret`, `publishable`, and combined `[&#x27;user&#x27;, &#x27;secret&#x27;]`</li>
+            <li>Works across Edge Functions, Vercel Functions, Cloudflare Workers, Hono, and Bun — any runtime that supports the standard `Request`/`Response` Web API</li>
+            <li>Automatically handles new asymmetric JWT signing keys and key validation without requiring `jose` or JWKS configuration</li>
+            <li>Designed with AI agent compatibility in mind: Claude Code migrated an entire project&#x27;s Edge Functions in a single prompt due to the uniform API pattern</li>
+        </ul>
+    </section>
+
+    <a href="https://supabase.com/blog/introducing-supabase-server" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

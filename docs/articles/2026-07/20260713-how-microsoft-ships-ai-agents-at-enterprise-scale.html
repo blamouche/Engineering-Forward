@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Microsoft Ships AI Agents at Enterprise Scale — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Microsoft Ships AI Agents at Enterprise Scale</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-13</span>
+        <span class="meta-author">ByteByteGo (Alex Xu)</span>
+        <span class="meta-keywords">microsoft, foundry, ai-agents, production, harness, context-layer, evaluation, retrieval, enterprise</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Microsoft&#x27;s VP of Products for Core AI explains the five-layer production harness that turns LLM prototypes into reliable enterprise agents, centering on retrieval-as-a-subagent and giving agents their own identity.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A prototype agent works in a demo but fails in production because everything *around* the model breaks—data, tools, identity, guardrails—so the &quot;harness matters as much as the model&quot;</li>
+            <li>The production harness has five layers: inference (swappable models), agent runtime (orchestration loop), observability &amp; governance, identity (agents as directory principals), and context (the hardest problem)</li>
+            <li>Classic one-shot RAG breaks when questions are ambiguous or need multi-source joins; the fix is *retrieval-as-a-subagent*—a planner-driven loop that queries, evaluates, retries, and returns structured &quot;I don&#x27;t know&quot; instead of hallucinations</li>
+            <li>Microsoft&#x27;s context layer ships as four headless services—Foundry IQ (unstructured), Fabric IQ (structured), Web IQ (real-time web), Work IQ (M365 productivity surface)—all called via MCP</li>
+            <li>Rubric-based evaluation (domain-specific yes/no checks) plus a self-improving Agent Optimizer that rewrites prompts, swaps models, and promotes the best candidate beats generic metrics like groundedness and coherence</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-microsoft-ships-ai-agents-at" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

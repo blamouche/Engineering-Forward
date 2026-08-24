@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oh Memories, Where&#x27;d You Go: Weaviate&#x27;s Engram Agent Memory Layer — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Oh Memories, Where&#x27;d You Go: Weaviate&#x27;s Engram Agent Memory Layer</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">April 2, 2026</span>
+        <span class="meta-author">Yaru Lin and Charles Pierse (Weaviate)</span>
+        <span class="meta-keywords">Weaviate, Engram, agent memory, MCP, Claude Code, memory architecture, persistent context, vector search</span>
+    </div>
+
+    <a href="https://weaviate.io/blog/engram-internal-use-case" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Weaviate&#x27;s Engram memory layer for AI agents enables persistent, structured contextual memory across sessions, but its evaluation reveals that agents ignore optional memory tools without infrastructure-level triggers — discretion over memory use fails.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Engram organizes memory by semantic topics: communication style, domain knowledge, tool preferences, workflow patterns</li>
+            <li>Optional memory tools via MCP failed: Claude defaulted to built-in memory (no tool calls required) over external retrieval</li>
+            <li>Deterministic retrieval hooks at infrastructure level (not agent discretion) are required for reliable memory use</li>
+            <li>Session lifecycle triggers: startup recall, decision-point saves, periodic checkpoints, end-of-session summaries</li>
+            <li>Clear wins: decision archaeology and hallucination prevention; gaps in planning tasks where Claude silently ignored available context</li>
+        </ul>
+    </section>
+
+    <a href="https://weaviate.io/blog/engram-internal-use-case" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

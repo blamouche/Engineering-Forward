@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Snapchat Serves a Billion Predictions Per Second — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Snapchat Serves a Billion Predictions Per Second</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 19, 2026</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">Snapchat, machine learning, ranking, recommendation systems, Bento, infrastructure, feature store, real-time inference</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Snapchat&#x27;s Bento platform handles over a billion ML predictions per second across 477 million daily users by splitting model serving into retrieval and ranking stages, with a dedicated feature store processing 10 trillion events daily to prevent train-serve skew.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Bento is Snap&#x27;s unified ML platform powering content recommendations, ad ranking, friend suggestions, and AR lens selection</li>
+            <li>The architecture splits inference into retrieval (cheap models filtering millions to hundreds) and ranking (expensive models scoring final candidates)</li>
+            <li>A key innovation is splitting compute graphs: dense matrix ops go to GPU while embedding lookups and feature parsing run on CPU</li>
+            <li>Robusta, the feature platform, processes 10 trillion events/day and maintains consistency between offline training data and online serving data to prevent train-serve skew</li>
+            <li>The system supports hundreds of ML experiments per month through a layered training architecture with shared frameworks and YAML configuration</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-snapchat-serves-a-billion-predictions" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

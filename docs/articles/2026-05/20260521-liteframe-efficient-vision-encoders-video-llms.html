@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-21</span>
+        <span class="meta-author">Jihwan Kim, Nikhil Parthasarathy, Danfeng Qin et al. (Google DeepMind / Seoul National University)</span>
+        <span class="meta-keywords">Video LLM, vision encoder, frame scaling, token compression, distillation, efficiency, long-form video</span>
+    </div>
+
+    <a href="https://jjihwan.github.io/projects/LiteFrame/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Google DeepMind researchers propose LiteFrame, a highly efficient 87M-parameter video encoder that reduces inference latency by up to 35% compared to its 304M teacher model while enabling 8x more frames — unlocking scalable long-form video understanding by shifting the bottleneck from expensive per-frame vision encoding.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LiteFrame compresses the vision encoder from 304M to 87M parameters while improving video understanding accuracy</li>
+            <li>Key insight: after existing token reduction methods, the latency bottleneck shifts from the LLM to the vision encoder&#x27;s per-frame processing</li>
+            <li>Compressed Token Distillation (CTD) trains a compact student encoder to predict information-dense, spatio-temporally compressed representations from a large teacher model</li>
+            <li>Enables 8x more frames within fixed compute budgets, critical for long-form video understanding</li>
+            <li>Achieves state-of-the-art on HLVid via zero-shot spatial resolution scaling without high-resolution training</li>
+        </ul>
+    </section>
+
+    <a href="https://jjihwan.github.io/projects/LiteFrame/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

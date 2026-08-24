@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perplexity Is Open-Sourcing Bumblebee — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Perplexity Is Open-Sourcing Bumblebee</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 22, 2026</span>
+        <span class="meta-author">Perplexity Team</span>
+        <span class="meta-keywords">Perplexity, Bumblebee, open source, supply chain security, developer security, scanner, Go, endpoint security</span>
+    </div>
+
+    <a href="https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Perplexity open-sources Bumblebee, a read-only supply-chain scanner for developer endpoints that checks on-disk package, extension, and AI tool metadata against known compromises without ever executing install scripts.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Bumblebee is a zero-dependency Go binary that performs read-only scans of developer machines, covering package managers (npm, PyPI, Go, RubyGems, Composer), MCP configs, editor extensions, and browser extensions.</li>
+            <li>The tool deliberately never runs npm, pip, or any package manager to avoid triggering postinstall scripts that could execute compromised code during scanning.</li>
+            <li>It was built internally at Perplexity to protect developer systems behind its search product, Comet browser, and Computer agent, and maps to recent supply-chain campaigns including the Mini Shai-Hulud series.</li>
+            <li>Three scan profiles (baseline, project, deep) support routine inventory and active incident response, with structured NDJSON output and configurable exposure catalogs.</li>
+            <li>Licensed under Apache 2.0, with 2,300+ GitHub stars and maintained threat intel catalogs for known campaigns.</li>
+        </ul>
+    </section>
+
+    <a href="https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

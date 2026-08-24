@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Emerging Role of SRAM-Centric Chips in AI Inference — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Emerging Role of SRAM-Centric Chips in AI Inference</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-05</span>
+        <span class="meta-author">Natalie Serrino, Zain Asgar</span>
+        <span class="meta-keywords">Inference, hardware, SRAM, AI chips, memory bandwidth, autoregressive decoding, Cerebras, Groq</span>
+    </div>
+
+    <a href="https://gimletlabs.ai/blog/sram-centric-chips" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">SRAM-centric accelerators represent a fundamental architectural shift in AI inference, trading compute density for memory bandwidth to address the inherent memory bottlenecks of autoregressive decoding—positioning them as essential infrastructure alongside GPUs.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Memory placement determines architecture: The core tradeoff is near-compute memory (SRAM) versus far-compute memory (DRAM), with bandwidth scaling differently based on physical proximity to processors.</li>
+            <li>Decode workloads favor SRAM-centric design: The autoregressive nature of token generation creates low arithmetic intensity, making memory bandwidth the bottleneck where SRAM excels.</li>
+            <li>Arithmetic intensity is the decisive factor: Working set size determines whether traditional GPU caching hierarchies or flatter SRAM-distributed systems will perform better for specific workloads.</li>
+            <li>Disaggregation across vendors is emerging: Rather than running entire inference on single platforms, optimal performance requires routing prefill to compute-optimized hardware and decode to bandwidth-optimized systems.</li>
+            <li>New memory technologies will emerge: As SRAM density and DRAM cost improvements plateau, expect innovations like 3D stacked DRAM and alternative memory architectures to fill specialized roles.</li>
+        </ul>
+    </section>
+
+    <a href="https://gimletlabs.ai/blog/sram-centric-chips" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

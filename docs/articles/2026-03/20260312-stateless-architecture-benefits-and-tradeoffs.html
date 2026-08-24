@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stateless Architecture: Benefits and Tradeoffs — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Stateless Architecture: Benefits and Tradeoffs</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-12</span>
+        <span class="meta-author">Alex Xu (ByteByteGo)</span>
+        <span class="meta-keywords">stateless architecture, system design, scalability, state management, distributed systems, application servers, external storage</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/stateless-architecture-benefits-and" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Stateless architecture doesn&#x27;t eliminate state—it relocates state from application servers to external storage systems, a distinction that clarifies both the scalability benefits and the operational tradeoffs developers must understand.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The core misconception: stateless architecture is often misunderstood as &quot;eliminating state,&quot; when it actually relocates state to external systems (databases, caches, session stores).</li>
+            <li>State is essential: user sessions, shopping carts, authentication tokens, and preferences are inherent to applications and can&#x27;t be eliminated without degrading user experience.</li>
+            <li>Scalability benefit: by moving state off application servers, any server instance can handle any request, enabling horizontal scaling and simplified load balancing.</li>
+            <li>Resilience benefit: when application servers hold no state, they can fail and be replaced without data loss, since persistent state lives in dedicated storage systems.</li>
+            <li>Tradeoff awareness: developers must understand where state migrates, why it moves, and the network latency and storage costs introduced by external state management.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/stateless-architecture-benefits-and" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

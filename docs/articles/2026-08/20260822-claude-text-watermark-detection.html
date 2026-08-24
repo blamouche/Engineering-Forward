@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Claude&#x27;s Text Watermark Works — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Claude&#x27;s Text Watermark Works</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-22</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">anthropic, claude, watermark, ai-text-detection, llm, text-generation, provenance</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Anthropic&#x27;s text watermarking approach manipulates the next-token sampling process using a secret key and preceding words to restrict which candidate tokens are valid, creating a statistical signature that can be detected by checking match rates across the full text.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Watermarking works at the sampling step: instead of random sampling from probable next tokens, a keyed function uses a secret key plus previous few words to determine which candidates are valid</li>
+            <li>The watermark signal is strongest where multiple plausible word choices exist — high-entropy positions carry the signal</li>
+            <li>Detection works in reverse: for each word in a text, check if it&#x27;s a valid choice based on the secret key and preceding words, then compute overall match rate as an AI-generated score</li>
+            <li>Watermarked text matches the validity check far more often than non-watermarked text, creating a statistical fingerprint</li>
+            <li>The approach is fragile at positions with few choices (function words, code) but robust in natural prose with many alternatives</li>
+            <li>False negatives remain a challenge, especially for technical writing where vocabulary is constrained</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

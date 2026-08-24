@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schema Evolution: Changing the Contract Without Breaking What Runs — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Schema Evolution: Changing the Contract Without Breaking What Runs</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-20</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">schema evolution, backward compatibility, forward compatibility, expand and contract, API versioning, database migration</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/schema-evolution-changing-the-contract" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Schema changes are the hardest kind of software change to get right because multiple versions always coexist; this article maps the strategies — from expand-and-contract migrations to schema registries — that let you evolve data contracts without breaking running systems.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>More than one schema version is always in play simultaneously: mobile apps from 18 months ago still call your API, queue messages from old consumers still arrive, and rows written years ago are still read by current code.</li>
+            <li>Backward compatibility means new code reads old data; forward compatibility means old code reads new data. A safe migration requires both, and the expand-and-contract pattern (add field, deploy, migrate data, remove old field, deploy again) is the canonical way to achieve it.</li>
+            <li>Breaking changes include renaming fields, removing fields, and changing types — but qualifiers matter: making a field optional is backward-compatible; making an optional field required is not.</li>
+            <li>Schema registries (Avro, Protobuf, JSON Schema) enforce compatibility checks at deploy time, preventing a producer from shipping a schema that breaks existing consumers.</li>
+            <li>The same problem surfaces differently across databases (dual-write), APIs (versioned endpoints), and event streams (topic-based evolution), and each domain has its own best-practice patterns.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/schema-evolution-changing-the-contract" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

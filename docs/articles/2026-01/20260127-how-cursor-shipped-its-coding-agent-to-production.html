@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Cursor Shipped its Coding Agent to Production — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How Cursor Shipped its Coding Agent to Production</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">January 26, 2026</span>
+        <span class="meta-author">ByteByteGo Newsletter</span>
+        <span class="meta-keywords">coding agents, Cursor, AI infrastructure, model training, latency optimization, sandboxing, agentic systems</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cursor&#x27;s production coding agent required solving three fundamental challenges: teaching models precise editing through trajectory training, managing compounding latency through architectural optimizations, and scaling secure sandboxed execution environments.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A coding agent is a system built around a model with tool access, an iterative execution loop, and mechanisms to retrieve relevant code, not just a language model</li>
+            <li>Tool proficiency must be trained into models through trajectories rather than prompted, especially for editing operations where precision is critical</li>
+            <li>Latency compounds across iteration loops, requiring techniques like Mixture of Experts routing, speculative decoding, and context compaction to maintain responsiveness</li>
+            <li>Sandboxing at scale requires treating execution environments as core serving infrastructure with fast provisioning and aggressive recycling</li>
+            <li>User adoption depends on trust, where a single risky edit or broken build can stop users from relying on the tool</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-cursor-shipped-its-coding-agent" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

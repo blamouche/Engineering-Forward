@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Gateway Production Index — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>AI Gateway Production Index</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-12</span>
+        <span class="meta-author">Harpreet Arora, Yvonne Zhou</span>
+        <span class="meta-keywords">AI Gateway, Vercel, production AI, model routing, Anthropic, Google, OpenAI, agentic workloads, multi-model architecture, fallback, spend share</span>
+    </div>
+
+    <a href="https://vercel.com/blog/ai-gateway-production-index" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Vercel&#x27;s AI Gateway Production Index, based on seven months of production traffic from 200K+ teams processing tens of trillions of tokens, reveals that Anthropic leads in spend (61%) while Google leads in volume (38%), agentic workloads now carry 59% of all tokens, and production teams at scale routinely use 35+ distinct models.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Anthropic dominates spend share (61% in April 2026) through high-stakes enterprise workloads on Claude Opus, while Google leads token volume (38%) through cheap Gemini Flash calls—the same customer base uses both for different layers</li>
+            <li>OpenAI&#x27;s spend share tripled from March to April after GPT-5.4/5.5 releases, showing how quickly model updates can shift market position</li>
+            <li>Agentic (tool-calling) requests carry 58.9% of all tokens despite being only 22.2% of requests, meaning tool-using requests are 2.6x more token-heavy—the cost surface has shifted from chat-shaped to agent-shaped</li>
+            <li>Teams at 10M+ monthly requests average 35 distinct models in regular use, running routing graphs where every model is swappable within hours</li>
+            <li>3.5% of requests complete after fallback rerouting, but cost-weighted rescue rate is 4.9% because expensive calls fail more often—provider SLA uptime diverges from real application experience</li>
+        </ul>
+    </section>
+
+    <a href="https://vercel.com/blog/ai-gateway-production-index" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>MCP vs A2A vs ACP: How AI Agents Actually Talk to Each Other</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-18</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">MCP, A2A, ACP, AI agents, protocols, interoperability, tool use</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Three competing protocols—MCP, A2A, and ACP—define how AI agents communicate with tools and with each other, and understanding their differences is critical for building production agent systems.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>**MCP (Model Context Protocol)** handles agent-to-tool communication: the host app embeds an MCP client that routes requests to MCP servers, which execute tool calls and return structured responses.</li>
+            <li>**A2A (Agent-to-Agent)** handles agent-to-agent communication: agents discover capable peers via Agent Cards (published at well-known URLs), delegate tasks, and receive structured results; if more input is needed, the second agent pauses in an &quot;input-required&quot; state.</li>
+            <li>**ACP (Agent Communication Protocol)** took a REST-first approach to agent-to-agent communication, using Agent Manifests for discovery, direct HTTP calls, and sync or async SSE responses—but has been merged into A2A.</li>
+            <li>In production, MCP and A2A are complementary: MCP handles tool access, A2A handles agent communication—neither alone is sufficient.</li>
+            <li>A key debate remains: A2A and ACP feel like specs for a multi-agent world that hasn&#x27;t fully arrived yet; most production setups are still one orchestrator calling tools via MCP.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

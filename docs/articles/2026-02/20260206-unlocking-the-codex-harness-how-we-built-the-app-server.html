@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unlocking the Codex harness: how we built the App Server — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Unlocking the Codex harness: how we built the App Server</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">OpenAI</span>
+        <span class="meta-keywords">agents, Codex, architecture, JSON-RPC, protocol design, IDE integrations</span>
+    </div>
+
+    <a href="https://openai.com/index/unlocking-the-codex-harness/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">OpenAI détaille l’App Server de Codex : un runtime/protocole (JSON‑RPC bidirectionnel sur stdio) qui expose le « harness » agentique (threads/turns/items, outils, persistance) pour permettre à des clients variés (TUI, VS Code, desktop, web) de réutiliser le même loop.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Besoin initial : réutiliser le même agent loop entre le TUI (CLI) et des surfaces IDE (VS Code) sans tout réécrire.</li>
+            <li>Choix de design : JSON-RPC bidirectionnel + notifications de streaming plutôt qu’un simple request/response.</li>
+            <li>Trois primitives de conversation : Thread (durable), Turn (unité de travail), Item (événements typés avec lifecycle started/delta/completed).</li>
+            <li>App Server comme process long‑vivant qui héberge des « core threads » et gère persistance, config/auth, exécution d’outils/extensions.</li>
+            <li>Objectif plateforme : stabilité/backward compatibility pour partenaires (JetBrains, Xcode) et produits internes.</li>
+        </ul>
+    </section>
+
+    <a href="https://openai.com/index/unlocking-the-codex-harness/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

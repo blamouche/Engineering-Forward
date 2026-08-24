@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LongLive 2.0: An NVFP4 Parallel Infrastructure for Long Video Generation — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>LongLive 2.0: An NVFP4 Parallel Infrastructure for Long Video Generation</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 13, 2026</span>
+        <span class="meta-author">NVIDIA Research (NVlabs)</span>
+        <span class="meta-keywords">LongLive, video generation, NVFP4, NVIDIA, sequence parallelism, AR training, inference optimization, ICLR 2026</span>
+    </div>
+
+    <a href="https://github.com/NVlabs/LongLive" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">NVIDIA releases LongLive 2.0, an infrastructure for training and running long video generation models that uses NVFP4 quantization and sequence parallelism to achieve up to 45.7 FPS at 5B parameters — accepted at ICLR 2026.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LongLive 2.0 is an infrastructure play, not just a model: it supports NVFP4 (4-bit floating point) for both training (AR teacher-forcing) and inference, plus few-step DMD distillation.</li>
+            <li>The 5B parameter NVFP4-quantized model achieves 45.7 FPS at 2-step inference, with performance staying competitive (VBench 83.14 vs 85.06 for BF16) — a 1.8x speed jump from the 24.8 FPS BF16 baseline.</li>
+            <li>Key architectural innovations include balanced sequence parallelism, multi-shot attention sink, KV-cache relative RoPE for infinite-length videos, and async decoding.</li>
+            <li>The original LongLive 1.0 pioneered real-time interactive long video generation with sequential user prompts; 2.0 adds multi-shot training and NVFP4 quantization.</li>
+            <li>The 1.3B model delivers 20.7 FPS with 84.87 VBench, while the 5B BF16 model hits 24.8 FPS and 85.06 — establishing a clear efficiency-quality trade-off curve.</li>
+            <li>LongLive also integrates with SANA-Video for 60-second real-time interactive video generation using linear attention.</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/NVlabs/LongLive" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

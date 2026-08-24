@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webwright: A terminal is all you need for web agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Webwright: A terminal is all you need for web agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 26, 2026</span>
+        <span class="meta-author">Yadong Lu, Lingrui Xu, Chao Huang, Ahmed Awadallah (Microsoft Research &amp; HKU)</span>
+        <span class="meta-keywords">web agents, terminal-native, browser automation, Playwright, agent architecture, code generation, web browsing</span>
+    </div>
+
+    <a href="https://microsoft.github.io/Webwright/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Microsoft Research&#x27;s Webwright reimagines web agents: instead of clicking through pages, the model writes bash scripts in a terminal — launching disposable browsers, composing actions as code, and producing reusable programs rather than ephemeral sessions.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Webwright separates the agent from the browser session: browsers are launched, inspected, and discarded while code, logs, and artifacts persist in the workspace</li>
+            <li>Achieves 86.7% on Online-Mind2Web (300 live tasks, 136 sites) and 60.8% on Odysseys long-horizon browsing, a 35.1% improvement over previous SOTA</li>
+            <li>The harness is deliberately small — ~1K lines across three modules (Runner, Model Endpoint, Environment) with no multi-agent orchestration</li>
+            <li>The &quot;premature done gate&quot; requires agents to generate a final script, rerun it in a fresh folder, and pass self-reflection before the task is accepted</li>
+            <li>Solved tasks become reusable CLI tools and Codex skills, eliminating the need to rediscover solutions from scratch</li>
+        </ul>
+    </section>
+
+    <a href="https://microsoft.github.io/Webwright/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

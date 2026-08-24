@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minions: Stripe’s one-shot, end-to-end coding agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Minions: Stripe’s one-shot, end-to-end coding agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-02-09</span>
+        <span class="meta-author">Alistair Gray</span>
+        <span class="meta-keywords">AI, coding agents, developer productivity, unattended automation, CI, MCP, tool integration</span>
+    </div>
+
+    <a href="https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents?utm_source=tldrnewsletter" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Stripe built “minions”: fully unattended, one-shot coding agents that start from a Slack request and end as a CI‑passing pull request—by tightly integrating LLM loops with Stripe’s internal tooling, guardrails, and feedback systems.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The goal is **unattended, one-shot** execution: no mid-flight interaction, but always **human review** at the end.</li>
+            <li>Scale and constraints matter: Stripe’s massive, atypical stack (Ruby + Sorbet, homegrown libs, regulatory/compliance needs) makes “vibe coding” insufficient.</li>
+            <li>Minions work because they’re **tool-first**: deterministic steps (git, lint, test, templating) are interleaved with agent reasoning to reduce variance.</li>
+            <li>Context is hydrated via **MCP** and a large internal tool catalog (&quot;Toolshed&quot;), plus conditional rule files based on repo subdirectories.</li>
+            <li>Feedback is “shifted left” with fast local checks on push, selective CI, and at most two CI iterations to balance cost/time.</li>
+        </ul>
+    </section>
+
+    <a href="https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents?utm_source=tldrnewsletter" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

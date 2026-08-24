@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaction Models: A Scalable Approach to Human-AI Collaboration — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Interaction Models: A Scalable Approach to Human-AI Collaboration</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 11, 2026</span>
+        <span class="meta-author">Thinking Machines</span>
+        <span class="meta-keywords">interaction models, human-AI collaboration, real-time AI, full-duplex, multimodality, micro-turns, Thinking Machines Lab, Mira Murati, AI architecture, streaming inference, SGLang</span>
+    </div>
+
+    <a href="https://thinkingmachines.ai/blog/interaction-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Thinking Machines Lab announces a research preview of &quot;interaction models&quot;—AI models trained from scratch to handle real-time, multimodal interaction natively rather than through external scaffolding, enabling continuous two-way collaboration across audio, video, and text with simultaneous tool calls, achieving state-of-the-art combined performance in intelligence and responsiveness.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Interaction models are trained from scratch for native real-time interaction across audio, video, and text, rather than bolting interactivity onto turn-based models with external Voice Activity Detection harnesses.</li>
+            <li>The architecture uses 200ms &quot;micro-turns&quot; with interleaved input and output streams, enabling near real-time concurrency including simultaneous speech, visual interjections, and parallel tool calls.</li>
+            <li>A split design pairs a real-time interaction model with an asynchronous background model for deeper reasoning and agentic workflows, giving users both responsiveness and full intelligence.</li>
+            <li>The system adopts encoder-free early fusion: minimal pre-processing of audio (dMel embeddings) and video (40x40 patches via hMLP), with all components co-trained from scratch.</li>
+            <li>Inference optimizations include streaming sessions contributed to SGLang, gather+gemv MoE kernels, and bitwise trainer-sampler alignment with minimal (&lt;5%) end-to-end performance overhead.</li>
+        </ul>
+    </section>
+
+    <a href="https://thinkingmachines.ai/blog/interaction-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

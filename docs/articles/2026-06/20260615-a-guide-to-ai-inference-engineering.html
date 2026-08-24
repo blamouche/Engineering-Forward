@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Guide to AI Inference Engineering — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>A Guide to AI Inference Engineering</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">inference engineering, LLM serving, prefill, decode, KV cache, batching, prefix caching, quantization, speculative decoding, parallelism, disaggregation, GPU, TTFT, tokens per second</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">ByteByteGo&#x27;s comprehensive guide to AI inference engineering explains how the prefill-decode split drives every optimization technique in production LLM serving—from batching and prefix caching to quantization, speculative decoding, parallelism, and disaggregation.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LLM inference has two phases with opposite bottlenecks: prefill is compute-bound (TTFT), decode is memory-bandwidth-bound (TPS)—techniques that help one often don&#x27;t help the other</li>
+            <li>Open models (2M+ on Hugging Face, 25x growth in 5 years) have made self-hosting viable: ~80% cost reduction at scale, better latency tuning, and 4-nines uptime vs. 2-nines for public APIs</li>
+            <li>Six core optimization techniques: batching (throughput vs. latency trade-off), prefix caching (reuses KV cache for shared prompt prefixes), quantization (30-50% performance gain from precision reduction), speculative decoding (draft model proposes, target verifies), parallelism (tensor/pipeline/expert parallel across GPUs), and disaggregation (separate hardware for prefill and decode)</li>
+            <li>Quantization tolerances vary: linear weights handle it well, activations are sensitive, KV cache more so, and attention layers are most sensitive because errors compound across token sequences</li>
+            <li>Cursor&#x27;s Composer 2.0 is a representative example of self-hosted open-model inference engineering delivering autocomplete latency below closed APIs</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

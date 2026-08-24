@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>On-Device LLMs: State of the Union, 2026 — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>On-Device LLMs: State of the Union, 2026</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">January 24, 2026</span>
+        <span class="meta-author">Vikas Chandra, Raghuraman Krishnamoorthi (AI Research @ Meta)</span>
+        <span class="meta-keywords">on-device LLM, edge AI, quantization, mobile AI, inference optimization, ExecuTorch, privacy, latency</span>
+    </div>
+
+    <a href="https://v-chandra.github.io/on-device-llms/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">On-device language models have evolved from toy demos to production systems running billion-parameter models on smartphones, enabled not by hardware improvements alone but by fundamental rethinking of model architecture, compression, and deployment strategies.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Memory bandwidth, not compute, is the primary bottleneck for on-device inference; mobile devices have 30-50x less bandwidth than data center GPUs</li>
+            <li>4-bit quantization has become the production standard, achieving 4x memory reduction with only 1-3% quality loss through techniques like AWQ and GPTQ</li>
+            <li>Sub-1B parameter models trained on curated data can match 3B models trained on web scrapes, proving architecture matters more than size at small scale</li>
+            <li>ExecuTorch 1.0 from Meta now deploys across Instagram, WhatsApp, and Messenger serving billions with a 50KB runtime footprint</li>
+            <li>Speculative decoding achieves 2.2-3.6x speedup by having smaller draft models propose multiple tokens verified in parallel</li>
+        </ul>
+    </section>
+
+    <a href="https://v-chandra.github.io/on-device-llms/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

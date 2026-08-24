@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is &quot;Loop Engineering&quot;? — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>What is &quot;Loop Engineering&quot;?</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-14</span>
+        <span class="meta-author">Gergely Orosz (The Pragmatic Engineer)</span>
+        <span class="meta-keywords">loop engineering, agentic loops, ralph loop, /goal command, AI coding, context engineering, agent harnesses</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Loop engineering is the practice of designing persistent, goal-driven AI agent loops rather than writing individual prompts, but it may be more evolutionary than revolutionary — overlapping heavily with triggers, cron jobs, and existing automation patterns.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Loop engineering originated from Geoffrey Huntley&#x27;s &quot;Ralph Wiggum&quot; technique: a simple Bash loop (`while :; do cat PROMPT.md | claude-code ; done`) that restarts agents with fresh context, persisting progress via filesystem artifacts.</li>
+            <li>By May 2026, all major AI coding harnesses (Codex, Hermes, Claude Code) shipped `/goal` commands that compress the Ralph loop into a single instruction — the agent keeps working until a completion condition is satisfied.</li>
+            <li>Most developer &quot;loop engineering&quot; use cases are triggers (event-driven) and cron jobs (scheduled), which are fundamentally the same as pre-AI automation patterns, just with AI agents as the execution layer.</li>
+            <li>Practical helpful loops include: auto-creating PRs for Sentry issues, babysitting flaky tests, triaging outages, and running long migrations autonomously via cron skills.</li>
+            <li>Several developers report disappointment with loops due to agent drift, cost at API token prices (&quot;tokenmaxxing&quot;), and better results with human-in-the-loop approaches. Some argue loops may be a temporary hack while harnesses catch up to support goal-oriented prompting natively.</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/what-is-loop-engineering" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom OIDC Providers for Supabase Auth — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Custom OIDC Providers for Supabase Auth</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-04-08</span>
+        <span class="meta-author">cemal_kilic</span>
+        <span class="meta-keywords">auth, oauth, oidc, openid-connect, security, identity-provider, enterprise, PKCE</span>
+    </div>
+
+    <a href="https://supabase.com/blog/custom-oauth-oidc-providers" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Supabase Auth now supports custom OpenID Connect providers, letting developers connect any standards-compliant identity provider — from GitHub Enterprise to regional compliance-mandated IdPs — with the same sign-in flow as built-in providers.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Custom OIDC providers work exactly like Supabase&#x27;s 20+ built-in providers: same `signInWithOAuth` flow, same client libraries, same RLS enforcement</li>
+            <li>Configuration is simple: supply an issuer URL, client credentials, and scopes — Supabase automatically resolves the discovery document, endpoints, and JWKS from `/.well-known/openid-configuration`</li>
+            <li>PKCE (Proof Key for Code Exchange) is enabled by default for every custom provider, protecting against authorization code interception with zero client-side work</li>
+            <li>Supports advanced scenarios: multi-platform apps with per-platform client IDs, email-optional providers for gaming/device-based identity, and custom authorization parameters</li>
+            <li>Limited to 3 custom providers per project by default, with more available on request</li>
+        </ul>
+    </section>
+
+    <a href="https://supabase.com/blog/custom-oauth-oidc-providers" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

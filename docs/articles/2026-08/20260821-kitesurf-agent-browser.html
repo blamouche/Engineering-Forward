@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Introducing Kitesurf: The Agent-First Browser That Runs in V8 Isolates on Cloudflare Workers</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-10</span>
+        <span class="meta-author">Celso Martinho, Ruskin Constant, Rui Figueira, Luís Duarte</span>
+        <span class="meta-keywords">cloudflare, kitesurf, browser, agents, webassembly, workers</span>
+    </div>
+
+    <a href="https://blog.cloudflare.com/kitesurf/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cloudflare built Kitesurf, a lightweight browser designed specifically for AI agents that runs entirely on Workers, consuming 3-4x less CPU and memory than Chromium for common agentic tasks.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Kitesurf is an agent-first browser that runs on Cloudflare Workers using V8 isolates and WebAssembly, built from scratch over 12 weeks</li>
+            <li>It uses Rust compiled to Wasm (via wasm-bindgen) for core components, avoiding emulation layers for near-native performance</li>
+            <li>The architecture separates concerns into Engine, PageScript, and PageRenderer — with stateless design wherever possible for fault tolerance</li>
+            <li>Each session starts fresh with strong isolation: every page load is treated as untrusted input, sandboxed network requests through a single outbound worker</li>
+            <li>Web Platform Tests (WPT) were used as the primary testing harness, supplemented by visual regression testing against Chromium to validate real-world compatibility</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.cloudflare.com/kitesurf/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

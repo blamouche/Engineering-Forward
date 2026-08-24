@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-03-20</span>
+        <span class="meta-author">Yushi Bai et al. (Tsinghua University &amp; Z.AI)</span>
+        <span class="meta-keywords">sparse attention, IndexCache, DeepSeek, prefill optimization, LLM inference, SGLang, vLLM, performance</span>
+    </div>
+
+    <a href="https://github.com/THUDM/IndexCache" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">IndexCache eliminates up to 75% of redundant token-selection computations in sparse attention by caching and reusing indices across adjacent transformer layers that share 70-100% of selected tokens, achieving 1.82x prefill speedup at 200K context.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Lightning indexer in DeepSeek Sparse Attention consumes up to 81% of prefill time at 200K context—IndexCache targets this bottleneck directly</li>
+            <li>Adjacent transformer layers share 70-100% of selected token indices, making most independent index computation redundant</li>
+            <li>Full (F) layers compute their own indices; Shared (S) layers reuse cached indices from nearest F layer—reducing indexer computations by ~75%</li>
+            <li>Performance: 1.82x prefill speedup, 1.48x decode speedup, 1.2x end-to-end speedup on GLM-5 (744B)—with negligible quality degradation</li>
+            <li>Integrates with SGLang and vLLM via simple configuration; zero additional GPU memory required</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/THUDM/IndexCache" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

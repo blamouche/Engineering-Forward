@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Glasswing: what Mythos showed us — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Project Glasswing: what Mythos showed us</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-18</span>
+        <span class="meta-author">Grant Bourzikas</span>
+        <span class="meta-keywords">Mythos Preview, Anthropic, Project Glasswing, vulnerability research, LLM, exploit chain, proof-of-concept, multi-agent harness, signal-to-noise, AI security, Cloudflare, offensive security, cyber frontier models</span>
+    </div>
+
+    <a href="https://blog.cloudflare.com/cyber-frontier-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Cloudflare&#x27;s hands-on evaluation of Anthropic&#x27;s Mythos Preview cyber frontier model demonstrates a generational leap in AI-driven vulnerability discovery — one that can chain low-severity bugs into working exploits and generate its own proofs, but only when embedded in a purpose-built multi-agent harness rather than used as a standalone tool.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Mythos Preview can autonomously chain multiple low-severity bugs into a single working exploit and generate its own proof-of-concept code, closing the gap between &quot;finding a bug&quot; and &quot;proving it&#x27;s exploitable&quot; — capabilities previous frontier models consistently failed at.</li>
+            <li>The model&#x27;s emergent safety guardrails are inconsistent: semantically equivalent tasks can produce opposite outcomes depending on framing, meaning organic refusals alone are insufficient as a safety boundary and additional safeguards are required for general availability.</li>
+            <li>Signal-to-noise remains a critical challenge: LLMs have an inherent bias to &quot;find&quot; bugs even when none exist, and memory-unsafe languages like C/C++ produce far more false positives than memory-safe languages — but Mythos Preview&#x27;s PoC-first approach significantly reduces time spent on triage.</li>
+            <li>Pointing a generic coding agent at a repository fundamentally doesn&#x27;t work for vulnerability research — the narrow, parallel nature of real security research demands a multi-agent harness with scoped tasks, adversarial validation, and dedicated trace/reachability stages.</li>
+            <li>Cloudflare&#x27;s eight-stage harness (Recon → Hunt → Validate → Gapfill → Dedupe → Trace → Feedback → Report) running ~50 concurrent hunters achieved high-coverage results across critical infrastructure, and the architecture lesson is that defenders must shift from &quot;patch faster&quot; to &quot;make exploitation harder&quot; through defense-in-depth design.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.cloudflare.com/cyber-frontier-models/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

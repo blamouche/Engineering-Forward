@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DoorDash&#x27;s Simulation and Evaluation Flywheel for LLM Chatbots — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>DoorDash&#x27;s Simulation and Evaluation Flywheel for LLM Chatbots</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-30</span>
+        <span class="meta-author">ByteByteGo (based on DoorDash Engineering Team)</span>
+        <span class="meta-keywords">llm-evaluation, simulation, hallucination, llm-as-judge, testing, customer-support, non-determinism, generator-verifier-gap</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-doordash-built-a-testing-system" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">DoorDash built a simulation-and-evaluation flywheel that generates realistic multi-turn customer conversations offline, uses an LLM to judge the chatbot&#x27;s performance against specific policies, and compressed iteration cycles from days to hours while cutting hallucinations by 90%.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The flywheel has two parts: an offline LLM-powered simulator that generates realistic multi-turn customer conversations from historical transcripts, and an evaluation framework that automatically grades chatbot performance using LLM-as-judge</li>
+            <li>The simulator uses an LLM to play the customer role with realistic escalation patterns — giving the chatbot multiple chances before escalating, re-engaging when progress resumes — grounded in behavioral profiles extracted from real support transcripts</li>
+            <li>DoorDash addresses the circularity objection (using an LLM to judge an LLM) through the &quot;generator-verifier gap&quot;: generating a full support response is hard, but verifying a single narrowly-defined binary policy question is much easier and more reliable</li>
+            <li>The LLM judge is calibrated against human expert labels — collecting samples, measuring agreement, analyzing mismatches, revising evaluation prompts, and repeating until the judge reliably matches human judgment</li>
+            <li>A key counterintuitive finding: the chatbot hallucinated because it had too much information in its context window, not too little — the fix was a &quot;case state&quot; layer that synthesizes raw tool history into a structured intermediate representation</li>
+            <li>Over 11 iterations the hallucination evaluation pass rate climbed steadily (with a dip at iteration 3 showing regressions are caught before reaching production), achieving a 90% reduction in hallucinations that carried over from simulation to production</li>
+            <li>The flywheel runs 200+ simulated conversations in under 5 minutes; the full evaluation suite has grown to 50+ evaluations covering hallucination, tone, issue classification, and other quality dimensions</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-doordash-built-a-testing-system" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

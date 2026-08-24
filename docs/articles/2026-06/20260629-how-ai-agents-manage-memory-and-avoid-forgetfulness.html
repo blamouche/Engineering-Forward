@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How AI Agents Manage Memory and Avoid Forgetfulness — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How AI Agents Manage Memory and Avoid Forgetfulness</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-29</span>
+        <span class="meta-author">ByteByteGo (Alex Xu)</span>
+        <span class="meta-keywords">AI agents, memory architecture, context window, retrieval, LLM infrastructure</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">AI agents achieve continuity not through the model itself but through engineered memory systems that manage what enters and leaves the context window on every turn.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LLMs are stateless: every API call starts from scratch, and perceived memory is entirely engineered by the surrounding platform.</li>
+            <li>Writing the full conversation history into the context window fails at scale due to cost, latency, and the &quot;lost-in-the-middle&quot; attention degradation effect.</li>
+            <li>Production systems organize memory in a four-tier hierarchy: context window (fast, expensive), short-term session memory, long-term store (embeddings, summaries), and cold archive.</li>
+            <li>Memory types mirror cognitive science: working memory (current task), episodic (past events), semantic (persistent facts), and procedural (learned behaviors/preferences).</li>
+            <li>The hard engineering problem is retrieval—deciding what deserves to enter the model&#x27;s awareness on each turn—not storage, which is largely solved.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

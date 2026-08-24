@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inference Cost at Scale with Napkin Math — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Inference Cost at Scale with Napkin Math</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">InJuly (injuly.in)</span>
+        <span class="meta-keywords">inference cost, napkin math, matrix multiplication, GPU economics, LLM serving, token pricing, FLOPs</span>
+    </div>
+
+    <a href="https://injuly.in/blog/napkin-inference-cost/index.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A practical engineering guide that breaks down LLM inference cost from first principles—starting with the cost of a single matrix multiplication and building up to per-token and per-request economics—giving engineers the mathematical intuition to reason about serving costs without needing a full benchmark suite.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The fundamental unit of inference cost is the matrix multiplication: for a W×H weight matrix and B×H input batch, the cost is 2·B·W·H FLOPs per matmul, and all LLM inference reduces to repeated matmuls of this form</li>
+            <li>Per-token generation cost is dominated by the KV-cache attention matmuls in the decode phase, where batch size (concurrent requests) is the key lever for amortizing fixed GPU costs</li>
+            <li>GPU utilization in practice is far below theoretical peak—real-world TFLOPS are often 30-50% of advertised due to memory bandwidth bottlenecks, kernel inefficiency, and batch fragmentation</li>
+            <li>The napkin math framework lets engineers estimate serving cost per token by combining: model parameter count, precision (FP16/INT8/INT4), GPU FLOP/s, GPU memory bandwidth, and target concurrency</li>
+            <li>Token pricing in production should be derived from cost-per-GPU-hour divided by achievable tokens-per-second, not from benchmarking alone—this is the bridge between hardware economics and API pricing</li>
+        </ul>
+    </section>
+
+    <a href="https://injuly.in/blog/napkin-inference-cost/index.html" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

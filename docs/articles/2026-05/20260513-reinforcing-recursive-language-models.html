@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reinforcing Recursive Language Models — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Reinforcing Recursive Language Models</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-13</span>
+        <span class="meta-author">Daniel Kim, Rehaan Ahmad</span>
+        <span class="meta-keywords">recursive language models, RLMs, reinforcement learning, GRPO, fine-tuning, evidence selection, REPL, small models, SkyRL, Qwen3.5, advantage inheritance</span>
+    </div>
+
+    <a href="https://www.alphaxiv.org/blog/reinforcement-learning-for-rlms" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Researchers at alphaXiv demonstrate that RL fine-tuning a 4B parameter model as a recursive language model (RLM) can match Claude Sonnet 4.6 on evidence selection tasks by training parent and child RLMs under a single shared policy with inherited advantages, achieving frontier performance at a fraction of the size and cost.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A single RL fine-tuned 4B model that serves as both parent decomposer and child sub-agent matches Sonnet 4.6 performance on evidence selection across multiple scientific documents</li>
+            <li>The key innovation is advantage inheritance: child RLM rollouts inherit their parent&#x27;s advantage score, eliminating the need for separate reward signals for child trajectories</li>
+            <li>Cold-start SFT is necessary for small models because RLM harness syntax is outside their &quot;edge of competence&quot;—without it, even with good prompts, 4B models score 0 pass@16</li>
+            <li>Stepwise training is required because RLM turns don&#x27;t share prefixes (user prompt is rewritten each turn, not accumulated), so each turn must be a separate training sample</li>
+            <li>Rubric-based LLM judges proved more robust than verifiable rewards (F1) for evidence selection, which has inherently fuzzy answer boundaries</li>
+        </ul>
+    </section>
+
+    <a href="https://www.alphaxiv.org/blog/reinforcement-learning-for-rlms" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

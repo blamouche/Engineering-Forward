@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streaming vs Batch: Two Philosophies of Data Processing — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Streaming vs Batch: Two Philosophies of Data Processing</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-07-09</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">streaming, batch processing, data engineering, watermarks, lambda architecture, kappa architecture, exactly-once processing</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">The fundamental question in data processing—when is data complete enough to compute on?—splits the field into two philosophies, and understanding both is essential for building reliable data systems.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Batch processing waits for completeness: it collects data up to a natural boundary and then computes over the whole set at once, prioritizing correctness over speed.</li>
+            <li>Streaming prioritizes speed over completeness: it produces answers from data that is still arriving, requiring estimates of when &quot;enough&quot; data has arrived and handling cases where those estimates are wrong.</li>
+            <li>On the batch side, strategies include full loads, incremental loads, and large-window aggregation, with micro-batch sitting in between as a compromise.</li>
+            <li>On the streaming side, the territory covers tumbling, sliding, and session windows; watermarks and late data handling; lambda and kappa architectures; and the often-misunderstood meaning of exactly-once processing.</li>
+            <li>The trade-off between completeness and latency is the key consideration: every system that processes data eventually has to answer the question of when data is &quot;complete enough.&quot;</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/streaming-vs-batch-two-philosophies" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

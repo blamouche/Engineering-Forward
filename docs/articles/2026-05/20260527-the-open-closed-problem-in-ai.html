@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Open/Closed Problem in AI — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Open/Closed Problem in AI</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">May 23, 2026</span>
+        <span class="meta-author">Maxim Khailo</span>
+        <span class="meta-keywords">open-loop learning, closed-loop learning, AI hardware, ASICs, GPU, inference, training, ML systems, agent memory</span>
+    </div>
+
+    <a href="https://blog.mempko.com/the-open-closed-problem-in-ai/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">The AI industry is hardening its hardware and learning paradigms around open-loop systems—static models trained offline—which quietly forecloses the more promising path of closed-loop learning where models update themselves continuously, just as biological neurons do.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The GPU/ASIC evolution mirrors a historical pattern: CPU (open) → fixed-pipeline GPU (closed) → programmable GPU (open) → specialized ASICs (closed again), and each closing phase kills creative experimentation.</li>
+            <li>Today&#x27;s LLMs use open-loop learning: they are trained offline via backpropagation and then deployed frozen, relying on external memory hacks (agents writing to markdown files) to simulate learning.</li>
+            <li>Biological brains use closed-loop learning: a single neuron both computes and physically rewrites itself based on prediction errors, with no external training process.</li>
+            <li>Inference-optimized ASICs physically bake in the open-loop assumption—read-only weights, separate compute and memory—making closed-loop learning fundamentally impossible on current hardware.</li>
+            <li>The window to experiment with closed-loop learning is closing with every specialized chip that ships; what&#x27;s needed is a new substrate (like an advanced FPGA) built for models that rewrite themselves in place.</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.mempko.com/the-open-closed-problem-in-ai/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

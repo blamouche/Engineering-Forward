@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Judge: Solving Long-Horizon Evals for Production Agents — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Agent Judge: Solving Long-Horizon Evals for Production Agents</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-05-27</span>
+        <span class="meta-author">Rishi Gujjar, Andrew Li (Judgment Labs)</span>
+        <span class="meta-keywords">llm-evaluation, agent-evals, long-horizon-agents, trajectory-evaluation, llm-as-judge, multi-agent-evaluation, adaptive-rubrics, environment-verification</span>
+    </div>
+
+    <a href="https://www.judgmentlabs.ai/blogs/agent-judge-solving-long-context-evaluations" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Judgment Labs&#x27; Agent Judge is an agentic evaluation harness that solves three failure modes of simple LLM judges on long-horizon production agents — long trajectories that exceed context windows, stateful actions that can&#x27;t be verified from the trajectory alone, and changing agent behavior that makes fixed rubrics go stale — through Search, Verification, and Adaptation.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Simple LLM judges break down on long-horizon agents because they can&#x27;t fit full trajectories into context, can&#x27;t verify stateful changes against source-of-truth systems (CRM, AWS, GitHub, Google Calendar), and can&#x27;t adapt as models, tools, and workflows evolve</li>
+            <li>Agent Judge addresses these through three capabilities: Search (making long trajectories queryable so buried evidence can be found), Verification (checking claimed actions against the actual environment state), and Adaptation (comparing evaluations against human feedback and production signals to evolve rubrics)</li>
+            <li>The system runs as a multi-agent harness: reader agents inspect targeted evidence, spawned worker agents split search or verification work, and forked agents pursue new questions raised during the first pass</li>
+            <li>Benchmarking on production traffic for trajectory-level hallucination detection shows Agent Judge with Rubric Builder refinement achieves the highest accuracy (0.76 initial, improving further after refinement) compared to Claude Code (0.73), Codex (0.69), GPT-5.4 LLM Judge (0.74), and GPT-5.4-mini LLM Judge (0.65)</li>
+            <li>Agent Judge with Rubric Builder stays strongest in the hard tail of difficulty deciles, while a five-judge LLM ensemble baseline degrades sharply as trajectory difficulty increases</li>
+            <li>The rubric becomes a living, versioned evaluation artifact: tested against production trajectories, updated from feedback, and grown alongside the agents instead of rewritten by hand each time behavior shifts</li>
+        </ul>
+    </section>
+
+    <a href="https://www.judgmentlabs.ai/blogs/agent-judge-solving-long-context-evaluations" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

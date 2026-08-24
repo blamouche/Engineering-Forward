@@ -11,9 +11,20 @@
 
 # exports / build artifacts
 *.pdf
-*.html
 *.docx
 *.odt
 build/
 dist/
 newsletter/
+
+# BUT keep generated site files in docs/ (GitHub Pages)
+!docs/**/*.html
+!docs/*.html
+!docs/**/*.css
+!docs/*.css
+!docs/**/*.js
+!docs/*.js
+!docs/**/*.xml
+!docs/*.xml
+!docs/**/*.json
+!docs/*.json

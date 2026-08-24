@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How We Optimized Dash&#x27;s Relevance Judge with DSPy — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How We Optimized Dash&#x27;s Relevance Judge with DSPy</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">Unknown</span>
+        <span class="meta-author">Dropbox Engineering</span>
+        <span class="meta-keywords">DSPy, LLM, relevance judge, Dropbox Dash, prompt optimization, search, production ML</span>
+    </div>
+
+    <a href="https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Dropbox used DSPy to systematically optimize their LLM-as-a-judge relevance system, achieving better accuracy at lower cost by automating prompt adaptation across model changes instead of manual tuning.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Dropbox Dash&#x27;s relevance judge scores query-document pairs on a 1-5 scale and is used across ranking, training data generation, and offline evaluation pipelines</li>
+            <li>Manual prompt tuning hit quality plateaus and caused regressions every time the underlying model was swapped—a common and expensive problem in production LLM systems</li>
+            <li>DSPy converts prompt optimization into a systematic, measurable optimization loop using Normalized Mean Squared Error (NMSE) against human rater agreement as the objective</li>
+            <li>The system migrated from expensive proprietary models (o3) to open-weight models (gpt-oss-120b) while maintaining quality through DSPy-optimized prompts</li>
+            <li>Output formatting reliability (valid JSON) was tracked as a hard constraint alongside accuracy, since unparseable outputs fail entire pipelines</li>
+        </ul>
+    </section>
+
+    <a href="https://dropbox.tech/machine-learning/optimizing-dropbox-dash-relevance-judge-with-dspy" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

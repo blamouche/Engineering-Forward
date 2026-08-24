@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introducing the Open Knowledge Format (OKF): A Portable Standard for AI Agent Context — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Introducing the Open Knowledge Format (OKF): A Portable Standard for AI Agent Context</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-06-15</span>
+        <span class="meta-author">Sam McVeety, Amir Hormati (Google Cloud Data Cloud team)</span>
+        <span class="meta-keywords">Open Knowledge Format, OKF, Google, markdown, YAML frontmatter, AI agents, context, LLM wiki, interoperability, knowledge management</span>
+    </div>
+
+    <a href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Google introduces the Open Knowledge Format (OKF) v0.1—an open specification that formalizes the &quot;LLM wiki&quot; pattern (championed by Andrej Karpathy) into a portable, vendor-neutral standard: knowledge as markdown files with YAML frontmatter, designed to be produced by any system and consumed by any AI agent without translation layers.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>OKF represents knowledge as a directory of markdown files, each with YAML frontmatter for structured fields (type, title, description, resource, tags, timestamp) and a markdown body for everything else</li>
+            <li>The format is deliberately minimal: only one field is required (`type`), everything else is left to the producer—maximizing adoption flexibility while ensuring interoperability at the document level</li>
+            <li>Three design principles: minimally opinionated, producer/consumer independence, and format-not-platform—OKF is a spec, not a service</li>
+            <li>Reference implementations include a BigQuery enrichment agent (walks datasets, drafts OKF concepts, enriches with citations) and a static HTML visualizer that turns any OKF bundle into an interactive graph</li>
+            <li>Three sample bundles published: GA4 e-commerce, Stack Overflow, and Bitcoin public datasets—demonstrating OKF across different knowledge domains</li>
+            <li>The pattern formalizes what teams already do ad hoc: Obsidian vaults wired to coding agents, AGENTS.md/CLAUDE.md convention files, metadata-as-code repos—the goal is to make these interoperable</li>
+        </ul>
+    </section>
+
+    <a href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>
