@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | ████████████████████████ 53
+2026-08 | █████████████████████████████ 59
 ## Articles
 
 ### 2026
@@ -292,7 +292,13 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (53 articles)
+#### August (59 articles)
+- [Hugging Face in $13bn Sale Talks](src/2026-08/20260825-hugging-face-13bn-sale-talks.md)
+- [I Tried the AI Model Built to Fix AI Writing](src/2026-08/20260824-deft-ai-model-fix-ai-writing.md)
+- [Why Code Verification Matters More Than Ever in the Age of AI](src/2026-08/20260824-code-verification-age-of-ai.md)
+- [How I AI: Grok Bot + Grok 4.6 — What's Great and What's Still Hype](src/2026-08/20260824-grok-bot-grok-46-review.md)
+- [GLM-5.3 Beats Fable 5 for Less Money](src/2026-08/20260824-glm-53-beats-fable-5-less-money.md)
+- [Nvidia Paid $6B to NOT Own the Company: Jensen Knows His Limitations](src/2026-08/20260824-nvidia-6b-poolside-license-deal.md)
 - [19 Startups Making AI More Efficient, According to VCs](src/2026-08/20260824-sifted-19-startups-ai-efficient.md)
 - [How to Close $100K+ Enterprise Deals: The Real 15-Step Sales Cycle](src/2026-08/20260823-enterprise-sales-15-step-cycle-jen-abel.md)
 - [Life After Automation: 100 AI Leaders Call Their Shots](src/2026-08/20260823-life-after-automation-thesis-statements.md)
