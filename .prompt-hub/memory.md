@@ -10744,3 +10744,12 @@
 - Previous posts linked: operational-discipline, implementation-gap
 
 - **2026-08-25 09:00** | cron job 129616def9d2 | Substack daily post published | Created and published 'The companies that know what not to do' | Files: substack/20260825-post-the-companies-that-know-what-not-to-do.md, substack/latest.md | Published at https://engineeringforward.substack.com/p/the-companies-that-know-what-not | success
+
+## 2026-08-26 08:36 — Daily veille IA
+- Gmail label `0---veille-ia`: 9 message(s)
+- 5 article URL(s) extracted: How to Steal an AI Model's Private Thoughts (ByteByteGo), Why Ramp Built Its Own In-House Coding Agent Inspect (Pragmatic Engineer), Fable 5 Canary in a Coal Mine (CO/AI), Turn Claude Fable 5 Into a McKinsey-Level Consulting Engine (Linas), Benchmarks Don't Know Your Job (Every)
+- Trashed: 9 email(s)
+- Repo: clean, committed, pushed
+- Articles synthesized: How to Steal an AI Model's Private Thoughts; Why Ramp Built Its Own In-House Coding Agent, Inspect; Fable 5 May Just Be the Canary in the Coal Mine; Turn Claude Fable 5 Into a McKinsey-Level Consulting Engine; Benchmarks Don't Know Your Job
+- Skipped: Sifted "Revolut launches new AI unit" (all email.sifted.eu tracker URLs, VC/startup news), Lenny's "How to figure out your next career move" (career/self-help), Unwind AI "Microsoft's new skill tunes your agents" (agent-lightning v1.0.1 already in repo x2, digest format with GitHub repos), CO/AI "Heat" (old email from May 1, 2026)
+- Version bumped to 0.0.1608

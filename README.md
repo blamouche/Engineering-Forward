@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | █████████████████████████████ 59
+2026-08 | ████████████████████████████████ 64
 ## Articles
 
 ### 2026
@@ -292,7 +292,12 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (59 articles)
+#### August (64 articles)
+- [How to Steal an AI Model's Private Thoughts](src/2026-08/20260825-how-to-steal-an-ai-models-private-thoughts.md)
+- [Why Ramp Built Its Own In-House Coding Agent, Inspect](src/2026-08/20260825-why-ramp-built-inspect-in-house-coding-agent.md)
+- [Fable 5 May Just Be the Canary in the Coal Mine](src/2026-08/20260825-fable-5-canary-in-coal-mine.md)
+- [Turn Claude Fable 5 Into a McKinsey-Level Consulting Engine](src/2026-08/20260825-fable-5-mckinsey-consulting-engine.md)
+- [Benchmarks Don't Know Your Job](src/2026-08/20260825-benchmarks-dont-know-your-job.md)
 - [Hugging Face in $13bn Sale Talks](src/2026-08/20260825-hugging-face-13bn-sale-talks.md)
 - [I Tried the AI Model Built to Fix AI Writing](src/2026-08/20260824-deft-ai-model-fix-ai-writing.md)
 - [Why Code Verification Matters More Than Ever in the Age of AI](src/2026-08/20260824-code-verification-age-of-ai.md)
