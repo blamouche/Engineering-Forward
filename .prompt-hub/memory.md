@@ -10731,3 +10731,16 @@
 - Repo: clean, committed, pushed
 - Articles synthesized: Anthropic Ships Major Claude Design Overhaul; AI Coding Agents Can Autonomously Direct Robot Training; ChatGPT's Market Share Slips Below 50%; Introducing Eve: Vercel's Open-Source Agent Framework; Introducing Vercel Connect: Scoped Credentials for Agent Authentication; Building a Design System Specced for Engineers and Agents; CI/CD with Robert Erez
 - Skipped: ByteByteGo Observability (paywalled), Coinbase Financial OS (Substack newsletter, paywalled), Robeauté brain microbots (medical, not engineering), Sifted industrial tech/startups (VC/Deal coverage, light technical substance), Linas Fintech Pulse (mostly M&A, paywalled), Every newsletter paywall articles, Lore version control (product announcement, insufficient depth), Apple iPhone Air (hardware product, no engineering substance), Musk SpaceX/Tesla merger (speculation, no technical substance)
+
+## 2026-08-24 17:45 — Substack post: The true price of intelligence is showing
+- Actor: cron (substack-post-recents equivalent)
+- Action: Generated and published daily Substack post for Engineering-Forward
+- Articles read: 15 most recent (2026-08-22 to 2026-08-24)
+- Previous posts reviewed: 5 (May 11-26, 2026)
+- File: substack/20260824-post-the-true-price-of-intelligence-is-showing.md
+- Verification: all 8 checks passed (title, subtitle, sources, links=17, words=2004, no AI slop)
+- Substack published: https://engineeringforward.substack.com/p/the-true-price-of-intelligence-is
+- Status: success
+- Previous posts linked: operational-discipline, implementation-gap
+
+- **2026-08-25 09:00** | cron job 129616def9d2 | Substack daily post published | Created and published 'The companies that know what not to do' | Files: substack/20260825-post-the-companies-that-know-what-not-to-do.md, substack/latest.md | Published at https://engineeringforward.substack.com/p/the-companies-that-know-what-not | success
