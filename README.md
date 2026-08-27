@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | ████████████████████████████████ 64
+2026-08 | ████████████████████████████████ 68
 ## Articles
 
 ### 2026
@@ -292,7 +292,11 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (64 articles)
+#### August (68 articles)
+- [The Calculator Defense: Druckenmiller Used AI, Apple Commoditized Language](src/2026-08/20260826-the-calculator-defense-druckenmiller-ai.md)
+- [How to Make LLMs 3X Faster](src/2026-08/20260826-how-to-make-llms-3x-faster.md)
+- [Why Performant Code Matters (But Gets Widely Ignored), with Casey Muratori](src/2026-08/20260826-why-performant-code-matters-casey-muratori.md)
+- [The Case for Cloning Your Coworkers](src/2026-08/20260826-the-case-for-cloning-your-coworkers.md)
 - [How to Steal an AI Model's Private Thoughts](src/2026-08/20260825-how-to-steal-an-ai-models-private-thoughts.md)
 - [Why Ramp Built Its Own In-House Coding Agent, Inspect](src/2026-08/20260825-why-ramp-built-inspect-in-house-coding-agent.md)
 - [Fable 5 May Just Be the Canary in the Coal Mine](src/2026-08/20260825-fable-5-canary-in-coal-mine.md)
