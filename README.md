@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | ████████████████████████████████ 68
+2026-08 | █████████████████████████████████████ 74
 ## Articles
 
 ### 2026
@@ -292,7 +292,13 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (68 articles)
+#### August (74 articles)
+- [Anthropic's $30T IPO Pitch and Stripe's Clerky Acquisition](src/2026-08/20260827-anthropic-30t-ipo-pitch-stripe-clerky.md)
+- [Nvidia Buys Hugging Face for $12.9B; Anthropic Strikes $45B Compute Deal with Nscale](src/2026-08/20260828-nvidia-buys-hugging-face-anthropic-nscale.md)
+- [Our ChatGPT and OpenClaw Guides Just Got an Overhaul](src/2026-08/20260827-chatgpt-knowledge-work-openclaw-guide.md)
+- [OpenRouter for AI Agents: GLM-5.3-Flash Revealed, Qwen4 Architecture, and Agent Infrastructure](src/2026-08/20260827-openrouter-for-ai-agents-glm-flash-qwen4.md)
+- [Background Work: From Cron Jobs to Distributed Systems](src/2026-08/20260827-background-work-cron-to-distributed.md)
+- [We Need to Talk About Migrations with AI](src/2026-08/20260827-ai-migrations-asana-airbnb-uber.md)
 - [The Calculator Defense: Druckenmiller Used AI, Apple Commoditized Language](src/2026-08/20260826-the-calculator-defense-druckenmiller-ai.md)
 - [How to Make LLMs 3X Faster](src/2026-08/20260826-how-to-make-llms-3x-faster.md)
 - [Why Performant Code Matters (But Gets Widely Ignored), with Casey Muratori](src/2026-08/20260826-why-performant-code-matters-casey-muratori.md)
