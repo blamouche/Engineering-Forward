@@ -24,10 +24,23 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | █████████████████████████████████████ 74
+2026-08 | █████████████████████████████████████ 74<br>
+2026-09 | █████ 10
 ## Articles
 
 ### 2026
+
+#### September (10 articles)
+- [Anthropic's Best Customer May Just Be Anthropic — The Frontier Is a Star, Not a Business](src/2026-09/20260903-anthropic-best-customer-is-anthropic-interstellar.md)
+- [Anthropic Launched Claude Commerce Agents; 21 Banks Built a Stablecoin; X Money's Wild Week](src/2026-09/20260903-anthropic-claude-commerce-agents-stablecoins-x-money.md)
+- [Samsung, Nvidia, ASML Back €3bn Mistral Round](src/2026-09/20260903-samsung-nvidia-asml-back-mistral-3bn-round.md)
+- [Compound Writing: How I Turned My Process Into a Plugin](src/2026-09/20260902-compound-writing-process-into-plugin.md)
+- [Why Your RAG System Is Only as Good as Its Translator Model](src/2026-09/20260902-why-your-rag-system-is-only-as-good-as-translator-model.md)
+- [Agentic Video Understanding in Gemini — Plus Fable 5.1, Atlas, Perplexity Hybrid Compute](src/2026-09/20260902-agentic-video-understanding-in-gemini.md)
+- [Jiro Dreams of Sushi: Who Takes Your Place When the Apprentice Is Gone](src/2026-09/20260902-jiro-dreams-of-sushi-korn-ferry-apprentice-tax.md)
+- [Revolut AIR Launches Across Europe, but One EU Neobank Already Has Better AI Numbers](src/2026-09/20260902-revolut-air-eu-launch-vs-bunq-finn-grok-bot-shopping.md)
+- [Energy Startups Booming in the Nordics — Sifted 100 Nordics Report](src/2026-09/20260902-energy-startups-booming-nordics-sifted-100.md)
+- [Vibe Check: Fable 5.1 — Anthropic Is So Back (Again)](src/2026-09/20260901-vibe-check-fable-51-anthropic-is-so-back-again.md)
 
 #### June (157 articles)
 - [Anthropic Accuses Alibaba of Largest Known AI Model Distillation Campaign](src/2026-06/20260625-anthropic-alibaba-distillation-campaign.md)
