@@ -25,12 +25,17 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████ 10
+2026-09 | ██████████ 19
 ## Articles
 
 ### 2026
 
-#### September (10 articles)
+#### September (19 articles)
+- [Matt Clifford Joins Anthropic; Legora Explains Why It Won't Build Its Own AI Model](src/2026-09/20260904-matt-clifford-joins-anthropic-legora-no-model.md)
+- [Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits](src/2026-09/20260903-vibe-check-gpt-6-astra-big-upgrade-bad-habits.md)
+- [The Pulse: Meta Wanted to Reduce Teams by 60% Because of AI](src/2026-09/20260903-meta-wanted-reduce-teams-60-percent-ai.md)
+- [What the Past Year Taught Meta](src/2026-09/20260903-what-the-past-year-taught-meta.md)
+- [How Databases Keep Their Sanity with Concurrency Control](src/2026-09/20260903-databases-concurrency-control.md)
 - [Anthropic's Best Customer May Just Be Anthropic — The Frontier Is a Star, Not a Business](src/2026-09/20260903-anthropic-best-customer-is-anthropic-interstellar.md)
 - [Anthropic Launched Claude Commerce Agents; 21 Banks Built a Stablecoin; X Money's Wild Week](src/2026-09/20260903-anthropic-claude-commerce-agents-stablecoins-x-money.md)
 - [Samsung, Nvidia, ASML Back €3bn Mistral Round](src/2026-09/20260903-samsung-nvidia-asml-back-mistral-3bn-round.md)
@@ -40,6 +45,10 @@ P22-12 | █ 2<br>
 - [Jiro Dreams of Sushi: Who Takes Your Place When the Apprentice Is Gone](src/2026-09/20260902-jiro-dreams-of-sushi-korn-ferry-apprentice-tax.md)
 - [Revolut AIR Launches Across Europe, but One EU Neobank Already Has Better AI Numbers](src/2026-09/20260902-revolut-air-eu-launch-vs-bunq-finn-grok-bot-shopping.md)
 - [Energy Startups Booming in the Nordics — Sifted 100 Nordics Report](src/2026-09/20260902-energy-startups-booming-nordics-sifted-100.md)
+- [How to Shrink a Language Model Without Making it Too Dumb](src/2026-09/20260901-shrink-language-model-without-making-dumb.md)
+- [How to Turn Your AI Into a World-Class Designer](src/2026-09/20260901-turn-ai-into-world-class-designer.md)
+- [Scott Bessent Says We Will Grow Out of Our $40T Debt. Data Centers Are the Only Way.](src/2026-09/20260901-data-centers-grow-out-of-40t-debt.md)
+- [The Pragmatic Engineer: Five Years — How Software Engineering Is Changing](src/2026-09/20260901-pragmatic-engineer-five-years.md)
 - [Vibe Check: Fable 5.1 — Anthropic Is So Back (Again)](src/2026-09/20260901-vibe-check-fable-51-anthropic-is-so-back-again.md)
 
 #### June (157 articles)
