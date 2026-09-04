@@ -26,3 +26,4 @@ https://linas.substack.com/p/enterprise-ai-gtm-playbook
 https://every.to/context-window/a-codex-of-ones-own
 https://futuresearch.ai/blog/google-deepmind-reorg-forecast/
 https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+https://www.uber.com/gb/en/blog/efficient-software-factory/
