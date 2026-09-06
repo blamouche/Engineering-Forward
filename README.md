@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████ 27
+2026-09 | ██████████████████████████████████ 33
 ## Articles
 
 ### 2026
 
-#### September (27 articles)
+#### September (33 articles)
+- [Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM](src/2026-09/20260906-kimi-k3-in-c-cpu-8gb-ram.md)
+- [Warp Skill Doctor: Score and Improve Your Agent Skills From Past Sessions](src/2026-09/20260906-warp-skill-doctor-agent-skills.md)
+- [AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense](src/2026-09/20260906-ai-agent-context-security-provenance.md)
+- [Claude Cowork for PMs: How Daniel Blum Built a Self-Improving AI Productivity System](src/2026-09/20260906-claude-cowork-pm-self-improving-productivity-system.md)
+- [OpenAI Winds Down Cursor Model Access Following SpaceX Acquisition](src/2026-09/20260906-openai-winds-down-cursor-spacex.md)
+- [How Warp Builds Self-Improving Agents on Claude](src/2026-09/20260906-warp-self-improving-agents-claude.md)
 - [MCP vs RAG vs AI Agents](src/2026-09/20260905-mcp-vs-rag-vs-ai-agents.md)
 - [The Folder Is the Agent](src/2026-09/20260904-the-folder-is-the-agent.md)
 - [Meta Priced Your Data. Beware Tom Ripley Moving In.](src/2026-09/20260904-meta-priced-your-data-tom-ripley.md)
