@@ -1,0 +1,22 @@
+# Claude Commerce Agents: Inside Anthropic's Merchant-Side Bet on Agentic Commerce
+**Source**: https://linas.substack.com/p/claude-commerce-agents
+**Date**: 2026-09-04
+**Author**: Linas (Linas's Newsletter)
+**Keywords**: Anthropic, Claude Commerce Agents, agentic commerce, merchant-side, OpenAI, Google, Shopify, Microsoft Copilot Checkout, Amazon Buy for Me, verticalization, Managed Agents
+
+## Elevator pitch
+Anthropic released Claude Commerce Agents — an open blueprint for building AI shopping and merchant-operations agents that live inside the merchant's own website and back office — positioning itself as the intelligence and runtime layer for commerce while merchants retain control of catalog, checkout, payment, and customer relationships, in direct contrast to the consumer-gateway strategies of Google, Microsoft, and Amazon.
+
+## Takeaways
+- Claude Commerce Agents is working agent code (not a consumer destination) that lives inside the merchant's property: shopping agents, merchant-operations agents, four runnable vertical examples, a safety harness, eval patterns, and a Claude Code builder plugin
+- It deploys across Claude API, Amazon Bedrock, Microsoft Foundry, and Google Cloud Vertex AI — nothing in the reference implementation places an order or charges a card; the narrow scope is the strategy
+- OpenAI's ChatGPT Instant Checkout was retired in March 2026 after Walmart found conversion ran ~3x below its own site — validating Anthropic's merchant-side approach
+- Anthropic is building a repeatable verticalization factory: Claude for Financial Services, finance-agent templates, Claude for Small Business, and now Commerce Agents all package the same ingredients (frontier models, Skills, connectors, controlled actions, Managed Agents)
+- Claude AI reached 107.6M unique web visitors in July 2026 (up from 25.3M in January) but still trails ChatGPT (469.1M) and Gemini (302.2M) — merchant embedding lets Anthropic reach shoppers through other companies' distribution
+
+## Synthesis
+Linas's Newsletter provides a detailed analysis of Anthropic's Claude Commerce Agents launch on September 2, 2026. The release is notable for what it is not: not a consumer shopping destination, not a commerce protocol, and not a payment processor. Nothing in the reference implementation places an order or charges a card. Instead, it's working agent code that lives inside the merchant's own website, app, and back office — shopping agents for customer-facing discovery and merchant-operations agents for staff.
+
+The strategic positioning is a direct counter to the consumer-gateway plays of Google (AI Mode with agentic checkout via Universal Commerce Protocol), Microsoft (Copilot Checkout with 500,000+ merchants), Perplexity (Instant Buy with PayPal), and Amazon (Buy for Me). OpenAI tried the same play and failed: ChatGPT's in-chat Instant Checkout was retired in March 2026, roughly five months after launch, after Walmart found conversion inside the chatbot ran about three times below its own site. ChatGPT now hands shoppers to retailer apps. That retreat validated Anthropic's thesis: shoppers discover in AI but buy on the merchant's property.
+
+The blueprint includes server-issued IDs, transaction caps, staged changes, approval gates, content sanitization, and snapshot evals — safety controls that sit in code rather than only in prompts. The model cannot charge a card or apply a price change in the reference implementation. This extends Anthropic's verticalization factory: Claude for Financial Services, finance-agent templates, Claude for Small Business, and now Commerce Agents all package the same horizontal ingredients (frontier models, Skills, connectors, controlled actions, Managed Agents) in different vertical proportions. If Anthropic can make Claude the default reasoning engine for the layer that translates commercial intent into calls across catalog, inventory, pricing, and payment systems, commerce becomes a high-frequency, measurable source of model demand. The risk is that open protocols and model routing make intelligence interchangeable, leaving most value with Shopify, Salesforce, payment networks, and the merchants who own demand, identity, and transaction data.

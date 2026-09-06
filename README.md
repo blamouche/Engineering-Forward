@@ -25,12 +25,17 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████ 19
+2026-09 | █████████████████████ 27
 ## Articles
 
 ### 2026
 
-#### September (19 articles)
+#### September (27 articles)
+- [MCP vs RAG vs AI Agents](src/2026-09/20260905-mcp-vs-rag-vs-ai-agents.md)
+- [The Folder Is the Agent](src/2026-09/20260904-the-folder-is-the-agent.md)
+- [Meta Priced Your Data. Beware Tom Ripley Moving In.](src/2026-09/20260904-meta-priced-your-data-tom-ripley.md)
+- [Claude Commerce Agents: Inside Anthropic's Merchant-Side Bet on Agentic Commerce](src/2026-09/20260904-claude-commerce-agents-merchant-side.md)
+- [How We're Using Fable 5.1 and GPT-6 Astra](src/2026-09/20260904-fable-5-1-gpt-6-astra-camp.md)
 - [Matt Clifford Joins Anthropic; Legora Explains Why It Won't Build Its Own AI Model](src/2026-09/20260904-matt-clifford-joins-anthropic-legora-no-model.md)
 - [Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits](src/2026-09/20260903-vibe-check-gpt-6-astra-big-upgrade-bad-habits.md)
 - [The Pulse: Meta Wanted to Reduce Teams by 60% Because of AI](src/2026-09/20260903-meta-wanted-reduce-teams-60-percent-ai.md)
@@ -45,11 +50,14 @@ P22-12 | █ 2<br>
 - [Jiro Dreams of Sushi: Who Takes Your Place When the Apprentice Is Gone](src/2026-09/20260902-jiro-dreams-of-sushi-korn-ferry-apprentice-tax.md)
 - [Revolut AIR Launches Across Europe, but One EU Neobank Already Has Better AI Numbers](src/2026-09/20260902-revolut-air-eu-launch-vs-bunq-finn-grok-bot-shopping.md)
 - [Energy Startups Booming in the Nordics — Sifted 100 Nordics Report](src/2026-09/20260902-energy-startups-booming-nordics-sifted-100.md)
+- [The Ultimate Guide to Grok Bot: The First Real AI Agent OS](src/2026-09/20260901-ultimate-guide-to-grok-bot-ai-agent-os.md)
 - [How to Shrink a Language Model Without Making it Too Dumb](src/2026-09/20260901-shrink-language-model-without-making-dumb.md)
 - [How to Turn Your AI Into a World-Class Designer](src/2026-09/20260901-turn-ai-into-world-class-designer.md)
 - [Scott Bessent Says We Will Grow Out of Our $40T Debt. Data Centers Are the Only Way.](src/2026-09/20260901-data-centers-grow-out-of-40t-debt.md)
 - [The Pragmatic Engineer: Five Years — How Software Engineering Is Changing](src/2026-09/20260901-pragmatic-engineer-five-years.md)
 - [Vibe Check: Fable 5.1 — Anthropic Is So Back (Again)](src/2026-09/20260901-vibe-check-fable-51-anthropic-is-so-back-again.md)
+- [What We Learned From 15 Hours of Anthropic Certification Training](src/2026-09/20260831-anthropic-certification-training-15-hours.md)
+- [What Happens Inside an AI Chatbot Between Enter and the First Word?](src/2026-09/20260831-what-happens-inside-ai-chatbot.md)
 
 #### June (157 articles)
 - [Anthropic Accuses Alibaba of Largest Known AI Model Distillation Campaign](src/2026-06/20260625-anthropic-alibaba-distillation-campaign.md)
