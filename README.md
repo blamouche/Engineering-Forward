@@ -25,12 +25,22 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████████████████████████████ 33
+2026-09 | ██████████████████████████████████████████████ 43
 ## Articles
 
 ### 2026
 
-#### September (33 articles)
+#### September (43 articles)
+- [DeepMind Veteran Thore Graepel Leaves to Pursue AI Reasoning Venture](src/2026-09/20260907-deepmind-veteran-graepel-reasoning-venture.md)
+- [H Company Cofounder Laurent Sifre Joins Microsoft to Build Paris AI Research Team](src/2026-09/20260907-h-company-cofounder-sifre-joins-microsoft.md)
+- [Anthropic's Model Hardware Standard: Agents Controlling Lab Equipment](src/2026-09/20260907-anthropic-model-hardware-standard-lab-equipment.md)
+- [Anthropic's AI-Native SDLC Playbook: Code Review Can't Stay Line-by-Line](src/2026-09/20260907-anthropic-ai-native-sdlc-playbook-code-review.md)
+- [Terminal-Bench-Science: Measuring AI Agents on Real Scientific Work](src/2026-09/20260907-terminal-bench-science-measuring-agents.md)
+- ["Load-Bearing": AI Vocabulary Now Dominates 47,000+ GitHub PRs](src/2026-09/20260907-load-bearing-ai-vocabulary-github-prs.md)
+- [The Case for Cloning Your Coworkers: Capturing Judgment as Reusable AI Skills](src/2026-09/20260907-cloning-coworkers-reusable-ai-skills.md)
+- [Proof Indigestion: Terence Tao on AI Generating Proofs Humans Can't Verify](src/2026-09/20260907-proof-indigestion-terence-tao-ai-proofs.md)
+- [Claude Code Cache Bug: Prompt-Cache Misses Costing Money in Long Sessions](src/2026-09/20260907-claude-code-cache-bug-prompt-misses.md)
+- [THE OFFICE Agent Harness: Munder Difflin Open-Source Multi-Agent Coordinator](src/2026-09/20260907-munder-difflin-office-agent-harness.md)
 - [Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM](src/2026-09/20260906-kimi-k3-in-c-cpu-8gb-ram.md)
 - [Warp Skill Doctor: Score and Improve Your Agent Skills From Past Sessions](src/2026-09/20260906-warp-skill-doctor-agent-skills.md)
 - [AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense](src/2026-09/20260906-ai-agent-context-security-provenance.md)
