@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Shrink a Language Model Without Making it Too Dumb — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How to Shrink a Language Model Without Making it Too Dumb</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-09-01</span>
+        <span class="meta-author">Alex Xu (ByteByteGo)</span>
+        <span class="meta-keywords">LLM, model compression, quantization, pruning, knowledge distillation, model size, inference, FP32, BF16, INT4, consumer hardware</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A detailed explainer of three techniques — quantization, pruning, and knowledge distillation — that make large language models small enough to run on consumer hardware without significantly degrading their intelligence, and how these techniques can be stacked.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>A 70B parameter model takes ~140 GB of storage, but a good GPU has only 24 GB — the gap has grown 100x in a few years while consumer memory has only doubled</li>
+            <li>Quantization stores each weight in fewer bits (e.g., 4-bit instead of 16-bit), using block-level scale factors to reconstruct approximate values</li>
+            <li>Pruning deletes weights that contribute least — either by setting small weights to zero or removing entire neurons/attention heads/layers</li>
+            <li>Knowledge distillation trains a smaller &quot;student&quot; model to mimic a larger &quot;teacher&quot; model&#x27;s full output distribution, not just the correct answer</li>
+            <li>All three techniques can be stacked: distill at the lab, prune in research, quantize on the user&#x27;s machine</li>
+            <li>32-bit to 8-bit quantization causes almost no noticeable intelligence loss; pushing to 4-bit or lower can have significant impact</li>
+            <li>Pruning idle pathways is safe; aggressive pruning of deeper pathways degrades multi-step logic</li>
+            <li>Distilled student models can mimic teacher style but may fail on completely novel problems the teacher didn&#x27;t cover</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

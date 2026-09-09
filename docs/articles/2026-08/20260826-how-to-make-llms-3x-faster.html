@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Make LLMs 3X Faster — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How to Make LLMs 3X Faster</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-26</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">speculative decoding, LLM inference, GPU memory bandwidth, autoregressive decoding, draft model, acceptance rate, parallel verification</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-to-make-llms-3x-faster" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Speculative decoding uses a small draft model to generate candidate tokens that a large target model verifies in a single forward pass, converting the GPU&#x27;s underutilized compute capacity into 2-3x faster LLM generation without changing the output distribution.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>During token generation, GPU compute utilization drops to 20-40 percent because a 70B model must read ~140GB of weights from VRAM for every single token, while the actual arithmetic on those weights is comparatively tiny</li>
+            <li>Transformers compute predictions at every position in one forward pass, so evaluating 4-5 candidate tokens costs roughly the same as evaluating one—this is the key insight behind speculative decoding</li>
+            <li>The lossless guarantee: the acceptance rule ensures the output distribution is statistically identical to the target model running alone, whether using greedy decoding or sampling with adjusted probabilities</li>
+            <li>Acceptance rate is governed by workload: structured/repetitive output (code, summarization, extraction) yields 80-90% acceptance, while open-ended creative writing produces low acceptance; below ~50%, the overhead outweighs the benefit</li>
+            <li>Four draft sources exist: a separate small model (original approach), extra prediction heads on the target model (DeepSeek-V3), a cheaper version of the same model via quantization/layer skipping, or a search over existing text in the prompt</li>
+            <li>Gains shrink under concurrency: speedup drops from 1.96x at batch size 1 to 1.21x at batch size 128, and can fall below baseline throughput under heavy load—vLLM dynamically disables speculation above a configurable batch size</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-to-make-llms-3x-faster" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

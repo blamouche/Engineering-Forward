@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Ramp Built Its Own In-House Coding Agent, Inspect — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Why Ramp Built Its Own In-House Coding Agent, Inspect</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-25</span>
+        <span class="meta-author">Gergely Orosz, Jessica Salmon, and Ivan Klaric</span>
+        <span class="meta-keywords">coding agents, in-house tooling, Ramp, Inspect, AI infrastructure, developer tools</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Ramp, a fintech company, rejected off-the-shelf AI coding agents and built Inspect, an in-house coding agent running on remote sandboxes that has become a step ahead of what frontier AI labs offer, demonstrating why select companies choose to build rather than buy.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Ramp built Inspect because engineers and designers were dissatisfied with third-party coding harnesses: they wanted to run more than a few agents in parallel (local machines don&#x27;t support this), needed better frontend tooling, and faced demand for remote development environments</li>
+            <li>Inspect runs on remote sandboxes with access to most internal data sources and verifies all backend and frontend changes on the remote machine before presenting results</li>
+            <li>The tech stack includes React/Vite, Cloudflare Durable Objects, SQLite, the Cloudflare Agents SDK, and Modal sandboxes, with services like Postgres, Redis, RabbitMQ, and Temporal available inside each sandbox</li>
+            <li>Smart tricks enable sandbox spin-up in five seconds or less, including pre-warming and snapshot restoration</li>
+            <li>All Inspect sessions are public and open to collaboration with no opt-outs allowed, and more than 150 people at Ramp have contributed to the project</li>
+            <li>The &quot;buy, don&#x27;t build&quot; tooling convention is being challenged by companies like Ramp (Inspect), Block (Goose, open source), Stripe (Minions), and Shopify (River) that find custom tooling more efficient than what frontier labs offer</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

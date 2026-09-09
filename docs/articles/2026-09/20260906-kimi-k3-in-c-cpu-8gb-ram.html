@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-31</span>
+        <span class="meta-author">Fareed Khan</span>
+        <span class="meta-keywords">Kimi K3, CPU inference, C99, memory-efficient inference, mixture-of-experts, MoE, mxfp4 quantization, linear attention, SIMD, AVX2, systems programming</span>
+    </div>
+
+    <a href="https://github.com/FareedKhan-dev/kimi-k3-in-c" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">A from-scratch C99 inference engine runs Kimi K3 — all 2.78 trillion parameters — on a single CPU with just 8.24 GB of RAM and a 176 KB binary, proving that frontier-scale models can technically execute on consumer hardware if you accept extreme latency tradeoffs.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The entire engine is 176 KB of portable C99 with zero dependencies: no BLAS, no framework, no GPU — just raw SIMD (AVX2) and careful memory management</li>
+            <li>The model checkpoint is 1.56 TB on disk, but only the dense trunk and a small resident working set need to live in RAM; the 1.45 TB of routed MoE experts are streamed directly from NVMe in their packed 4-bit (mxfp4) form and never resident</li>
+            <li>At 8 GB RAM, inference produces 32.69 seconds per token; at 128 GB (full model resident), it drops to 5.6 seconds per token — the output is byte-identical across all memory budgets</li>
+            <li>The key architectural insight is a &quot;fit cascade&quot;: four decisions about where bytes live (resident trunk depth, expert streaming, 4-bit packed weights, memory-mapped IO) take the model from cluster-scale to laptop-scale without changing results</li>
+            <li>This is not a production serving solution — it&#x27;s a systems programming exercise that reframes the &quot;you need a cluster&quot; assumption into a concrete engineering question about which bytes must be in memory versus which can sit on disk</li>
+        </ul>
+    </section>
+
+    <a href="https://github.com/FareedKhan-dev/kimi-k3-in-c" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

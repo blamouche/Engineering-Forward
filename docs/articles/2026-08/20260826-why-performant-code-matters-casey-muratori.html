@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Performant Code Matters (But Gets Widely Ignored), with Casey Muratori — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Why Performant Code Matters (But Gets Widely Ignored), with Casey Muratori</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-26</span>
+        <span class="meta-author">The Pragmatic Engineer / Gergely Orosz</span>
+        <span class="meta-keywords">software performance, Casey Muratori, clean code, TDD, CPU architecture, assembly, premature optimization, game development</span>
+    </div>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Casey Muratori argues that software performance is critical to the bottom line yet widely dismissed by the industry, and that the standard profiler-driven optimization approach is backwards—engineers should start from what hardware can theoretically do and close the gap.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Profiler-driven optimization finds only a local minimum; every great optimizer Casey has worked with starts by establishing what the hardware can theoretically do, then doesn&#x27;t stop until they&#x27;ve closed the gap to that performance level</li>
+            <li>Learning to read assembly (not write it) requires only 20-30 instructions and gives engineers direct insight into what the compiler produces and where the time goes</li>
+            <li>&quot;Premature optimization is the root of all evil&quot; is widely misused as an excuse to delay performance work; not optimizing in time means only hotspots can be fixed later, not the architectural issues that create poor performance</li>
+            <li>Understanding CPUs comes down to three things: how data moves (load/store units, L1-L3 caches), how instructions flow (branch prediction, i-cache), and execution unit scheduling (raw throughput per operation type)</li>
+            <li>Casey critiques &quot;clean code&quot; practices, arguing that many received programming wisdom items are &quot;just nonsense&quot; that nobody has tested in practice, and that tests should be a cost/benefit decision rather than put in place by default</li>
+            <li>The games industry already had its &quot;AI moment&quot; when licensable engines flooded the market, destroying organic discovery—a cautionary tale for AI&#x27;s impact on software</li>
+        </ul>
+    </section>
+
+    <a href="https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

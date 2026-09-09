@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Why Your RAG System Is Only as Good as Its Translator Model — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Why Your RAG System Is Only as Good as Its Translator Model</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-09-02</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">RAG, retrieval-augmented generation, embedding models, vector search, semantic similarity, Matryoshka embeddings, chunking, vector database, LLM</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">The embedding model — not the language model — is the most critical component of a RAG system, because no matter how powerful the LLM, it cannot generate correct answers from incorrectly retrieved context, and changing embedding models later requires a full corpus rebuild.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>RAG separates language generation from knowledge retrieval; the embedding model controls what information reaches the LLM&#x27;s context</li>
+            <li>A RAG system fails when the embedding model retrieves related but non-answerable passages: same subject different question, negation, version conflicts, numerical identifier confusion</li>
+            <li>A better language model cannot repair bad retrieval — if the correct document isn&#x27;t retrieved, the LLM either hallucinates, uses training data, or says it can&#x27;t answer</li>
+            <li>Choosing an embedding model requires evaluating: domain vocabulary, language support, embedding dimensions, max input length, query speed, and deployment requirements</li>
+            <li>Changing embedding models is extremely expensive: the entire corpus must be re-embedded, a new vector index built, metadata re-applied, and retrieval quality re-tested</li>
+            <li>Safe migration practices include keeping original chunks as source of truth, stable identifiers with content hashes, and blue-green deployment with parallel indexes</li>
+            <li>Matryoshka embeddings offer control over vector size by training models to produce useful representations at different prefix lengths (256, 512, 1024, full)</li>
+            <li>Three Matryoshka storage designs: store small vector only, store full vector with small search representation, or two-stage retrieval with small then full vectors</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

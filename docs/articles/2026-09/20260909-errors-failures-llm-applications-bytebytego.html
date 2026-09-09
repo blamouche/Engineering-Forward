@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Deal with Errors and Failures in LLM-Powered Applications — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>How to Deal with Errors and Failures in LLM-Powered Applications</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-09-07</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">LLM applications, error handling, resiliency, graceful degradation, circuit breakers, retries, exponential backoff, jitter, fallback models, idempotency, semantic failures, rate limiting, concurrency control</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">LLM-powered applications face a unique category of &quot;semantic failures&quot; where the API returns successfully but the response is wrong, unusable, or hallucinated — requiring error handling that goes beyond traditional technical failure management to classify and respond to three distinct failure types: transient, permanent, and semantic.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>LLM applications have two failure categories: technical failures (network, timeout, auth) and semantic failures (technically successful but incorrect, hallucinated, or unusable response) — conventional error handling only covers the first</li>
+            <li>Three error classifications drive response strategy: transient (retry with backoff), permanent (report and fix), semantic (validate, repair, or request human review)</li>
+            <li>Retries need exponential backoff with jitter to avoid thundering-herd effects: without jitter, thousands of failed requests retry simultaneously and cause another traffic spike</li>
+            <li>Fallback chains should avoid single points of failure: if primary and backup models are both on the same provider, a provider outage disables both — real redundancy requires separated pathways</li>
+            <li>Circuit breakers have three states (closed, open, half-open): they stop calls to a failing service to prevent cascading failures, with half-open allowing test requests to probe recovery</li>
+            <li>Tool-call failures need idempotency: if an LLM calls a payment API that succeeds but the network breaks before confirmation, a blind retry charges the customer twice</li>
+            <li>Rate limiting and concurrency control are essential: forwarding 10K simultaneous requests to an LLM provider can exhaust limits, connections, memory, or budget — queues with priority for interactive requests prevent background work from blocking users</li>
+            <li>Context-length failures can be avoided by counting tokens before sending: removing old messages, summarizing content, or splitting large jobs into smaller pieces</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

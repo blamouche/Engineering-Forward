@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Read — Or Not to Read the Code? — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>To Read — Or Not to Read the Code?</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-09-08</span>
+        <span class="meta-author">Kieran Klaassen (Every / Cora GM)</span>
+        <span class="meta-keywords">compound engineering, code reading, discernment, AI agents, skill erosion, irony of automation, dark factory, /ce-explain, learning loops, human oversight</span>
+    </div>
+
+    <a href="https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">As AI agents handle more coding work, the risk isn&#x27;t just bugs — it&#x27;s the erosion of the developer&#x27;s own judgment. The solution isn&#x27;t to read every line of code for verification, but to read code to learn: building a daily practice of understanding the system well enough to distinguish a plausible-sounding fix from a correct one.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The &quot;dark factory&quot; metaphor from manufacturing applies to AI-assisted coding: lights off, machines running, but the risk is turning out the light in your own head — losing the understanding that lets you judge the system&#x27;s output</li>
+            <li>Reading code is no longer for verification (planning, testing, and review agents handle that better) — it&#x27;s for learning: building the mental model that lets you recognize when a plausible-sounding answer is actually wrong</li>
+            <li>A real-world example: a Cora bug where a speedup exposed a latent cleanup issue that deleted already-sent emails — the first proposed fixes (wait 30 seconds, skip if Cora sent it) sounded reasonable but were both wrong; the correct fix was asking Gmail directly whether a message was still a draft before deleting</li>
+            <li>Four practices to compound human understanding: (1) open merged PRs and keep a list of gaps, (2) ask for the mechanics not the diff, (3) recover the reason behind design choices (incidents buried behind safeguards), (4) let the model quiz you without making it a gate</li>
+            <li>Research confirms the &quot;irony of automation&quot; (identified 1983): extended AI agent use measurably erodes vigilance, critical thinking, and domain skill — the very capabilities human oversight depends on</li>
+            <li>Experienced engineers are most at risk: &quot;I know this&quot; is always available as an excuse, while junior engineers constantly encounter unfamiliar things they must learn</li>
+        </ul>
+    </section>
+
+    <a href="https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

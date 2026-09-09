@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Background Work: From Cron Jobs to Distributed Systems — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>Background Work: From Cron Jobs to Distributed Systems</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-27</span>
+        <span class="meta-author">ByteByteGo</span>
+        <span class="meta-keywords">background work, cron jobs, distributed systems, job queues, task scheduling, async processing, message brokers, worker pools</span>
+    </div>
+
+    <a href="https://blog.bytebytego.com/p/background-work" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Background work evolves from simple cron scripts on a single machine to distributed systems with job queues, worker pools, and message brokers as applications scale—understanding when and how to make each transition is a core engineering skill.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>Background work is essential when operations are triggered by user actions, time schedules, external systems, or batch volume—moving them out of the request path improves responsiveness</li>
+            <li>Most teams start with a single scheduled script on one machine, which handles a surprising amount of work before needing more sophisticated strategies</li>
+            <li>The four main triggers for background work are: user actions (welcome emails), time-based (nightly reports), external system events (webhooks), and volume-based batching (bulk processing)</li>
+            <li>As systems grow, strategies evolve from cron jobs to job queues to distributed workers to message broker architectures</li>
+            <li>Moving work outside the request path is the fundamental design principle—respond immediately, process asynchronously</li>
+            <li>Content delivery networks, image resizing, and content scanning are classic examples of work that should never block a user-facing request</li>
+        </ul>
+    </section>
+
+    <a href="https://blog.bytebytego.com/p/background-work" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

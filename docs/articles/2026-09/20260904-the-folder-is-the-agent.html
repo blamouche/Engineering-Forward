@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Folder Is the Agent — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>The Folder Is the Agent</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-09-04</span>
+        <span class="meta-author">Kieran Klaassen (Every)</span>
+        <span class="meta-keywords">AI agents, Claude Code, compound engineering, folder-as-agent, orchestration, dispatch layer, multi-agent systems, CLAUDE.md</span>
+    </div>
+
+    <a href="https://every.to/emails/the-folder-is-the-agent" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">After three months of failing to make agent swarms work, Every&#x27;s Kieran Klaassen discovered that the real agent architecture was already on his hard drive: a project folder with a CLAUDE.md, skill definitions, and accumulated context — and he now runs 44 such folder-as-agents across multiple projects with a file-based dispatch layer.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>An agent is fundamentally &quot;a model with enough context so you don&#x27;t have to re-explain everything each time&quot; — a project folder with CLAUDE.md and .claude/ files is already an agent</li>
+            <li>The author runs 44 folder-as-agents across projects like ~/cora/ (Rails engineer) and ~/cora-agent/ (ops engineer), each with different context but running on the same model (Opus 4.6, GPT 5.4, Gemini Pro 3.1)</li>
+            <li>A custom Ruby daemon acts as the dispatch layer: it watches a directory for spawn requests, creates lead agents that break tasks into subtasks, and spawns workers in the right folders — file-based messaging, no custom networking</li>
+            <li>Two slash commands replace 20 terminal tabs: /hey (morning briefing across all projects) and /orchestrate (kick off a task that gets decomposed and routed to specialized workers)</li>
+            <li>Anthropic&#x27;s own research supports the pattern: an Opus lead with Sonnet sub-agents outperformed a single Opus by 90% on research tasks, but multi-agent systems burn 15x more tokens</li>
+        </ul>
+    </section>
+
+    <a href="https://every.to/emails/the-folder-is-the-agent" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>

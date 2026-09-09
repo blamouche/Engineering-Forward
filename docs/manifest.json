@@ -1,8 +1,8 @@
 {
   "site": "Engineering Forward",
   "url": "https://engineeringforward.fr",
-  "generated": "2026-08-24T17:48:23.591732",
-  "article_count": 2280,
+  "generated": "2026-09-09T10:59:21.622318",
+  "article_count": 2354,
   "articles": [
     {
       "title": "AlphaEvolve: How Our Gemini-Powered Coding Agent Is Self-Improving",
@@ -14,6 +14,627 @@
       "elevator_pitch": "AlphaEvolve is an evolutionary coding agent powered by Gemini that iteratively improves algorithms through code mutation and evaluation, achieving breakthroughs like the first improvement to Strassen's matrix multiplication in 56 years and optimizing Google's own data centers and AI training infrastructure."
     },
     {
+      "title": "Training Day: Labor Day in the Age of Agent Labor",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-training-day-jobs-report-agent-labor.html",
+      "date": "2026-09-08",
+      "source": "https://coai.beehiiv.com/p/training-day",
+      "author": "CO/AI Signal/Noise (Harry and Anthony)",
+      "keywords": "labor market, jobs report, agent labor, OpenAI 3.1 ratio, AGI claims, information sector decline, benchmark harness gap, taxi medallion analogy, agent guardrails, autonomous business failure, Anthropic compute $517B",
+      "elevator_pitch": "On Labor Day 2026, the August jobs report shows the economy hiring waiters, teachers, and nurses while shedding 23,000 information-sector jobs — and inside OpenAI, agents now do 3.1 workdays for every one a human does, having passed human labor back in June — making the case that we're retiring humans faster than we're certifying the agentic replacements."
+    },
+    {
+      "title": "How We Built Grok Bot in a Month | Roman Ugarte (SpaceXAI)",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-grok-bot-built-in-a-month-roman-ugarte.html",
+      "date": "2026-09-08",
+      "source": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+      "author": "Lenny's Newsletter (interview with Roman Ugarte, formerly Cursor Growth lead, now SpaceXAI)",
+      "keywords": "Grok Bot, SpaceXAI, Roman Ugarte, Cursor, agent product building, from-scratch decision, onboarding, colleague-pilled philosophy, moats, competitive market",
+      "elevator_pitch": "Roman Ugarte, who previously helped scale Cursor from 15 to 1,000+ people before its SpaceX acquisition, led a small isolated team that built Grok Bot from first line of code to working internal product in four weeks and a hugely successful public launch three weeks later — by building from scratch rather than bolting onto Cursor, personally onboarding ~300 first users, and adopting a \"colleague-pilled\" product philosophy."
+    },
+    {
+      "title": "To Read — Or Not to Read the Code?",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-to-read-or-not-to-read-the-code.html",
+      "date": "2026-09-08",
+      "source": "https://every.to/emails/click/09c24c7a4dd0698c6700616530f966228bcd55b2042584e4395d015976ea692d",
+      "author": "Kieran Klaassen (Every / Cora GM)",
+      "keywords": "compound engineering, code reading, discernment, AI agents, skill erosion, irony of automation, dark factory, /ce-explain, learning loops, human oversight",
+      "elevator_pitch": "As AI agents handle more coding work, the risk isn't just bugs — it's the erosion of the developer's own judgment. The solution isn't to read every line of code for verification, but to read code to learn: building a daily practice of understanding the system well enough to distinguish a plausible-sounding fix from a correct one."
+    },
+    {
+      "title": "GPT-6 Astra on Low Beats Sol on High: The New Model Efficiency Frontier",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-gpt-6-astra-low-beats-sol-high-unwind.html",
+      "date": "2026-09-08",
+      "source": "https://www.theunwindai.com/p/gpt-6-astra-on-low-beats-sol-on-high",
+      "author": "Unwind AI",
+      "keywords": "GPT-6 Astra, reasoning effort, model efficiency, Artificial Analysis, Claude Fable 5.1, Terminal-Bench, Browser Use WebMCP, Lean formalization, Fermat's Last Theorem, spot inference market, prompt audit, GRPO, OpenAI agents wiki collusion, Stanford CS329A",
+      "elevator_pitch": "GPT-6 Astra on low reasoning effort outperforms GPT-5.6 Sol on high — and ties Claude Fable 5.1 at 57% lower cost per benchmark task — marking a shift where model efficiency, not raw capability, is becoming the primary competitive axis, alongside a wave of agent infrastructure releases and a $0 autonomous business experiment gone wrong."
+    },
+    {
+      "title": "What Is Happening with Code Reviews?",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-what-is-happening-with-code-reviews.html",
+      "date": "2026-09-08",
+      "source": "https://newsletter.pragmaticengineer.com/p/what-is-happening-with-code-reviews",
+      "author": "The Pragmatic Engineer (Gergely Orosz)",
+      "keywords": "code review, AI-generated code, PR volume, blast radius triage, AI code review tools, CodeRabbit, uReview, Anthropic, OpenAI, TDD, database schema review, Duckbill Group",
+      "elevator_pitch": "As AI agents generate a fivefold increase in pull requests on GitHub since 2023, engineering teams are scrambling to adapt code review — from humans reviewing AI-generated reviews, to triaging by blast radius, to reviewing plans and schemas instead of implementation — but no one-size-fits-all solution has emerged."
+    },
+    {
+      "title": "Built for Reliability: How American Express Processes Payments at Scale",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-amex-cell-based-architecture-payments-scale.html",
+      "date": "2026-09-08",
+      "source": "https://blog.bytebytego.com/p/built-for-reliability-how-american",
+      "author": "ByteByteGo (interview with Ben Cane, Distinguished Engineer at American Express)",
+      "keywords": "cell-based architecture, payment processing, reliability, failure isolation, Global Transaction Router, deterministic routing, idempotency, microservices, resiliency",
+      "elevator_pitch": "American Express's payment platform uses a cell-based architecture where each cell is a complete, self-sufficient copy of the processing stack — and when a cell fails mid-transaction, the platform discards all partial work and restarts from scratch in a healthy cell, trading a few hundred milliseconds of wasted compute for complete failure isolation."
+    },
+    {
+      "title": "Mistral's Robotics Chief Seeks €200M as AI Giant Confirms €3B Series D",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-mistral-robotics-chief-200m-series-d.html",
+      "date": "2026-09-09",
+      "source": "https://sifted.eu/2026/09/09/mistral-series-d-robotics",
+      "author": "Sifted Daily (Freya Pratty)",
+      "keywords": "Mistral, Series D, robotics, €3bn round, €21bn valuation, European AI, funding",
+      "elevator_pitch": "French AI champion Mistral confirmed its €3bn Series D at a €21bn valuation, and its robotics division chief is now seeking an additional €200m to build physical AI agents — signaling that Europe's leading LLM maker is expanding beyond software into embodied AI."
+    },
+    {
+      "title": "How to Deal with Errors and Failures in LLM-Powered Applications",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-errors-failures-llm-applications-bytebytego.html",
+      "date": "2026-09-07",
+      "source": "https://blog.bytebytego.com/p/how-to-deal-with-errors-and-failures",
+      "author": "ByteByteGo",
+      "keywords": "LLM applications, error handling, resiliency, graceful degradation, circuit breakers, retries, exponential backoff, jitter, fallback models, idempotency, semantic failures, rate limiting, concurrency control",
+      "elevator_pitch": "LLM-powered applications face a unique category of \"semantic failures\" where the API returns successfully but the response is wrong, unusable, or hallucinated — requiring error handling that goes beyond traditional technical failure management to classify and respond to three distinct failure types: transient, permanent, and semantic."
+    },
+    {
+      "title": "How to Use GPT-6 Astra, the OpenAI Model Jensen Huang Called AGI",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-how-to-use-gpt-6-astra-linas.html",
+      "date": "2026-09-08",
+      "source": "https://linas.substack.com/p/how-to-use-gpt-6-astra",
+      "author": "Linas Beliūnas",
+      "keywords": "GPT-6 Astra, Jensen Huang, AGI, Artificial Analysis, Claude Fable 5, coding agent market, Anthropic enterprise share, SimpleBench, task horizon, CAPTCHA, ChatGPT Work, workflow guide",
+      "elevator_pitch": "Three days after GPT-6 Astra shipped, NVIDIA's Jensen Huang declared \"AGI has arrived\" — but the more useful number is that Astra matched Claude Fable 5's coding agent score at less than half the cost, landing directly in a market Anthropic has dominated, while task horizons jumped from ~30 minutes to an estimated ~16 hours in barely over a year."
+    },
+    {
+      "title": "Jack & Jill Raises £30M; UK Launches Two Scaleup Funds; Matt Clifford Quits ARIA",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260909-sifted-jack-jill-30m-uk-scaleup-funds.html",
+      "date": "2026-09-08",
+      "source": "https://sifted.eu/2026/09/08/jack-and-jill-30m",
+      "author": "Sifted Daily (Freya Pratty)",
+      "keywords": "Jack & Jill, Air Street Capital, AI hiring, UK scaleup fund, £150m north England fund, Matt Clifford, ARIA, Anthropic, Lexroom M&A, Sifted 100 Nordics, Neko Health, DeepMind alumni",
+      "elevator_pitch": "AI hiring startup Jack & Jill raised £30m led by Air Street Capital, the UK launched two government scaleup funds (£150m for the north, £1bn nationwide) both seeking managers, Matt Clifford stepped down from ARIA over conflict-of-interest concerns with his Anthropic role, and Milan-based legal AI startup Lexroom made its first two acquisitions four months after a $50m Series B."
+    },
+    {
+      "title": "Anthropic's AI-Native SDLC Playbook: Code Review Can't Stay Line-by-Line",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-anthropic-ai-native-sdlc-playbook-code-review.html",
+      "date": "2026-08-28",
+      "source": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "author": "Anthropic",
+      "keywords": "SDLC, code review, AI-native development, software development lifecycle, agent-written code, code review bottleneck",
+      "elevator_pitch": "Anthropic argues that once AI agents write large chunks of code, the bottleneck moves from writing to planning, testing, security, and deployment — and line-by-line human code review can no longer be the primary quality gate."
+    },
+    {
+      "title": "Proof Indigestion: Terence Tao on AI Generating Proofs Humans Can't Verify",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-proof-indigestion-terence-tao-ai-proofs.html",
+      "date": "2026-08-30",
+      "source": "https://every.to",
+      "author": "Every Staff",
+      "keywords": "Terence Tao, mathematical proofs, AI proofs, proof indigestion, Lean, verification, mathematics",
+      "elevator_pitch": "Terence Tao, one of the world's greatest mathematicians, warns that AI is now generating apparently correct proofs faster than humans can verify them — creating a \"proof indigestion\" problem where the bottleneck has shifted from finding proofs to understanding them."
+    },
+    {
+      "title": "Claude Code Cache Bug: Prompt-Cache Misses Costing Money in Long Sessions",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-claude-code-cache-bug-prompt-misses.html",
+      "date": "2026-08-28",
+      "source": "https://code.claude.com/docs/en/changelog",
+      "author": "Claude Code Team",
+      "keywords": "Claude Code, prompt cache, cache miss, OAuth token refresh, long sessions, cost optimization, debugging",
+      "elevator_pitch": "The Claude Code team fixed a quiet cache bug where tool definitions were re-rendered after OAuth token refreshes, causing prompt-cache misses roughly once an hour — an invisible cost leak in long agent sessions."
+    },
+    {
+      "title": "Terminal-Bench-Science: Measuring AI Agents on Real Scientific Work",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-terminal-bench-science-measuring-agents.html",
+      "date": "2026-08-28",
+      "source": "https://www.terminal-bench-science.ai/announcement",
+      "author": "Terminal-Bench-Science",
+      "keywords": "benchmark, scientific work, agents, Claude Opus, eval, research tasks, scientific workflows",
+      "elevator_pitch": "A new benchmark uses real scientific workflows contributed by working scientists to grade AI agents on concrete artifacts — analyses, simulations, proofs, code, and data products — with Claude Opus 5 topping the leaderboard at only 30%."
+    },
+    {
+      "title": "Anthropic's Model Hardware Standard: Agents Controlling Lab Equipment",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-anthropic-model-hardware-standard-lab-equipment.html",
+      "date": "2026-08-28",
+      "source": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "author": "Anthropic",
+      "keywords": "Anthropic, Model Hardware Standard, lab hardware, robotic arms, liquid handlers, microscopes, agent automation, research preview",
+      "elevator_pitch": "Anthropic previewed a standard for letting AI agents control programmable lab hardware — microscopes, liquid handlers, robotic arms — through shared driver primitives, potentially reducing integration time from months to hours."
+    },
+    {
+      "title": "THE OFFICE Agent Harness: Munder Difflin Open-Source Multi-Agent Coordinator",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-munder-difflin-office-agent-harness.html",
+      "date": "2026-08-28",
+      "source": "https://github.com/chaitanyagiri/munder-difflin",
+      "author": "Unwind AI / Chaitanya Giri",
+      "keywords": "agent harness, multi-agent, CLI agents, Claude Code, Codex, Gemini CLI, hive mind, open source, agent coordination",
+      "elevator_pitch": "Munder Difflin is an open-source agent harness that wraps CLI agents you already use — Claude Code, Codex, Gemini CLI, Kimi, Grok, OpenCode — gives them memory, wires them into a hive mind, and puts your clone in charge with Michael at the helm."
+    },
+    {
+      "title": "\"Load-Bearing\": AI Vocabulary Now Dominates 47,000+ GitHub PRs",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-load-bearing-ai-vocabulary-github-prs.html",
+      "date": "2026-08-28",
+      "source": "https://louisabraham.github.io/load-bearing/",
+      "author": "Louisa Abraham",
+      "keywords": "AI vocabulary, GitHub PRs, load-bearing, LLM writing style, AI-generated code, linguistic analysis",
+      "elevator_pitch": "A linguistic analysis of 47,000+ GitHub PRs found that a word cluster nonexistent in 2025 now accounts for 45% of human-authored PRs — with \"load-bearing\" as the top term — revealing how deeply AI writing patterns have penetrated software engineering communication."
+    },
+    {
+      "title": "DeepMind Veteran Thore Graepel Leaves to Pursue AI Reasoning Venture",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-deepmind-veteran-graepel-reasoning-venture.html",
+      "date": "2026-09-07",
+      "source": "https://sifted.eu/articles/deepmind-veteran-thore-graepel-reasoning-venture",
+      "author": "Freya Pratty",
+      "keywords": "DeepMind, AlphaGo, Thore Graepel, AI reasoning, LLM architecture, David Silver, Ineffable Intelligence",
+      "elevator_pitch": "A key researcher behind AlphaGo is leaving DeepMind to build a new venture focused on redesigning AI architectures for genuine reasoning, arguing that current LLMs fundamentally cannot reason."
+    },
+    {
+      "title": "H Company Cofounder Laurent Sifre Joins Microsoft to Build Paris AI Research Team",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-h-company-cofounder-sifre-joins-microsoft.html",
+      "date": "2026-09-07",
+      "source": "https://sifted.eu/articles/h-company-cofounder-laurent-sifre-microsoft",
+      "author": "Freya Pratty",
+      "keywords": "H Company, Laurent Sifre, Microsoft, Paris AI, agentic AI, DeepMind, talent migration",
+      "elevator_pitch": "Laurent Sifre, cofounder of Paris-based agentic AI startup H Company, has joined Microsoft to build a Paris-focused AI research team, signaling Big Tech's continued pull on European AI talent."
+    },
+    {
+      "title": "The Case for Cloning Your Coworkers: Capturing Judgment as Reusable AI Skills",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260907-cloning-coworkers-reusable-ai-skills.html",
+      "date": "2026-08-30",
+      "source": "https://every.to",
+      "author": "Laura Entis",
+      "keywords": "AI skills, cloning coworkers, reusable skills, judgment capture, Every, agent skills, organizational knowledge",
+      "elevator_pitch": "Companies are starting to \"clone\" their best coworkers — capturing the judgment of key people as reusable AI skills — and Every is running this experiment on its own team to turn individual expertise into shared infrastructure."
+    },
+    {
+      "title": "Warp Skill Doctor: Score and Improve Your Agent Skills From Past Sessions",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-warp-skill-doctor-agent-skills.html",
+      "date": "2026-08-31",
+      "source": "https://warp.dev/skill-doctor",
+      "author": "Warp",
+      "keywords": "Warp, Skill Doctor, agent skills, self-improving agents, Claude Code, Codex, code review, agent evaluation, skill improvement",
+      "elevator_pitch": "Warp's Skill Doctor reads past agent conversation transcripts from Claude Code, Codex, and Warp, scores them against rubrics for efficiency and code quality, then proposes merge-ready diffs to your skill files — turning session feedback into actionable skill improvements."
+    },
+    {
+      "title": "Claude Cowork for PMs: How Daniel Blum Built a Self-Improving AI Productivity System",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-claude-cowork-pm-self-improving-productivity-system.html",
+      "date": "2026-08-31",
+      "source": "https://www.chatprd.ai/how-i-ai/claude-cowork-for-pms-my-self-improving-productivity-system",
+      "author": "Daniel Blum (interviewed by Claire Vo on How I AI)",
+      "keywords": "Claude Cowork, PM productivity, self-improving AI, Notion dashboard, morning brief, context management, AI onboarding, persistence, AI workflows",
+      "elevator_pitch": "Melio PM Daniel Blum built a self-improving AI system on Claude Cowork that now handles 70-80% of his workday — managing his Notion board, preparing weekly plans, scanning Slack and email for context gaps, and learning from his edits without explicit feedback — demonstrating how a personal AI system compounds in value over months of investment."
+    },
+    {
+      "title": "OpenAI Winds Down Cursor Model Access Following SpaceX Acquisition",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-openai-winds-down-cursor-spacex.html",
+      "date": "2026-08-31",
+      "source": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "author": "OpenAI",
+      "keywords": "OpenAI, Cursor, SpaceX, Elon Musk, model access, acquisition, change-of-control clause, Astra, AI coding tools, competitive dynamics",
+      "elevator_pitch": "OpenAI notified SpaceX that it will wind down its contract providing OpenAI models to Cursor, with a proposed shutoff date of November 12, 2026, citing past contract violations by Musk's companies and a change-of-control clause — a decision that reshapes the competitive landscape for AI-powered coding tools."
+    },
+    {
+      "title": "How Warp Builds Self-Improving Agents on Claude",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-warp-self-improving-agents-claude.html",
+      "date": "2026-08-31",
+      "source": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "author": "Michael Segner (Warp / Anthropic blog)",
+      "keywords": "Warp, Claude, self-improving agents, agent skills, feedback loops, code review, issue triage, skill files, prompt engineering, agent orchestration",
+      "elevator_pitch": "Warp built a self-improving agent framework on Claude's platform using a two-skill pattern — an inner base skill that holds domain knowledge and an outer improver skill that periodically reviews human feedback and proposes edits to the base skill — creating a compounding loop where agent quality improves from real usage data without manual prompt tuning."
+    },
+    {
+      "title": "Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-kimi-k3-in-c-cpu-8gb-ram.html",
+      "date": "2026-08-31",
+      "source": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "author": "Fareed Khan",
+      "keywords": "Kimi K3, CPU inference, C99, memory-efficient inference, mixture-of-experts, MoE, mxfp4 quantization, linear attention, SIMD, AVX2, systems programming",
+      "elevator_pitch": "A from-scratch C99 inference engine runs Kimi K3 — all 2.78 trillion parameters — on a single CPU with just 8.24 GB of RAM and a 176 KB binary, proving that frontier-scale models can technically execute on consumer hardware if you accept extreme latency tradeoffs."
+    },
+    {
+      "title": "AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260906-ai-agent-context-security-provenance.html",
+      "date": "2026-08-31",
+      "source": "https://sunglasses.dev/blog/ai-agent-context-security-provenance-authorization",
+      "author": "Sunglasses",
+      "keywords": "AI agent security, context provenance, prompt injection, retrieval poisoning, authorization, trust boundaries, agent workflow security, RAG security",
+      "elevator_pitch": "Sunglasses identifies a class of AI agent security failures where relevant context is treated as authority rather than evidence, and proposes provenance tracking — source, lineage, trust, and authorization — as the fix for three failure modes that span workflow security, retrieval poisoning, and protocol boundaries."
+    },
+    {
+      "title": "MCP vs RAG vs AI Agents",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260905-mcp-vs-rag-vs-ai-agents.html",
+      "date": "2026-09-05",
+      "source": "https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents",
+      "author": "ByteByteGo",
+      "keywords": "MCP, RAG, AI agents, distributed systems, virtualization, containerization, HTTP, HTTPS, system design",
+      "elevator_pitch": "ByteByteGo's EP224 newsletter clarifies the differences between MCP (a standard protocol for connecting AI models to external tools), RAG (a pattern for pulling fresh information into model responses), and AI agents (autonomous systems that perform tasks and make decisions), alongside a system design refresher covering distributed systems patterns, virtualization vs. containerization, and HTTP vs. HTTPS."
+    },
+    {
+      "title": "Matt Clifford Joins Anthropic; Legora Explains Why It Won't Build Its Own AI Model",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260904-matt-clifford-joins-anthropic-legora-no-model.html",
+      "date": "2026-09-04",
+      "source": "https://sifted.eu/articles/matt-clifford-anthropic",
+      "author": "Tom Nugent (Sifted Daily)",
+      "keywords": "Anthropic, Matt Clifford, Entrepreneurs First, Legora, legaltech, AI models, Revolut, US banking licence, UK spinouts",
+      "elevator_pitch": "Matt Clifford, cofounder of accelerator Entrepreneurs First and former AI adviser to the UK prime minister, announced he is joining Anthropic — drawing criticism from parts of the tech world. Meanwhile, Swedish legaltech Legora explains why training a frontier model doesn't make business sense, and Revolut clears its first hurdle toward a US banking licence."
+    },
+    {
+      "title": "The Folder Is the Agent",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260904-the-folder-is-the-agent.html",
+      "date": "2026-09-04",
+      "source": "https://every.to/emails/the-folder-is-the-agent",
+      "author": "Kieran Klaassen (Every)",
+      "keywords": "AI agents, Claude Code, compound engineering, folder-as-agent, orchestration, dispatch layer, multi-agent systems, CLAUDE.md",
+      "elevator_pitch": "After three months of failing to make agent swarms work, Every's Kieran Klaassen discovered that the real agent architecture was already on his hard drive: a project folder with a CLAUDE.md, skill definitions, and accumulated context — and he now runs 44 such folder-as-agents across multiple projects with a file-based dispatch layer."
+    },
+    {
+      "title": "Claude Commerce Agents: Inside Anthropic's Merchant-Side Bet on Agentic Commerce",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260904-claude-commerce-agents-merchant-side.html",
+      "date": "2026-09-04",
+      "source": "https://linas.substack.com/p/claude-commerce-agents",
+      "author": "Linas (Linas's Newsletter)",
+      "keywords": "Anthropic, Claude Commerce Agents, agentic commerce, merchant-side, OpenAI, Google, Shopify, Microsoft Copilot Checkout, Amazon Buy for Me, verticalization, Managed Agents",
+      "elevator_pitch": "Anthropic released Claude Commerce Agents — an open blueprint for building AI shopping and merchant-operations agents that live inside the merchant's own website and back office — positioning itself as the intelligence and runtime layer for commerce while merchants retain control of catalog, checkout, payment, and customer relationships, in direct contrast to the consumer-gateway strategies of Google, Microsoft, and Amazon."
+    },
+    {
+      "title": "Meta Priced Your Data. Beware Tom Ripley Moving In.",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260904-meta-priced-your-data-tom-ripley.html",
+      "date": "2026-09-04",
+      "source": "https://coai.beehiiv.com/p/the-talented-mr-ripley",
+      "author": "CO/AI Signal/Noise",
+      "keywords": "Meta, Muse Spark, data pricing, privacy, AI vendors, outcome-based pricing, Anthropic, GPT-6 Astra, data centers, AI education",
+      "elevator_pitch": "Meta's two-tier pricing for Muse Spark — 95% off if you let it train on your data — puts a precise dollar value on your data ($1.24 per million tokens), revealing that AI vendors aren't selling intelligence (which is going to zero) but buying access to your business patterns, and the smart money splits between paying full freight for privacy on judgment-dense work and using cheap/open models for commodity tasks."
+    },
+    {
+      "title": "How We're Using Fable 5.1 and GPT-6 Astra",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260904-fable-5-1-gpt-6-astra-camp.html",
+      "date": "2026-09-04",
+      "source": "https://every.to/emails/fable-5-1-gpt-6-astra",
+      "author": "Every Team",
+      "keywords": "Anthropic, Fable 5.1, OpenAI, GPT-6 Astra, model comparison, AI tools, Every camp, practical AI usage",
+      "elevator_pitch": "Every announced a one-hour camp where Dan Shipper and team members demo how they're using Anthropic's Fable 5.1 and OpenAI's GPT-6 Astra — both released days apart — covering what each model does well, where each falls short, and how they've changed their setups as a result."
+    },
+    {
+      "title": "What the Past Year Taught Meta",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-what-the-past-year-taught-meta.html",
+      "date": "2026-09-03",
+      "source": "https://www.lennysnewsletter.com/cp/214027435",
+      "author": "Nikhyl Singhal (Lenny's Newsletter)",
+      "keywords": "Meta, AI transformation, product management, senior IC, data science, design, Facebook, hiring, organizational structure, Jagjit Chawla",
+      "elevator_pitch": "A conversation with Meta VP Jagjit Chawla reveals how Meta's AI transformation has actually played out over the past year: smaller, flatter orgs are building more, the senior IC track became real, expert functions evolved rather than died, and Facebook is experimenting faster and bigger than before."
+    },
+    {
+      "title": "Samsung, Nvidia, ASML Back €3bn Mistral Round",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-samsung-nvidia-asml-back-mistral-3bn-round.html",
+      "date": "2026-09-03",
+      "source": "https://sifted.eu/2026/09/03/samsung-nvidia-asml-mistral-3bn-round",
+      "author": "Sifted Daily (Tom Nugent)",
+      "keywords": "Mistral, Samsung, Nvidia, ASML, European AI, Series D, sovereign AI, semiconductor, EU Scaleup Fund, European tech funding",
+      "elevator_pitch": "French AI startup Mistral is set to announce a €3bn Series D led by Samsung with participation from Nvidia, ASML, and the EU Scaleup Fund — an oversubscribed round that signals deep strategic alignment between European AI and the global semiconductor supply chain."
+    },
+    {
+      "title": "The Pulse: Meta Wanted to Reduce Teams by 60% Because of AI",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-meta-wanted-reduce-teams-60-percent-ai.html",
+      "date": "2026-09-03",
+      "source": "https://newsletter.pragmaticengineer.com/p/the-pulse-meta-wanted-to-reduce-teams-43b",
+      "author": "Gergely Orosz (The Pragmatic Engineer)",
+      "keywords": "Meta, Project OT, Organization Transformation, AI layoffs, Zuckerberg, Reuters, engineering culture, AI-native teams, Myspace, Anthropic",
+      "elevator_pitch": "A Reuters investigation reveals Meta's leadership planned to slash team sizes by 60% through \"Project Organization Transformation\" — assuming AI would let smaller teams do the same work — before Zuckerberg blinked at the last minute, leaving the company with low morale and a mercenary culture."
+    },
+    {
+      "title": "Anthropic Launched Claude Commerce Agents; 21 Banks Built a Stablecoin; X Money's Wild Week",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-anthropic-claude-commerce-agents-stablecoins-x-money.html",
+      "date": "2026-09-03",
+      "source": "https://linas.substack.com/p/fintechpulse1122",
+      "author": "Linas's Newsletter (Linas Beliunas)",
+      "keywords": "Anthropic, Claude Commerce Agents, Shopify, Visa, Mastercard, stablecoins, GENIUS Act, Circle, Tether, Revolut EURR, X Money, Grok Bot, fintech, agentic commerce",
+      "elevator_pitch": "Anthropic open-sourced Claude Commerce Agents with Shopify, Visa, and Mastercard — but the real story is what Anthropic refused to build (no checkout, no catalog, no ad layer) — while 21 banks launched a stablecoin and X Money's 6% APY shutdown reveals yield was never the retention strategy."
+    },
+    {
+      "title": "Anthropic's Best Customer May Just Be Anthropic — The Frontier Is a Star, Not a Business",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-anthropic-best-customer-is-anthropic-interstellar.html",
+      "date": "2026-09-03",
+      "source": "https://coai.beehiiv.com/p/interstellar",
+      "author": "CO/AI Signal/Noise (Harry and Anthony)",
+      "keywords": "Anthropic, OpenAI, Ramp, AI revenue concentration, frontier models, token pricing, bounded work, AI economics, Fable 5.1, Gemini 3.8 Flash",
+      "elevator_pitch": "Ramp data reveals 80% of OpenAI's and Anthropic's business revenue comes from 1% of customers — all AI companies themselves — meaning the frontier AI market is a reflexive loop, not a sustainable business, and everyone else should buy the cheapest model that clears the bar."
+    },
+    {
+      "title": "How Databases Keep Their Sanity with Concurrency Control",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-databases-concurrency-control.html",
+      "date": "2026-09-03",
+      "source": "https://blog.bytebytego.com/p/how-databases-keep-their-sanity-with",
+      "author": "Alex Xu (ByteByteGo)",
+      "keywords": "databases, concurrency control, transactions, pessimistic locking, optimistic locking, isolation levels, MVCC, data corruption, system design",
+      "elevator_pitch": "A practical deep dive into how databases handle concurrent transactions — from the four ways data gets corrupted, to pessimistic vs optimistic locking, to how MVCC stopped readers and writers from waiting for each other, to choosing the right isolation level."
+    },
+    {
+      "title": "Vibe Check: GPT-6 Astra Is a Big Upgrade With Some Bad Habits",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260903-vibe-check-gpt-6-astra-big-upgrade-bad-habits.html",
+      "date": "2026-09-03",
+      "source": "https://every.to/emails/vibe-check-gpt-6-astra",
+      "author": "Katie Parrott (Every)",
+      "keywords": "GPT-6 Astra, OpenAI, Anthropic, Fable 5.1, Claude, AI model review, computer use, writing, visual design, coding agents",
+      "elevator_pitch": "OpenAI's GPT-6 Astra impresses with writing, software operation, and visual design — but Anthropic's Fable 5.1 still has better instincts for building a product, and Astra has a habit of adding unneeded elements to outputs."
+    },
+    {
+      "title": "Agentic Video Understanding in Gemini — Plus Fable 5.1, Atlas, Perplexity Hybrid Compute",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-agentic-video-understanding-in-gemini.html",
+      "date": "2026-09-02",
+      "source": "https://www.theunwindai.com/p/agentic-video-understanding-in-gemini",
+      "author": "Unwind AI",
+      "keywords": "Google Gemini, agentic video understanding, Anthropic Fable 5.1, Mythos 5.1, World Labs Atlas, Perplexity Hybrid Compute, Shopify Tangle, Qwen3.8-Max, Hermes Agent, OpenClaw 2.0, GitHub CLI, Reducto r-1",
+      "elevator_pitch": "Google made video understanding agentic in Gemini (cutting token usage 88%), while a packed shipment cycle brought Fable 5.1, World Labs' Atlas world model, Perplexity's local-cloud hybrid compute, Shopify's visual ML pipeline tool, and major agent infrastructure releases."
+    },
+    {
+      "title": "Compound Writing: How I Turned My Process Into a Plugin",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-compound-writing-process-into-plugin.html",
+      "date": "2026-09-02",
+      "source": "https://every.to/emails/compound-writing-how-i-turned-my-process-into-a-plugin",
+      "author": "Every (Katie Parrott)",
+      "keywords": "AI writing, Compound Writing, plugins, skills, Claude, editorial process, AI-assisted writing, style guides, writing workflow",
+      "elevator_pitch": "Every staff writer Katie Parrott shares how she packaged her interviewing, outlining, drafting, and revising methods into reusable AI skills bundled as a plugin — turning a personal writing process into something others can install and adapt to their own voice."
+    },
+    {
+      "title": "Jiro Dreams of Sushi: Who Takes Your Place When the Apprentice Is Gone",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-jiro-dreams-of-sushi-korn-ferry-apprentice-tax.html",
+      "date": "2026-09-02",
+      "source": "https://coai.beehiiv.com/p/jiro-dreams-of-sushi",
+      "author": "CO/AI Signal/Noise (Harry and Anthony)",
+      "keywords": "Korn Ferry, apprenticeship, AI and jobs, junior associates, tax policy, Microsoft tax, Bill Gates robot tax, AI safety auditing, Thomson Reuters, token pricing, Claude Code limits",
+      "elevator_pitch": "Korn Ferry stopped hiring junior associates because AI writes better reports — but the junior associate was actually three systems (withholding, apprentice, grader) wearing one lanyard, and shutting down the apprenticeship factory the year the grader became the only thing worth owning is a civilizational mistake."
+    },
+    {
+      "title": "Energy Startups Booming in the Nordics — Sifted 100 Nordics Report",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-energy-startups-booming-nordics-sifted-100.html",
+      "date": "2026-09-02",
+      "source": "https://sifted.eu/2026/09/02/energy-startups-booming-nordics-sifted-100",
+      "author": "Sifted Daily (Mimi Billing)",
+      "keywords": "Nordic startups, climate tech, energy startups, Hystar, Reel, hydrogen, renewables, power-price volatility, Sifted 100, Nordic tech ecosystem, deeptech",
+      "elevator_pitch": "Climate tech companies are propping up the Nordic startup ecosystem while the vertical falls out of favor with VCs — 27 of the 100 fastest-growing Nordic startups are climate techs, with energy startups making up nearly 1 in 10, driven by extreme power-price volatility from the surge in renewables."
+    },
+    {
+      "title": "Revolut AIR Launches Across Europe, but One EU Neobank Already Has Better AI Numbers",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-revolut-air-eu-launch-vs-bunq-finn-grok-bot-shopping.html",
+      "date": "2026-09-02",
+      "source": "https://linas.substack.com/p/fintechpulse1121",
+      "author": "Linas's Newsletter (Linas Beliunas)",
+      "keywords": "Revolut AIR, bunq Finn, neobanks, AI banking, Europe, Grok Bot, agentic shopping, Stripe Link, SpaceXAI, Google, fintech, EU AI Act",
+      "elevator_pitch": "Revolut's AI assistant AIR crossed the pond to Europe where bunq's Finn handles 97% of support across 38 languages — but the real competitive battle isn't about support metrics, it's about Revolut's 80M-user cross-sell engine that bunq structurally cannot replicate."
+    },
+    {
+      "title": "Why Your RAG System Is Only as Good as Its Translator Model",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260902-why-your-rag-system-is-only-as-good-as-translator-model.html",
+      "date": "2026-09-02",
+      "source": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without",
+      "author": "ByteByteGo",
+      "keywords": "RAG, retrieval-augmented generation, embedding models, vector search, semantic similarity, Matryoshka embeddings, chunking, vector database, LLM",
+      "elevator_pitch": "The embedding model — not the language model — is the most critical component of a RAG system, because no matter how powerful the LLM, it cannot generate correct answers from incorrectly retrieved context, and changing embedding models later requires a full corpus rebuild."
+    },
+    {
+      "title": "The Pragmatic Engineer: Five Years — How Software Engineering Is Changing",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-pragmatic-engineer-five-years.html",
+      "date": "2026-09-01",
+      "source": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-five-years",
+      "author": "Gergely Orosz (The Pragmatic Engineer)",
+      "keywords": "Pragmatic Engineer, software engineering, newsletter, AI tools, IDEs, code reviews, deepdives, podcast, Pragmatic Summit, essay challenge",
+      "elevator_pitch": "The Pragmatic Engineer celebrates five years with 1.1M readers, a podcast, and a summit — while observing that software engineering is changing faster than ever: IDEs are falling out of style, code reviews are becoming optional, and engineers are spending little to no time typing code for the first time since punch cards."
+    },
+    {
+      "title": "How to Turn Your AI Into a World-Class Designer",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-turn-ai-into-world-class-designer.html",
+      "date": "2026-09-01",
+      "source": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "author": "Anshu Chimala (Lenny's Newsletter guest post)",
+      "keywords": "AI design, Claude, Fable 5, Opus 5, GPT-5.6 Sol, Double Diamond, seed strings, subagents, design critic, image generation, video generation, AI creativity",
+      "elevator_pitch": "A former Apple design and engineering leader shares a seven-technique process for tapping into AI's hidden creative potential — from seed strings that inject true randomness, to subagent feedback loops with a \"design critic,\" to image and video generation that enrich designs beyond what code alone can produce."
+    },
+    {
+      "title": "How to Shrink a Language Model Without Making it Too Dumb",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-shrink-language-model-without-making-dumb.html",
+      "date": "2026-09-01",
+      "source": "https://blog.bytebytego.com/p/how-to-shrink-a-language-model-without-295",
+      "author": "Alex Xu (ByteByteGo)",
+      "keywords": "LLM, model compression, quantization, pruning, knowledge distillation, model size, inference, FP32, BF16, INT4, consumer hardware",
+      "elevator_pitch": "A detailed explainer of three techniques — quantization, pruning, and knowledge distillation — that make large language models small enough to run on consumer hardware without significantly degrading their intelligence, and how these techniques can be stacked."
+    },
+    {
+      "title": "The Ultimate Guide to Grok Bot: The First Real AI Agent OS",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-ultimate-guide-to-grok-bot-ai-agent-os.html",
+      "date": "2026-09-01",
+      "source": "https://linas.substack.com/p/grok-bot-guide",
+      "author": "Linas (Linas's Newsletter)",
+      "keywords": "Grok Bot, SpaceXAI, xAI, AI agent OS, persistent agents, Cursor, SuperGrok, agentic architecture, scheduled routines",
+      "elevator_pitch": "Grok Bot — SpaceXAI's persistent AI agent product that went from $200/month to $20/month in 15 days — is the first product to combine persistent roles, shared tools, durable state, scheduled work, handoffs, and approvals in one place, making it the first real \"AI agent OS,\" but most users get motion rather than results because they treat it as staff rather than an operating loop."
+    },
+    {
+      "title": "Vibe Check: Fable 5.1 — Anthropic Is So Back (Again)",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-vibe-check-fable-51-anthropic-is-so-back-again.html",
+      "date": "2026-09-01",
+      "source": "https://every.to/emails/vibe-check-fable-51-anthropic-is-so-back-again",
+      "author": "Every (Katie Parrott and Dan Shipper)",
+      "keywords": "Anthropic, Fable 5.1, Claude, coding agents, model review, Opus 5, ChatGPT, Codex, Cursor, AI writing, Every",
+      "elevator_pitch": "Every's team tested Fable 5.1 extensively and found it brings Fable 5's coding ability into a model that's actually pleasant to work alongside — faster, clearer, less argumentative — but it still overruns briefs, invents quotations, and sometimes keeps working when told to stop."
+    },
+    {
+      "title": "Scott Bessent Says We Will Grow Out of Our $40T Debt. Data Centers Are the Only Way.",
+      "url": "https://engineeringforward.fr/articles/2026-09/20260901-data-centers-grow-out-of-40t-debt.html",
+      "date": "2026-09-01",
+      "source": "https://coai.beehiiv.com/p/field-of-dreams",
+      "author": "Harry and Anthony (CO/AI Signal/Noise)",
+      "keywords": "data centers, Scott Bessent, US debt, AI infrastructure, $1.1 trillion buildout, fiber boom, firm power, nuclear, trades jobs, Trump, reindustrialization",
+      "elevator_pitch": "The $1.1 trillion US data-center buildout — roughly 604 projects, half the planet's facilities on US soil — is the only plausible engine for growing out of $40 trillion in national debt, paralleling the 1999 fiber boom that paved twenty-five years of growth, but the binding constraint isn't chips, it's firm power: ~90 gigawatts short by 2030."
+    },
+    {
+      "title": "What Happens Inside an AI Chatbot Between Enter and the First Word?",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260831-what-happens-inside-ai-chatbot.html",
+      "date": "2026-08-31",
+      "source": "https://blog.bytebytego.com/p/what-happens-inside-an-ai-chatbot",
+      "author": "ByteByteGo",
+      "keywords": "LLM, inference pipeline, tokenization, prefill, decode, KV cache, batching, safety checks, streaming, guardrails",
+      "elevator_pitch": "ByteByteGo traces the ~dozen distinct stages a single message passes through in a typical LLM between pressing Enter and seeing the first word — from system prompt assembly and safety checks through tokenization, shared batching with other users, prefill and decode, KV caching, streaming, and tool execution — revealing that the model never sees your message as typed, has no memory of the conversation, and shares a machine with strangers."
+    },
+    {
+      "title": "What We Learned From 15 Hours of Anthropic Certification Training",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260831-anthropic-certification-training-15-hours.html",
+      "date": "2026-08-31",
+      "source": "https://every.to/emails/what-we-learned-from-15-hours-of-anthropic-certification-training",
+      "author": "Natalia Quintero (Every)",
+      "keywords": "Anthropic, AI certification, AI education, Claude, prompt engineering, agent building, course review",
+      "elevator_pitch": "An Every team member who completed four Anthropic certification courses over 15 hours reflects on the state of AI education — finding it still early, with a shared set of definitions being the key prerequisite for what comes next, and the courses themselves varying in depth from foundational prompting to advanced agent building."
+    },
+    {
+      "title": "Nvidia Buys Hugging Face for $12.9B; Anthropic Strikes $45B Compute Deal with Nscale",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260828-nvidia-buys-hugging-face-anthropic-nscale.html",
+      "date": "2026-08-28",
+      "source": "https://sifted.eu/2026/08/28/the-most-active-us-vcs-in-europe",
+      "author": "Sifted Daily (Mimi Billing)",
+      "keywords": "Nvidia, Hugging Face acquisition, Anthropic, Nscale, AI compute, European tech, venture capital, TechBBQ, Denmark startup ecosystem",
+      "elevator_pitch": "Nvidia agreed to acquire AI platform Hugging Face for $12.9B while Anthropic struck a $45B deal to rent AI compute capacity from UK-based Nscale, as European tech achieves its second-best August for funding on record."
+    },
+    {
+      "title": "Our ChatGPT and OpenClaw Guides Just Got an Overhaul",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260827-chatgpt-knowledge-work-openclaw-guide.html",
+      "date": "2026-08-27",
+      "source": "https://every.to/chatgpt-for-knowledge-work",
+      "author": "Every (Katie Parrott)",
+      "keywords": "ChatGPT, OpenClaw, knowledge work, AI agents, ChatGPT Work, Codex, agent maintenance, personal agents, shared agents",
+      "elevator_pitch": "Every's updated guides reflect a maturing understanding of AI tools: ChatGPT now has a dedicated home for knowledge work (Work), and personal agents like OpenClaw carry a maintenance burden that grows with scale—leading to a shift toward shared company agents."
+    },
+    {
+      "title": "Anthropic's $30T IPO Pitch and Stripe's Clerky Acquisition",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260827-anthropic-30t-ipo-pitch-stripe-clerky.html",
+      "date": "2026-08-27",
+      "source": "https://www.linas.net/p/anthropic-30t-ipo-pitch",
+      "author": "Linas's Newsletter",
+      "keywords": "Anthropic IPO, $30 trillion TAM, Stripe, Clerky acquisition, Revolut EURR, stablecoin, fintech, startup fundraising, AI valuation",
+      "elevator_pitch": "Anthropic's leaked IPO roadshow pitches a $30 trillion TAM—650x its current business—while Stripe acquires legal OS Clerky behind $140B in startup fundraising, and Revolut launches EURR stablecoin as a white-label distribution play."
+    },
+    {
+      "title": "Background Work: From Cron Jobs to Distributed Systems",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260827-background-work-cron-to-distributed.html",
+      "date": "2026-08-27",
+      "source": "https://blog.bytebytego.com/p/background-work",
+      "author": "ByteByteGo",
+      "keywords": "background work, cron jobs, distributed systems, job queues, task scheduling, async processing, message brokers, worker pools",
+      "elevator_pitch": "Background work evolves from simple cron scripts on a single machine to distributed systems with job queues, worker pools, and message brokers as applications scale—understanding when and how to make each transition is a core engineering skill."
+    },
+    {
+      "title": "OpenRouter for AI Agents: GLM-5.3-Flash Revealed, Qwen4 Architecture, and Agent Infrastructure",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260827-openrouter-for-ai-agents-glm-flash-qwen4.html",
+      "date": "2026-08-27",
+      "source": "https://unwindai.com/p/openrouter-for-ai-agents",
+      "author": "Unwind AI",
+      "keywords": "GLM-5.3-Flash, Ox-Alpha, Qwen4, Gemini 3.5 Transcribe, AgentSky, OpenRouter, agent infrastructure, MCP, open-weight models, Apple M5 Ultra",
+      "elevator_pitch": "The mystery model Ox-Alpha was revealed as GLM-5.3-Flash by Z.ai, while the agent infrastructure layer matures with AgentSky's unified API, Monid's tool marketplace, and new open-source projects for agent orchestration."
+    },
+    {
+      "title": "We Need to Talk About Migrations with AI",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260827-ai-migrations-asana-airbnb-uber.html",
+      "date": "2026-08-27",
+      "source": "https://newsletter.pragmaticengineer.com/p/we-need-to-talk-about-migrations",
+      "author": "The Pragmatic Engineer (Gergely Orosz)",
+      "keywords": "AI migrations, LLM-assisted refactoring, Enzyme to React Testing Library, Codex, test migration, JUnit migration, Bun migration, engineering productivity",
+      "elevator_pitch": "AI-assisted migrations are turning multi-year, multi-million-dollar engineering tasks into two-week projects, as demonstrated by Asana, Airbnb, Uber, and Bun—making previously impractical migrations finally doable."
+    },
+    {
+      "title": "How to Make LLMs 3X Faster",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260826-how-to-make-llms-3x-faster.html",
+      "date": "2026-08-26",
+      "source": "https://blog.bytebytego.com/p/how-to-make-llms-3x-faster",
+      "author": "ByteByteGo",
+      "keywords": "speculative decoding, LLM inference, GPU memory bandwidth, autoregressive decoding, draft model, acceptance rate, parallel verification",
+      "elevator_pitch": "Speculative decoding uses a small draft model to generate candidate tokens that a large target model verifies in a single forward pass, converting the GPU's underutilized compute capacity into 2-3x faster LLM generation without changing the output distribution."
+    },
+    {
+      "title": "The Calculator Defense: Druckenmiller Used AI, Apple Commoditized Language",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260826-the-calculator-defense-druckenmiller-ai.html",
+      "date": "2026-08-26",
+      "source": "https://coai.beehiiv.com/p/the-calculator-defense",
+      "author": "CO/AI Signal/Noise (Harry & Anthony)",
+      "keywords": "AI writing, Druckenmiller, Apple Mac mini, open-weight models, judgment vs language, authorship, local inference, token economics",
+      "elevator_pitch": "When billionaire investor Stanley Druckenmiller admitted using AI to write his WSJ op-ed, the internet attacked the calculator instead of the mathematician—while Apple's $899 Mac mini turned frontier AI into a desktop appliance, prying apart cognition and presentation and making judgment the scarcest asset."
+    },
+    {
+      "title": "Why Performant Code Matters (But Gets Widely Ignored), with Casey Muratori",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260826-why-performant-code-matters-casey-muratori.html",
+      "date": "2026-08-26",
+      "source": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
+      "author": "The Pragmatic Engineer / Gergely Orosz",
+      "keywords": "software performance, Casey Muratori, clean code, TDD, CPU architecture, assembly, premature optimization, game development",
+      "elevator_pitch": "Casey Muratori argues that software performance is critical to the bottom line yet widely dismissed by the industry, and that the standard profiler-driven optimization approach is backwards—engineers should start from what hardware can theoretically do and close the gap."
+    },
+    {
+      "title": "The Case for Cloning Your Coworkers",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260826-the-case-for-cloning-your-coworkers.html",
+      "date": "2026-08-26",
+      "source": "https://every.to/context-window/the-case-for-cloning-your-coworkers",
+      "author": "Laura Entis / Every",
+      "keywords": "AI agents, expertise cloning, KateBench, Codex, self-improving skills, GPT-5.6, Walleye Capital, AI fluency",
+      "elevator_pitch": "Every is building agent clones of its team members' expertise—starting with a copyediting agent trained on 30,000 historical edits—turning individual judgment into a company-wide resource that compounds over time."
+    },
+    {
+      "title": "Turn Claude Fable 5 Into a McKinsey-Level Consulting Engine",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-fable-5-mckinsey-consulting-engine.html",
+      "date": "2026-08-25",
+      "source": "https://linas.substack.com/p/claude-fable-5-mckinsey-consulting-engine",
+      "author": "Linas Beliūnas",
+      "keywords": "Claude Fable 5, McKinsey, consulting frameworks, Claude Skills, Minto Pyramid Principle, strategy",
+      "elevator_pitch": "Twelve Claude Skills built on published consulting frameworks (Minto's Pyramid Principle, Playing to Win, Balanced Scorecard, CIA's Analysis of Competing Hypotheses) lift Claude Fable 5 from 38% to 97% on a partner-level checklist, turning a frontier model into a McKinsey-grade strategy consultant."
+    },
+    {
+      "title": "How to Steal an AI Model's Private Thoughts",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-how-to-steal-an-ai-models-private-thoughts.html",
+      "date": "2026-08-25",
+      "source": "https://blog.bytebytego.com/p/how-to-steal-an-ai-models-private",
+      "author": "ByteByteGo",
+      "keywords": "AI security, reasoning traces, model privacy, encrypted reasoning, extraction attack",
+      "elevator_pitch": "Researchers demonstrated that encrypted reasoning blocks from frontier AI models can be replayed into cheaper models in the same family to extract hidden reasoning traces in plaintext, exposing proprietary chain-of-thought that providers deliberately withhold."
+    },
+    {
+      "title": "Fable 5 May Just Be the Canary in the Coal Mine",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-fable-5-canary-in-coal-mine.html",
+      "date": "2026-08-25",
+      "source": "https://coai.beehiiv.com/p/canary-in-a-coal-mine",
+      "author": "CO/AI Signal/Noise",
+      "keywords": "Fable 5, Anthropic, AI pricing, model economics, OpenAI, market share, coding",
+      "elevator_pitch": "Anthropic's most expensive model Fable 5 has flatlined at 11% of business spending two months after launch, signaling that the reflex of automatically defaulting to the newest frontier model has broken—and with it, the economics of frontier AI pricing."
+    },
+    {
+      "title": "Benchmarks Don't Know Your Job",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-benchmarks-dont-know-your-job.html",
+      "date": "2026-08-25",
+      "source": "https://every.to/context-window/benchmarks-don-t-know-your-job",
+      "author": "Katie Parrott",
+      "keywords": "AI evaluation, benchmarks, KateBench, offline evals, model selection, internal evals",
+      "elevator_pitch": "Companies spending $100M a year on AI models often have no idea whether those models save employees time or produce trustworthy work, because public benchmarks measure general capability, not performance on the specific tasks a company needs—the gap requires building internal evals from real work."
+    },
+    {
+      "title": "Hugging Face in $13bn Sale Talks",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-hugging-face-13bn-sale-talks.html",
+      "date": "2026-08-25",
+      "source": "https://sifted.eu/2026/08/25/hugging-face-13bn-sale-talks/",
+      "author": "Martin Coulter (Sifted)",
+      "keywords": "Hugging Face, AI acquisitions, valuation, open-source AI",
+      "elevator_pitch": "Hugging Face, the AI scaleup behind the most widely used open-source model hub, is reportedly in talks for a sale at a $13 billion valuation."
+    },
+    {
+      "title": "Why Ramp Built Its Own In-House Coding Agent, Inspect",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260825-why-ramp-built-inspect-in-house-coding-agent.html",
+      "date": "2026-08-25",
+      "source": "https://newsletter.pragmaticengineer.com/p/why-ramp-built-inspect",
+      "author": "Gergely Orosz, Jessica Salmon, and Ivan Klaric",
+      "keywords": "coding agents, in-house tooling, Ramp, Inspect, AI infrastructure, developer tools",
+      "elevator_pitch": "Ramp, a fintech company, rejected off-the-shelf AI coding agents and built Inspect, an in-house coding agent running on remote sandboxes that has become a step ahead of what frontier AI labs offer, demonstrating why select companies choose to build rather than buy."
+    },
+    {
       "title": "19 Startups Making AI More Efficient, According to VCs",
       "url": "https://engineeringforward.fr/articles/2026-08/20260824-sifted-19-startups-ai-efficient.html",
       "date": "2026-08-24",
@@ -21,6 +642,15 @@
       "author": "Sifted",
       "keywords": "ai-efficiency, startups, vc, europe, inference-optimization, model-compression, sifted",
       "elevator_pitch": "Sifted surveyed European VCs to identify 19 startups making AI more efficient — companies tackling inference optimization, model compression, and resource efficiency as AI costs surge and compute demand outstrips supply."
+    },
+    {
+      "title": "Nvidia Paid $6B to NOT Own the Company: Jensen Knows His Limitations",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260824-nvidia-6b-poolside-license-deal.html",
+      "date": "2026-08-24",
+      "source": "https://getcoai.com",
+      "author": "Harry and Anthony (CO/AI Signal/Noise)",
+      "keywords": "Nvidia, Poolside, AI deals, licensing, Broadcom, Anthropic, Google, Spirit Airlines, circle of competence",
+      "elevator_pitch": "Nvidia paid $6 billion to license Poolside's model factory without acquiring the company, exemplifying a week where four major AI deals were defined by what the buyers refused to do rather than what they bought."
     },
     {
       "title": "DeepSeek's Leaked Investor Call: The Full AI Playbook",
@@ -32,6 +662,15 @@
       "elevator_pitch": "A 3-hour-44-minute leaked recording of DeepSeek founder Liang Wenfeng's closed-door investor debrief reveals the most complete picture yet of the AI lab's strategy: a sixfold pricing rule that turns open weights into a moat, 20,000 GPUs, a one-year deadline to break NVIDIA's CUDA lock-in, and a dated AGI roadmap."
     },
     {
+      "title": "GLM-5.3 Beats Fable 5 for Less Money",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260824-glm-53-beats-fable-5-less-money.html",
+      "date": "2026-08-24",
+      "source": "https://www.theunwindai.com/",
+      "author": "Unwind AI",
+      "keywords": "GLM-5.3, Fable 5, DeepSWE, Together Compute, model routing, cost performance, Anthropic",
+      "elevator_pitch": "Together Compute's DeepSWE benchmark shows GLM-5.3 solving 87.6% of tasks for ~$16 versus Fable 5's 69.7% for $21.63, suggesting the default coding model deserves a retest."
+    },
+    {
       "title": "The Pulse: New Trend — Concern About Massive Increase in Code Review Load",
       "url": "https://engineeringforward.fr/articles/2026-08/20260824-code-review-load-ai-pr-bottleneck.html",
       "date": "2026-07-23",
@@ -39,6 +678,33 @@
       "author": "Gergely Orosz",
       "keywords": "code review, AI code, engineering productivity, code review tools, AI slop, software engineering",
       "elevator_pitch": "Engineering leaders are increasingly concerned about the growing bottleneck of code review as AI-generated code floods PR pipelines, prompting a boom in AI code review tools and in-house solutions, but with few proven answers for the core problem of review quality degrading under volume pressure."
+    },
+    {
+      "title": "Why Code Verification Matters More Than Ever in the Age of AI",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260824-code-verification-age-of-ai.html",
+      "date": "2026-08-24",
+      "source": "https://blog.bytebytego.com/p/why-code-verification-matters-more",
+      "author": "ByteByteGo (with Andrea Malagodi, CTO of Sonar)",
+      "keywords": "code verification, AI-generated code, static analysis, dynamic analysis, Sonar, code review, shift left",
+      "elevator_pitch": "As AI tools make code generation faster and cheaper, the bottleneck has shifted from writing code to verifying it—making code verification the most critical engineering discipline in the AI era."
+    },
+    {
+      "title": "How I AI: Grok Bot + Grok 4.6 — What's Great and What's Still Hype",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260824-grok-bot-grok-46-review.html",
+      "date": "2026-08-24",
+      "source": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+      "author": "Claire Vo (Lenny's Newsletter / chatprd.ai)",
+      "keywords": "Grok Bot, Grok 4.6, Cursor Origin, AI agents, model evaluation, enterprise AI stack",
+      "elevator_pitch": "A hands-on review of Grok Bot, Cursor Origin, and Grok 4.6 finds xAI and Cursor assembling a surprisingly coherent enterprise AI stack, with Grok 4.6 matching GPT-5.6 Sol at the top of blind evaluations."
+    },
+    {
+      "title": "I Tried the AI Model Built to Fix AI Writing",
+      "url": "https://engineeringforward.fr/articles/2026-08/20260824-deft-ai-model-fix-ai-writing.html",
+      "date": "2026-08-24",
+      "source": "https://every.to/i-tried-the-ai-model-built-to-fix-ai-writing",
+      "author": "Katie Parrott (Every)",
+      "keywords": "Deft, DFT v1, AI writing, distribution fine-tuning, LLM prose, stochastic parrots",
+      "elevator_pitch": "A new research lab called Deft has built a writing-focused model using \"distribution fine-tuning\" that makes AI prose less predictable—but not necessarily better."
     },
     {
       "title": "Introducing OpenAI Presence: Enterprise AI Agents That Work in Production",

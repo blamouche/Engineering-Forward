@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense — Engineering Forward</title>
+    <meta name="description" content="Synthèses quotidiennes d&#x27;articles sur l&#x27;ingénierie logicielle, l&#x27;AI, le engineering management et le future of work">
+    <link rel="alternate" type="application/rss+xml" title="Engineering Forward" href="../../feed.xml">
+    <link rel="stylesheet" href="../../style.css">
+    <script>window.SITE_BASE = "../../";</script>
+    <script src="../../search.js" defer></script>
+</head>
+<body>
+
+<nav class="navbar">
+    <div class="nav-brand">
+        <a href="../../index.html">Engineering Forward</a>
+    </div>
+    <div class="nav-search">
+        <input type="search" id="site-search" placeholder="Search articles…" autocomplete="off" aria-label="Search articles">
+        <div id="search-results" class="search-results" hidden></div>
+    </div>
+    <div class="nav-links">
+        <a href="../../index.html" class="">Home</a>
+        <a href="../../archives.html" class="">Archives</a>
+        <a href="../../feed.xml" class="">RSS</a>
+        <a href="https://engineeringforward.substack.com" target="_blank" rel="noopener">Substack</a>
+        <a href="https://engineeringforward.substack.com/subscribe" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
+    </div>
+</nav>
+<main>
+
+<article class="article-full">
+    <a href="../../index.html" class="back-link">← Back home</a>
+    <h1>AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense</h1>
+    <div class="article-meta-full">
+        <span class="meta-date">2026-08-31</span>
+        <span class="meta-author">Sunglasses</span>
+        <span class="meta-keywords">AI agent security, context provenance, prompt injection, retrieval poisoning, authorization, trust boundaries, agent workflow security, RAG security</span>
+    </div>
+
+    <a href="https://sunglasses.dev/blog/ai-agent-context-security-provenance-authorization" target="_blank" rel="noopener" class="source-link-full">
+        Read the source article
+    </a>
+
+    <section class="elevator-pitch-section">
+        <h2>Quick summary</h2>
+        <p class="elevator-pitch">Sunglasses identifies a class of AI agent security failures where relevant context is treated as authority rather than evidence, and proposes provenance tracking — source, lineage, trust, and authorization — as the fix for three failure modes that span workflow security, retrieval poisoning, and protocol boundaries.</p>
+    </section>
+
+    <section class="takeaways-section">
+        <h2>Key takeaways</h2>
+        <ul class="takeaways-list">
+            <li>The core insight is that context (files, snippets, prior chat) helps an agent understand a task but should not automatically grant it the authority to decide what is true or allowed</li>
+            <li>Three failure modes are identified: sibling files steering code repairs (cross-file dependency poisoning), copied evidence being counted as independent sources (evidence aggregation manipulation), and conversational trust being mistaken for permission (trust escalation)</li>
+            <li>The fix is provenance: track source identity, lineage (what changed it), trust level, and authorization status for every context record before the agent acts</li>
+            <li>Sunglasses 0.4.5 ships two detection patterns (GLS-RP-567 and GLS-RP-585) from this research, inside a 39-pattern release</li>
+            <li>The research tested three narrow mechanisms with inert fixtures — no hostile code was executed, no credentials used, no external actions taken — making the findings reproducible and safe to verify</li>
+        </ul>
+    </section>
+
+    <a href="https://sunglasses.dev/blog/ai-agent-context-security-provenance-authorization" target="_blank" rel="noopener" class="source-link-full">
+        Read the full article on the source site
+    </a>
+
+</article>
+</main>
+<footer class="site-footer">
+    <p>Engineering Forward — Veille ingénierie et software</p>
+</footer>
+</body>
+</html>
