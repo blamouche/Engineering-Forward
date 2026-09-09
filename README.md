@@ -25,12 +25,22 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████████████████████████████████████████ 43
+2026-09 | ███████████████████████████████████████████████████████████ 53
 ## Articles
 
 ### 2026
 
-#### September (43 articles)
+#### September (53 articles)
+- [Mistral's Robotics Chief Seeks €200M as AI Giant Confirms €3B Series D](src/2026-09/20260909-mistral-robotics-chief-200m-series-d.md)
+- [Built for Reliability: How American Express Processes Payments at Scale](src/2026-09/20260909-amex-cell-based-architecture-payments-scale.md)
+- [What Is Happening with Code Reviews?](src/2026-09/20260909-what-is-happening-with-code-reviews.md)
+- [To Read — Or Not to Read the Code?](src/2026-09/20260909-to-read-or-not-to-read-the-code.md)
+- [How We Built Grok Bot in a Month | Roman Ugarte (SpaceXAI)](src/2026-09/20260909-grok-bot-built-in-a-month-roman-ugarte.md)
+- [GPT-6 Astra on Low Beats Sol on High: The New Model Efficiency Frontier](src/2026-09/20260909-gpt-6-astra-low-beats-sol-high-unwind.md)
+- [Training Day: Labor Day in the Age of Agent Labor](src/2026-09/20260909-training-day-jobs-report-agent-labor.md)
+- [How to Use GPT-6 Astra, the OpenAI Model Jensen Huang Called AGI](src/2026-09/20260909-how-to-use-gpt-6-astra-linas.md)
+- [Jack & Jill Raises £30M; UK Launches Two Scaleup Funds; Matt Clifford Quits ARIA](src/2026-09/20260909-sifted-jack-jill-30m-uk-scaleup-funds.md)
+- [How to Deal with Errors and Failures in LLM-Powered Applications](src/2026-09/20260909-errors-failures-llm-applications-bytebytego.md)
 - [DeepMind Veteran Thore Graepel Leaves to Pursue AI Reasoning Venture](src/2026-09/20260907-deepmind-veteran-graepel-reasoning-venture.md)
 - [H Company Cofounder Laurent Sifre Joins Microsoft to Build Paris AI Research Team](src/2026-09/20260907-h-company-cofounder-sifre-joins-microsoft.md)
 - [Anthropic's Model Hardware Standard: Agents Controlling Lab Equipment](src/2026-09/20260907-anthropic-model-hardware-standard-lab-equipment.md)
