@@ -25,12 +25,21 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ███████████████████████████████████████████████████████████ 53
+2026-09 | ███████████████████████████████████████████████████████████████████████ 62
 ## Articles
 
 ### 2026
 
-#### September (53 articles)
+#### September (62 articles)
+- [Europe's Most Active Growth Investors](src/2026-09/20260910-europe-most-active-growth-investors-sifted.md)
+- [What Writers Who Use AI Want You to Know](src/2026-09/20260909-what-writers-who-use-ai-want-you-to-know-every.md)
+- [Building Codex with Tibo Sottiaux](src/2026-09/20260909-building-codex-with-tibo-sottiaux-pragmatic-engineer.md)
+- [How Smart Model Routing Can Cut LLM Costs by 10X](src/2026-09/20260909-smart-model-routing-cut-llm-costs-10x-bytebytego.md)
+- [Meta's New Personal Agent is Free Up to 100M Tokens per Week](src/2026-09/20260909-meta-muse-personal-agent-free-100m-tokens-unwind.md)
+- [The Reindustrialization Of The USA: Musk Wants Robots but China Owns the Magnets](src/2026-09/20260909-reindustrialization-usa-robots-china-magnets-coai.md)
+- [Meta Muse Bets the AI Agent Race Against Grok Bot and Gemini Will Be Won on Trust](src/2026-09/20260909-meta-muse-trust-agent-race-grok-gemini-linas.md)
+- [Grok Bot vs. OpenClaw: Why I Replaced My Entire Agent Stack](src/2026-09/20260907-grok-bot-vs-openclaw-replaced-agent-stack-lenny.md)
+- [Revolut Won the US Bank Charter That Wise Couldn't; Anthropic's $65B Billing Problem and Stripe's $7B Answer](src/2026-09/20260907-revolut-us-bank-charter-anthropic-billing-stripe-linas.md)
 - [Mistral's Robotics Chief Seeks €200M as AI Giant Confirms €3B Series D](src/2026-09/20260909-mistral-robotics-chief-200m-series-d.md)
 - [Built for Reliability: How American Express Processes Payments at Scale](src/2026-09/20260909-amex-cell-based-architecture-payments-scale.md)
 - [What Is Happening with Code Reviews?](src/2026-09/20260909-what-is-happening-with-code-reviews.md)
