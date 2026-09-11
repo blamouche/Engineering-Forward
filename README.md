@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████ 62
+2026-09 | █████████████████████████████████████████████████████████████████████████ 68
 ## Articles
 
 ### 2026
 
-#### September (62 articles)
+#### September (68 articles)
+- [Sequoia's Venture Scouts in Europe](src/2026-09/20260911-sequoia-venture-scouts-europe-sifted.md)
+- [Evals for Everyone: Building Personal Benchmarks for Every Employee](src/2026-09/20260910-evals-for-everyone-every.md)
+- [The Pulse: Tech Companies Move to Open AI Models](src/2026-09/20260910-tech-companies-move-to-open-ai-models-pragmatic-engineer.md)
+- [A Guide to Application Networking Basics](src/2026-09/20260910-application-networking-basics-bytebytego.md)
+- [Will Anthropic and OpenAI Kill Us All? The 10% Extinction Number](src/2026-09/20260910-anthropic-openai-kill-us-all-10-percent-coai.md)
+- [Chime Buys Stride Bank for $590M; Meta Acquires Stilla for Agentic Commerce](src/2026-09/20260910-chime-buys-stride-bank-meta-stilla-agentic-commerce-linas.md)
 - [Europe's Most Active Growth Investors](src/2026-09/20260910-europe-most-active-growth-investors-sifted.md)
 - [What Writers Who Use AI Want You to Know](src/2026-09/20260909-what-writers-who-use-ai-want-you-to-know-every.md)
 - [Building Codex with Tibo Sottiaux](src/2026-09/20260909-building-codex-with-tibo-sottiaux-pragmatic-engineer.md)

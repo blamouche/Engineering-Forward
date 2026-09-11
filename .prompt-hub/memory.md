@@ -10765,3 +10765,15 @@
 - Trashed: 10 email(s) (pending batch trash)
 - Repo: 6 new files, README updated, version bumped to 0.0.1609
 - Articles synthesized: Kimi K3 in C: A 2.78T-Parameter Model Running on One CPU With 8 GB of RAM; Warp Skill Doctor: Score and Improve Your Agent Skills From Past Sessions; AI Agent Context Security Needs Provenance, Not Just Prompt Injection Defense; Claude Cowork for PMs: How Daniel Blum Built a Self-Improving AI Productivity System; OpenAI Winds Down Cursor Model Access Following SpaceX Acquisition; How Warp Builds Self-Improving Agents on Claude
+
+## 2026-09-10 09:10 — Substack daily post (cron 129616def9d2)
+- Actor: Hermes Agent (cron job)
+- Action: Generated and published daily Substack post
+- Files changed: substack/20260910-post-the-approval-economy.md (created), substack/latest.md (updated)
+- Post title: "The approval economy"
+- Theme: Trust, approval gates, and model efficiency as the new competitive frontier in the AI agent race
+- Verification: all 7 checks passed (1569 words, 17 links, no AI slop)
+- Previous posts referenced: "the-enterprise-ai-boom-is-becoming-an-operations-test", "when-coding-became-managing"
+- Published via Substack API (draft → set slug → publish)
+- Public URL: https://engineeringforward.substack.com/p/the-approval-economy
+- Outcome: success
