@@ -25,12 +25,17 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████ 68
+2026-09 | ████████████████████████████████████████████████████████████████████████████ 73
 ## Articles
 
 ### 2026
 
-#### September (68 articles)
+#### September (73 articles)
+- [It's Time to Bring Some Sanity to the AI Risk Conversation](src/2026-09/20260912-ai-risk-conversation-sanity-bigtechnology.md)
+- [What I Learn When I Run Out of AI](src/2026-09/20260912-what-i-learn-when-i-run-out-of-ai-every.md)
+- [OpenAI Codex Harness as an API](src/2026-09/20260912-openai-codex-harness-api-unwind.md)
+- [The Same $400K That Took Down the World Trade Center Can Now Cripple an Economy](src/2026-09/20260912-400k-cripple-economy-coai.md)
+- [The Agentic Transition Playbook](src/2026-09/20260912-agentic-transition-playbook-linas.md)
 - [Sequoia's Venture Scouts in Europe](src/2026-09/20260911-sequoia-venture-scouts-europe-sifted.md)
 - [Evals for Everyone: Building Personal Benchmarks for Every Employee](src/2026-09/20260910-evals-for-everyone-every.md)
 - [The Pulse: Tech Companies Move to Open AI Models](src/2026-09/20260910-tech-companies-move-to-open-ai-models-pragmatic-engineer.md)
