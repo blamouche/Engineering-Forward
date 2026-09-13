@@ -25,12 +25,13 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████ 73
+2026-09 | █████████████████████████████████████████████████████████████████████████████ 74
 ## Articles
 
 ### 2026
 
-#### September (73 articles)
+#### September (74 articles)
+- [EP225: Why Does Git Revert Cause Conflicts?](src/2026-09/20260912-git-revert-conflicts-bytebytego.md)
 - [It's Time to Bring Some Sanity to the AI Risk Conversation](src/2026-09/20260912-ai-risk-conversation-sanity-bigtechnology.md)
 - [What I Learn When I Run Out of AI](src/2026-09/20260912-what-i-learn-when-i-run-out-of-ai-every.md)
 - [OpenAI Codex Harness as an API](src/2026-09/20260912-openai-codex-harness-api-unwind.md)
