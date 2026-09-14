@@ -25,12 +25,15 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████ 74
+2026-09 | ████████████████████████████████████████████████████████████████████████████████ 77
 ## Articles
 
 ### 2026
 
-#### September (74 articles)
+#### September (77 articles)
+- [Legaltech's 'Land Grab' Moment: Lexroom Joins the Acquisition Race](src/2026-09/20260914-legaltech-land-grab-lexroom-sifted.md)
+- [Meta Bought the Other Half of Agentic Commerce: Stilla Acquisition + Revolut's US Bank Charter](src/2026-09/20260913-meta-stilla-agentic-commerce-revolut-charter-linas.md)
+- [What to Make of the Anthropic Warning: AI Slowdown Goes Mainstream](src/2026-09/20260913-anthropic-warning-ai-slowdown-every.md)
 - [EP225: Why Does Git Revert Cause Conflicts?](src/2026-09/20260912-git-revert-conflicts-bytebytego.md)
 - [It's Time to Bring Some Sanity to the AI Risk Conversation](src/2026-09/20260912-ai-risk-conversation-sanity-bigtechnology.md)
 - [What I Learn When I Run Out of AI](src/2026-09/20260912-what-i-learn-when-i-run-out-of-ai-every.md)
