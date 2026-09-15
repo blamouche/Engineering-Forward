@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████ 77
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████ 83
 ## Articles
 
 ### 2026
 
-#### September (77 articles)
+#### September (83 articles)
+- [AI Agents Expose the Limits of EU Rulemaking](src/2026-09/20260915-ai-agents-expose-limits-eu-rulemaking-sifted.md)
+- [What Playing With AI Taught Me About My Work](src/2026-09/20260914-what-playing-with-ai-taught-me-about-my-work-every.md)
+- [LLMs as a Judge: How to Know if Your LLM is Healthy](src/2026-09/20260914-llms-as-a-judge-how-to-know-if-your-llm-is-healthy-bytebytego.md)
+- [How I AI: How Two SpaceXAI Designers Use Grok Bot to Do Their Jobs](src/2026-09/20260914-how-i-ai-spacexai-designers-grok-bot-lenny.md)
+- [It's the Intelligence, Stupid! Why the AI Cartel's Call for a Slowdown Makes Sense](src/2026-09/20260914-its-the-intelligence-stupid-ai-cartel-slowdown-coai.md)
+- [OpenAI Built a Bloomberg Competitor Into ChatGPT; Nubank Launched in 35 Countries Without a Single Banking License](src/2026-09/20260914-openai-bloomberg-competitor-chatgpt-nubank-linas.md)
 - [Legaltech's 'Land Grab' Moment: Lexroom Joins the Acquisition Race](src/2026-09/20260914-legaltech-land-grab-lexroom-sifted.md)
 - [Meta Bought the Other Half of Agentic Commerce: Stilla Acquisition + Revolut's US Bank Charter](src/2026-09/20260913-meta-stilla-agentic-commerce-revolut-charter-linas.md)
 - [What to Make of the Anthropic Warning: AI Slowdown Goes Mainstream](src/2026-09/20260913-anthropic-warning-ai-slowdown-every.md)
