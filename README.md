@@ -25,12 +25,19 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████ 83
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████ 90
 ## Articles
 
 ### 2026
 
-#### September (83 articles)
+#### September (90 articles)
+- [The Scaleup Europe Fund's Next Bet](src/2026-09/20260916-scaleup-europe-fund-sifted.md)
+- [Mini-Vibe Check: TypeSafe's Jev Judged Everything I've Written in 0.7 Seconds](src/2026-09/20260915-typesafe-jev-probability-model-every.md)
+- [You're Probably Sleeping On Computer Use](src/2026-09/20260915-sleeping-on-computer-use-every.md)
+- [Inside OpenAI's Agentic Software Factory](src/2026-09/20260915-openai-agentic-software-factory-pragmatic-engineer.md)
+- [Do LLMs Have the Memory of a Goldfish?](src/2026-09/20260915-llms-memory-goldfish-bytebytego.md)
+- [Big Law to Dario and Sam: We're Getting Off Your Cloud](src/2026-09/20260915-big-law-off-cloud-coai.md)
+- [The Anthropic IPO: Top 10 Stocks Positioned to Benefit Most](src/2026-09/20260915-anthropic-ipo-stocks-linas.md)
 - [AI Agents Expose the Limits of EU Rulemaking](src/2026-09/20260915-ai-agents-expose-limits-eu-rulemaking-sifted.md)
 - [What Playing With AI Taught Me About My Work](src/2026-09/20260914-what-playing-with-ai-taught-me-about-my-work-every.md)
 - [LLMs as a Judge: How to Know if Your LLM is Healthy](src/2026-09/20260914-llms-as-a-judge-how-to-know-if-your-llm-is-healthy-bytebytego.md)
