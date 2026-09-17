@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████ 90
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████ 96
 ## Articles
 
 ### 2026
 
-#### September (90 articles)
+#### September (96 articles)
+- [How LLMs Can Find a Needle in a Haystack](src/2026-09/20260917-how-llms-find-needle-in-haystack-bytebytego.md)
+- [Show Us Your Folders: Give Your Agents a Garden and a Yard](src/2026-09/20260917-show-us-your-folders-every.md)
+- [Vercel Cut Sales to 1.25 People: How Much Lower Can It Go?](src/2026-09/20260917-vercel-sales-1-25-people-coai.md)
+- [Claude for Financial Advisors is Anthropic's First AI Product Built for an Entire Job](src/2026-09/20260917-claude-financial-advisors-anthropic-first-job-linas.md)
+- [1,393 Agents Took a Million-Line Codebase Apart](src/2026-09/20260917-nous-1393-agents-refactor-hermes-unwind.md)
+- [Gemini 3.8 Live Can See, Think, Talk, and Code at the Same Time](src/2026-09/20260917-gemini-3-8-live-voice-agents-unwind.md)
 - [The Scaleup Europe Fund's Next Bet](src/2026-09/20260916-scaleup-europe-fund-sifted.md)
 - [Mini-Vibe Check: TypeSafe's Jev Judged Everything I've Written in 0.7 Seconds](src/2026-09/20260915-typesafe-jev-probability-model-every.md)
 - [You're Probably Sleeping On Computer Use](src/2026-09/20260915-sleeping-on-computer-use-every.md)
