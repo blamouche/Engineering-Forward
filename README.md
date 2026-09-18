@@ -25,12 +25,19 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████ 96
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 103
 ## Articles
 
 ### 2026
 
-#### September (96 articles)
+#### September (103 articles)
+- [Inside London's Weirdest Neolab](src/2026-09/20260918-inside-londons-weirdest-neolab-sifted.md)
+- [Inside Gemini: How Google Runs Product for Its Model](src/2026-09/20260917-inside-gemini-how-google-runs-product-lenny.md)
+- [Why You Should Burn More Tokens](src/2026-09/20260917-why-you-should-burn-more-tokens-every.md)
+- [Migrations at Scale: Changing the Application Engine at 30,000 Feet](src/2026-09/20260917-migrations-at-scale-bytebytego.md)
+- [AI Skills with Matt Pocock](src/2026-09/20260917-ai-skills-with-matt-pocock-pragmatic-engineer.md)
+- [Groundhog Day: Google's AI Now Improves Itself](src/2026-09/20260917-groundhog-day-google-ai-improves-itself-coai.md)
+- [OpenAI Overtakes Anthropic in Developer AI Spend for the First Time Since 2024](src/2026-09/20260917-openai-overtakes-anthropic-developer-spend-linas.md)
 - [How LLMs Can Find a Needle in a Haystack](src/2026-09/20260917-how-llms-find-needle-in-haystack-bytebytego.md)
 - [Show Us Your Folders: Give Your Agents a Garden and a Yard](src/2026-09/20260917-show-us-your-folders-every.md)
 - [Vercel Cut Sales to 1.25 People: How Much Lower Can It Go?](src/2026-09/20260917-vercel-sales-1-25-people-coai.md)

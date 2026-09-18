@@ -1,0 +1,26 @@
+# OpenAI Overtakes Anthropic in Developer AI Spend for the First Time Since 2024
+**Source**: Linas's Newsletter (linas@substack.com) — https://linas.substack.com/p/fintechpulse1127
+**Date**: 2026-09-17
+**Author**: Linas Beliūnas
+**Keywords**: OpenAI, Anthropic, OpenRouter, developer AI spend, API lock-in, price war, GPT-6 Astra, UK banks, DeliveryCo, Visa rival, ChatGPT ads, Shopify, agentic commerce
+
+## Elevator pitch
+OpenAI now holds the majority of combined OpenAI-plus-Anthropic dollar spend on OpenRouter, breaking Anthropic's 133-week lead since February 2024 — a reversal that took just two weeks, driven by a July price war and a September model launch — alongside analysis of UK banks raising £50M to build a domestic Visa/Mastercard rival and ChatGPT launching ads with Shopify's product catalog.
+
+## Takeaways
+- **Anthropic's 133-week lead ended in two weeks**: OpenAI now holds the majority of combined OpenAI-plus-Anthropic dollar spend on OpenRouter, the largest public routing platform for developer AI traffic. Anthropic had led continuously since February 2024 — over 2.5 years. The reversal took just about two weeks, driven by a July price war and a September model launch landing in quick succession.
+- **API-layer lock-in is weaker than the market assumes**: The speed of the reversal suggests developer loyalty at the API layer is far more fluid than enterprise contracts. Developers route through OpenRouter precisely because they can switch models without changing code, and price-performance ratios — not brand — drive routing decisions.
+- **19 UK financial institutions raising £50M to build a Visa/Mastercard rival**: UK banks are backing DeliveryCo, a new domestic payments initiative. The UK already built a domestic debit scheme called Switch and then sold it to Mastercard in 2002. Brazil's Pix and India's UPI show the one condition that separates payment systems that actually displace card networks from ones that don't.
+- **ChatGPT is an ad network now**: OpenAI launched ChatGPT Ads with Shopify, where Shopify's Global Catalog quietly became the product feed powering ChatGPT, Google AI Mode, and Copilot. The question: what happens to merchant acquisition costs once every Shopify SKU is already in the catalog?
+- **Bonus deep dives inside**: The full issue includes deep dives into GPT-6 Astra, GLM-5.3-Flash, Qwen3.8-27B, how to build an agentic OS with Claude Fable 5, Anthropic's agentic commerce strategy, and Shopify's latest financials.
+
+## Synthesis
+Linas Beliūnas's FinTech & AI newsletter leads with a data point that would have seemed unlikely just months ago: OpenAI has overtaken Anthropic in developer AI spend on OpenRouter for the first time in more than 2.5 years. OpenRouter — the largest public routing platform for developer AI traffic — shows OpenAI now holds the majority of combined OpenAI-plus-Anthropic dollar spend. Anthropic had led that share continuously for 133 weeks since February 2024, a remarkable run that reflected the developer ecosystem's preference for Claude models in coding and agentic workloads.
+
+What makes the reversal striking is its speed. The flip took just about two weeks, driven by two events landing in quick succession: a July price war that compressed API margins, and a September model launch (GPT-6 Astra) that shifted the price-performance calculus. The newsletter promises a closer look at the mechanics — why API-layer lock-in is weaker than the market assumes, and what to watch over the next six to eight weeks. The implication is that developer AI spend is far more fluid than enterprise contracts suggest. Developers route through OpenRouter precisely because switching models requires no code changes, and when the price-performance ratio shifts, routing decisions follow.
+
+The second story covers the UK's new DeliveryCo payments initiative. Nineteen financial institutions are raising £50M to build a domestic rival to Visa and Mastercard. The historical precedent is instructive: the UK already built a domestic debit scheme called Switch and then sold it to Mastercard in 2002 — raising the question of whether a new domestic scheme can avoid the same fate. Brazil's Pix and India's UPI are cited as examples that reveal the one condition separating payment systems that actually displace card networks from those that don't.
+
+The third story examines OpenAI's ChatGPT Ads launch with Shopify. Shopify's Global Catalog has quietly become the product feed powering not just ChatGPT but also Google AI Mode and Copilot — making it a de facto product data layer across AI surfaces. The strategic question is what happens to merchant acquisition costs once every Shopify SKU is already in the catalog, and whether ChatGPT becomes a meaningful advertising channel or a complement to existing ad networks.
+
+The full issue includes bonus deep dives into GPT-6 Astra, GLM-5.3-Flash, Qwen3.8-27B, how to build an agentic OS with Claude Fable 5, Anthropic's agentic commerce strategy, and Shopify's latest financials — continuing the newsletter's format of combining breaking news analysis with deeper technical and strategic context for paid subscribers.
