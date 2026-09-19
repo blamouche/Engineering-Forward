@@ -25,12 +25,14 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████ 103
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 105
 ## Articles
 
 ### 2026
 
-#### September (103 articles)
+#### September (105 articles)
+- [Vibe Check: Is Astra a Breakthrough for Indie Filmmakers?](src/2026-09/20260918-astra-breakthrough-indie-filmmakers-vfx-every.md)
+- [Nuance Labs Is Betting That Text Broke AI Conversation](src/2026-09/20260918-nuance-labs-text-broke-ai-conversation-linas.md)
 - [Inside London's Weirdest Neolab](src/2026-09/20260918-inside-londons-weirdest-neolab-sifted.md)
 - [Inside Gemini: How Google Runs Product for Its Model](src/2026-09/20260917-inside-gemini-how-google-runs-product-lenny.md)
 - [Why You Should Burn More Tokens](src/2026-09/20260917-why-you-should-burn-more-tokens-every.md)
