@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████ 105
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████ 111<br>
 ## Articles
 
 ### 2026
 
-#### September (105 articles)
+#### September (111 articles)
+- [What US VCs Want to Know: AI Safety, Robotics, and Europe's Edge](src/2026-09/20260921-what-us-vcs-want-to-know-sifted.md)
+- [Nubank Goes Global Without Licenses; Claude Targets Financial Advisors; OpenAI Overtakes Anthropic in Developer Spend](src/2026-09/20260921-nubank-global-claude-financial-advisors-openai-spend-linas.md)
+- [90 Minutes of Unfiltered Product Advice from Snap and Discord's Product Chief](src/2026-09/20260921-peter-sellis-unfiltered-product-advice-lenny.md)
+- [Get Started With Jev for Free: Needle, Postgres Integration, and the Jev Ecosystem](src/2026-09/20260921-jev-needle-get-started-free-unwind.md)
+- [Copy Our Homework: Agent Workflows, Astra VFX, and 13 Beliefs About Writing With AI](src/2026-09/20260921-copy-our-homework-every.md)
+- [EP226: API Concepts, Prompt Injection Defenses, and 12 AI Papers That Changed Everything](src/2026-09/20260921-api-concepts-prompt-injection-ai-papers-bytebytego.md)
 - [Vibe Check: Is Astra a Breakthrough for Indie Filmmakers?](src/2026-09/20260918-astra-breakthrough-indie-filmmakers-vfx-every.md)
 - [Nuance Labs Is Betting That Text Broke AI Conversation](src/2026-09/20260918-nuance-labs-text-broke-ai-conversation-linas.md)
 - [Inside London's Weirdest Neolab](src/2026-09/20260918-inside-londons-weirdest-neolab-sifted.md)

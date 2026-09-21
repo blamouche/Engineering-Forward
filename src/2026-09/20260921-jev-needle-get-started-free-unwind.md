@@ -1,0 +1,30 @@
+# Get Started With Jev for Free: Needle, Postgres Integration, and the Jev Ecosystem
+**Source**: Unwind AI (unwindai@mail.beehiiv.com) — https://www.theunwindai.com/p/get-started-with-jev-for-free
+**Date**: 2026-09-21
+**Author**: Unwind AI
+**Keywords**: Jev, TypeSafe, Needle, System One, decision models, non-autoregressive, Chrome extension, Postgres, pg-jev, agent compaction, Browser Use, OpenRouter, Claude Code, token reduction, local models, Laya, Jev-as-a-Judge
+
+## Elevator pitch
+Unwind AI's Jev ecosystem update introduces Needle — a Chrome extension that uses Jev's decision model for semantic search instead of keyword matching — and catalogs a rapidly expanding set of Jev integrations: Postgres queries via pg-jev, 90% token reduction in Claude Code sessions, 7-second browser automation, form-filling via CUA-S1, and a LangChain evaluation showing Jev-as-a-Judge matching human labels at $0.34 vs $28.17 for Claude.
+
+## Takeaways
+- **Needle brings semantic search to the browser**: The open-source Chrome extension uses Jev to score a page's source sentences by intent rather than keyword match — ask "what happens if I cancel?" and Needle finds the passage that answers the question, not just the one containing the word "cancel." No generated summary, just source highlighting. Apache-2.0.
+- **Jev API free on Vercel AI Gateway until Sep 25**: Vercel reports Jev became the fastest-adopted model in AI Gateway history, reaching nearly 13% of paid teams in 24 hours — more than 2x the GPT-5.6 family and over 6x Fable 5.1.
+- **pg-jev brings Jev into Postgres**: Zachi's extension lets you write `WHERE jev(people, 'the name is European')` — the database streams rows to Jev, asks one yes/no question per row, and returns matches. Demo caps at 20 seconds and 2,500 model-judged rows per query.
+- **90% token reduction in Claude Code**: Tamara Tran's fast-jev-compaction plugin keeps user/assistant text verbatim, asks Jev which old tool calls still matter, and drops the rest. Falls back to Claude Code's built-in summary if Jev errors or can't shrink enough.
+- **Browser Use with Jev finds flights in 7 seconds**: The jev-ultrafast agent uses Jev for browser operation selection and target identification, calling a text model only for typing. Found a Google Flights itinerary in 7.073 seconds across 17 Jev requests, with 178ms median Jev latency.
+- **Jev-as-a-Judge matches human labels at 1/80th the cost**: LangChain's 500-evaluation test showed Jev produced the same pass/fail verdict as human labels, cost $0.34 vs $28.17 for Claude, and showed less variance between repeats.
+- **Jev has a weakness**: Context7's five-parsing-job test showed Jev tied three tasks, won page classification 85% vs 56%, but collapsed on crawl-root selection at 27% vs 93% for Gemini Flash. Still 10-170x faster and 3-20x cheaper, but bounded to page-level calls where the task has a clear, narrow decision space.
+
+## Synthesis
+The Jev ecosystem is maturing faster than most predicted. What began as a novel architecture — non-autoregressive decision models that return typed answers instead of generating text — has become a platform with integrations spanning databases, browsers, coding agents, evaluation pipelines, and trading systems. This Unwind AI issue captures the inflection point where Jev stops being a curiosity and starts being infrastructure.
+
+Needle is the most accessible entry point. The Chrome extension demonstrates Jev's core value proposition in a form anyone can use: instead of generating an answer (which might hallucinate), Jev scores existing sentences on the page by how well they match your intent, then highlights the best match. This is search, not synthesis — and it's the right framing for a model that can't generate text. The free Vercel AI Gateway access through September 25 removes the cost barrier for experimentation, and Vercel's adoption data (13% of paid teams in 24 hours) suggests the demand is real.
+
+The Postgres integration is the most architecturally significant. pg-jev turns Jev into a SQL predicate — `WHERE jev(people, 'the name is European')` — which means any application with a Postgres backend can now do semantic filtering without a separate embedding pipeline or vector database. The model streams rows, asks one yes/no question per row, and returns the ones that pass. The demo limits (20 seconds, 2,500 rows) keep it from being a production shortcut, but the pattern is clear: Jev becomes a query operator, not a model you call. This is the kind of integration that changes how developers think about database queries.
+
+The Claude Code compaction plugin addresses one of the most practical pain points in agent workflows: context window management. By asking Jev which historical tool calls still matter and dropping the rest, the plugin achieves up to 90% token reduction while preserving user and assistant text verbatim. The fallback to Claude Code's built-in summary when Jev fails is good engineering — the plugin degrades gracefully rather than breaking the session.
+
+The LangChain Jev-as-a-Judge result is the most economically significant. LLM-as-a-judge is a standard pattern for agent evaluation, but it's expensive — you're paying a large model to answer a small question. Jev's 500-evaluation run cost $0.34 and matched human labels. At 1/80th the cost of Claude with less variance, this is the kind of unit economics improvement that changes how teams build evaluation pipelines. If you're running thousands of evaluations per day, the savings compound quickly.
+
+The Context7 test is the necessary counterweight. Jev is not universal. It excels at bounded, page-level decisions where the output space is known. When the task requires a mental model of an entire system — like deciding which page to crawl next — Jev's performance drops sharply. The lesson is to use Jev for what it's good at (fast, cheap, typed decisions within a known space) and keep larger models for tasks requiring broader reasoning. The Jev-pilled developer's instinct to put Jev everywhere needs to be tempered with this boundary.
