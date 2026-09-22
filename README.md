@@ -25,12 +25,18 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████ 111<br>
+2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 117<br>
 ## Articles
 
 ### 2026
 
-#### September (111 articles)
+#### September (117 articles)
+- [A16z Wants More European Deals](src/2026-09/20260922-a16z-wants-more-european-deals-sifted.md)
+- [How to Run a Big Model on Cheap Hardware?](src/2026-09/20260922-how-to-run-a-big-model-on-cheap-hardware-bytebytego.md)
+- [Meta's Muse Review + How Warp Ships 2,000 PRs a Month with AI Factories](src/2026-09/20260922-meta-muse-review-warp-2000-prs-ai-factories-lenny.md)
+- [How to Create Your Own Personal AI Benchmark](src/2026-09/20260922-create-your-own-personal-ai-benchmark-every.md)
+- [Garbage In, Gospel Out: Understanding the Consequences of AI Decision Making](src/2026-09/20260922-garbage-in-gospel-out-ai-decision-making-coai.md)
+- [Revolut Confirms Dual IPO; Meta Muse Connectors and the App Store for Agentic Commerce](src/2026-09/20260922-revolut-dual-ipo-meta-muse-connectors-agentic-commerce-linas.md)
 - [What US VCs Want to Know: AI Safety, Robotics, and Europe's Edge](src/2026-09/20260921-what-us-vcs-want-to-know-sifted.md)
 - [Nubank Goes Global Without Licenses; Claude Targets Financial Advisors; OpenAI Overtakes Anthropic in Developer Spend](src/2026-09/20260921-nubank-global-claude-financial-advisors-openai-spend-linas.md)
 - [90 Minutes of Unfiltered Product Advice from Snap and Discord's Product Chief](src/2026-09/20260921-peter-sellis-unfiltered-product-advice-lenny.md)
