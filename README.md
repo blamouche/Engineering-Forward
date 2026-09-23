@@ -25,12 +25,21 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 117<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 126<br>
 ## Articles
 
 ### 2026
 
-#### September (117 articles)
+#### September (126 articles)
+- [Inside Mistral's Latest Acquisition](src/2026-09/20260923-inside-mistrals-latest-acquisition-sifted.md)
+- [Vibe Check: GPT-6 Sol vs. Opus 5.5](src/2026-09/20260922-vibe-check-gpt-6-sol-vs-opus-5-5-every.md)
+- [Vibe Check: Opus 5.5 Is Pulling Our Codex Converts Back to Claude](src/2026-09/20260922-opus-5-5-pulling-codex-converts-back-to-claude-every.md)
+- [How Will AI Change Operating Systems? Part 2: Windows](src/2026-09/20260922-ai-change-operating-systems-windows-pragmatic-engineer.md)
+- [How OpenAI Built GPT-Live](src/2026-09/20260922-how-openai-built-gpt-live-bytebytego.md)
+- [Advanced Evals: How to Find (and Fix) Hidden AI Failures in Your Product](src/2026-09/20260922-advanced-evals-hidden-ai-failures-lenny.md)
+- [Kubernetes for Agent Execution](src/2026-09/20260922-kubernetes-for-agent-execution-unwind.md)
+- [Amazon Blocks Muse: It's Buff Bezos vs. MMA Mark](src/2026-09/20260922-amazon-blocks-muse-buff-bezos-vs-mma-mark-coai.md)
+- [How to Use Jev AI: The Complete Guide to TypeSafe's System One Model](src/2026-09/20260922-jev-ai-complete-guide-typesafe-linas.md)
 - [A16z Wants More European Deals](src/2026-09/20260922-a16z-wants-more-european-deals-sifted.md)
 - [How to Run a Big Model on Cheap Hardware?](src/2026-09/20260922-how-to-run-a-big-model-on-cheap-hardware-bytebytego.md)
 - [Meta's Muse Review + How Warp Ships 2,000 PRs a Month with AI Factories](src/2026-09/20260922-meta-muse-review-warp-2000-prs-ai-factories-lenny.md)
