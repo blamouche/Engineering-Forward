@@ -25,12 +25,19 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 126<br>
+2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 133<br>
 ## Articles
 
 ### 2026
 
-#### September (126 articles)
+#### September (133 articles)
+- [Anthropic: We're Not Trying to Eat Startups' Lunch](src/2026-09/20260924-anthropic-not-eating-startups-lunch-sifted.md)
+- [How to Get the Most Out of Jev](src/2026-09/20260924-how-to-get-the-most-out-of-jev-every.md)
+- [Design Engineering with Maggie Appleton](src/2026-09/20260924-design-engineering-maggie-appleton-pragmatic-engineer.md)
+- [How to Customize a Model to Learn New Tricks](src/2026-09/20260924-customize-model-learn-new-tricks-bytebytego.md)
+- [Opus 5.5, GPT-6 Sol and Luna](src/2026-09/20260924-opus-5-5-gpt-6-sol-and-luna-unwind.md)
+- [Why Muse Makes Sense for Everyone — Except Amazon](src/2026-09/20260924-muse-makes-sense-except-amazon-coai.md)
+- [Amazon Blocked Meta's Muse AI Agent to Protect $76 Billion in Ad Revenue; X's Everything App](src/2026-09/20260924-amazon-blocked-muse-ad-revenue-x-everything-app-linas.md)
 - [Inside Mistral's Latest Acquisition](src/2026-09/20260923-inside-mistrals-latest-acquisition-sifted.md)
 - [Vibe Check: GPT-6 Sol vs. Opus 5.5](src/2026-09/20260922-vibe-check-gpt-6-sol-vs-opus-5-5-every.md)
 - [Vibe Check: Opus 5.5 Is Pulling Our Codex Converts Back to Claude](src/2026-09/20260922-opus-5-5-pulling-codex-converts-back-to-claude-every.md)
