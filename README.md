@@ -25,12 +25,19 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 133<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 140<br>
 ## Articles
 
 ### 2026
 
-#### September (133 articles)
+#### September (140 articles)
+- [Revolut Security Breach; Europe's Leading Pre-Seed Investors in 2026](src/2026-09/20260925-revolut-security-breach-pre-seed-investors-sifted.md)
+- [Why Evals Are So Hot Right Now](src/2026-09/20260925-why-evals-are-so-hot-right-now-every.md)
+- [What It's Like to Work at an AI-Native Company](src/2026-09/20260925-what-its-like-to-work-at-ai-native-company-lenny.md)
+- [The Pulse: A New Trend of CPU Shortages](src/2026-09/20260925-cpu-shortages-pragmatic-engineer.md)
+- [The Life of Data: From Creation to Deletion](src/2026-09/20260925-life-of-data-creation-to-deletion-bytebytego.md)
+- [Japan's Books by the Ton; Reality TV Tape; Meta Glasses — The Next AI Training Data](src/2026-09/20260925-japan-books-by-the-ton-reality-tv-tape-coai.md)
+- [Affirm's AI Underwriting Works Best on Borrowers with No FICO Score; No iCoin, No Google USD](src/2026-09/20260925-affirm-ai-underwriting-no-fico-apple-google-stablecoins-linas.md)
 - [Anthropic: We're Not Trying to Eat Startups' Lunch](src/2026-09/20260924-anthropic-not-eating-startups-lunch-sifted.md)
 - [How to Get the Most Out of Jev](src/2026-09/20260924-how-to-get-the-most-out-of-jev-every.md)
 - [Design Engineering with Maggie Appleton](src/2026-09/20260924-design-engineering-maggie-appleton-pragmatic-engineer.md)
