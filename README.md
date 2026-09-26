@@ -25,12 +25,15 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 140<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 143<br>
 ## Articles
 
 ### 2026
 
-#### September (140 articles)
+#### September (143 articles)
+- [The Claude Code Projects Playbook: Make Claude Your Chief of Staff](src/2026-09/20260926-claude-code-projects-playbook-linas.md)
+- [What I Got Wrong About Meta's Muse, And The Deeper Threat To Frontier AI](src/2026-09/20260926-what-i-got-wrong-about-metas-muse-big-technology.md)
+- [Copilot Gets a Seat in the Org Chart](src/2026-09/20260926-copilot-gets-a-seat-in-the-org-chart-every.md)
 - [Revolut Security Breach; Europe's Leading Pre-Seed Investors in 2026](src/2026-09/20260925-revolut-security-breach-pre-seed-investors-sifted.md)
 - [Why Evals Are So Hot Right Now](src/2026-09/20260925-why-evals-are-so-hot-right-now-every.md)
 - [What It's Like to Work at an AI-Native Company](src/2026-09/20260925-what-its-like-to-work-at-ai-native-company-lenny.md)
