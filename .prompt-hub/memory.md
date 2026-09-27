@@ -1,4 +1,17 @@
 
+## 2026-09-27 09:00 — Substack post recents
+- Reviewed 15 most recent README articles (September 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "The good enough threshold"
+- Central theme: standard AI models have crossed a competence threshold where they power production agents effectively, shrinking the frontier model premium from 53% to 45% of AI spend in one month. The article explores what this means for the IPO-bound frontier labs, the cost-tier stack emerging (decision models at 600x lower cost, fine-tuning adapters, standard models for production), and the data counterpressure (physical archives, reality TV tape, Meta glasses)
+- Previous posts referenced: the-two-week-moat, the-checking-floor, the-adapter-economy, what-intelligence-consumes
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 19 links, 1906 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/the-good-enough-threshold
+- Saved to substack/20260927-post-the-good-enough-threshold.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1610
+- Chrome cookie decryption technique: Chrome v130+ on macOS prepends SHA256(domain) (32 bytes) to encrypted cookie values before AES-CBC encryption. Use PBKDF2(chrome_password, 'saltysalt', 1003, 16) key, 16-space IV, strip 32-byte hash prefix after decryption.
+
 ## 2026-08-22 08:00 — Daily veille IA
 - Gmail label `0---veille-ia`: 10 message(s) — all in TRASH (auto-filtered), all UNREAD
 - 0 new article(s) synthesized — all 10 emails already had corresponding syntheses in repo from prior runs:

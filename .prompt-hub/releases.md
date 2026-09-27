@@ -1,3 +1,6 @@
+## 0.0.1610 - 2026-09-27
+- Add substack post: The good enough threshold
+
 ## 0.0.1608 - 2026-08-26
 - Daily veille IA: Gmail label `0---veille-ia` returned 9 message(s); 5 article(s) synthesized from ByteByteGo, Pragmatic Engineer, CO/AI, Linas, Every; 9 email(s) trashed.
 
