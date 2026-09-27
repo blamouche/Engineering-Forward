@@ -25,12 +25,13 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 143<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 144<br>
 ## Articles
 
 ### 2026
 
-#### September (143 articles)
+#### September (144 articles)
+- [EP227: Top 9 Places to Use Jev](src/2026-09/20260926-top-9-places-to-use-jev-bytebytego.md)
 - [The Claude Code Projects Playbook: Make Claude Your Chief of Staff](src/2026-09/20260926-claude-code-projects-playbook-linas.md)
 - [What I Got Wrong About Meta's Muse, And The Deeper Threat To Frontier AI](src/2026-09/20260926-what-i-got-wrong-about-metas-muse-big-technology.md)
 - [Copilot Gets a Seat in the Org Chart](src/2026-09/20260926-copilot-gets-a-seat-in-the-org-chart-every.md)
