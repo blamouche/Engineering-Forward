@@ -25,12 +25,14 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 144<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 146<br>
 ## Articles
 
 ### 2026
 
-#### September (144 articles)
+#### September (146 articles)
+- [Open-Source Jev That Runs on CPU](src/2026-09/20260928-open-source-jev-that-runs-on-cpu-unwind.md)
+- [New Cherry Partner Eyes Lovable and Legora Mafia](src/2026-09/20260928-cherry-partner-lovable-legora-mafia-sifted.md)
 - [EP227: Top 9 Places to Use Jev](src/2026-09/20260926-top-9-places-to-use-jev-bytebytego.md)
 - [The Claude Code Projects Playbook: Make Claude Your Chief of Staff](src/2026-09/20260926-claude-code-projects-playbook-linas.md)
 - [What I Got Wrong About Meta's Muse, And The Deeper Threat To Frontier AI](src/2026-09/20260926-what-i-got-wrong-about-metas-muse-big-technology.md)
