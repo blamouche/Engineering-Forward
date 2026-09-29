@@ -25,12 +25,19 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 146<br>
+2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 153<br>
 ## Articles
 
 ### 2026
 
-#### September (146 articles)
+#### September (153 articles)
+- [Nubank's £10B Monzo Bid and the First AI Agent Selloff on Wall Street](src/2026-09/20260928-nubank-monzo-bid-ai-agent-selloff-linas.md)
+- [Your Social Feed Was the First Psychopath. Muse Is Its Progeny.](src/2026-09/20260928-social-feed-psychopath-muse-progeny-coai.md)
+- [How I AI: Jev for Beginners + Opus 5.5 Brought Me Back + Opus 5.5 vs. GPT-6 Sol](src/2026-09/20260928-how-i-ai-jev-opus-5-5-gpt-6-sol-lenny.md)
+- [AI Agents Can Think. Now They Can Pay.](src/2026-09/20260928-ai-agents-can-think-now-they-can-pay-bytebytego.md)
+- [Vibe Check: Sonnet 5.5 Finds Its Place in Claude's Crowded Family](src/2026-09/20260928-sonnet-5-5-finds-its-place-every.md)
+- [Here's Everything OpenAI's Bots (And Others) Have Hacked Or Considered Hacking](src/2026-09/20260928-openai-bots-hacked-everything-big-technology.md)
+- [Monzo Sale Talks Have UK Tech Worried](src/2026-09/20260929-monzo-sale-talks-uk-tech-worried-sifted.md)
 - [Open-Source Jev That Runs on CPU](src/2026-09/20260928-open-source-jev-that-runs-on-cpu-unwind.md)
 - [New Cherry Partner Eyes Lovable and Legora Mafia](src/2026-09/20260928-cherry-partner-lovable-legora-mafia-sifted.md)
 - [EP227: Top 9 Places to Use Jev](src/2026-09/20260926-top-9-places-to-use-jev-bytebytego.md)
