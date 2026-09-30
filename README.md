@@ -25,12 +25,20 @@ P22-12 | █ 2<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
-2026-09 | █████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 153<br>
+2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
 ## Articles
 
 ### 2026
 
-#### September (153 articles)
+#### September (161 articles)
+- [VCs That Could Run the UK Scale-Up Fund](src/2026-09/20260930-vcs-uk-scale-up-fund-sifted.md)
+- [Vibe Check: OpenAI DevDay 2026](src/2026-09/20260929-vibe-check-openai-devday-2026-every.md)
+- [Why Has Shopify Dropped React Native?](src/2026-09/20260929-why-shopify-dropped-react-native-pragmatic-engineer.md)
+- [Why Do LLMs Lie?](src/2026-09/20260929-why-do-llms-lie-bytebytego.md)
+- [All of the Lenny & Friends Summit Talks Are Now Online](src/2026-09/20260929-lenny-friends-summit-talks-online-lenny.md)
+- [Manus Personal Agents with Phones, Wallets, and Computers](src/2026-09/20260929-manus-personal-agents-phones-wallets-computers-unwind.md)
+- [Be Unique. Enable New Behaviors. Higgsfield Is Both and Has a $1B ARR.](src/2026-09/20260929-higgsfield-1b-arr-be-unique-coai.md)
+- [How to Use Claude Opus 5.5: The Complete Guide](src/2026-09/20260929-claude-opus-5-5-complete-guide-linas.md)
 - [Nubank's £10B Monzo Bid and the First AI Agent Selloff on Wall Street](src/2026-09/20260928-nubank-monzo-bid-ai-agent-selloff-linas.md)
 - [Your Social Feed Was the First Psychopath. Muse Is Its Progeny.](src/2026-09/20260928-social-feed-psychopath-muse-progeny-coai.md)
 - [How I AI: Jev for Beginners + Opus 5.5 Brought Me Back + Opus 5.5 vs. GPT-6 Sol](src/2026-09/20260928-how-i-ai-jev-opus-5-5-gpt-6-sol-lenny.md)
