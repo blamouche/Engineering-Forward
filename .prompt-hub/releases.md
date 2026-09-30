@@ -1,3 +1,9 @@
+## 0.0.1612 - 2026-09-30
+- Add substack post: The operating system bet
+
+## 0.0.1611 - 2026-09-28
+- Add substack post: The dissolving boundary
+
 ## 0.0.1610 - 2026-09-27
 - Add substack post: The good enough threshold
 

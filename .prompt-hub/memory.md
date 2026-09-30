@@ -1,4 +1,17 @@
 
+## 2026-09-30 09:00 — Substack post recents
+- Reviewed 15 most recent README articles (September 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "The operating system bet"
+- Central theme: OpenAI's DevDay made the platform play explicit (ChatGPT as the OS for work), while the week's other stories showed what happens when AI changes the tradeoffs underneath your architecture (Shopify's React Native reversal), your moat (Higgsfield's $1B ARR on unique behavior), and your working day (the Lenny Summit's loneliness of agent-mediated work)
+- Previous posts referenced: the-checking-floor, the-dissolving-boundary, the-agents-that-eat-the-walls
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 18 links, 1684 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/the-operating-system-bet
+- Saved to substack/20260930-post-the-operating-system-bet.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1612
+- Chrome cookie decryption: Chrome v130+ on macOS uses v10 prefix (3 bytes) + AES-CBC(SHA256(domain) (32 bytes) + cookie_value). Key = PBKDF2(keychain_password, 'saltysalt', 1003, 16). Keychain password from `security find-generic-password -w -s "Chrome Safe Storage" -a "Chrome"`. Domain hash must match the host_key exactly as stored in the cookies DB (e.g. ".substack.com").
+
 ## 2026-09-27 09:00 — Substack post recents
 - Reviewed 15 most recent README articles (September 2026)
 - Reviewed 5 most recent previous Substack posts to avoid repetition
