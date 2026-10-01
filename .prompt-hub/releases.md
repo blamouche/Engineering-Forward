@@ -1,3 +1,6 @@
+## 0.0.1613 - 2026-10-01
+- Add substack post: After the demo
+
 ## 0.0.1612 - 2026-09-30
 - Add substack post: The operating system bet
 
