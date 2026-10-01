@@ -26,9 +26,17 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
+2026-10 | █ 5<br>
 ## Articles
 
 ### 2026
+
+#### October (5 articles)
+- [ElevenLabs Doubles Valuation to $22bn](src/2026-10/20261001-elevenlabs-doubles-valuation-22bn-sifted.md)
+- [How Sam Altman Uses Dots to Take Back His Time](src/2026-10/20261001-sam-altman-dots-time-every.md)
+- [Distributed Databases with Peter Mattis](src/2026-10/20261001-distributed-databases-peter-mattis-pragmatic-engineer.md)
+- [How DoorDash Built a Toolbox for AI Agents](src/2026-10/20261001-doordash-agent-gateway-ai-tools-bytebytego.md)
+- [The Agentic Bank Run Is Coming for Banking's Cheapest Money](src/2026-10/20261001-agentic-bank-run-anthropic-ipo-linas.md)
 
 #### September (161 articles)
 - [VCs That Could Run the UK Scale-Up Fund](src/2026-09/20260930-vcs-uk-scale-up-fund-sifted.md)
