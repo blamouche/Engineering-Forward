@@ -1,4 +1,17 @@
 
+## 2026-10-01 09:00 — Substack post recents
+- Reviewed 15 most recent README articles (October + September 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "After the demo"
+- Central theme: the week's stories were not about what agents can do but about what people, companies, and banks do because agents exist — Sam Altman restructured his morning around his Dot agent, DoorDash built enterprise-grade access control for agent tool calls, Peter Mattis predicted engineers will stop reviewing code the way they stopped reading assembly, Apollo warned that agents could sweep deposits from low-yield checking accounts, and the Anthropic IPO prospectus revealed compute commitments as the real capital need
+- Previous posts referenced: the-operating-system-bet, the-agents-that-eat-the-walls, the-reporting-line, the-good-enough-threshold
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 19 links, 1836 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/after-the-demo
+- Saved to substack/20261001-post-after-the-demo.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1613
+- Substack login: extracted Chrome cookies from openclaw profile (/Users/openclaw/Library/Application Support/Google/Chrome/openclaw/Cookies), decrypted with PBKDF2(chrome_password, 'saltysalt', 1003, 16) + AES-CBC, injected into Playwright persistent context at /tmp/substack-playwright. Cookies saved to /tmp/substack_cookies.json.
+
 ## 2026-09-30 09:00 — Substack post recents
 - Reviewed 15 most recent README articles (September 2026)
 - Reviewed 5 most recent previous Substack posts to avoid repetition
