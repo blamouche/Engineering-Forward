@@ -1,4 +1,15 @@
 
+## 2026-10-02 09:01 — Substack post recents
+- Reviewed 15 most recent README articles (October + September 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "The craft retires"
+- Central theme: DHH's retirement from professional programming marks the moment the software craft narrowed to judgment, taste, and problem selection — while the PM role transforms, agent liability frameworks form, Robinhood's trading agents go live, and open models carry the majority of production AI traffic
+- Previous posts referenced: the-good-enough-threshold, after-the-demo, the-accountability-gap
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 18 links, 1857 words, no AI slop, no title similarity)
+- Saved to substack/20261002-post-the-craft-retires.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1614
+
 ## 2026-10-01 09:00 — Substack post recents
 - Reviewed 15 most recent README articles (October + September 2026)
 - Reviewed 5 most recent previous Substack posts to avoid repetition

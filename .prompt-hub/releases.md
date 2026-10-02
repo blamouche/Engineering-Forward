@@ -1,3 +1,6 @@
+## 0.0.1614 - 2026-10-02
+- Add substack post: The craft retires
+
 ## 0.0.1613 - 2026-10-01
 - Add substack post: After the demo
 
