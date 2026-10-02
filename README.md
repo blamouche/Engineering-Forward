@@ -26,12 +26,19 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | █ 5<br>
+2026-10 | ████ 12
 ## Articles
 
 ### 2026
 
-#### October (5 articles)
+#### October (12 articles)
+- [Harry Stebbings Rolls Back 996 Comments](src/2026-10/20261002-stebbings-996-europe-sovereignty-sifted.md)
+- [Three Top Executive Recruiters on Where Product Management Is Going](src/2026-10/20261002-pm-executive-recruiters-lenny.md)
+- [DHH Sparks New "Death of Coding by Hand" Debate](src/2026-10/20261002-dhh-death-of-coding-by-hand-pragmatic-engineer.md)
+- [Why State Is the Hardest Thing in Software Design](src/2026-10/20261002-why-state-hardest-software-design-bytebytego.md)
+- [Getting Started With Open Models](src/2026-10/20261002-getting-started-open-models-every.md)
+- [Who Is at Fault for the Behavior of Their Agent?](src/2026-10/20261002-agent-liability-insurance-coai.md)
+- [Robinhood Agents Is Live — Earns From Your Trades, Not the AI](src/2026-10/20261002-robinhood-agents-meta-muse-linas.md)
 - [ElevenLabs Doubles Valuation to $22bn](src/2026-10/20261001-elevenlabs-doubles-valuation-22bn-sifted.md)
 - [How Sam Altman Uses Dots to Take Back His Time](src/2026-10/20261001-sam-altman-dots-time-every.md)
 - [Distributed Databases with Peter Mattis](src/2026-10/20261001-distributed-databases-peter-mattis-pragmatic-engineer.md)
