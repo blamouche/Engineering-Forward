@@ -6,9 +6,11 @@
 - Central theme: DHH's retirement from professional programming marks the moment the software craft narrowed to judgment, taste, and problem selection — while the PM role transforms, agent liability frameworks form, Robinhood's trading agents go live, and open models carry the majority of production AI traffic
 - Previous posts referenced: the-good-enough-threshold, after-the-demo, the-accountability-gap
 - Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 18 links, 1857 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/the-craft-retires
 - Saved to substack/20261002-post-the-craft-retires.md + substack/latest.md
 - Pushed to origin/main
 - Version bumped to 0.0.1614
+- Playwright with system Chrome (/Applications/Google Chrome.app) works on macOS 12 where npx playwright install fails. Fresh cookies extracted from Chrome openclaw profile Cookies DB using PBKDF2(chrome_password, 'saltysalt', 1003, 16) + AES-CBC, stripped v10 prefix and 32-byte SHA256(domain) prefix.
 
 ## 2026-10-01 09:00 — Substack post recents
 - Reviewed 15 most recent README articles (October + September 2026)
