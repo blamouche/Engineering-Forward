@@ -26,12 +26,16 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | ████ 12
+2026-10 | ██████ 16
 ## Articles
 
 ### 2026
 
-#### October (12 articles)
+#### October (16 articles)
+- [How to Get Better at AI by Asking AI](src/2026-10/20261003-better-ai-by-asking-ai-every.md)
+- [Anthropic's IPO and Our Collective Leap of Faith](src/2026-10/20261003-anthropic-ipo-leap-faith-bigtechnology.md)
+- [The No-Win Scenario: How AI Is Blowing Up the Tests We Built for It](src/2026-10/20261003-no-win-scenario-bitter-lesson-coai.md)
+- [Sequoia's Private AI Briefing: AGI Is Already Here](src/2026-10/20261003-sequoia-private-ai-briefing-agi-linas.md)
 - [Harry Stebbings Rolls Back 996 Comments](src/2026-10/20261002-stebbings-996-europe-sovereignty-sifted.md)
 - [Three Top Executive Recruiters on Where Product Management Is Going](src/2026-10/20261002-pm-executive-recruiters-lenny.md)
 - [DHH Sparks New "Death of Coding by Hand" Debate](src/2026-10/20261002-dhh-death-of-coding-by-hand-pragmatic-engineer.md)
