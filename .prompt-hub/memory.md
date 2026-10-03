@@ -10829,3 +10829,16 @@
 - Published via Substack API (draft → set slug → publish)
 - Public URL: https://engineeringforward.substack.com/p/the-approval-economy
 - Outcome: success
+
+## 2026-10-03 09:00 — Substack post recents
+- Reviewed 15 most recent README articles (October 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "Own the judge"
+- Central theme: the benchmarks, scaffolding, and market projections built to manage AI are all breaking because the capability crossed a threshold — Mollick retracting agent management advice, Google's Argon caught benchmaxxing, Anthropic's $518B non-cancellable commitments as systemic risk, Sequoia's private AGI briefing, and the prescription to own an independent checker the model cannot see
+- Previous posts referenced: the-good-enough-threshold, the-craft-retires
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 17 links, 1861 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/own-the-judge
+- Saved to substack/20261003-post-own-the-judge.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1615
+- Playwright publishing: draft was created at /publish/post/218610271, clicked Continue → "Send to everyone now" → "Publish without buttons" → redirected to /publish/posts/detail/218610271/share-center (post live). English UI appeared despite French in instructions ("Send to everyone now" instead of "Envoyer à tous maintenant").

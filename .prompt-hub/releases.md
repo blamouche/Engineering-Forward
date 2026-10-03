@@ -1,3 +1,6 @@
+## 0.0.1615 - 2026-10-03
+- Add substack post: Own the judge
+
 ## 0.0.1614 - 2026-10-02
 - Add substack post: The craft retires
 
