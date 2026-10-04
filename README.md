@@ -26,12 +26,13 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | ██████ 16
+2026-10 | ███████ 17
 ## Articles
 
 ### 2026
 
-#### October (16 articles)
+#### October (17 articles)
+- [Six Techniques for Efficient AI Systems, the Anatomy of an AI Agent, and How to Evaluate AI Apps](src/2026-10/20261004-ai-efficiency-agent-anatomy-evals-bytebytego.md)
 - [How to Get Better at AI by Asking AI](src/2026-10/20261003-better-ai-by-asking-ai-every.md)
 - [Anthropic's IPO and Our Collective Leap of Faith](src/2026-10/20261003-anthropic-ipo-leap-faith-bigtechnology.md)
 - [The No-Win Scenario: How AI Is Blowing Up the Tests We Built for It](src/2026-10/20261003-no-win-scenario-bitter-lesson-coai.md)
