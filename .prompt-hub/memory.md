@@ -1,4 +1,16 @@
 
+## 2026-10-05 09:00 — Substack post recents
+- Reviewed 15 most recent README articles (October 2026)
+- Reviewed 5 most recent previous Substack posts to avoid repetition
+- Wrote Substack post: "The seven percent"
+- Central theme: the gap between AI capability and reliability — 88% of companies use AI but only 7% have scaled it; the bottleneck is integration infrastructure (auth, logging, eval pipelines, audit trails), not model capability; Dan Shipper's buggy but habit-forming Dots experience and Tibo Sottiaux's claim that loops/graphs/fine-tuning are a passing phase frame the tension
+- Previous posts referenced: the-while-loop-at-work, own-the-judge, the-good-enough-threshold, after-the-demo, the-craft-retires
+- Verification checks: all 8 checks passed (file exists, title, subtitle, sources section, 19 links, 1839 words, no AI slop, no title similarity)
+- Published on Substack: https://engineeringforward.substack.com/p/the-seven-percent
+- Saved to substack/20261005-post-the-seven-percent.md + substack/latest.md
+- Pushed to origin/main
+- Version bumped to 0.0.1616
+
 ## 2026-10-02 09:01 — Substack post recents
 - Reviewed 15 most recent README articles (October + September 2026)
 - Reviewed 5 most recent previous Substack posts to avoid repetition

@@ -1,3 +1,6 @@
+## 0.0.1616 - 2026-10-05
+- Add substack post: The seven percent
+
 ## 0.0.1615 - 2026-10-03
 - Add substack post: Own the judge
 
