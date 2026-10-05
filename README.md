@@ -26,12 +26,15 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | ███████ 17
+2026-10 | █████████ 20
 ## Articles
 
 ### 2026
 
-#### October (17 articles)
+#### October (20 articles)
+- [Vibe Check: Dots — Always-on Agents in ChatGPT](src/2026-10/20261005-vibe-check-dots-always-on-agents-chatgpt-every.md)
+- [OpenAI's Head of ChatGPT: We're Entering a New Era of AI (Again)](src/2026-10/20261005-tibo-sottiaux-chatgpt-dots-agents-lenny.md)
+- [Europe's Fastest-Growing Startups: The Sifted 250 and Summit Takeaways](src/2026-10/20261005-sifted-250-fastest-growing-startups-sifted.md)
 - [Six Techniques for Efficient AI Systems, the Anatomy of an AI Agent, and How to Evaluate AI Apps](src/2026-10/20261004-ai-efficiency-agent-anatomy-evals-bytebytego.md)
 - [How to Get Better at AI by Asking AI](src/2026-10/20261003-better-ai-by-asking-ai-every.md)
 - [Anthropic's IPO and Our Collective Leap of Faith](src/2026-10/20261003-anthropic-ipo-leap-faith-bigtechnology.md)
