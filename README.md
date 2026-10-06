@@ -26,12 +26,19 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | █████████ 20
+2026-10 | █████████████ 27
 ## Articles
 
 ### 2026
 
-#### October (20 articles)
+#### October (27 articles)
+- [Is It Illegal to Train Frontier AI in the UK?](src/2026-10/20261006-uk-frontier-ai-law-robco-unicorn-sifted.md)
+- [The Key Anthropic Numbers You Need to Know Ahead of Its IPO](src/2026-10/20261005-anthropic-ipo-key-numbers-bigtechnology.md)
+- [When Trying to Make AI Better Makes It Worse](src/2026-10/20261005-verschlimmbesserung-context-engineering-every.md)
+- [The LLM Blindspot: Why Models Forget What's in the Middle of Your Prompt](src/2026-10/20261005-llm-lost-in-the-middle-blindspot-bytebytego.md)
+- [How I AI: 8 Jev Use Cases, ChatGPT Sites at OpenAI, and Claire's DevDay Recap](src/2026-10/20261005-jev-use-cases-chatgpt-sites-devday-lenny.md)
+- [AI Demand Is Not a Bubble. AI Financing Definitely Is.](src/2026-10/20261005-ai-demand-vs-financing-bubble-coai.md)
+- [Nubank Walks Away from £10B Monzo Deal; OpenAI Is Building a Wallet for Its AI Agents](src/2026-10/20261005-nubank-monzo-openai-wallet-linas.md)
 - [Vibe Check: Dots — Always-on Agents in ChatGPT](src/2026-10/20261005-vibe-check-dots-always-on-agents-chatgpt-every.md)
 - [OpenAI's Head of ChatGPT: We're Entering a New Era of AI (Again)](src/2026-10/20261005-tibo-sottiaux-chatgpt-dots-agents-lenny.md)
 - [Europe's Fastest-Growing Startups: The Sifted 250 and Summit Takeaways](src/2026-10/20261005-sifted-250-fastest-growing-startups-sifted.md)
