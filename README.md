@@ -26,12 +26,18 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | █████████████ 27
+2026-10 | ██████████████████ 33
 ## Articles
 
 ### 2026
 
-#### October (27 articles)
+#### October (33 articles)
+- [Meet the Slush 20U20: SAP Buys TechWolf, Mistral Upgrades, Defence Tech Gets a Reality Check](src/2026-10/20261007-slush-20u20-sap-techwolf-mistral-sifted.md)
+- [The State of the Tech Industry in 2026](src/2026-10/20261006-state-of-tech-industry-2026-pragmatic-engineer.md)
+- [Introducing the Every Agent: AI-Pilling Your Company Through Slack](src/2026-10/20261006-introducing-every-agent-slack-every.md)
+- [Why LLMs Agree With You Even When You're Wrong](src/2026-10/20261006-why-llms-agree-with-you-sycophancy-bytebytego.md)
+- [Agents: Idiots With Credentials — and One Just Emailed 1,500 Scientists](src/2026-10/20261006-agents-idiots-with-credentials-colonistone-coai.md)
+- [a16z's State of Markets 2026: The AI Playbook for Founders and Investors](src/2026-10/20261006-a16z-state-of-markets-2026-ai-playbook-linas.md)
 - [Is It Illegal to Train Frontier AI in the UK?](src/2026-10/20261006-uk-frontier-ai-law-robco-unicorn-sifted.md)
 - [The Key Anthropic Numbers You Need to Know Ahead of Its IPO](src/2026-10/20261005-anthropic-ipo-key-numbers-bigtechnology.md)
 - [When Trying to Make AI Better Makes It Worse](src/2026-10/20261005-verschlimmbesserung-context-engineering-every.md)
