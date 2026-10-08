@@ -26,12 +26,18 @@ P22-12 | █ 2<br>
 2026-07 | █████████████████████████████████ 100<br>
 2026-08 | █████████████████████████████████████ 74<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
-2026-10 | ██████████████████ 33
+2026-10 | ███████████████████████ 39
 ## Articles
 
 ### 2026
 
-#### October (33 articles)
+#### October (39 articles)
+- [Kolibri and Le Chonk Bolster Europe's Sovereign AI Bet](src/2026-10/20261008-kolibri-lechonk-european-sovereign-ai-sifted.md)
+- [Building a More Efficient Agent: Token Waste, Company Agents, and AI-Native Engineering Management](src/2026-10/20261007-building-efficient-agent-token-waste-every.md)
+- [Building Resilient Systems with Sam Newman: Microservices, Cognitive Surrender, and Modular AI Architecture](src/2026-10/20261007-building-resilient-systems-sam-newman-pragmatic-engineer.md)
+- [How Netflix Taught an LLM to Recommend Movies So That You Keep Watching](src/2026-10/20261007-netflix-llm-recommendation-movies-bytebytego.md)
+- [Anthropic at $2T? The Backorder Is the Moat](src/2026-10/20261007-anthropic-2t-backorder-moat-coai.md)
+- [Did AmEx and Perplexity Just Launch an AI CFO for Small Businesses?](src/2026-10/20261007-amex-perplexity-ai-cfo-stripe-parafin-linas.md)
 - [Meet the Slush 20U20: SAP Buys TechWolf, Mistral Upgrades, Defence Tech Gets a Reality Check](src/2026-10/20261007-slush-20u20-sap-techwolf-mistral-sifted.md)
 - [The State of the Tech Industry in 2026](src/2026-10/20261006-state-of-tech-industry-2026-pragmatic-engineer.md)
 - [Introducing the Every Agent: AI-Pilling Your Company Through Slack](src/2026-10/20261006-introducing-every-agent-slack-every.md)
