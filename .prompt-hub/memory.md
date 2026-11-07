@@ -10854,3 +10854,9 @@
 - Pushed to origin/main
 - Version bumped to 0.0.1615
 - Playwright publishing: draft was created at /publish/post/218610271, clicked Continue → "Send to everyone now" → "Publish without buttons" → redirected to /publish/posts/detail/218610271/share-center (post live). English UI appeared despite French in instructions ("Send to everyone now" instead of "Envoyer à tous maintenant").
+## 2026-11-07 09:04:48 CET
+- actor: Codex
+- action: Ran the `scan-list` fallback because `agents/list-agent.md` is absent; rebased the detached worktree onto `origin/main`, removed 21 URLs already synthesized, split one concatenated URL, and added eight source syntheses.
+- files_changed_or_commands: `LIST.md`; eight `src/2026-08/*.md` files; `README.md`; `.prompt-hub/todo/todo-20261107-090448-list-agent.md`; `.prompt-hub/version.md`; `.prompt-hub/releases.md`; `git fetch origin`; `git rebase origin/main`.
+- outcome: success
+- next_step: commit and push the completed scan to `main`.

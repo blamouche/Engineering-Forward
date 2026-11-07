@@ -24,7 +24,7 @@ P22-12 | █ 2<br>
 2026-05 | ████████████████████████████████████████████████████████████ 174<br>
 2026-06 | ██████████████████████████████████████████████████████████████████████████ 157<br>
 2026-07 | █████████████████████████████████ 100<br>
-2026-08 | █████████████████████████████████████ 74<br>
+2026-08 | ████████████████████████████ 82<br>
 2026-09 | ██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████ 161<br>
 2026-10 | ███████████████████████ 39
 ## Articles
@@ -498,7 +498,15 @@ P22-12 | █ 2<br>
 - [Rise of the Cheap Robots: Sub-$10K General-Purpose Robots](src/2026-07/20260702-rise-of-the-cheap-robots-sub-10k-general-purpose.md)
 - [Meta Build for Wearables: Web Apps for Ray-Ban Display](src/2026-07/20260702-meta-build-for-wearables-ray-ban-display-web-apps.md)
 
-#### August (74 articles)
+#### August (82 articles)
+- [Running a Software Factory Efficiently at Uber Scale](src/2026-08/20260827-uber-software-factory-efficiency.md)
+- [A Codex of One's Own](src/2026-08/20260822-codex-of-ones-own.md)
+- [The Best AI Agent Builder Is Trapped Inside Microsoft](src/2026-08/20260821-microsoft-agent-builder.md)
+- [Stop Being Skeptical About AI for Development](src/2026-08/20260820-ai-development-charity-majors.md)
+- [From Chrome DevTools to AI Engineering](src/2026-08/20260819-addy-osmani-devtools-ai-engineering.md)
+- [Securing an Always-On AI Employee](src/2026-08/20260814-securing-always-on-ai-employee-every.md)
+- [A Detailed Guide to API Composition Techniques](src/2026-08/20260813-api-composition-techniques-bytebytego.md)
+- [Building an Open Agentic Internet](src/2026-08/20260806-building-open-agentic-internet-cloudflare.md)
 - [Anthropic's $30T IPO Pitch and Stripe's Clerky Acquisition](src/2026-08/20260827-anthropic-30t-ipo-pitch-stripe-clerky.md)
 - [Nvidia Buys Hugging Face for $12.9B; Anthropic Strikes $45B Compute Deal with Nscale](src/2026-08/20260828-nvidia-buys-hugging-face-anthropic-nscale.md)
 - [Our ChatGPT and OpenClaw Guides Just Got an Overhaul](src/2026-08/20260827-chatgpt-knowledge-work-openclaw-guide.md)

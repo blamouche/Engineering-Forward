@@ -1,3 +1,6 @@
+## 0.0.1617 - 2026-11-07
+- Scan-list fallback for the missing `agents/list-agent.md`: removed 21 already-synthesized URLs, repaired one concatenated URL into two sources, and added eight August 2026 article syntheses.
+
 ## 0.0.1616 - 2026-10-05
 - Add substack post: The seven percent
 
